@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698586,
+          35.645986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.645986,
+        "lon": 139.698586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 489.0,
+        "poi_count": 25,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706586,
+          35.645986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.645986,
+        "lon": 139.706586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 216.1,
+        "poi_count": 24,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700586,
+          35.646986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.646986,
+        "lon": 139.700586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 277.0,
+        "poi_count": 26,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701586,
+          35.646986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.646986,
+        "lon": 139.701586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 201.8,
+        "poi_count": 37,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711586,
+          35.646986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.646986,
+        "lon": 139.711586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 265.7,
+        "poi_count": 24,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699586,
+          35.647986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.647986,
+        "lon": 139.699586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 335.5,
+        "poi_count": 24,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700586,
+          35.647986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.647986,
+        "lon": 139.700586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 245.3,
+        "poi_count": 57,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710586,
+          35.647986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.647986,
+        "lon": 139.710586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 208.4,
+        "poi_count": 51,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711586,
+          35.647986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.647986,
+        "lon": 139.711586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 288.6,
+        "poi_count": 40,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699586,
+          35.648986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.648986,
+        "lon": 139.699586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 347.4,
+        "poi_count": 26,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700586,
+          35.648986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.648986,
+        "lon": 139.700586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 261.4,
+        "poi_count": 54,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708586,
+          35.648986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.648986,
+        "lon": 139.708586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 223.9,
+        "poi_count": 23,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709586,
+          35.648986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.648986,
+        "lon": 139.709586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 239.4,
+        "poi_count": 38,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710586,
+          35.648986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.648986,
+        "lon": 139.710586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 284.3,
+        "poi_count": 38,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711586,
+          35.648986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.648986,
+        "lon": 139.711586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 347.4,
+        "poi_count": 29,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700586,
+          35.649986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.649986,
+        "lon": 139.700586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 318.1,
+        "poi_count": 20,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701586,
+          35.649986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.649986,
+        "lon": 139.701586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 255.3,
+        "poi_count": 26,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703586,
+          35.649986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.649986,
+        "lon": 139.703586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 205.2,
+        "poi_count": 22,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692586,
+          35.654986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.654986,
+        "lon": 139.692586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 260.9,
+        "poi_count": 21,
+        "city": "Tokyo (Shibuya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693586,
+          35.654986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.654986,
+        "lon": 139.693586,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 248.1,
+        "poi_count": 22,
+        "city": "Tokyo (Shibuya)"
+      }
+    }
+  ]
+}

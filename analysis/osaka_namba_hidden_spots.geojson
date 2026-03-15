@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.650686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.650686,
+        "lon": 135.505286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 238.5,
+        "poi_count": 44,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.650686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.650686,
+        "lon": 135.506286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 315.1,
+        "poi_count": 39,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.650686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.650686,
+        "lon": 135.507286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 398.0,
+        "poi_count": 26,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.651686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.651686,
+        "lon": 135.504286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 277.2,
+        "poi_count": 22,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.651686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.651686,
+        "lon": 135.505286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 320.2,
+        "poi_count": 49,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.651686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.651686,
+        "lon": 135.506286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 380.6,
+        "poi_count": 57,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.651686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.651686,
+        "lon": 135.507286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 451.7,
+        "poi_count": 37,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.652686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.652686,
+        "lon": 135.505286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 325.6,
+        "poi_count": 40,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.652686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.652686,
+        "lon": 135.506286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 328.7,
+        "poi_count": 40,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.653686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.653686,
+        "lon": 135.504286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 247.1,
+        "poi_count": 21,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.653686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.653686,
+        "lon": 135.505286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 215.4,
+        "poi_count": 38,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.653686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.653686,
+        "lon": 135.506286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 220.1,
+        "poi_count": 30,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.657686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.657686,
+        "lon": 135.504286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 264.2,
+        "poi_count": 32,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.657686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.657686,
+        "lon": 135.505286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 234.8,
+        "poi_count": 61,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.657686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.657686,
+        "lon": 135.506286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 239.1,
+        "poi_count": 59,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.657686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.657686,
+        "lon": 135.507286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 275.6,
+        "poi_count": 25,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.658686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.658686,
+        "lon": 135.503286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 406.5,
+        "poi_count": 25,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.658686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.658686,
+        "lon": 135.504286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 365.8,
+        "poi_count": 50,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.658686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.658686,
+        "lon": 135.505286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 345.1,
+        "poi_count": 83,
+        "city": "Osaka (Namba)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.658686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.658686,
+        "lon": 135.506286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 348.1,
+        "poi_count": 67,
+        "city": "Osaka (Namba)"
+      }
+    }
+  ]
+}

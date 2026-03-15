@@ -1,0 +1,410 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8980633,
+          35.1614015
+        ]
+      },
+      "properties": {
+        "osm_id": 5408459628,
+        "osm_type": "node",
+        "name": "大須観音",
+        "category": "station",
+        "tags": {
+          "name": "大須観音",
+          "name:en": "Ōsu Kannon",
+          "name:ja": "大須観音",
+          "name:ko": "오스칸논",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp",
+          "wikidata": "Q862936"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8967278,
+          35.1749739
+        ]
+      },
+      "properties": {
+        "osm_id": 5408576833,
+        "osm_type": "node",
+        "name": "丸の内",
+        "category": "station",
+        "tags": {
+          "name": "丸の内",
+          "name:en": "Marunouchi",
+          "name:ja": "丸の内",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8973502,
+          35.1692315
+        ]
+      },
+      "properties": {
+        "osm_id": 5408576834,
+        "osm_type": "node",
+        "name": "伏見",
+        "category": "station",
+        "tags": {
+          "name": "伏見",
+          "name:en": "Fushimi",
+          "name:ja": "伏見",
+          "name:ko": "후시미",
+          "operator": "名古屋市交通局",
+          "operator:website": "https://www.kotsu.city.nagoya.jp",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H09",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp/jp/pc/subway/station_top.html?name=%E4%BC%8F%E8%A6%8B",
+          "wikidata": "Q862368"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9086652,
+          35.1630878
+        ]
+      },
+      "properties": {
+        "osm_id": 5411692799,
+        "osm_type": "node",
+        "name": "矢場町",
+        "category": "station",
+        "tags": {
+          "name": "矢場町",
+          "name:en": "Yabachō",
+          "name:ja": "矢場町",
+          "name:ko": "야바초",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M04",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp",
+          "wheelchair": "no",
+          "wikidata": "Q863884"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.90861,
+          35.1693885
+        ]
+      },
+      "properties": {
+        "osm_id": 5411694358,
+        "osm_type": "node",
+        "name": "栄",
+        "category": "station",
+        "tags": {
+          "level": "-5",
+          "name": "栄",
+          "name:en": "Sakae",
+          "name:ja": "栄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M05",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q862325",
+          "wikipedia": "ja:栄駅 (愛知県)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9055261,
+          35.1816062
+        ]
+      },
+      "properties": {
+        "osm_id": 5413541154,
+        "osm_type": "node",
+        "name": "名古屋城",
+        "category": "station",
+        "tags": {
+          "name": "名古屋城",
+          "name:en": "Nagoyajo",
+          "name:ja": "名古屋城",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M07",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp/jp/pc/subway/station_top.html?name=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9F%8E",
+          "wikidata": "Q842023"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9081505,
+          35.1737594
+        ]
+      },
+      "properties": {
+        "osm_id": 7097097373,
+        "osm_type": "node",
+        "name": "久屋大通",
+        "category": "station",
+        "tags": {
+          "name": "久屋大通",
+          "name:en": "Hisaya-odori",
+          "name:ja": "久屋大通",
+          "name:ja-Latn": "Hisaya-ōdōri",
+          "operator": "名古屋市交通局",
+          "operator:en": "Nagoya City Transportation Bureau",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M06;S05",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp",
+          "wikidata": "Q858944",
+          "wikipedia": "ja:久屋大通駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9162633,
+          35.1741558
+        ]
+      },
+      "properties": {
+        "osm_id": 7783665985,
+        "osm_type": "node",
+        "name": "高岳",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "高岳",
+          "name": "高岳",
+          "name:en": "Takaoka",
+          "name:ja": "高岳",
+          "name:ko": "다카오카",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S06",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp",
+          "wikidata": "Q854707",
+          "wikipedia": "ja:高岳駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8994325,
+          35.1731652
+        ]
+      },
+      "properties": {
+        "osm_id": 7783665986,
+        "osm_type": "node",
+        "name": "丸の内",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "丸の内",
+          "name": "丸の内",
+          "name:en": "Marunouchi",
+          "name:ja": "丸の内",
+          "name:ko": "마루노우치",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S04",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp",
+          "wikidata": "Q854702",
+          "wikipedia": "ja:丸の内駅 (愛知県)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9202202,
+          35.170752
+        ]
+      },
+      "properties": {
+        "osm_id": 7784263287,
+        "osm_type": "node",
+        "name": "新栄町",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "新栄町",
+          "name": "新栄町",
+          "name:en": "Shinsakae-machi",
+          "name:ja": "新栄町",
+          "name:ko": "신사카에마치",
+          "network": "東山線",
+          "operator": "名古屋市交通局",
+          "operator:website": "https://www.kotsu.city.nagoya.jp",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H11",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp/jp/pc/subway/station_top.html?name=%E6%96%B0%E6%A0%84%E7%94%BA",
+          "wikidata": "Q863475",
+          "wikipedia": "ja:新栄町駅 (愛知県)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9088206,
+          35.1699643
+        ]
+      },
+      "properties": {
+        "osm_id": 7784263288,
+        "osm_type": "node",
+        "name": "栄",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "栄",
+          "level": "-3",
+          "name": "栄",
+          "name:en": "Sakae",
+          "name:ja": "栄",
+          "name:ko": "사카에 역",
+          "operator": "名古屋市交通局",
+          "operator:website": "https://www.kotsu.city.nagoya.jp",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H10",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q862325",
+          "wikipedia": "ja:栄駅 (愛知県)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9084681,
+          35.1835055
+        ]
+      },
+      "properties": {
+        "osm_id": 7836237537,
+        "osm_type": "node",
+        "name": "東大手",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "瀬戸線",
+          "KSJ2:STN": "東大手",
+          "light_rail": "yes",
+          "name": "東大手",
+          "name:en": "Higashiōte",
+          "name:ja": "東大手",
+          "name:ko": "히가시오테",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "名古屋鉄道",
+          "operator:en": "Meitetsu",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ST02",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "station": "light_rail",
+          "wikidata": "Q8190779",
+          "wikipedia": "ja:東大手駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9088262,
+          35.1706259
+        ]
+      },
+      "properties": {
+        "osm_id": 7970588962,
+        "osm_type": "node",
+        "name": "栄町",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "瀬戸線",
+          "KSJ2:STN": "栄町",
+          "name": "栄町",
+          "name:en": "Sakaemachi",
+          "name:ja": "栄町",
+          "name:ko": "사카에마치 역",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "名古屋鉄道",
+          "operator:en": "Meitetsu",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "ST01",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wikidata": "Q7402752",
+          "wikipedia": "ja:栄町駅 (愛知県)"
+        }
+      }
+    }
+  ]
+}

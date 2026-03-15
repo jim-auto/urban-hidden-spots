@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.901386,
+          35.157886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.157886,
+        "lon": 136.901386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 494.0,
+        "poi_count": 27,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.900386,
+          35.158886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.158886,
+        "lon": 136.900386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 350.4,
+        "poi_count": 25,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.901386,
+          35.158886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.158886,
+        "lon": 136.901386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 411.7,
+        "poi_count": 48,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.902386,
+          35.158886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.158886,
+        "lon": 136.902386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 482.4,
+        "poi_count": 88,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.900386,
+          35.159886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.159886,
+        "lon": 136.900386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 270.2,
+        "poi_count": 26,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.901386,
+          35.159886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.159886,
+        "lon": 136.901386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 345.9,
+        "poi_count": 46,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.902386,
+          35.159886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.159886,
+        "lon": 136.902386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 427.6,
+        "poi_count": 74,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.905386,
+          35.159886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.159886,
+        "lon": 136.905386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 464.3,
+        "poi_count": 82,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.906386,
+          35.159886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.159886,
+        "lon": 136.906386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 411.9,
+        "poi_count": 40,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.901386,
+          35.160886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.160886,
+        "lon": 136.901386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 307.5,
+        "poi_count": 24,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.902386,
+          35.160886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.160886,
+        "lon": 136.902386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 397.2,
+        "poi_count": 34,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.903386,
+          35.160886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.160886,
+        "lon": 136.903386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 487.3,
+        "poi_count": 50,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.904386,
+          35.160886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.160886,
+        "lon": 136.904386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 459.6,
+        "poi_count": 54,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.905386,
+          35.160886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.160886,
+        "lon": 136.905386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 385.7,
+        "poi_count": 43,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.906386,
+          35.160886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.160886,
+        "lon": 136.906386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 320.7,
+        "poi_count": 28,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.906386,
+          35.162886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.162886,
+        "lon": 136.906386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 208.3,
+        "poi_count": 25,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.911386,
+          35.162886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.162886,
+        "lon": 136.911386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 248.4,
+        "poi_count": 25,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.896386,
+          35.163886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.163886,
+        "lon": 136.896386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 315.6,
+        "poi_count": 27,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.903386,
+          35.163886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.163886,
+        "lon": 136.903386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 488.0,
+        "poi_count": 24,
+        "city": "Nagoya (Sakae)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.904386,
+          35.163886
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.163886,
+        "lon": 136.904386,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 399.0,
+        "poi_count": 22,
+        "city": "Nagoya (Sakae)"
+      }
+    }
+  ]
+}

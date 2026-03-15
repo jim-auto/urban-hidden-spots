@@ -1,0 +1,483 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7017647,
+          35.65808
+        ]
+      },
+      "properties": {
+        "osm_id": 241896099,
+        "osm_type": "node",
+        "name": "渋谷",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=808",
+          "name": "渋谷",
+          "name:en": "Shibuya",
+          "name:es": "Shibuya",
+          "name:fr": "Shibuya",
+          "name:it": "Shibuya",
+          "name:ja": "渋谷",
+          "name:ja-Latn": "Shibuya",
+          "name:ko": "시부야",
+          "name:ru": "Сибуя",
+          "name:th": "ชิบูย่า",
+          "name:zh": "涩谷",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SBY",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q428811",
+          "wikipedia": "ja:渋谷駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7086461,
+          35.6469738
+        ]
+      },
+      "properties": {
+        "osm_id": 262449251,
+        "osm_type": "node",
+        "name": "恵比寿",
+        "category": "station",
+        "tags": {
+          "colour": "gray",
+          "name": "恵比寿",
+          "name:en": "Ebisu",
+          "name:es": "Ebisu",
+          "name:fr": "Ebisu",
+          "name:ja": "恵比寿",
+          "name:ja-Hira": "えびす",
+          "name:ja_rm": "Ebisu",
+          "name:ko": "에비스",
+          "name:ru": "Эбису",
+          "network": "日比谷線",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H02",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q800715",
+          "wikipedia": "ja:恵比寿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6991599,
+          35.6585367
+        ]
+      },
+      "properties": {
+        "osm_id": 3623713008,
+        "osm_type": "node",
+        "name": "渋谷",
+        "category": "station",
+        "tags": {
+          "name": "渋谷",
+          "name:en": "Shibuya",
+          "name:es": "Shibuya",
+          "name:fr": "Shibuya",
+          "name:ja": "渋谷",
+          "name:ja-Hira": "しぶや",
+          "name:ja_rm": "Shibuya",
+          "name:ko": "시부야",
+          "name:ru": "Сибуя",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "京王電鉄",
+          "operator:en": "Keiō railway",
+          "operator:ja": "京王電鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "IN01",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wheelchair": "yes",
+          "wikidata": "Q428811",
+          "wikipedia": "ja:渋谷駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703293,
+          35.648157
+        ]
+      },
+      "properties": {
+        "osm_id": 3656056035,
+        "osm_type": "node",
+        "name": "代官山",
+        "category": "station",
+        "tags": {
+          "name": "代官山",
+          "name:en": "Daikan-yama",
+          "name:es": "Daikan-yama",
+          "name:fr": "Daikanyama",
+          "name:ja": "代官山",
+          "name:ja-Hira": "だいかんやま",
+          "name:ja_rm": "Daikan yama",
+          "name:ko": "다이칸야마",
+          "name:zh": "代官山",
+          "operator": "東京急行電鉄",
+          "railway": "station",
+          "ref": "TY02",
+          "station": "subway",
+          "toilets:wheelchair": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q852326",
+          "wikipedia": "ja:代官山駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7043604,
+          35.6689704
+        ]
+      },
+      "properties": {
+        "osm_id": 3668999960,
+        "osm_type": "node",
+        "name": "明治神宮前〈原宿〉",
+        "category": "station",
+        "tags": {
+          "alt_name:en": "Meiji-jingumae;Harajuku",
+          "alt_name:es": "Meiji-jingumae;Harajuku",
+          "alt_name:ja": "明治神宮前;原宿",
+          "alt_name:ja-Hira": "めいじじんぐうまえ;はらじゅく",
+          "colour": "green",
+          "name": "明治神宮前〈原宿〉",
+          "name:en": "Meiji-jingumae 'Harajuku'",
+          "name:es": "Meiji-jingumae 'Harajuku'",
+          "name:fr": "Meiji-jingumae 'Harajuku'",
+          "name:ja-Hira": "めいじじんぐうまえ〈はらじゅく〉",
+          "name:ja_rm": "Meiji jingūmae Harajuku",
+          "name:ko": "메이지진구마에(하라주쿠)",
+          "name:ru": "Мэйдзи Дзингумаэ (Харадзюку)",
+          "network": "千代田線",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "C03",
+          "source": "Survey",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q80429",
+          "wikipedia": "ja:明治神宮前駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7125432,
+          35.6651609
+        ]
+      },
+      "properties": {
+        "osm_id": 6219132765,
+        "osm_type": "node",
+        "name": "表参道",
+        "category": "station",
+        "tags": {
+          "name": "表参道",
+          "name:en": "Omote-sando",
+          "name:es": "Omote-sando",
+          "name:fr": "Omote-sando",
+          "name:it": "Omote-sando",
+          "name:ja": "表参道",
+          "name:ja-Hira": "おもてさんどう",
+          "name:ja-Latn": "Omote-sandō",
+          "name:ja_rm": "Omote Sandō",
+          "name:ko": "오모테산도",
+          "name:ru": "Омотэсандо",
+          "name:zh": "表参道",
+          "network": "銀座線;千代田線;半蔵門線",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "G02;C04;Z02",
+          "source": "Survey",
+          "station": "subway",
+          "subway": "yes",
+          "transport": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q1326733",
+          "wikipedia": "ja:表参道駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7024447,
+          35.658999
+        ]
+      },
+      "properties": {
+        "osm_id": 6219204314,
+        "osm_type": "node",
+        "name": "渋谷",
+        "category": "station",
+        "tags": {
+          "colour": "orange",
+          "name": "渋谷",
+          "name:en": "Shibuya",
+          "name:es": "Shibuya",
+          "name:ja": "渋谷",
+          "name:ja-Hira": "しぶや",
+          "name:ja-Latn": "Shibuya",
+          "name:ko": "시부야",
+          "name:ru": "Сибуя",
+          "name:zh": "涩谷",
+          "network": "銀座線",
+          "operator": "東京地下鉄",
+          "operator:en": "Tokyo Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "G01",
+          "source": "Knowledge;survey",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.tokyometro.jp/lang_en/station/shibuya/index.html",
+          "wheelchair": "yes",
+          "wikidata": "Q428811",
+          "wikipedia": "ja:渋谷駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7028426,
+          35.6584501
+        ]
+      },
+      "properties": {
+        "osm_id": 6219636719,
+        "osm_type": "node",
+        "name": "渋谷",
+        "category": "station",
+        "tags": {
+          "colour": "brown",
+          "name": "渋谷",
+          "name:en": "Shibuya",
+          "name:es": "Shibuya",
+          "name:fr": "Shibuya",
+          "name:ja": "渋谷",
+          "name:ja-Hira": "しぶや",
+          "name:ja_rm": "Shibuya",
+          "name:ko": "시부야",
+          "name:ru": "Сибуя",
+          "network": "東急電鉄;東京地下鉄",
+          "network:en": "Tokyu Railways;Tokyo Metro",
+          "network:ja": "東急電鉄",
+          "network:wikidata": "Q80229029",
+          "operator": "東急電鉄",
+          "operator:en": "Tokyu Railways",
+          "platforms": "4",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "T01;F16",
+          "source": "KSJ2;Tokyo Metro Co.,Ltd.",
+          "station": "subway",
+          "subway": "yes",
+          "train": "yes",
+          "website": "https://www.tokyometro.jp/lang_en/station/shibuya/index.html",
+          "wheelchair": "yes",
+          "wikidata": "Q428811",
+          "wikipedia": "ja:渋谷駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701972,
+          35.659501
+        ]
+      },
+      "properties": {
+        "osm_id": 6219656544,
+        "osm_type": "node",
+        "name": "渋谷",
+        "category": "station",
+        "tags": {
+          "colour": "purple",
+          "name": "渋谷",
+          "name:en": "Shibuya",
+          "name:es": "Shibuya",
+          "name:fr": "Shibuya",
+          "name:ja": "渋谷",
+          "name:ja-Hira": "しぶや",
+          "name:ja_rm": "Shibuya",
+          "name:ko": "시부야",
+          "name:ru": "Сибуя",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "DT01;Z01",
+          "source": "KSJ2",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q428811",
+          "wikipedia": "ja:渋谷駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705341,
+          35.6684209
+        ]
+      },
+      "properties": {
+        "osm_id": 6277490559,
+        "osm_type": "node",
+        "name": "明治神宮前〈原宿〉",
+        "category": "station",
+        "tags": {
+          "alt_name:en": "Meiji-jingumae;Harajuku",
+          "alt_name:es": "Meiji-jingumae;Harajuku",
+          "alt_name:ja": "明治神宮前;原宿",
+          "alt_name:ja-Hira": "めいじじんぐうまえ;はらじゅく",
+          "colour": "brown",
+          "name": "明治神宮前〈原宿〉",
+          "name:en": "Meiji-jingumae 'Harajuku'",
+          "name:es": "Meiji-jingumae 'Harajuku'",
+          "name:fr": "Meiji-jingumae 'Harajuku'",
+          "name:ja-Hira": "めいじじんぐうまえ〈はらじゅく〉",
+          "name:ja_rm": "Meiji jingūmae Harajuku",
+          "name:ko": "메이지진구마에(하라주쿠)",
+          "name:ru": "Мэйдзи Дзингумаэ (Харадзюку)",
+          "network": "副都心線",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "F15",
+          "source": "Survey",
+          "station": "subway",
+          "subway": "yes",
+          "transport": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q80429",
+          "wikipedia": "ja:明治神宮前駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7024266,
+          35.6702145
+        ]
+      },
+      "properties": {
+        "osm_id": 6806051378,
+        "osm_type": "node",
+        "name": "原宿",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=1256",
+          "name": "原宿",
+          "name:en": "Harajuku",
+          "name:es": "Harajuku",
+          "name:fr": "Harajuku",
+          "name:it": "Harajuku",
+          "name:ja": "原宿",
+          "name:ja-Hira": "はらじゅく",
+          "name:ja-Latn": "Harajuku",
+          "name:ko": "하라주쿠",
+          "name:ru": "Харадзюку",
+          "name:th": "ฮาราจูกุ",
+          "name:zh": "原宿",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JY19",
+          "wheelchair": "limited",
+          "wikidata": "Q800894",
+          "wikipedia": "ja:原宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6934884,
+          35.6572159
+        ]
+      },
+      "properties": {
+        "osm_id": 7892857493,
+        "osm_type": "node",
+        "name": "神泉",
+        "category": "station",
+        "tags": {
+          "name": "神泉",
+          "name:en": "Shinsen",
+          "name:ja": "神泉",
+          "name:ja-Hira": "しんせん",
+          "name:ja_rm": "Shinsen",
+          "name:ko": "신센",
+          "name:ru": "Синсэн",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "京王電鉄",
+          "operator:ja": "京王電鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "IN02",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wikidata": "Q4389637",
+          "wikipedia": "ja:神泉駅"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,988 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4930343,
+          34.6539549
+        ]
+      },
+      "properties": {
+        "osm_id": 267446732,
+        "osm_type": "node",
+        "name": "今宮",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "関西線",
+          "KSJ2:STN": "今宮",
+          "name": "今宮",
+          "name:en": "Imamiya",
+          "name:ja": "今宮",
+          "name:ja-Latn": "Imamiya",
+          "name:ko": "이마미야",
+          "name:zh": "今宫",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "url": "http://www.jr-odekake.net/eki/top.php?id=0620832",
+          "wheelchair": "yes",
+          "wikidata": "Q1131355",
+          "wikipedia": "ja:今宮駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4953257,
+          34.6664853
+        ]
+      },
+      "properties": {
+        "osm_id": 267447385,
+        "osm_type": "node",
+        "name": "JR難波",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "関西線",
+          "KSJ2:STN": "JR難波",
+          "level": "-1",
+          "name": "JR難波",
+          "name:en": "JR Namba",
+          "name:ja": "JR難波",
+          "name:ja-Latn": "JR Nanba",
+          "name:ko": "JR난바",
+          "network": "西日本旅客鉄道関西線",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "西日本旅客鉄道",
+          "operator:en": "West Japan Railway Company",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JR-Q17",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wheelchair": "yes",
+          "wikidata": "Q945659",
+          "wikipedia": "ja:JR難波駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5017751,
+          34.6636625
+        ]
+      },
+      "properties": {
+        "osm_id": 280487841,
+        "osm_type": "node",
+        "name": "難波",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "南海本線",
+          "KSJ2:STN": "難波",
+          "contact:website": "https://www.nankai.co.jp/traffic/station/namba.html",
+          "name": "難波",
+          "name:en": "Namba",
+          "name:es": "Namba",
+          "name:ja": "なんば",
+          "name:ja-Latn": "Nanba",
+          "name:ko": "난바역",
+          "name:zh-Hans": "难波",
+          "name:zh-Hant": "難波",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "南海電気鉄道",
+          "operator:en": "Nankai Electric Railway",
+          "operator:ja": "南海電気鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NK01",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "start_date": "1885-12-29",
+          "train": "yes",
+          "url": "http://www.nankai.co.jp/traffic/station/namba/index.html",
+          "wheelchair": "yes",
+          "wikidata": "Q20079977",
+          "wikipedia": "ja:難波駅 (南海)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5015717,
+          34.6550582
+        ]
+      },
+      "properties": {
+        "osm_id": 3981910288,
+        "osm_type": "node",
+        "name": "今宮戎",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "南海本線",
+          "KSJ2:STN": "今宮戎",
+          "name": "今宮戎",
+          "name:en": "Imaimiyaebisu",
+          "name:ja": "今宮戎",
+          "name:ja_rm": "Imamiyaebisu",
+          "name:ko": "이마미야에비스",
+          "name:zh": "今宫戎",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wikidata": "Q6003186",
+          "wikipedia": "ja:今宮戎駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5002187,
+          34.6501425
+        ]
+      },
+      "properties": {
+        "osm_id": 3981910290,
+        "osm_type": "node",
+        "name": "新今宮",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "南海本線;関西線",
+          "KSJ2:STN": "新今宮",
+          "MLIT": "Japan",
+          "Numerical": "Information",
+          "contact:website": "https://www.nankai.co.jp/traffic/station/shinimamiya.html",
+          "name": "新今宮",
+          "name:en": "Shin-Imaimiya",
+          "name:ja": "新今宮",
+          "name:ja-Latn": "Shin-Imaimiya",
+          "name:ko": "신이마미야",
+          "name:zh": "新今宫",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan;National-Land",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "南海電気鉄道",
+          "operator:en": "Nankai Electric Railway",
+          "operator:wikidata": "Q1188230",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NK03",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "url": "http://www.nankai.co.jp/traffic/station/shinimamiya/index.html;http://www.jr-odekake.net/eki/top.php?id=0620506",
+          "wikidata": "Q59349",
+          "wikipedia": "ja:新今宮駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5062967,
+          34.6753182
+        ]
+      },
+      "properties": {
+        "osm_id": 5409280096,
+        "osm_type": "node",
+        "name": "長堀橋",
+        "category": "station",
+        "tags": {
+          "name": "長堀橋",
+          "name:en": "Nagahoribashi",
+          "name:ja": "長堀橋",
+          "name:ko": "나가호리바시",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q1038083"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5142455,
+          34.6588158
+        ]
+      },
+      "properties": {
+        "osm_id": 5411373018,
+        "osm_type": "node",
+        "name": "四天王寺前夕陽ヶ丘",
+        "category": "station",
+        "tags": {
+          "name": "四天王寺前夕陽ヶ丘",
+          "name:en": "Shitennoji-mae Yuhigaoka",
+          "name:ja": "四天王寺前夕陽ヶ丘",
+          "name:ko": "시텐노지마에유히가오카",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5032542,
+          34.6493423
+        ]
+      },
+      "properties": {
+        "osm_id": 6095353586,
+        "osm_type": "node",
+        "name": "新今宮駅前",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "南霞町",
+          "alt_name:ko": "신이마미야에키마에",
+          "name": "新今宮駅前",
+          "name:en": "Shin-Imamiya-Ekimae",
+          "name:es": "Shin-Imamiya-Ekimae",
+          "name:ja": "新今宮駅前",
+          "name:ja_rm": "Shinnimamiyaekimae",
+          "name:ko": "신이마미야역앞",
+          "name:zh": "新今宫站前",
+          "network": "阪堺線",
+          "operator": "阪堺電気軌道",
+          "public_transport": "station",
+          "railway": "station",
+          "tram": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q11408760",
+          "wikipedia": "ja:新今宮駅前停留場"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4862765,
+          34.6679549
+        ]
+      },
+      "properties": {
+        "osm_id": 6172803483,
+        "osm_type": "node",
+        "name": "汐見橋",
+        "category": "station",
+        "tags": {
+          "name": "汐見橋",
+          "name:en": "Shiomibashi",
+          "name:ja": "汐見橋",
+          "name:ja_rm": "Shiomibashi",
+          "name:ko": "시오미바시",
+          "name:zh": "汐见桥",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "南海電気鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "wikidata": "Q7497881",
+          "wikipedia": "ja:汐見橋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4975972,
+          34.6663318
+        ]
+      },
+      "properties": {
+        "osm_id": 6489055167,
+        "osm_type": "node",
+        "name": "なんば",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://subway.osakametro.co.jp/station_guide/Y/y15/",
+          "int_name": "Namba",
+          "name": "なんば",
+          "name:en": "Namba",
+          "name:es": "Namba",
+          "name:ja": "なんば",
+          "name:ja-Latn": "Namba",
+          "name:ko": "난바",
+          "name:vi": "namba",
+          "name:zh": "難波",
+          "network": "Osaka Metro四つ橋線",
+          "official_name": "難波",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "Y15",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q20080133",
+          "wikipedia": "ja:難波駅 (Osaka Metro)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4977756,
+          34.6671813
+        ]
+      },
+      "properties": {
+        "osm_id": 6631008279,
+        "osm_type": "node",
+        "name": "大阪難波",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "難波線",
+          "KSJ2:RAS": "eb03_1271",
+          "KSJ2:STN": "近鉄難波",
+          "KSJ2:segment": "eb02_2476",
+          "name": "大阪難波",
+          "name:de": "Ōsaka Namba",
+          "name:en": "Ōsaka Namba",
+          "name:ja": "大阪難波",
+          "name:ja-Latn": "Ōsaka Namba",
+          "name:ko": "오사카난바",
+          "name:zh": "大阪難波",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "A01;HS41",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "website": "https://www.kintetsu.co.jp/station/station_info/station01005.html",
+          "wheelchair": "yes",
+          "wikidata": "Q2310134",
+          "wikipedia": "ja:大阪難波駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4891575,
+          34.6586993
+        ]
+      },
+      "properties": {
+        "osm_id": 6821302418,
+        "osm_type": "node",
+        "name": "芦原橋",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "大阪環状線",
+          "KSJ2:STN": "芦原橋",
+          "contact:website": "https://www.jr-odekake.net/eki/top?id=0620507",
+          "name": "芦原橋",
+          "name:en": "Ashiharabashi",
+          "name:ja": "芦原橋",
+          "name:ja-Latn": "Ashiharabashi",
+          "name:ko": "아시하라바시",
+          "name:zh": "芦原桥",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年 国土交通省",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JR-O17",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q1130913",
+          "wikipedia": "ja:芦原橋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4992013,
+          34.6753541
+        ]
+      },
+      "properties": {
+        "osm_id": 7793776927,
+        "osm_type": "node",
+        "name": "心斎橋",
+        "category": "station",
+        "tags": {
+          "int_name": "Shinsaibashi",
+          "name": "心斎橋",
+          "name:en": "Shinsaibashi",
+          "name:ja": "心斎橋",
+          "name:ja_rm": "Shinsai-bashi",
+          "name:ko": "신사이바시",
+          "name:zh": "心斎桥",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "N15",
+          "station": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q1074440",
+          "wikipedia": "ja:心斎橋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4978675,
+          34.6562416
+        ]
+      },
+      "properties": {
+        "osm_id": 7811929022,
+        "osm_type": "node",
+        "name": "大国町",
+        "category": "station",
+        "tags": {
+          "contact:website:御堂筋線": "https://subway.osakametro.co.jp/station_guide/M/m21/",
+          "int_name": "Daikokuchō",
+          "name": "大国町",
+          "name:en": "Daikokucho",
+          "name:ja": "大国町",
+          "name:ja-Latn": "Daikokuchō",
+          "name:ko": "다이코쿠초",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "4",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M21;Y16",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q1052129",
+          "wikipedia": "ja:大国町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500271,
+          34.6661565
+        ]
+      },
+      "properties": {
+        "osm_id": 7811929024,
+        "osm_type": "node",
+        "name": "なんば",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://subway.osakametro.co.jp/station_guide/M/m20/",
+          "int_name": "Namba",
+          "name": "なんば",
+          "name:en": "Namba",
+          "name:es": "Namba",
+          "name:ja": "なんば",
+          "name:ja-Latn": "Namba",
+          "name:ko": "난바",
+          "name:vi": "namba",
+          "name:zh": "難波",
+          "official_name": "難波",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M20",
+          "station": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q20080133",
+          "wikipedia": "ja:難波駅 (大阪市高速電気軌道)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5003566,
+          34.6745173
+        ]
+      },
+      "properties": {
+        "osm_id": 7811945112,
+        "osm_type": "node",
+        "name": "心斎橋",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://subway.osakametro.co.jp/station_guide/M/m19/",
+          "int_name": "Shinsaibashi",
+          "name": "心斎橋",
+          "name:en": "Shinsaibashi",
+          "name:ja": "心斎橋",
+          "name:ja-Latn": "Shinsaibashi",
+          "name:ko": "신사이바시",
+          "name:zh": "心斎桥",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M19",
+          "station": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q1074440",
+          "wikipedia": "ja:心斎橋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4967532,
+          34.6740384
+        ]
+      },
+      "properties": {
+        "osm_id": 7893338377,
+        "osm_type": "node",
+        "name": "四ツ橋",
+        "category": "station",
+        "tags": {
+          "int_name": "Yotsubashi",
+          "name": "四ツ橋",
+          "name:en": "Yotsubashi",
+          "name:ja": "四ツ橋",
+          "name:ja_rm": "Yotsubashi",
+          "name:ko": "요쓰바시",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "operator:ja": "大阪市高速電気軌道",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "Y14",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q291023",
+          "wikipedia": "ja:四ツ橋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5057003,
+          34.6669087
+        ]
+      },
+      "properties": {
+        "osm_id": 7893381696,
+        "osm_type": "node",
+        "name": "近鉄日本橋",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "難波線",
+          "KSJ2:RAS": "eb03_1270",
+          "KSJ2:STN": "近鉄日本橋",
+          "KSJ2:segment": "eb02_2475",
+          "name": "近鉄日本橋",
+          "name:en": "Kintetsu-Nippombashi",
+          "name:ja": "近鉄日本橋",
+          "name:ko": "긴테쓰닛폰바시",
+          "network": "近鉄難波線;近鉄奈良線",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "近畿日本鉄道",
+          "operator:en": "Kintetsu Railway",
+          "operator:ja": "近畿日本鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "A02",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "start_date": "1970",
+          "train": "yes",
+          "website": "https://www.kintetsu.co.jp/station/station_info/station01006.html",
+          "wheelchair": "yes",
+          "wikidata": "Q6414369",
+          "wikipedia": "ja:近鉄日本橋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5061489,
+          34.666718
+        ]
+      },
+      "properties": {
+        "osm_id": 7937883042,
+        "osm_type": "node",
+        "name": "日本橋",
+        "category": "station",
+        "tags": {
+          "name": "日本橋",
+          "name:en": "Nippombashi",
+          "name:ja": "日本橋",
+          "name:ja_rm": "Nippon-bashi",
+          "name:ko": "닛폰바시",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q1040630",
+          "wikipedia": "ja:日本橋駅 (大阪府)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5056642,
+          34.6555982
+        ]
+      },
+      "properties": {
+        "osm_id": 7937883043,
+        "osm_type": "node",
+        "name": "恵美須町",
+        "category": "station",
+        "tags": {
+          "name": "恵美須町",
+          "name:en": "Ebisucho",
+          "name:ja": "恵美須町",
+          "name:ja_rm": "Ebisu-chō",
+          "name:ko": "에비스초",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "K18",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q2066656",
+          "wikipedia": "ja:恵美須町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5064118,
+          34.6671327
+        ]
+      },
+      "properties": {
+        "osm_id": 7940128480,
+        "osm_type": "node",
+        "name": "日本橋",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://subway.osakametro.co.jp/station_guide/S/s17/",
+          "name": "日本橋",
+          "name:en": "Nippombashi",
+          "name:ja": "日本橋",
+          "name:ja-Hira": "にっぽんばし",
+          "name:ja-Latn": "Nipponbashi",
+          "name:ko": "닛폰바시",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S17",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q1040630",
+          "wikipedia": "ja:日本橋駅 (大阪府)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5158385,
+          34.6670853
+        ]
+      },
+      "properties": {
+        "osm_id": 7940147786,
+        "osm_type": "node",
+        "name": "谷町九丁目",
+        "category": "station",
+        "tags": {
+          "int_name": "Tanimachi Kyūchōme",
+          "name": "谷町九丁目",
+          "name:en": "Tanimachi 9-chome",
+          "name:ja": "谷町九丁目",
+          "name:ja_rm": "Tanimachi-kyū-chōme",
+          "name:ko": "다니마치9초메",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "T25",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q1041977",
+          "wikipedia": "ja:谷町九丁目駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5169954,
+          34.6665598
+        ]
+      },
+      "properties": {
+        "osm_id": 7940147787,
+        "osm_type": "node",
+        "name": "谷町九丁目",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://subway.osakametro.co.jp/station_guide/S/s18/",
+          "name": "谷町九丁目",
+          "name:en": "Tanimachi 9-chome",
+          "name:ja": "谷町九丁目",
+          "name:ja-Latn": "Tanimachi Kyūchōme",
+          "name:ko": "다니마치9초메",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S18",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q1041977",
+          "wikipedia": "ja:谷町九丁目駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4902662,
+          34.6683051
+        ]
+      },
+      "properties": {
+        "osm_id": 7940147788,
+        "osm_type": "node",
+        "name": "桜川",
+        "category": "station",
+        "tags": {
+          "name": "桜川",
+          "name:en": "Sakuragawa",
+          "name:ja": "桜川",
+          "name:ja-Latn": "Sakuragawa",
+          "name:ko": "사쿠라가와",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S15",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q126339",
+          "wikipedia": "ja:桜川駅 (大阪府)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502195,
+          34.6498493
+        ]
+      },
+      "properties": {
+        "osm_id": 8003035402,
+        "osm_type": "node",
+        "name": "新今宮",
+        "category": "station",
+        "tags": {
+          "alt_name:en": "Shin-Imamiya",
+          "contact:website": "https://www.jr-odekake.net/eki/top?id=0620506",
+          "name": "新今宮",
+          "name:en": "Shin-Imaimiya",
+          "name:ja": "新今宮",
+          "name:ja-Latn": "Shin-Imaimiya",
+          "name:ko": "신이마미야",
+          "name:zh": "新今宫",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan;National-Land",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4902944,
+          34.6682269
+        ]
+      },
+      "properties": {
+        "osm_id": 8163374070,
+        "osm_type": "node",
+        "name": "桜川",
+        "category": "station",
+        "tags": {
+          "name": "桜川",
+          "name:en": "Sakuragawa",
+          "name:ja": "桜川",
+          "name:ja_rm": "Sakuragawa",
+          "name:ko": "사쿠라가와",
+          "public_transport": "station",
+          "railway": "station",
+          "wheelchair": "yes",
+          "wikidata": "Q126339",
+          "wikipedia": "ja:桜川駅 (大阪府)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4864615,
+          34.6605071
+        ]
+      },
+      "properties": {
+        "osm_id": 8212487216,
+        "osm_type": "node",
+        "name": "芦原町",
+        "category": "station",
+        "tags": {
+          "name": "芦原町",
+          "name:en": "Ashiharacho",
+          "name:ja": "芦原町",
+          "name:ja_rm": "Ashiharacho",
+          "name:ko": "아시하라초",
+          "name:zh": "芦源町",
+          "operator": "南海電気鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "KSJ2",
+          "wikidata": "Q4805066",
+          "wikipedia": "ja:芦原町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4997208,
+          34.667249
+        ]
+      },
+      "properties": {
+        "osm_id": 12731312920,
+        "osm_type": "node",
+        "name": "なんば",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://subway.osakametro.co.jp/station_guide/S/s16/",
+          "name": "なんば",
+          "name:en": "Namba",
+          "name:es": "Namba",
+          "name:ja": "なんば",
+          "name:ja-Latn": "Namba",
+          "name:ko": "난바",
+          "name:vi": "namba",
+          "name:zh": "難波",
+          "official_name": "難波",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S16",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q20080133",
+          "wikipedia": "ja:難波駅 (Osaka Metro)"
+        }
+      }
+    }
+  ]
+}

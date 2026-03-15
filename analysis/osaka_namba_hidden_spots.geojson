@@ -20,7 +20,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 238.5,
         "poi_count": 44,
-        "city": "Osaka (Namba)"
+        "ped_count": 17,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 31,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "串カツ横綱",
+          "餃子の王将",
+          "鶴亀家",
+          "エビス"
+        ]
       }
     },
     {
@@ -42,7 +56,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 315.1,
         "poi_count": 39,
-        "city": "Osaka (Namba)"
+        "ped_count": 18,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 32,
+          "shop": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "串カツ横綱",
+          "餃子の王将",
+          "鶴亀家",
+          "エビス",
+          "串かつだるま"
+        ]
       }
     },
     {
@@ -64,7 +92,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 398.0,
         "poi_count": 26,
-        "city": "Osaka (Namba)"
+        "ped_count": 21,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 21,
+          "cafe": 1,
+          "shop": 4
+        },
+        "nearby_names": [
+          "餃子の王将",
+          "串かつだるま",
+          "夕コ天閣 新世界本店",
+          "あぶらや",
+          "近江屋 本店(ふわふわ串カツ)"
+        ]
       }
     },
     {
@@ -86,7 +128,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 277.2,
         "poi_count": 22,
-        "city": "Osaka (Namba)"
+        "ped_count": 15,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 12,
+          "shop": 7,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "デイリーヤマザキ",
+          "串カツ横綱",
+          "鶴亀家"
+        ]
       }
     },
     {
@@ -108,7 +164,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 320.2,
         "poi_count": 49,
-        "city": "Osaka (Namba)"
+        "ped_count": 24,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 30,
+          "shop": 12,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "デイリーヤマザキ",
+          "串カツ横綱",
+          "餃子の王将"
+        ]
       }
     },
     {
@@ -130,7 +200,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 380.6,
         "poi_count": 57,
-        "city": "Osaka (Namba)"
+        "ped_count": 26,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 36,
+          "shop": 14,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "串カツ横綱",
+          "餃子の王将",
+          "鶴亀家",
+          "エビス"
+        ]
       }
     },
     {
@@ -152,7 +236,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 451.7,
         "poi_count": 37,
-        "city": "Osaka (Namba)"
+        "ped_count": 28,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 26,
+          "shop": 8,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "餃子の王将",
+          "鶴亀家",
+          "エビス",
+          "タワーナイブズ",
+          "串かつだるま"
+        ]
       }
     },
     {
@@ -174,7 +272,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 325.6,
         "poi_count": 40,
-        "city": "Osaka (Namba)"
+        "ped_count": 34,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 18,
+          "shop": 14,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "鶴亀家",
+          "桜苑",
+          "ROKU鮮"
+        ]
       }
     },
     {
@@ -196,7 +308,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 328.7,
         "poi_count": 40,
-        "city": "Osaka (Namba)"
+        "ped_count": 33,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 19,
+          "shop": 13,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "鶴亀家",
+          "桜苑",
+          "ROKU鮮"
+        ]
       }
     },
     {
@@ -218,7 +344,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 247.1,
         "poi_count": 21,
-        "city": "Osaka (Namba)"
+        "ped_count": 32,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 7,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "らーめん亀王",
+          "エビスサイクル",
+          "スーパー玉出"
+        ]
       }
     },
     {
@@ -240,7 +380,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 215.4,
         "poi_count": 38,
-        "city": "Osaka (Namba)"
+        "ped_count": 43,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 17,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "らーめん亀王",
+          "エビスサイクル",
+          "甲州麺",
+          "桜苑"
+        ]
       }
     },
     {
@@ -262,7 +416,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 220.1,
         "poi_count": 30,
-        "city": "Osaka (Namba)"
+        "ped_count": 47,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 12,
+          "shop": 11,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "らーめん亀王",
+          "桜苑",
+          "ROKU鮮",
+          "車屋",
+          "大阪王将"
+        ]
       }
     },
     {
@@ -284,7 +452,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 264.2,
         "poi_count": 32,
-        "city": "Osaka (Namba)"
+        "ped_count": 55,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 18,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "らーめん喜六",
+          "男靴",
+          "どんどん",
+          "塚口勇商店",
+          "山中阿弥陀堂"
+        ]
       }
     },
     {
@@ -306,7 +488,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 234.8,
         "poi_count": 61,
-        "city": "Osaka (Namba)"
+        "ped_count": 87,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 38,
+          "restaurant": 17,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "カンプリ",
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "らーめん喜六",
+          "ゲーム探偵団"
+        ]
       }
     },
     {
@@ -328,7 +524,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 239.1,
         "poi_count": 59,
-        "city": "Osaka (Namba)"
+        "ped_count": 76,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 11,
+          "shop": 43,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "らーめん喜六",
+          "ゲーム探偵団",
+          "男靴"
+        ]
       }
     },
     {
@@ -350,7 +561,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 275.6,
         "poi_count": 25,
-        "city": "Osaka (Namba)"
+        "ped_count": 38,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 17,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "上田無線",
+          "伊豆美",
+          "eイヤホン"
+        ]
       }
     },
     {
@@ -372,7 +598,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 406.5,
         "poi_count": 25,
-        "city": "Osaka (Namba)"
+        "ped_count": 49,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 6,
+          "shop": 13,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "一真道",
+          "いつき商店",
+          "かね一機械工具",
+          "ファンハウス",
+          "気楽屋"
+        ]
       }
     },
     {
@@ -394,7 +634,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 365.8,
         "poi_count": 50,
-        "city": "Osaka (Namba)"
+        "ped_count": 64,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 27,
+          "restaurant": 15,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "Super Kids Land",
+          "一真道",
+          "らーめん喜六",
+          "男靴"
+        ]
       }
     },
     {
@@ -416,7 +670,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 345.1,
         "poi_count": 83,
-        "city": "Osaka (Namba)"
+        "ped_count": 83,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 54,
+          "restaurant": 20,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "Disc J.J.",
+          "Super Kids Land",
+          "PCワンズ",
+          "一真道"
+        ]
       }
     },
     {
@@ -438,7 +706,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 348.1,
         "poi_count": 67,
-        "city": "Osaka (Namba)"
+        "ped_count": 74,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 43,
+          "restaurant": 17,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "Disc J.J.",
+          "Super Kids Land",
+          "PCワンズ",
+          "つるまるうどん"
+        ]
       }
     }
   ]

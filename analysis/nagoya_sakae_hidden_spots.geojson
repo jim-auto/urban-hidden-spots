@@ -20,7 +20,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 494.0,
         "poi_count": 27,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 16,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 20,
+          "restaurant": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "銀のあん",
+          "飲飲13",
+          "イスタンブル",
+          "チチカカ",
+          "Notice"
+        ]
       }
     },
     {
@@ -42,7 +56,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 350.4,
         "poi_count": 25,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 24,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 20,
+          "restaurant": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "大須ういろ",
+          "銀のあん",
+          "飲飲13"
+        ]
       }
     },
     {
@@ -64,7 +92,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 411.7,
         "poi_count": 48,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 32,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 36,
+          "restaurant": 8,
+          "cafe": 1,
+          "park": 3
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "麺や 猿",
+          "大須ういろ",
+          "銀のあん"
+        ]
       }
     },
     {
@@ -86,7 +129,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 482.4,
         "poi_count": 88,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 33,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 69,
+          "restaurant": 13,
+          "cafe": 4,
+          "park": 2
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "麺や 猿",
+          "銀のあん",
+          "大須ベーカリー"
+        ]
       }
     },
     {
@@ -108,7 +166,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 270.2,
         "poi_count": 26,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 20,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 6,
+          "cafe": 3,
+          "park": 2
+        },
+        "nearby_names": [
+          "コメ兵",
+          "fro.nowhere",
+          "IO.",
+          "麺や 猿",
+          "大須ういろ"
+        ]
       }
     },
     {
@@ -130,7 +203,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 345.9,
         "poi_count": 46,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 45,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 31,
+          "restaurant": 7,
+          "cafe": 4,
+          "park": 4
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "麺や 猿",
+          "大須ういろ",
+          "銀のあん"
+        ]
       }
     },
     {
@@ -152,7 +240,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 427.6,
         "poi_count": 74,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 41,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 59,
+          "restaurant": 6,
+          "cafe": 6,
+          "park": 3
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "Panama Boy",
+          "響 オーディオクラブ",
+          "麺や 猿"
+        ]
       }
     },
     {
@@ -174,7 +277,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 464.3,
         "poi_count": 82,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 48,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "shop": 57,
+          "cafe": 5,
+          "restaurant": 19,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ドコモショップ",
+          "ソフトバンク",
+          "高原",
+          "おおもり"
+        ]
       }
     },
     {
@@ -196,7 +314,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 411.9,
         "poi_count": 40,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 79,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "shop": 28,
+          "restaurant": 11,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ドコモショップ",
+          "ソフトバンク",
+          "ロイヤルサウンドプラザ",
+          "三洋堂書店"
+        ]
       }
     },
     {
@@ -218,7 +350,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 307.5,
         "poi_count": 24,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 39,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 6,
+          "restaurant": 3,
+          "park": 3
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "コメダ珈琲店",
+          "麺や 猿",
+          "Cafe Spoon",
+          "Kannon Coffee"
+        ]
       }
     },
     {
@@ -240,7 +387,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 397.2,
         "poi_count": 34,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 35,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 25,
+          "cafe": 6,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "コメダ珈琲店",
+          "Panama Boy",
+          "響 オーディオクラブ",
+          "arne"
+        ]
       }
     },
     {
@@ -262,7 +423,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 487.3,
         "poi_count": 50,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 29,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "cafe": 5,
+          "restaurant": 4,
+          "shop": 40,
+          "park": 1
+        },
+        "nearby_names": [
+          "高原",
+          "おおもり",
+          "タカラ屋",
+          "ハイファイ堂",
+          "Panama Boy"
+        ]
       }
     },
     {
@@ -284,7 +460,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 459.6,
         "poi_count": 54,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 22,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "cafe": 1,
+          "restaurant": 9,
+          "shop": 43,
+          "park": 1
+        },
+        "nearby_names": [
+          "高原",
+          "おおもり",
+          "三洋堂書店",
+          "タカラ屋",
+          "ハイファイ堂"
+        ]
       }
     },
     {
@@ -306,7 +497,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 385.7,
         "poi_count": 43,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 57,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "restaurant": 9,
+          "shop": 32,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "みそかつ矢場とん",
+          "セブン-イレブン",
+          "ドコモショップ",
+          "ソフトバンク",
+          "味仙"
+        ]
       }
     },
     {
@@ -328,7 +534,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 320.7,
         "poi_count": 28,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 86,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 17,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "みそかつ矢場とん",
+          "セブン-イレブン",
+          "ドコモショップ",
+          "ソフトバンク",
+          "味仙"
+        ]
       }
     },
     {
@@ -350,7 +570,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 208.3,
         "poi_count": 25,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 63,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 18,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "みそかつ矢場とん",
+          "チケットステーション",
+          "味仙",
+          "ローソン",
+          "パスタ デ ココ"
+        ]
       }
     },
     {
@@ -372,7 +607,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 248.4,
         "poi_count": 25,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 26,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 5,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "MONA MACHO",
+          "桔梗常",
+          "すえひろ"
+        ]
       }
     },
     {
@@ -394,7 +644,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 315.6,
         "poi_count": 27,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 10,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 10,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "IL GRANO",
+          "はなにしき",
+          "ファミリーマート",
+          "もうもう亭"
+        ]
       }
     },
     {
@@ -416,7 +681,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 488.0,
         "poi_count": 24,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 16,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 5,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "SEANT",
+          "サイクルジョイ",
+          "セブン-イレブン",
+          "クマカフェ",
+          "トラヴィス（メンズ服）"
+        ]
       }
     },
     {
@@ -438,7 +717,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 399.0,
         "poi_count": 22,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 17,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 5,
+          "restaurant": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "SEANT",
+          "サイクルジョイ",
+          "セブン-イレブン",
+          "クマカフェ",
+          "ローソン"
+        ]
       }
     }
   ]

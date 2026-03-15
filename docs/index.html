@@ -62,6 +62,59 @@
       font-weight: 600;
       color: #333;
     }
+    .score-breakdown {
+      margin: 8px 0;
+      border-top: 1px solid #eee;
+      border-bottom: 1px solid #eee;
+      padding: 8px 0;
+    }
+    .score-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin: 3px 0;
+      font-size: 0.78rem;
+    }
+    .score-label {
+      width: 110px;
+      flex-shrink: 0;
+      color: #555;
+    }
+    .score-bar-bg {
+      flex: 1;
+      height: 8px;
+      background: #eee;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .score-bar {
+      height: 100%;
+      border-radius: 4px;
+      transition: width 0.3s;
+    }
+    .score-num {
+      width: 32px;
+      text-align: right;
+      font-weight: 600;
+      font-size: 0.75rem;
+      color: #333;
+    }
+    .nearby-names {
+      margin-top: 6px;
+      font-size: 0.8rem;
+    }
+    .nearby-names span {
+      font-weight: 600;
+      color: #333;
+    }
+    .nearby-names ul {
+      margin: 2px 0 0 16px;
+      padding: 0;
+    }
+    .nearby-names li {
+      font-size: 0.78rem;
+      color: #555;
+    }
     .legend {
       background: white;
       padding: 10px 14px;
@@ -124,17 +177,60 @@
       return Math.max(6, score * 16);
     }
 
+    const CAT_LABELS = {
+      cafe: 'カフェ', restaurant: 'レストラン', shop: 'ショップ',
+      park: '公園', pedestrian_space: '歩行者空間', other: 'その他'
+    };
+
     function createPopup(props) {
+      // POI内訳
+      const breakdown = props.poi_breakdown || {};
+      const breakdownHtml = Object.entries(breakdown)
+        .sort((a, b) => b[1] - a[1])
+        .map(([cat, cnt]) => `${CAT_LABELS[cat] || cat}: ${cnt}`)
+        .join(', ');
+
+      // 近くの店名
+      const names = props.nearby_names || [];
+      const namesHtml = names.length
+        ? names.map(n => `<li>${n}</li>`).join('')
+        : '<li style="color:#999">（名前なし）</li>';
+
+      // スコア内訳バー
+      const pd = props.poi_density, ps = props.pedestrian_space, sd = props.station_distance_score;
+
       return `
         <div class="score-popup">
           <h3>${props.city}</h3>
           <div class="score-value">${props.hidden_score.toFixed(2)}</div>
+
+          <div class="score-breakdown">
+            <div class="score-row">
+              <span class="score-label">POI密度 (×0.4)</span>
+              <div class="score-bar-bg"><div class="score-bar" style="width:${pd*100}%;background:#ff9800"></div></div>
+              <span class="score-num">${(pd*0.4).toFixed(2)}</span>
+            </div>
+            <div class="score-row">
+              <span class="score-label">歩行者空間 (×0.4)</span>
+              <div class="score-bar-bg"><div class="score-bar" style="width:${ps*100}%;background:#4caf50"></div></div>
+              <span class="score-num">${(ps*0.4).toFixed(2)}</span>
+            </div>
+            <div class="score-row">
+              <span class="score-label">駅距離 (×0.2)</span>
+              <div class="score-bar-bg"><div class="score-bar" style="width:${sd*100}%;background:#2196f3"></div></div>
+              <span class="score-num">${(sd*0.2).toFixed(2)}</span>
+            </div>
+          </div>
+
           <div class="detail">
-            <span>POI Density:</span> ${(props.poi_density * 100).toFixed(0)}%<br>
-            <span>Pedestrian Space:</span> ${(props.pedestrian_space * 100).toFixed(0)}%<br>
-            <span>Station Distance:</span> ${props.station_distance_m.toFixed(0)}m<br>
-            <span>Station Score:</span> ${(props.station_distance_score * 100).toFixed(0)}%<br>
-            <span>POI Count:</span> ${props.poi_count}
+            <span>最寄り駅:</span> ${props.nearest_station || '不明'} (${props.station_distance_m.toFixed(0)}m)<br>
+            <span>周辺POI (${props.poi_count}件):</span> ${breakdownHtml}<br>
+            <span>歩行者空間:</span> ${props.ped_count || 0}件
+          </div>
+
+          <div class="nearby-names">
+            <span>近くのスポット:</span>
+            <ul>${namesHtml}</ul>
           </div>
         </div>
       `;

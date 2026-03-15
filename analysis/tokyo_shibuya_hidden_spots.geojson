@@ -20,7 +20,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 489.0,
         "poi_count": 25,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 31,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 11,
+          "restaurant": 10
+        },
+        "nearby_names": [
+          "上島珈琲店",
+          "スターバックス",
+          "東急ストア",
+          "KARAKATTA",
+          "Re・Ra・Ka"
+        ]
       }
     },
     {
@@ -42,7 +56,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 216.1,
         "poi_count": 24,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 25,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 5,
+          "restaurant": 16,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ナチュラルローソン",
+          "ローソン",
+          "セブン-イレブン",
+          "Verita",
+          "恵比寿 47 kitchen"
+        ]
       }
     },
     {
@@ -64,7 +92,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 277.0,
         "poi_count": 26,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 26,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 4,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "KARTE",
+          "Via Bus Stop",
+          "Via bus stop",
+          "5351",
+          "HOLLYWOOD RANCH MARKET"
+        ]
       }
     },
     {
@@ -86,7 +128,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 201.8,
         "poi_count": 37,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 26,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "shop": 24,
+          "restaurant": 9,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "Via Bus Stop",
+          "Via bus stop",
+          "5351",
+          "HOLLYWOOD RANCH MARKET",
+          "メゾン・イチ 代官山"
+        ]
       }
     },
     {
@@ -108,7 +164,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 265.7,
         "poi_count": 24,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 13,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 6,
+          "restaurant": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "The Alley Lujiaoxiang",
+          "八兵衛",
+          "glo express",
+          "猿田彦珈琲"
+        ]
       }
     },
     {
@@ -130,7 +201,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 335.5,
         "poi_count": 24,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 33,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "restaurant": 2,
+          "cafe": 6,
+          "shop": 16
+        },
+        "nearby_names": [
+          "IVY PLACE",
+          "スターバックス",
+          "Motovelo",
+          "蔦屋書店",
+          "Via bus stop"
+        ]
       }
     },
     {
@@ -152,7 +237,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 245.3,
         "poi_count": 57,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 41,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "cafe": 8,
+          "shop": 42,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "スターバックス",
+          "Motovelo",
+          "蔦屋書店",
+          "メゾン ichi",
+          "Via Bus Stop"
+        ]
       }
     },
     {
@@ -174,7 +273,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 208.4,
         "poi_count": 51,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 44,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 20,
+          "cafe": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "ローソン",
+          "YOSHIHARA",
+          "えびす飯店"
+        ]
       }
     },
     {
@@ -196,7 +310,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 288.6,
         "poi_count": 40,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 25,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 17,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "YOSHIHARA",
+          "えびす飯店",
+          "セブン-イレブン",
+          "The Alley Lujiaoxiang"
+        ]
       }
     },
     {
@@ -218,7 +347,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 347.4,
         "poi_count": 26,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 42,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "cafe": 5,
+          "shop": 16
+        },
+        "nearby_names": [
+          "IVY PLACE",
+          "スターバックス",
+          "Motovelo",
+          "蔦屋書店",
+          "シェリュイ"
+        ]
       }
     },
     {
@@ -240,7 +383,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 261.4,
         "poi_count": 54,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 46,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "cafe": 8,
+          "shop": 37,
+          "park": 1
+        },
+        "nearby_names": [
+          "IVY PLACE",
+          "スターバックス",
+          "Motovelo",
+          "蔦屋書店",
+          "メゾン ichi"
+        ]
       }
     },
     {
@@ -262,7 +420,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 223.9,
         "poi_count": 23,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 30,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 13,
+          "restaurant": 7,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "peacock",
+          "ファミリーマート",
+          "ローソン",
+          "ファミリーマート",
+          "ソフトバンクショップ"
+        ]
       }
     },
     {
@@ -284,7 +457,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 239.4,
         "poi_count": 38,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 36,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 16,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "peacock",
+          "ファミリーマート",
+          "ローソン",
+          "ファミリーマート",
+          "YOSHIHARA"
+        ]
       }
     },
     {
@@ -306,7 +494,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 284.3,
         "poi_count": 38,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 27,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 19,
+          "cafe": 5,
+          "park": 2
+        },
+        "nearby_names": [
+          "ローソン",
+          "ローソン",
+          "YOSHIHARA",
+          "えびす飯店",
+          "セブン-イレブン"
+        ]
       }
     },
     {
@@ -328,7 +531,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 347.4,
         "poi_count": 29,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 24,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 19,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "YOSHIHARA",
+          "えびす飯店",
+          "セブン-イレブン",
+          "五右衛門"
+        ]
       }
     },
     {
@@ -350,7 +568,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 318.1,
         "poi_count": 20,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 29,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "restaurant": 4,
+          "cafe": 2,
+          "shop": 13,
+          "park": 1
+        },
+        "nearby_names": [
+          "IVY PLACE",
+          "スターバックス",
+          "Motovelo",
+          "シェリュイ",
+          "Okura"
+        ]
       }
     },
     {
@@ -372,7 +605,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 255.3,
         "poi_count": 26,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 24,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 4,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "Motovelo",
+          "シェリュイ",
+          "Okura",
+          "Okura",
+          "Plural"
+        ]
       }
     },
     {
@@ -394,7 +642,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 205.2,
         "poi_count": 22,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 23,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "shop": 13,
+          "cafe": 7,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "BULB",
+          "Belveder",
+          "F.i.n.t",
+          "GUITAR TRADER"
+        ]
       }
     },
     {
@@ -416,7 +678,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 260.9,
         "poi_count": 21,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 28,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "神泉",
+        "poi_breakdown": {
+          "shop": 5,
+          "restaurant": 15,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ナチュラルローソン",
+          "三百屋",
+          "たもいやんせ",
+          "喜道庵"
+        ]
       }
     },
     {
@@ -438,7 +714,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 248.1,
         "poi_count": 22,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 30,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "神泉",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 5,
+          "restaurant": 15,
+          "park": 1
+        },
+        "nearby_names": [
+          "MORIVA COFFEE",
+          "ナチュラルローソン",
+          "セブン-イレブン",
+          "三百屋",
+          "たもいやんせ"
+        ]
       }
     }
   ]

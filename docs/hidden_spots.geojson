@@ -20,7 +20,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 489.0,
         "poi_count": 25,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 31,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 11,
+          "restaurant": 10
+        },
+        "nearby_names": [
+          "上島珈琲店",
+          "スターバックス",
+          "東急ストア",
+          "KARAKATTA",
+          "Re・Ra・Ka"
+        ]
       }
     },
     {
@@ -42,7 +56,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 216.1,
         "poi_count": 24,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 25,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 5,
+          "restaurant": 16,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ナチュラルローソン",
+          "ローソン",
+          "セブン-イレブン",
+          "Verita",
+          "恵比寿 47 kitchen"
+        ]
       }
     },
     {
@@ -64,7 +92,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 277.0,
         "poi_count": 26,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 26,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 4,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "KARTE",
+          "Via Bus Stop",
+          "Via bus stop",
+          "5351",
+          "HOLLYWOOD RANCH MARKET"
+        ]
       }
     },
     {
@@ -86,7 +128,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 201.8,
         "poi_count": 37,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 26,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "shop": 24,
+          "restaurant": 9,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "Via Bus Stop",
+          "Via bus stop",
+          "5351",
+          "HOLLYWOOD RANCH MARKET",
+          "メゾン・イチ 代官山"
+        ]
       }
     },
     {
@@ -108,7 +164,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 265.7,
         "poi_count": 24,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 13,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 6,
+          "restaurant": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "The Alley Lujiaoxiang",
+          "八兵衛",
+          "glo express",
+          "猿田彦珈琲"
+        ]
       }
     },
     {
@@ -130,7 +201,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 335.5,
         "poi_count": 24,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 33,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "restaurant": 2,
+          "cafe": 6,
+          "shop": 16
+        },
+        "nearby_names": [
+          "IVY PLACE",
+          "スターバックス",
+          "Motovelo",
+          "蔦屋書店",
+          "Via bus stop"
+        ]
       }
     },
     {
@@ -152,7 +237,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 245.3,
         "poi_count": 57,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 41,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "cafe": 8,
+          "shop": 42,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "スターバックス",
+          "Motovelo",
+          "蔦屋書店",
+          "メゾン ichi",
+          "Via Bus Stop"
+        ]
       }
     },
     {
@@ -174,7 +273,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 208.4,
         "poi_count": 51,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 44,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 20,
+          "cafe": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "ローソン",
+          "YOSHIHARA",
+          "えびす飯店"
+        ]
       }
     },
     {
@@ -196,7 +310,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 288.6,
         "poi_count": 40,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 25,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 17,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "YOSHIHARA",
+          "えびす飯店",
+          "セブン-イレブン",
+          "The Alley Lujiaoxiang"
+        ]
       }
     },
     {
@@ -218,7 +347,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 347.4,
         "poi_count": 26,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 42,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "cafe": 5,
+          "shop": 16
+        },
+        "nearby_names": [
+          "IVY PLACE",
+          "スターバックス",
+          "Motovelo",
+          "蔦屋書店",
+          "シェリュイ"
+        ]
       }
     },
     {
@@ -240,7 +383,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 261.4,
         "poi_count": 54,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 46,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "cafe": 8,
+          "shop": 37,
+          "park": 1
+        },
+        "nearby_names": [
+          "IVY PLACE",
+          "スターバックス",
+          "Motovelo",
+          "蔦屋書店",
+          "メゾン ichi"
+        ]
       }
     },
     {
@@ -262,7 +420,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 223.9,
         "poi_count": 23,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 30,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 13,
+          "restaurant": 7,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "peacock",
+          "ファミリーマート",
+          "ローソン",
+          "ファミリーマート",
+          "ソフトバンクショップ"
+        ]
       }
     },
     {
@@ -284,7 +457,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 239.4,
         "poi_count": 38,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 36,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 16,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "peacock",
+          "ファミリーマート",
+          "ローソン",
+          "ファミリーマート",
+          "YOSHIHARA"
+        ]
       }
     },
     {
@@ -306,7 +494,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 284.3,
         "poi_count": 38,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 27,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 19,
+          "cafe": 5,
+          "park": 2
+        },
+        "nearby_names": [
+          "ローソン",
+          "ローソン",
+          "YOSHIHARA",
+          "えびす飯店",
+          "セブン-イレブン"
+        ]
       }
     },
     {
@@ -328,7 +531,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 347.4,
         "poi_count": 29,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 24,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "恵比寿",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 19,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "YOSHIHARA",
+          "えびす飯店",
+          "セブン-イレブン",
+          "五右衛門"
+        ]
       }
     },
     {
@@ -350,7 +568,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 318.1,
         "poi_count": 20,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 29,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "restaurant": 4,
+          "cafe": 2,
+          "shop": 13,
+          "park": 1
+        },
+        "nearby_names": [
+          "IVY PLACE",
+          "スターバックス",
+          "Motovelo",
+          "シェリュイ",
+          "Okura"
+        ]
       }
     },
     {
@@ -372,7 +605,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 255.3,
         "poi_count": 26,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 24,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 4,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "Motovelo",
+          "シェリュイ",
+          "Okura",
+          "Okura",
+          "Plural"
+        ]
       }
     },
     {
@@ -394,7 +642,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 205.2,
         "poi_count": 22,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 23,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "shop": 13,
+          "cafe": 7,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "BULB",
+          "Belveder",
+          "F.i.n.t",
+          "GUITAR TRADER"
+        ]
       }
     },
     {
@@ -416,7 +678,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 260.9,
         "poi_count": 21,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 28,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "神泉",
+        "poi_breakdown": {
+          "shop": 5,
+          "restaurant": 15,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ナチュラルローソン",
+          "三百屋",
+          "たもいやんせ",
+          "喜道庵"
+        ]
       }
     },
     {
@@ -438,7 +714,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 248.1,
         "poi_count": 22,
-        "city": "Tokyo (Shibuya)"
+        "ped_count": 30,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "神泉",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 5,
+          "restaurant": 15,
+          "park": 1
+        },
+        "nearby_names": [
+          "MORIVA COFFEE",
+          "ナチュラルローソン",
+          "セブン-イレブン",
+          "三百屋",
+          "たもいやんせ"
+        ]
       }
     },
     {
@@ -460,7 +751,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 238.5,
         "poi_count": 44,
-        "city": "Osaka (Namba)"
+        "ped_count": 17,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 31,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "串カツ横綱",
+          "餃子の王将",
+          "鶴亀家",
+          "エビス"
+        ]
       }
     },
     {
@@ -482,7 +787,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 315.1,
         "poi_count": 39,
-        "city": "Osaka (Namba)"
+        "ped_count": 18,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 32,
+          "shop": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "串カツ横綱",
+          "餃子の王将",
+          "鶴亀家",
+          "エビス",
+          "串かつだるま"
+        ]
       }
     },
     {
@@ -504,7 +823,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 398.0,
         "poi_count": 26,
-        "city": "Osaka (Namba)"
+        "ped_count": 21,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 21,
+          "cafe": 1,
+          "shop": 4
+        },
+        "nearby_names": [
+          "餃子の王将",
+          "串かつだるま",
+          "夕コ天閣 新世界本店",
+          "あぶらや",
+          "近江屋 本店(ふわふわ串カツ)"
+        ]
       }
     },
     {
@@ -526,7 +859,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 277.2,
         "poi_count": 22,
-        "city": "Osaka (Namba)"
+        "ped_count": 15,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 12,
+          "shop": 7,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "デイリーヤマザキ",
+          "串カツ横綱",
+          "鶴亀家"
+        ]
       }
     },
     {
@@ -548,7 +895,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 320.2,
         "poi_count": 49,
-        "city": "Osaka (Namba)"
+        "ped_count": 24,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 30,
+          "shop": 12,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "デイリーヤマザキ",
+          "串カツ横綱",
+          "餃子の王将"
+        ]
       }
     },
     {
@@ -570,7 +931,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 380.6,
         "poi_count": 57,
-        "city": "Osaka (Namba)"
+        "ped_count": 26,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 36,
+          "shop": 14,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "串カツ横綱",
+          "餃子の王将",
+          "鶴亀家",
+          "エビス"
+        ]
       }
     },
     {
@@ -592,7 +967,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 451.7,
         "poi_count": 37,
-        "city": "Osaka (Namba)"
+        "ped_count": 28,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 26,
+          "shop": 8,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "餃子の王将",
+          "鶴亀家",
+          "エビス",
+          "タワーナイブズ",
+          "串かつだるま"
+        ]
       }
     },
     {
@@ -614,7 +1003,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 325.6,
         "poi_count": 40,
-        "city": "Osaka (Namba)"
+        "ped_count": 34,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 18,
+          "shop": 14,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "鶴亀家",
+          "桜苑",
+          "ROKU鮮"
+        ]
       }
     },
     {
@@ -636,7 +1039,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 328.7,
         "poi_count": 40,
-        "city": "Osaka (Namba)"
+        "ped_count": 33,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 19,
+          "shop": 13,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "鶴亀家",
+          "桜苑",
+          "ROKU鮮"
+        ]
       }
     },
     {
@@ -658,7 +1075,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 247.1,
         "poi_count": 21,
-        "city": "Osaka (Namba)"
+        "ped_count": 32,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 7,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "らーめん亀王",
+          "エビスサイクル",
+          "スーパー玉出"
+        ]
       }
     },
     {
@@ -680,7 +1111,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 215.4,
         "poi_count": 38,
-        "city": "Osaka (Namba)"
+        "ped_count": 43,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 17,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "らーめん亀王",
+          "エビスサイクル",
+          "甲州麺",
+          "桜苑"
+        ]
       }
     },
     {
@@ -702,7 +1147,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 220.1,
         "poi_count": 30,
-        "city": "Osaka (Namba)"
+        "ped_count": 47,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 12,
+          "shop": 11,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "らーめん亀王",
+          "桜苑",
+          "ROKU鮮",
+          "車屋",
+          "大阪王将"
+        ]
       }
     },
     {
@@ -724,7 +1183,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 264.2,
         "poi_count": 32,
-        "city": "Osaka (Namba)"
+        "ped_count": 55,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 18,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "らーめん喜六",
+          "男靴",
+          "どんどん",
+          "塚口勇商店",
+          "山中阿弥陀堂"
+        ]
       }
     },
     {
@@ -746,7 +1219,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 234.8,
         "poi_count": 61,
-        "city": "Osaka (Namba)"
+        "ped_count": 87,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 38,
+          "restaurant": 17,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "カンプリ",
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "らーめん喜六",
+          "ゲーム探偵団"
+        ]
       }
     },
     {
@@ -768,7 +1255,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 239.1,
         "poi_count": 59,
-        "city": "Osaka (Namba)"
+        "ped_count": 76,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 11,
+          "shop": 43,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "らーめん喜六",
+          "ゲーム探偵団",
+          "男靴"
+        ]
       }
     },
     {
@@ -790,7 +1292,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 275.6,
         "poi_count": 25,
-        "city": "Osaka (Namba)"
+        "ped_count": 38,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 17,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "上田無線",
+          "伊豆美",
+          "eイヤホン"
+        ]
       }
     },
     {
@@ -812,7 +1329,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 406.5,
         "poi_count": 25,
-        "city": "Osaka (Namba)"
+        "ped_count": 49,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 6,
+          "shop": 13,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "一真道",
+          "いつき商店",
+          "かね一機械工具",
+          "ファンハウス",
+          "気楽屋"
+        ]
       }
     },
     {
@@ -834,7 +1365,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 365.8,
         "poi_count": 50,
-        "city": "Osaka (Namba)"
+        "ped_count": 64,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 27,
+          "restaurant": 15,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "Super Kids Land",
+          "一真道",
+          "らーめん喜六",
+          "男靴"
+        ]
       }
     },
     {
@@ -856,7 +1401,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 345.1,
         "poi_count": 83,
-        "city": "Osaka (Namba)"
+        "ped_count": 83,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 54,
+          "restaurant": 20,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "Disc J.J.",
+          "Super Kids Land",
+          "PCワンズ",
+          "一真道"
+        ]
       }
     },
     {
@@ -878,7 +1437,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 348.1,
         "poi_count": 67,
-        "city": "Osaka (Namba)"
+        "ped_count": 74,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 43,
+          "restaurant": 17,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "Disc J.J.",
+          "Super Kids Land",
+          "PCワンズ",
+          "つるまるうどん"
+        ]
       }
     },
     {
@@ -900,7 +1474,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 494.0,
         "poi_count": 27,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 16,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 20,
+          "restaurant": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "銀のあん",
+          "飲飲13",
+          "イスタンブル",
+          "チチカカ",
+          "Notice"
+        ]
       }
     },
     {
@@ -922,7 +1510,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 350.4,
         "poi_count": 25,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 24,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 20,
+          "restaurant": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "大須ういろ",
+          "銀のあん",
+          "飲飲13"
+        ]
       }
     },
     {
@@ -944,7 +1546,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 411.7,
         "poi_count": 48,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 32,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 36,
+          "restaurant": 8,
+          "cafe": 1,
+          "park": 3
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "麺や 猿",
+          "大須ういろ",
+          "銀のあん"
+        ]
       }
     },
     {
@@ -966,7 +1583,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 482.4,
         "poi_count": 88,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 33,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 69,
+          "restaurant": 13,
+          "cafe": 4,
+          "park": 2
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "麺や 猿",
+          "銀のあん",
+          "大須ベーカリー"
+        ]
       }
     },
     {
@@ -988,7 +1620,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 270.2,
         "poi_count": 26,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 20,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 6,
+          "cafe": 3,
+          "park": 2
+        },
+        "nearby_names": [
+          "コメ兵",
+          "fro.nowhere",
+          "IO.",
+          "麺や 猿",
+          "大須ういろ"
+        ]
       }
     },
     {
@@ -1010,7 +1657,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 345.9,
         "poi_count": 46,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 45,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 31,
+          "restaurant": 7,
+          "cafe": 4,
+          "park": 4
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "麺や 猿",
+          "大須ういろ",
+          "銀のあん"
+        ]
       }
     },
     {
@@ -1032,7 +1694,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 427.6,
         "poi_count": 74,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 41,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 59,
+          "restaurant": 6,
+          "cafe": 6,
+          "park": 3
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "Panama Boy",
+          "響 オーディオクラブ",
+          "麺や 猿"
+        ]
       }
     },
     {
@@ -1054,7 +1731,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 464.3,
         "poi_count": 82,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 48,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "shop": 57,
+          "cafe": 5,
+          "restaurant": 19,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ドコモショップ",
+          "ソフトバンク",
+          "高原",
+          "おおもり"
+        ]
       }
     },
     {
@@ -1076,7 +1768,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 411.9,
         "poi_count": 40,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 79,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "shop": 28,
+          "restaurant": 11,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ドコモショップ",
+          "ソフトバンク",
+          "ロイヤルサウンドプラザ",
+          "三洋堂書店"
+        ]
       }
     },
     {
@@ -1098,7 +1804,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 307.5,
         "poi_count": 24,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 39,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 6,
+          "restaurant": 3,
+          "park": 3
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "コメダ珈琲店",
+          "麺や 猿",
+          "Cafe Spoon",
+          "Kannon Coffee"
+        ]
       }
     },
     {
@@ -1120,7 +1841,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 397.2,
         "poi_count": 34,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 35,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 25,
+          "cafe": 6,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "コメダ珈琲店",
+          "Panama Boy",
+          "響 オーディオクラブ",
+          "arne"
+        ]
       }
     },
     {
@@ -1142,7 +1877,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 487.3,
         "poi_count": 50,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 29,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "cafe": 5,
+          "restaurant": 4,
+          "shop": 40,
+          "park": 1
+        },
+        "nearby_names": [
+          "高原",
+          "おおもり",
+          "タカラ屋",
+          "ハイファイ堂",
+          "Panama Boy"
+        ]
       }
     },
     {
@@ -1164,7 +1914,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 459.6,
         "poi_count": 54,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 22,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "cafe": 1,
+          "restaurant": 9,
+          "shop": 43,
+          "park": 1
+        },
+        "nearby_names": [
+          "高原",
+          "おおもり",
+          "三洋堂書店",
+          "タカラ屋",
+          "ハイファイ堂"
+        ]
       }
     },
     {
@@ -1186,7 +1951,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 385.7,
         "poi_count": 43,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 57,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "restaurant": 9,
+          "shop": 32,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "みそかつ矢場とん",
+          "セブン-イレブン",
+          "ドコモショップ",
+          "ソフトバンク",
+          "味仙"
+        ]
       }
     },
     {
@@ -1208,7 +1988,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 320.7,
         "poi_count": 28,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 86,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 17,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "みそかつ矢場とん",
+          "セブン-イレブン",
+          "ドコモショップ",
+          "ソフトバンク",
+          "味仙"
+        ]
       }
     },
     {
@@ -1230,7 +2024,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 208.3,
         "poi_count": 25,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 63,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 18,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "みそかつ矢場とん",
+          "チケットステーション",
+          "味仙",
+          "ローソン",
+          "パスタ デ ココ"
+        ]
       }
     },
     {
@@ -1252,7 +2061,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 248.4,
         "poi_count": 25,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 26,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 5,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "MONA MACHO",
+          "桔梗常",
+          "すえひろ"
+        ]
       }
     },
     {
@@ -1274,7 +2098,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 315.6,
         "poi_count": 27,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 10,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 10,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "IL GRANO",
+          "はなにしき",
+          "ファミリーマート",
+          "もうもう亭"
+        ]
       }
     },
     {
@@ -1296,7 +2135,21 @@
         "station_distance_score": 1.0,
         "station_distance_m": 488.0,
         "poi_count": 24,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 16,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 5,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "SEANT",
+          "サイクルジョイ",
+          "セブン-イレブン",
+          "クマカフェ",
+          "トラヴィス（メンズ服）"
+        ]
       }
     },
     {
@@ -1318,7 +2171,22 @@
         "station_distance_score": 1.0,
         "station_distance_m": 399.0,
         "poi_count": 22,
-        "city": "Nagoya (Sakae)"
+        "ped_count": 17,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 5,
+          "restaurant": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "SEANT",
+          "サイクルジョイ",
+          "セブン-イレブン",
+          "クマカフェ",
+          "ローソン"
+        ]
       }
     }
   ]

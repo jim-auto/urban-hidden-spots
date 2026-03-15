@@ -153,18 +153,28 @@ def compute_hidden_scores(city_key, city_info):
             if is_near_famous_spot(cell_center_lat, cell_center_lon):
                 continue
 
-            # POI密度: セルの半径150m以内のPOI数
-            poi_count = sum(
-                1
-                for p in pois
+            # POI密度: セルの半径150m以内のPOIを収集
+            nearby_pois = [
+                p for p in pois
                 if haversine(
                     cell_center_lat,
                     cell_center_lon,
                     p["geometry"]["coordinates"][1],
                     p["geometry"]["coordinates"][0],
-                )
-                < 150
-            )
+                ) < 150
+            ]
+            poi_count = len(nearby_pois)
+
+            # カテゴリ別に集計
+            from collections import Counter
+            cat_counts = Counter(p["properties"]["category"] for p in nearby_pois)
+
+            # 名前付きPOIを収集 (上位5件)
+            named_pois = [
+                p["properties"]["name"]
+                for p in nearby_pois
+                if p["properties"].get("name")
+            ][:5]
 
             # 歩行者空間: セルの半径150m以内の歩行者空間の数
             ped_count = sum(
@@ -187,8 +197,15 @@ def compute_hidden_scores(city_key, city_info):
             poi_density = min(poi_count / 20.0, 1.0)
             ped_score = min(ped_count / 5.0, 1.0)
 
-            # 駅距離スコア
-            dist = min_station_distance(cell_center_lat, cell_center_lon, stations)
+            # 最寄り駅
+            dist = 1000
+            nearest_station = ""
+            for s in stations:
+                d = haversine(cell_center_lat, cell_center_lon,
+                              s["geometry"]["coordinates"][1], s["geometry"]["coordinates"][0])
+                if d < dist:
+                    dist = d
+                    nearest_station = s["properties"].get("name", "")
             dist_score = station_distance_score(dist)
 
             # hidden_score 計算
@@ -204,7 +221,11 @@ def compute_hidden_scores(city_key, city_info):
                     "station_distance_m": round(dist, 1),
                     "hidden_score": round(hidden_score, 3),
                     "poi_count": poi_count,
+                    "ped_count": ped_count,
                     "city": city_info["name"],
+                    "nearest_station": nearest_station,
+                    "poi_breakdown": dict(cat_counts),
+                    "nearby_names": named_pois,
                 }
             )
 
@@ -230,7 +251,11 @@ def results_to_geojson(results, top_n=30):
                 "station_distance_score": r["station_distance_score"],
                 "station_distance_m": r["station_distance_m"],
                 "poi_count": r["poi_count"],
+                "ped_count": r.get("ped_count", 0),
                 "city": r["city"],
+                "nearest_station": r.get("nearest_station", ""),
+                "poi_breakdown": r.get("poi_breakdown", {}),
+                "nearby_names": r.get("nearby_names", []),
             },
         }
         features.append(feature)

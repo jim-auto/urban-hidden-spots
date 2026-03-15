@@ -446,43 +446,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.906882,
-          35.164382
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.164382,
-        "lon": 136.906882,
-        "hidden_score": 0.906,
-        "poi_density": 0.776,
-        "pedestrian_space": 0.988,
-        "station_distance_score": 1.0,
-        "station_distance_m": 216.8,
-        "poi_count": 35,
-        "ped_count": 57,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "矢場町",
-        "poi_breakdown": {
-          "cafe": 1,
-          "restaurant": 2,
-          "shop": 31,
-          "park": 1
-        },
-        "nearby_names": [
-          "スターバックス",
-          "あつた蓬莱軒",
-          "草楽",
-          "Apple Store",
-          "HIROB"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           136.890882,
           35.168382
         ]
@@ -512,42 +475,6 @@
           "YUJIAN’S KITCHEN",
           "桃一",
           "コメダ珈琲店"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.905882,
-          35.168382
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.168382,
-        "lon": 136.905882,
-        "hidden_score": 0.896,
-        "poi_density": 0.77,
-        "pedestrian_space": 0.97,
-        "station_distance_score": 1.0,
-        "station_distance_m": 272.1,
-        "poi_count": 34,
-        "ped_count": 53,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "栄",
-        "poi_breakdown": {
-          "cafe": 3,
-          "shop": 25,
-          "restaurant": 6
-        },
-        "nearby_names": [
-          "スターバックス",
-          "タリーズコーヒー",
-          "セブン-イレブン",
-          "ファミリーマート",
-          "Dr.MARI CLINIC"
         ]
       }
     },
@@ -702,34 +629,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.907882,
-          35.165382
+          136.890882,
+          35.169382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.165382,
-        "lon": 136.907882,
+        "lat": 35.169382,
+        "lon": 136.890882,
         "hidden_score": 0.892,
         "poi_density": 0.73,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 264.9,
+        "station_distance_m": 329.3,
         "poi_count": 28,
-        "ped_count": 84,
+        "ped_count": 72,
         "city": "Nagoya (Sakae)",
-        "nearest_station": "矢場町",
+        "nearest_station": "国際センター",
         "poi_breakdown": {
-          "cafe": 3,
-          "restaurant": 3,
-          "shop": 22
+          "restaurant": 15,
+          "shop": 8,
+          "cafe": 4,
+          "park": 1
         },
         "nearby_names": [
-          "スターバックス",
-          "あつた蓬莱軒",
-          "草楽",
-          "Apple Store",
-          "山本屋総本家"
+          "Midtown BBQ",
+          "ファミリーマート",
+          "コメダ珈琲店",
+          "納屋橋饅頭",
+          "かこ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.900882,
+          35.159382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.159382,
+        "lon": 136.900882,
+        "hidden_score": 0.889,
+        "poi_density": 0.825,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 340.7,
+        "poi_count": 44,
+        "ped_count": 39,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "大須観音",
+        "poi_breakdown": {
+          "shop": 31,
+          "restaurant": 10,
+          "cafe": 1,
+          "park": 2
+        },
+        "nearby_names": [
+          "コメ兵",
+          "コメ兵",
+          "餃子の王将",
+          "京民",
+          "麺や 猿"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.902882,
+          35.157382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.157382,
+        "lon": 136.902882,
+        "hidden_score": 0.886,
+        "poi_density": 0.88,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 347.0,
+        "poi_count": 57,
+        "ped_count": 30,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "上前津",
+        "poi_breakdown": {
+          "shop": 42,
+          "restaurant": 11,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "アミカ",
+          "NANI",
+          "末廣寿司",
+          "AOKI",
+          "御幸亭"
         ]
       }
     }

@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7004,
-          35.6595
+          139.7022,
+          35.6585
         ]
       },
       "properties": {
-        "name": "スクランブル交差点",
+        "name": "スクランブルスクエア",
         "city": "Tokyo (Shibuya)",
         "type": "famous"
       }
@@ -22,7 +22,7 @@
         "type": "Point",
         "coordinates": [
           139.7006,
-          35.659
+          35.6591
         ]
       },
       "properties": {
@@ -36,8 +36,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6981,
-          35.6614
+          139.701,
+          35.6572
         ]
       },
       "properties": {
@@ -51,8 +51,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6995,
-          35.662
+          139.7037,
+          35.6592
         ]
       },
       "properties": {
@@ -66,8 +66,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6985,
-          35.6642
+          139.7031,
+          35.6572
         ]
       },
       "properties": {
@@ -81,8 +81,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6945,
-          35.658
+          139.6952,
+          35.6714
         ]
       },
       "properties": {
@@ -96,8 +96,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.5025,
-          34.6685
+          135.5016,
+          34.669
         ]
       },
       "properties": {
@@ -112,22 +112,7 @@
         "type": "Point",
         "coordinates": [
           135.5013,
-          34.6636
-        ]
-      },
-      "properties": {
-        "name": "なんば駅",
-        "city": "Osaka (Namba)",
-        "type": "famous"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.503,
-          34.669
+          34.6691
         ]
       },
       "properties": {
@@ -141,8 +126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.502,
-          34.67
+          135.5013,
+          34.6707
         ]
       },
       "properties": {
@@ -156,12 +141,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.9084,
-          35.1709
+          135.5021,
+          34.6617
         ]
       },
       "properties": {
-        "name": "栄交差点",
+        "name": "なんばパークス",
+        "city": "Osaka (Namba)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9063,
+          35.1695
+        ]
+      },
+      "properties": {
+        "name": "サンシャインサカエ",
         "city": "Nagoya (Sakae)",
         "type": "famous"
       }
@@ -171,12 +171,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.9066,
-          35.1703
+          136.9096,
+          35.1711
         ]
       },
       "properties": {
-        "name": "栄地下街",
+        "name": "オアシス21",
         "city": "Nagoya (Sakae)",
         "type": "famous"
       }
@@ -186,8 +186,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.9092,
-          35.1715
+          136.9083,
+          35.1723
+        ]
+      },
+      "properties": {
+        "name": "名古屋テレビ塔",
+        "city": "Nagoya (Sakae)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9077,
+          35.1675
         ]
       },
       "properties": {
@@ -201,12 +216,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.9086,
-          35.1695
+          136.9068,
+          35.17
         ]
       },
       "properties": {
-        "name": "三越",
+        "name": "三越 栄店",
         "city": "Nagoya (Sakae)",
         "type": "famous"
       }
@@ -216,42 +231,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.908,
-          35.174
-        ]
-      },
-      "properties": {
-        "name": "テレビ塔/オアシス21",
-        "city": "Nagoya (Sakae)",
-        "type": "famous"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.909,
-          35.168
+          136.9082,
+          35.1647
         ]
       },
       "properties": {
         "name": "矢場町",
-        "city": "Nagoya (Sakae)",
-        "type": "famous"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.911,
-          35.172
-        ]
-      },
-      "properties": {
-        "name": "サンシャインサカエ",
         "city": "Nagoya (Sakae)",
         "type": "famous"
       }

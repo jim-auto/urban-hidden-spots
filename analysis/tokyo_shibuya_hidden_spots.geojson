@@ -6,6 +6,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.700586,
+          35.660986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.660986,
+        "lon": 139.700586,
+        "hidden_score": 0.997,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 1.0,
+        "station_distance_m": 207.2,
+        "poi_count": 114,
+        "ped_count": 58,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 66,
+          "restaurant": 31,
+          "cafe": 16,
+          "park": 1
+        },
+        "nearby_names": [
+          "大盛堂書店",
+          "ALAND",
+          "白鳳",
+          "星乃珈琲店",
+          "餃子の王将"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.701586,
           35.661986
         ]
@@ -35,6 +72,297 @@
           "ファミリーマート",
           "山崎伊久江美容室",
           "Freeman Cafe"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700586,
+          35.661986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.661986,
+        "lon": 139.700586,
+        "hidden_score": 0.992,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 303.4,
+        "poi_count": 106,
+        "ped_count": 55,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 58,
+          "cafe": 20,
+          "restaurant": 27,
+          "park": 1
+        },
+        "nearby_names": [
+          "Apple Store",
+          "Gap",
+          "beauty and youth united arrows",
+          "Chacott",
+          "Miyama"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696586,
+          35.660986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.660986,
+        "lon": 139.696586,
+        "hidden_score": 0.965,
+        "poi_density": 0.998,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 358.1,
+        "poi_count": 99,
+        "ped_count": 42,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "restaurant": 50,
+          "cafe": 14,
+          "shop": 35
+        },
+        "nearby_names": [
+          "サイゼリヤ",
+          "ドトールコーヒーショップ",
+          "兆楽",
+          "ガスト",
+          "Shibuya G'Club"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699586,
+          35.660986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.660986,
+        "lon": 139.699586,
+        "hidden_score": 0.961,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 1.0,
+        "station_distance_m": 271.5,
+        "poi_count": 181,
+        "ped_count": 40,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "restaurant": 60,
+          "shop": 98,
+          "cafe": 23
+        },
+        "nearby_names": [
+          "不二家レストラン",
+          "Skechers",
+          "Viva - Street wear",
+          "大盛堂書店",
+          "兆楽"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696586,
+          35.661986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.661986,
+        "lon": 139.696586,
+        "hidden_score": 0.96,
+        "poi_density": 0.984,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 448.6,
+        "poi_count": 93,
+        "ped_count": 42,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 36,
+          "restaurant": 43,
+          "cafe": 13,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "サイゼリヤ",
+          "ドトールコーヒーショップ",
+          "ガスト",
+          "すしざんまい"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697586,
+          35.660986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.660986,
+        "lon": 139.697586,
+        "hidden_score": 0.959,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 307.3,
+        "poi_count": 149,
+        "ped_count": 39,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 68,
+          "cafe": 14,
+          "restaurant": 67
+        },
+        "nearby_names": [
+          "Skechers",
+          "Viva - Street wear",
+          "ドトールコーヒーショップ",
+          "兆楽",
+          "ガスト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697586,
+          35.661986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.661986,
+        "lon": 139.697586,
+        "hidden_score": 0.959,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 409.1,
+        "poi_count": 138,
+        "ped_count": 39,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 64,
+          "restaurant": 56,
+          "cafe": 18
+        },
+        "nearby_names": [
+          "ローソン",
+          "サイゼリヤ",
+          "ドトールコーヒーショップ",
+          "兆楽",
+          "ガスト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700586,
+          35.662986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.662986,
+        "lon": 139.700586,
+        "hidden_score": 0.955,
+        "poi_density": 0.963,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 1.0,
+        "station_distance_m": 407.3,
+        "poi_count": 84,
+        "ped_count": 44,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 49,
+          "cafe": 19,
+          "restaurant": 15,
+          "park": 1
+        },
+        "nearby_names": [
+          "Apple Store",
+          "Kawara Cafe",
+          "RIFF hair",
+          "SLӧbe",
+          "Aramani Exchange"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698586,
+          35.661986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.661986,
+        "lon": 139.698586,
+        "hidden_score": 0.954,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 387.1,
+        "poi_count": 149,
+        "ped_count": 37,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 81,
+          "cafe": 20,
+          "restaurant": 48
+        },
+        "nearby_names": [
+          "Viva - Street wear",
+          "ドトールコーヒーショップ",
+          "兆楽",
+          "キャンドゥ",
+          "ファミリーマート"
         ]
       }
     },
@@ -79,35 +407,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.704586,
-          35.659986
+          139.699586,
+          35.661986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.659986,
-        "lon": 139.704586,
-        "hidden_score": 0.936,
-        "poi_density": 0.887,
-        "pedestrian_space": 0.952,
+        "lat": 35.661986,
+        "lon": 139.699586,
+        "hidden_score": 0.946,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.865,
         "station_distance_score": 1.0,
-        "station_distance_m": 222.5,
-        "poi_count": 59,
-        "ped_count": 49,
+        "station_distance_m": 350.5,
+        "poi_count": 125,
+        "ped_count": 34,
         "city": "Tokyo (Shibuya)",
         "nearest_station": "渋谷",
         "poi_breakdown": {
-          "cafe": 9,
-          "shop": 27,
-          "restaurant": 22,
-          "park": 1
+          "shop": 77,
+          "cafe": 18,
+          "restaurant": 30
         },
         "nearby_names": [
-          "ちくちく",
-          "エクセルシオール",
-          "センタースポーツ",
-          "タパス＆タパス",
-          "大戸屋"
+          "ALAND",
+          "Levi's",
+          "PRONTO",
+          "SHAZBOY",
+          "エクステ市場"
         ]
       }
     },
@@ -116,35 +443,107 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.704586,
-          35.656986
+          139.698586,
+          35.662986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.656986,
-        "lon": 139.704586,
-        "hidden_score": 0.935,
-        "poi_density": 0.88,
-        "pedestrian_space": 0.956,
+        "lat": 35.662986,
+        "lon": 139.698586,
+        "hidden_score": 0.939,
+        "poi_density": 0.989,
+        "pedestrian_space": 0.858,
         "station_distance_score": 1.0,
-        "station_distance_m": 226.5,
-        "poi_count": 57,
-        "ped_count": 50,
+        "station_distance_m": 493.7,
+        "poi_count": 95,
+        "ped_count": 33,
         "city": "Tokyo (Shibuya)",
         "nearest_station": "渋谷",
         "poi_breakdown": {
-          "shop": 19,
-          "cafe": 8,
-          "restaurant": 28,
-          "park": 2
+          "shop": 56,
+          "cafe": 19,
+          "restaurant": 20
         },
         "nearby_names": [
-          "ローソン",
-          "カフェ・ベローチェ",
+          "C & K Nail",
+          "Crow Around",
+          "Montbell",
+          "Moogom",
+          "モボモガ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698586,
+          35.660986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.660986,
+        "lon": 139.698586,
+        "hidden_score": 0.937,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 277.3,
+        "poi_count": 173,
+        "ped_count": 31,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 95,
+          "cafe": 19,
+          "restaurant": 59
+        },
+        "nearby_names": [
+          "Skechers",
+          "Viva - Street wear",
           "ドトールコーヒーショップ",
-          "カフェ・ド・クリエ",
-          "ローソン"
+          "兆楽",
+          "Shibuya G'Club"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699586,
+          35.662986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.662986,
+        "lon": 139.699586,
+        "hidden_score": 0.937,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 443.5,
+        "poi_count": 107,
+        "ped_count": 31,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 62,
+          "cafe": 22,
+          "restaurant": 22,
+          "park": 1
+        },
+        "nearby_names": [
+          "AVIREX",
+          "Apple Store",
+          "CARROT",
+          "Gap",
+          "Kahemi cafe"
         ]
       }
     },
@@ -182,6 +581,42 @@
           "KAPELMUUR",
           "ABCマート",
           "Stormy"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697586,
+          35.659986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.659986,
+        "lon": 139.697586,
+        "hidden_score": 0.928,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.819,
+        "station_distance_score": 1.0,
+        "station_distance_m": 214.9,
+        "poi_count": 145,
+        "ped_count": 28,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 55,
+          "restaurant": 77,
+          "cafe": 13
+        },
+        "nearby_names": [
+          "Skechers",
+          "Viva - Street wear",
+          "兆楽",
+          "Shibuya G'Club",
+          "キタムラ"
         ]
       }
     },
@@ -291,443 +726,6 @@
           "Motovelo",
           "蔦屋書店",
           "メゾン ichi"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.702586,
-          35.661986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.661986,
-        "lon": 139.702586,
-        "hidden_score": 0.918,
-        "poi_density": 0.839,
-        "pedestrian_space": 0.956,
-        "station_distance_score": 1.0,
-        "station_distance_m": 281.9,
-        "poi_count": 47,
-        "ped_count": 50,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "shop": 26,
-          "cafe": 10,
-          "restaurant": 9,
-          "park": 2
-        },
-        "nearby_names": [
-          "ファミリーマート",
-          "山崎伊久江美容室",
-          "Freeman Cafe",
-          "nijumaru",
-          "Suit Select"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700586,
-          35.647986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.647986,
-        "lon": 139.700586,
-        "hidden_score": 0.916,
-        "poi_density": 0.88,
-        "pedestrian_space": 0.909,
-        "station_distance_score": 1.0,
-        "station_distance_m": 245.3,
-        "poi_count": 57,
-        "ped_count": 41,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "代官山",
-        "poi_breakdown": {
-          "cafe": 8,
-          "shop": 42,
-          "restaurant": 7
-        },
-        "nearby_names": [
-          "スターバックス",
-          "Motovelo",
-          "蔦屋書店",
-          "メゾン ichi",
-          "Via Bus Stop"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.703586,
-          35.660986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.660986,
-        "lon": 139.703586,
-        "hidden_score": 0.914,
-        "poi_density": 0.894,
-        "pedestrian_space": 0.891,
-        "station_distance_score": 1.0,
-        "station_distance_m": 220.4,
-        "poi_count": 61,
-        "ped_count": 38,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "restaurant": 18,
-          "shop": 31,
-          "cafe": 11,
-          "park": 1
-        },
-        "nearby_names": [
-          "Kura",
-          "おおき",
-          "ととどん",
-          "ササキ理容室",
-          "ファミリーマート"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.710586,
-          35.647986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.647986,
-        "lon": 139.710586,
-        "hidden_score": 0.913,
-        "poi_density": 0.856,
-        "pedestrian_space": 0.926,
-        "station_distance_score": 1.0,
-        "station_distance_m": 208.4,
-        "poi_count": 51,
-        "ped_count": 44,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "恵比寿",
-        "poi_breakdown": {
-          "shop": 19,
-          "restaurant": 20,
-          "cafe": 11,
-          "park": 1
-        },
-        "nearby_names": [
-          "ファミリーマート",
-          "ローソン",
-          "ローソン",
-          "YOSHIHARA",
-          "えびす飯店"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.705586,
-          35.660986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.660986,
-        "lon": 139.705586,
-        "hidden_score": 0.909,
-        "poi_density": 0.864,
-        "pedestrian_space": 0.909,
-        "station_distance_score": 1.0,
-        "station_distance_m": 359.7,
-        "poi_count": 53,
-        "ped_count": 41,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "shop": 27,
-          "restaurant": 17,
-          "cafe": 9
-        },
-        "nearby_names": [
-          "ソフトバンクショップ",
-          "Beacon",
-          "AOKI",
-          "ドトールコーヒーショップ",
-          "セブン-イレブン"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.706586,
-          35.665986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.665986,
-        "lon": 139.706586,
-        "hidden_score": 0.902,
-        "poi_density": 0.898,
-        "pedestrian_space": 0.858,
-        "station_distance_score": 1.0,
-        "station_distance_m": 293.1,
-        "poi_count": 62,
-        "ped_count": 33,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "明治神宮前〈原宿〉",
-        "poi_breakdown": {
-          "shop": 45,
-          "cafe": 12,
-          "restaurant": 5
-        },
-        "nearby_names": [
-          "スターバックス",
-          "Adidas",
-          "Ragtag",
-          "DKNY",
-          "Oakley"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.701586,
-          35.660986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.660986,
-        "lon": 139.701586,
-        "hidden_score": 0.9,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 0.5,
-        "station_distance_m": 168.8,
-        "poi_count": 100,
-        "ped_count": 66,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "shop": 53,
-          "restaurant": 30,
-          "cafe": 16,
-          "park": 1
-        },
-        "nearby_names": [
-          "ビックカメラ",
-          "渋谷のんべい横丁",
-          "餃子の王将",
-          "shel'tter",
-          "Kura"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.706586,
-          35.659986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.659986,
-        "lon": 139.706586,
-        "hidden_score": 0.897,
-        "poi_density": 0.891,
-        "pedestrian_space": 0.851,
-        "station_distance_score": 1.0,
-        "station_distance_m": 378.9,
-        "poi_count": 60,
-        "ped_count": 32,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "shop": 28,
-          "cafe": 11,
-          "restaurant": 21
-        },
-        "nearby_names": [
-          "ソフトバンクショップ",
-          "ドトールコーヒーショップ",
-          "Addu Mamma",
-          "カフェ・ベローチェ",
-          "タパスタパス"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.696586,
-          35.659986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.659986,
-        "lon": 139.696586,
-        "hidden_score": 0.894,
-        "poi_density": 0.952,
-        "pedestrian_space": 0.783,
-        "station_distance_score": 1.0,
-        "station_distance_m": 282.9,
-        "poi_count": 80,
-        "ped_count": 24,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "restaurant": 44,
-          "shop": 27,
-          "cafe": 9
-        },
-        "nearby_names": [
-          "ガスト",
-          "Shibuya G'Club",
-          "キタムラ",
-          "ウィルコムプラザ渋谷",
-          "エーコー"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.706586,
-          35.660986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.660986,
-        "lon": 139.706586,
-        "hidden_score": 0.893,
-        "poi_density": 0.898,
-        "pedestrian_space": 0.835,
-        "station_distance_score": 1.0,
-        "station_distance_m": 434.6,
-        "poi_count": 62,
-        "ped_count": 30,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "shop": 27,
-          "restaurant": 24,
-          "cafe": 11
-        },
-        "nearby_names": [
-          "ソフトバンクショップ",
-          "Beacon",
-          "ドトールコーヒーショップ",
-          "Addu Mamma",
-          "カフェ・ベローチェ"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.702586,
-          35.662986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.662986,
-        "lon": 139.702586,
-        "hidden_score": 0.888,
-        "poi_density": 0.782,
-        "pedestrian_space": 0.937,
-        "station_distance_score": 1.0,
-        "station_distance_m": 391.5,
-        "poi_count": 36,
-        "ped_count": 46,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "shop": 18,
-          "cafe": 8,
-          "restaurant": 7,
-          "park": 3
-        },
-        "nearby_names": [
-          "ファミリーマート",
-          "Momotaro Jeans",
-          "reric渋谷",
-          "Streamer Coffee Company",
-          "KAPELMUUR"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.704586,
-          35.660986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.660986,
-        "lon": 139.704586,
-        "hidden_score": 0.886,
-        "poi_density": 0.83,
-        "pedestrian_space": 0.885,
-        "station_distance_score": 1.0,
-        "station_distance_m": 288.2,
-        "poi_count": 45,
-        "ped_count": 37,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "cafe": 6,
-          "shop": 24,
-          "restaurant": 15
-        },
-        "nearby_names": [
-          "ちくちく",
-          "ソフトバンクショップ",
-          "AOKI",
-          "ドトールコーヒーショップ",
-          "ローソン"
         ]
       }
     }

@@ -115,6 +115,10 @@
       font-size: 0.78rem;
       color: #555;
     }
+    .famous-icon {
+      background: none !important;
+      border: none !important;
+    }
     .legend {
       background: white;
       padding: 10px 14px;
@@ -165,6 +169,8 @@
     }).addTo(map);
 
     let markers = [];
+    let famousMarkers = [];
+    let famousData = null;
 
     function getColor(score) {
       if (score >= 0.7) return '#e65100';
@@ -236,6 +242,38 @@
       `;
     }
 
+    const famousIcon = L.divIcon({
+      html: '<div style="font-size:22px;text-shadow:0 1px 3px rgba(0,0,0,0.5);">&#11088;</div>',
+      className: 'famous-icon',
+      iconSize: [26, 26],
+      iconAnchor: [13, 13],
+      popupAnchor: [0, -14],
+    });
+
+    function displayFamous(cityFilter) {
+      famousMarkers.forEach(m => map.removeLayer(m));
+      famousMarkers = [];
+      if (!famousData) return;
+
+      famousData.features.forEach(feature => {
+        const props = feature.properties;
+        if (cityFilter && cityFilter !== 'all' && props.city !== cityFilter) return;
+
+        const [lon, lat] = feature.geometry.coordinates;
+        const marker = L.marker([lat, lon], { icon: famousIcon }).addTo(map);
+        marker.bindPopup(`
+          <div class="score-popup">
+            <h3 style="margin-bottom:2px">${props.name}</h3>
+            <div style="font-size:0.85rem;color:#777">${props.city}</div>
+            <div style="margin-top:6px;padding:4px 8px;background:#f3e5f5;border-radius:4px;font-size:0.8rem;color:#7b1fa2;display:inline-block;">
+              定番スポット
+            </div>
+          </div>
+        `);
+        famousMarkers.push(marker);
+      });
+    }
+
     function displaySpots(data, cityFilter) {
       markers.forEach(m => map.removeLayer(m));
       markers = [];
@@ -260,6 +298,8 @@
         marker.bindPopup(createPopup(props));
         markers.push(marker);
       });
+
+      displayFamous(cityFilter);
     }
 
     // 凡例
@@ -272,6 +312,8 @@
         <div class="legend-item"><span class="legend-circle" style="background:#ff9800"></span> 0.5 - 0.7</div>
         <div class="legend-item"><span class="legend-circle" style="background:#ffc107"></span> 0.3 - 0.5</div>
         <div class="legend-item"><span class="legend-circle" style="background:#8bc34a"></span> &lt; 0.3</div>
+        <h4 style="margin-top:8px">Spots</h4>
+        <div class="legend-item"><span style="font-size:16px">&#11088;</span> 定番スポット</div>
       `;
       return div;
     };
@@ -291,11 +333,14 @@
     });
 
     // データ読み込み
-    fetch('hidden_spots.geojson')
-      .then(res => res.json())
-      .then(data => {
-        geojsonData = data;
-        displaySpots(data, 'all');
+    Promise.all([
+      fetch('hidden_spots.geojson').then(r => r.json()),
+      fetch('famous_spots.geojson').then(r => r.json()),
+    ])
+      .then(([hiddenData, famous]) => {
+        geojsonData = hiddenData;
+        famousData = famous;
+        displaySpots(hiddenData, 'all');
       })
       .catch(err => {
         console.error('Failed to load hidden spots data:', err);

@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7004,
+          35.6595
+        ]
+      },
+      "properties": {
+        "name": "スクランブル交差点",
+        "city": "Tokyo (Shibuya)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7006,
+          35.659
+        ]
+      },
+      "properties": {
+        "name": "ハチ公像",
+        "city": "Tokyo (Shibuya)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6981,
+          35.6614
+        ]
+      },
+      "properties": {
+        "name": "SHIBUYA109",
+        "city": "Tokyo (Shibuya)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6995,
+          35.662
+        ]
+      },
+      "properties": {
+        "name": "渋谷ヒカリエ",
+        "city": "Tokyo (Shibuya)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6985,
+          35.6642
+        ]
+      },
+      "properties": {
+        "name": "渋谷ストリーム",
+        "city": "Tokyo (Shibuya)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6945,
+          35.658
+        ]
+      },
+      "properties": {
+        "name": "代々木公園",
+        "city": "Tokyo (Shibuya)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5025,
+          34.6685
+        ]
+      },
+      "properties": {
+        "name": "道頓堀",
+        "city": "Osaka (Namba)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5013,
+          34.6636
+        ]
+      },
+      "properties": {
+        "name": "なんば駅",
+        "city": "Osaka (Namba)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503,
+          34.669
+        ]
+      },
+      "properties": {
+        "name": "戎橋",
+        "city": "Osaka (Namba)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502,
+          34.67
+        ]
+      },
+      "properties": {
+        "name": "心斎橋筋商店街",
+        "city": "Osaka (Namba)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9084,
+          35.1709
+        ]
+      },
+      "properties": {
+        "name": "栄交差点",
+        "city": "Nagoya (Sakae)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9066,
+          35.1703
+        ]
+      },
+      "properties": {
+        "name": "栄地下街",
+        "city": "Nagoya (Sakae)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9092,
+          35.1715
+        ]
+      },
+      "properties": {
+        "name": "ラシック",
+        "city": "Nagoya (Sakae)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9086,
+          35.1695
+        ]
+      },
+      "properties": {
+        "name": "三越",
+        "city": "Nagoya (Sakae)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.908,
+          35.174
+        ]
+      },
+      "properties": {
+        "name": "テレビ塔/オアシス21",
+        "city": "Nagoya (Sakae)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.909,
+          35.168
+        ]
+      },
+      "properties": {
+        "name": "矢場町",
+        "city": "Nagoya (Sakae)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.911,
+          35.172
+        ]
+      },
+      "properties": {
+        "name": "サンシャインサカエ",
+        "city": "Nagoya (Sakae)",
+        "type": "famous"
+      }
+    }
+  ]
+}

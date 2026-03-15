@@ -41,28 +41,28 @@ CITIES = {
     },
 }
 
-# 有名観光地の座標リスト (半径150m以内を除外)
+# 有名観光地の座標リスト (name, lat, lon, city)
 FAMOUS_SPOTS = [
     # Shibuya
-    (35.6595, 139.7004),  # スクランブル交差点
-    (35.6590, 139.7006),  # ハチ公像
-    (35.6614, 139.6981),  # SHIBUYA109
-    (35.6620, 139.6995),  # 渋谷ヒカリエ
-    (35.6642, 139.6985),  # 渋谷ストリーム
-    (35.6580, 139.6945),  # 代々木公園入口
+    ("スクランブル交差点", 35.6595, 139.7004, "Tokyo (Shibuya)"),
+    ("ハチ公像", 35.6590, 139.7006, "Tokyo (Shibuya)"),
+    ("SHIBUYA109", 35.6614, 139.6981, "Tokyo (Shibuya)"),
+    ("渋谷ヒカリエ", 35.6620, 139.6995, "Tokyo (Shibuya)"),
+    ("渋谷ストリーム", 35.6642, 139.6985, "Tokyo (Shibuya)"),
+    ("代々木公園", 35.6580, 139.6945, "Tokyo (Shibuya)"),
     # Namba
-    (34.6685, 135.5025),  # 道頓堀
-    (34.6636, 135.5013),  # なんば駅
-    (34.6690, 135.5030),  # 戎橋
-    (34.6700, 135.5020),  # 心斎橋筋
+    ("道頓堀", 34.6685, 135.5025, "Osaka (Namba)"),
+    ("なんば駅", 34.6636, 135.5013, "Osaka (Namba)"),
+    ("戎橋", 34.6690, 135.5030, "Osaka (Namba)"),
+    ("心斎橋筋商店街", 34.6700, 135.5020, "Osaka (Namba)"),
     # Sakae
-    (35.1709, 136.9084),  # 栄交差点
-    (35.1703, 136.9066),  # 栄地下街
-    (35.1715, 136.9092),  # ラシック
-    (35.1695, 136.9086),  # 三越
-    (35.1740, 136.9080),  # テレビ塔/オアシス21
-    (35.1680, 136.9090),  # 矢場町
-    (35.1720, 136.9110),  # サンシャインサカエ
+    ("栄交差点", 35.1709, 136.9084, "Nagoya (Sakae)"),
+    ("栄地下街", 35.1703, 136.9066, "Nagoya (Sakae)"),
+    ("ラシック", 35.1715, 136.9092, "Nagoya (Sakae)"),
+    ("三越", 35.1695, 136.9086, "Nagoya (Sakae)"),
+    ("テレビ塔/オアシス21", 35.1740, 136.9080, "Nagoya (Sakae)"),
+    ("矢場町", 35.1680, 136.9090, "Nagoya (Sakae)"),
+    ("サンシャインサカエ", 35.1720, 136.9110, "Nagoya (Sakae)"),
 ]
 FAMOUS_RADIUS_M = 180
 
@@ -99,10 +99,26 @@ def station_distance_score(dist_m):
 
 def is_near_famous_spot(lat, lon):
     """有名観光地の近くかどうかを判定する。"""
-    for flat, flon in FAMOUS_SPOTS:
+    for _name, flat, flon, _city in FAMOUS_SPOTS:
         if haversine(lat, lon, flat, flon) < FAMOUS_RADIUS_M:
             return True
     return False
+
+
+def famous_spots_to_geojson():
+    """定番スポットをGeoJSON FeatureCollectionとして返す。"""
+    features = []
+    for name, lat, lon, city in FAMOUS_SPOTS:
+        features.append({
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [lon, lat]},
+            "properties": {
+                "name": name,
+                "city": city,
+                "type": "famous",
+            },
+        })
+    return {"type": "FeatureCollection", "features": features}
 
 
 def min_station_distance(lat, lon, stations):
@@ -302,6 +318,13 @@ def main():
     analysis_combined = ANALYSIS_DIR / "all_hidden_spots.geojson"
     with open(analysis_combined, "w", encoding="utf-8") as f:
         json.dump(combined_geojson, f, ensure_ascii=False, indent=2)
+
+    # 定番スポットを保存
+    famous_geojson = famous_spots_to_geojson()
+    famous_path = DOCS_DIR / "famous_spots.geojson"
+    with open(famous_path, "w", encoding="utf-8") as f:
+        json.dump(famous_geojson, f, ensure_ascii=False, indent=2)
+    print(f"Saved famous spots ({len(famous_geojson['features'])} spots) -> {famous_path}")
 
 
 if __name__ == "__main__":

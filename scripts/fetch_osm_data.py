@@ -27,7 +27,7 @@ CITIES = {
         "name": "Nagoya (Sakae)",
         "lat": 35.1709,
         "lon": 136.9084,
-        "radius": 1500,
+        "radius": 2000,
     },
 }
 

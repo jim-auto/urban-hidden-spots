@@ -37,7 +37,7 @@ CITIES = {
         "name": "Nagoya (Sakae)",
         "lat": 35.1709,
         "lon": 136.9084,
-        "radius": 1500,
+        "radius": 2000,
     },
 }
 
@@ -51,12 +51,20 @@ FAMOUS_SPOTS = [
     (35.6642, 139.6985),  # 渋谷ストリーム
     (35.6580, 139.6945),  # 代々木公園入口
     # Namba
-    (34.6685, 139.5025),  # 道頓堀
-    (34.6627, 135.5013),  # なんば駅周辺
+    (34.6685, 135.5025),  # 道頓堀
+    (34.6636, 135.5013),  # なんば駅
+    (34.6690, 135.5030),  # 戎橋
+    (34.6700, 135.5020),  # 心斎橋筋
     # Sakae
     (35.1709, 136.9084),  # 栄交差点
+    (35.1703, 136.9066),  # 栄地下街
+    (35.1715, 136.9092),  # ラシック
+    (35.1695, 136.9086),  # 三越
+    (35.1740, 136.9080),  # テレビ塔/オアシス21
+    (35.1680, 136.9090),  # 矢場町
+    (35.1720, 136.9110),  # サンシャインサカエ
 ]
-FAMOUS_RADIUS_M = 150
+FAMOUS_RADIUS_M = 180
 
 
 def haversine(lat1, lon1, lat2, lon2):
@@ -193,9 +201,9 @@ def compute_hidden_scores(city_key, city_info):
             if poi_count < 3:
                 continue
 
-            # 正規化 (0-1)
-            poi_density = min(poi_count / 20.0, 1.0)
-            ped_score = min(ped_count / 5.0, 1.0)
+            # 正規化 (0-1) — 対数スケールで差をつける
+            poi_density = min(math.log1p(poi_count) / math.log1p(100), 1.0)
+            ped_score = min(math.log1p(ped_count) / math.log1p(60), 1.0)
 
             # 最寄り駅
             dist = 1000

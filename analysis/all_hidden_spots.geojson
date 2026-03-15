@@ -6,34 +6,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.698586,
-          35.645986
+          139.701586,
+          35.661986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.645986,
-        "lon": 139.698586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "lat": 35.661986,
+        "lon": 139.701586,
+        "hidden_score": 0.996,
+        "poi_density": 0.989,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 489.0,
-        "poi_count": 25,
-        "ped_count": 31,
+        "station_distance_m": 278.6,
+        "poi_count": 95,
+        "ped_count": 60,
         "city": "Tokyo (Shibuya)",
-        "nearest_station": "代官山",
+        "nearest_station": "渋谷",
         "poi_breakdown": {
-          "cafe": 4,
-          "shop": 11,
+          "shop": 49,
+          "cafe": 19,
+          "restaurant": 25,
+          "park": 2
+        },
+        "nearby_names": [
+          "shel'tter",
+          "てもみん",
+          "ファミリーマート",
+          "山崎伊久江美容室",
+          "Freeman Cafe"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704586,
+          35.665986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.665986,
+        "lon": 139.704586,
+        "hidden_score": 0.951,
+        "poi_density": 0.968,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 1.0,
+        "station_distance_m": 279.1,
+        "poi_count": 86,
+        "ped_count": 41,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "明治神宮前〈原宿〉",
+        "poi_breakdown": {
+          "shop": 65,
+          "cafe": 11,
           "restaurant": 10
         },
         "nearby_names": [
-          "上島珈琲店",
-          "スターバックス",
-          "東急ストア",
-          "KARAKATTA",
-          "Re・Ra・Ka"
+          "Toni & Guy",
+          "Patagonia",
+          "Gregory",
+          "±0",
+          "R.Newbold"
         ]
       }
     },
@@ -42,34 +79,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.706586,
-          35.645986
+          139.704586,
+          35.659986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.645986,
-        "lon": 139.706586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 35.659986,
+        "lon": 139.704586,
+        "hidden_score": 0.936,
+        "poi_density": 0.887,
+        "pedestrian_space": 0.952,
         "station_distance_score": 1.0,
-        "station_distance_m": 216.1,
-        "poi_count": 24,
-        "ped_count": 25,
+        "station_distance_m": 222.5,
+        "poi_count": 59,
+        "ped_count": 49,
         "city": "Tokyo (Shibuya)",
-        "nearest_station": "恵比寿",
+        "nearest_station": "渋谷",
         "poi_breakdown": {
-          "shop": 5,
-          "restaurant": 16,
-          "cafe": 3
+          "cafe": 9,
+          "shop": 27,
+          "restaurant": 22,
+          "park": 1
         },
         "nearby_names": [
-          "ナチュラルローソン",
-          "ローソン",
-          "セブン-イレブン",
-          "Verita",
-          "恵比寿 47 kitchen"
+          "ちくちく",
+          "エクセルシオール",
+          "センタースポーツ",
+          "タパス＆タパス",
+          "大戸屋"
         ]
       }
     },
@@ -78,34 +116,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.700586,
-          35.646986
+          139.704586,
+          35.656986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.646986,
-        "lon": 139.700586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 35.656986,
+        "lon": 139.704586,
+        "hidden_score": 0.935,
+        "poi_density": 0.88,
+        "pedestrian_space": 0.956,
         "station_distance_score": 1.0,
-        "station_distance_m": 277.0,
-        "poi_count": 26,
-        "ped_count": 26,
+        "station_distance_m": 226.5,
+        "poi_count": 57,
+        "ped_count": 50,
         "city": "Tokyo (Shibuya)",
-        "nearest_station": "代官山",
+        "nearest_station": "渋谷",
         "poi_breakdown": {
           "shop": 19,
-          "restaurant": 4,
-          "cafe": 3
+          "cafe": 8,
+          "restaurant": 28,
+          "park": 2
         },
         "nearby_names": [
-          "KARTE",
-          "Via Bus Stop",
-          "Via bus stop",
-          "5351",
-          "HOLLYWOOD RANCH MARKET"
+          "ローソン",
+          "カフェ・ベローチェ",
+          "ドトールコーヒーショップ",
+          "カフェ・ド・クリエ",
+          "ローソン"
         ]
       }
     },
@@ -115,33 +154,34 @@
         "type": "Point",
         "coordinates": [
           139.701586,
-          35.646986
+          35.662986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.646986,
+        "lat": 35.662986,
         "lon": 139.701586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "hidden_score": 0.929,
+        "poi_density": 0.86,
+        "pedestrian_space": 0.961,
         "station_distance_score": 1.0,
-        "station_distance_m": 201.8,
-        "poi_count": 37,
-        "ped_count": 26,
+        "station_distance_m": 389.1,
+        "poi_count": 52,
+        "ped_count": 51,
         "city": "Tokyo (Shibuya)",
-        "nearest_station": "代官山",
+        "nearest_station": "渋谷",
         "poi_breakdown": {
-          "shop": 24,
+          "shop": 28,
+          "cafe": 13,
           "restaurant": 9,
-          "cafe": 4
+          "park": 2
         },
         "nearby_names": [
-          "Via Bus Stop",
-          "Via bus stop",
-          "5351",
-          "HOLLYWOOD RANCH MARKET",
-          "メゾン・イチ 代官山"
+          "Momotaro Jeans",
+          "RINKAN",
+          "KAPELMUUR",
+          "ABCマート",
+          "Stormy"
         ]
       }
     },
@@ -150,144 +190,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.711586,
-          35.646986
+          139.705586,
+          35.665986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.646986,
-        "lon": 139.711586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 35.665986,
+        "lon": 139.705586,
+        "hidden_score": 0.927,
+        "poi_density": 0.952,
+        "pedestrian_space": 0.865,
         "station_distance_score": 1.0,
-        "station_distance_m": 265.7,
-        "poi_count": 24,
-        "ped_count": 13,
+        "station_distance_m": 271.6,
+        "poi_count": 80,
+        "ped_count": 34,
         "city": "Tokyo (Shibuya)",
-        "nearest_station": "恵比寿",
+        "nearest_station": "明治神宮前〈原宿〉",
         "poi_breakdown": {
-          "shop": 10,
-          "cafe": 6,
-          "restaurant": 7,
-          "park": 1
+          "shop": 58,
+          "cafe": 16,
+          "restaurant": 6
         },
         "nearby_names": [
-          "セブン-イレブン",
-          "The Alley Lujiaoxiang",
-          "八兵衛",
-          "glo express",
-          "猿田彦珈琲"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.699586,
-          35.647986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.647986,
-        "lon": 139.699586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 335.5,
-        "poi_count": 24,
-        "ped_count": 33,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "代官山",
-        "poi_breakdown": {
-          "restaurant": 2,
-          "cafe": 6,
-          "shop": 16
-        },
-        "nearby_names": [
-          "IVY PLACE",
-          "スターバックス",
-          "Motovelo",
-          "蔦屋書店",
-          "Via bus stop"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700586,
-          35.647986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.647986,
-        "lon": 139.700586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 245.3,
-        "poi_count": 57,
-        "ped_count": 41,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "代官山",
-        "poi_breakdown": {
-          "cafe": 8,
-          "shop": 42,
-          "restaurant": 7
-        },
-        "nearby_names": [
-          "スターバックス",
-          "Motovelo",
-          "蔦屋書店",
-          "メゾン ichi",
-          "Via Bus Stop"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.710586,
-          35.647986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.647986,
-        "lon": 139.710586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 208.4,
-        "poi_count": 51,
-        "ped_count": 44,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "恵比寿",
-        "poi_breakdown": {
-          "shop": 19,
-          "restaurant": 20,
-          "cafe": 11,
-          "park": 1
-        },
-        "nearby_names": [
+          "Toni & Guy",
           "ファミリーマート",
-          "ローソン",
-          "ローソン",
-          "YOSHIHARA",
-          "えびす飯店"
+          "Gregory",
+          "±0",
+          "R.Newbold"
         ]
       }
     },
@@ -296,71 +226,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.711586,
-          35.647986
+          139.705586,
+          35.659986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.647986,
-        "lon": 139.711586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 35.659986,
+        "lon": 139.705586,
+        "hidden_score": 0.926,
+        "poi_density": 0.872,
+        "pedestrian_space": 0.942,
         "station_distance_score": 1.0,
-        "station_distance_m": 288.6,
-        "poi_count": 40,
-        "ped_count": 25,
+        "station_distance_m": 301.1,
+        "poi_count": 55,
+        "ped_count": 47,
         "city": "Tokyo (Shibuya)",
-        "nearest_station": "恵比寿",
+        "nearest_station": "渋谷",
         "poi_breakdown": {
-          "shop": 15,
-          "restaurant": 17,
-          "cafe": 7,
-          "park": 1
+          "cafe": 11,
+          "shop": 25,
+          "restaurant": 19
         },
         "nearby_names": [
-          "ローソン",
-          "YOSHIHARA",
-          "えびす飯店",
-          "セブン-イレブン",
-          "The Alley Lujiaoxiang"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.699586,
-          35.648986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.648986,
-        "lon": 139.699586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 347.4,
-        "poi_count": 26,
-        "ped_count": 42,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "代官山",
-        "poi_breakdown": {
-          "restaurant": 5,
-          "cafe": 5,
-          "shop": 16
-        },
-        "nearby_names": [
-          "IVY PLACE",
           "スターバックス",
-          "Motovelo",
-          "蔦屋書店",
-          "シェリュイ"
+          "ファミリーマート",
+          "ソフトバンクショップ",
+          "AOKI",
+          "ドトールコーヒーショップ"
         ]
       }
     },
@@ -377,9 +270,9 @@
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
         "lat": 35.648986,
         "lon": 139.700586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "hidden_score": 0.922,
+        "poi_density": 0.868,
+        "pedestrian_space": 0.937,
         "station_distance_score": 1.0,
         "station_distance_m": 261.4,
         "poi_count": 54,
@@ -406,146 +299,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.708586,
-          35.648986
+          139.702586,
+          35.661986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.648986,
-        "lon": 139.708586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 35.661986,
+        "lon": 139.702586,
+        "hidden_score": 0.918,
+        "poi_density": 0.839,
+        "pedestrian_space": 0.956,
         "station_distance_score": 1.0,
-        "station_distance_m": 223.9,
-        "poi_count": 23,
-        "ped_count": 30,
+        "station_distance_m": 281.9,
+        "poi_count": 47,
+        "ped_count": 50,
         "city": "Tokyo (Shibuya)",
-        "nearest_station": "恵比寿",
+        "nearest_station": "渋谷",
         "poi_breakdown": {
-          "shop": 13,
-          "restaurant": 7,
-          "cafe": 2,
-          "park": 1
-        },
-        "nearby_names": [
-          "peacock",
-          "ファミリーマート",
-          "ローソン",
-          "ファミリーマート",
-          "ソフトバンクショップ"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.709586,
-          35.648986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.648986,
-        "lon": 139.709586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 239.4,
-        "poi_count": 38,
-        "ped_count": 36,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "恵比寿",
-        "poi_breakdown": {
-          "shop": 17,
-          "restaurant": 16,
-          "cafe": 4,
-          "park": 1
-        },
-        "nearby_names": [
-          "peacock",
-          "ファミリーマート",
-          "ローソン",
-          "ファミリーマート",
-          "YOSHIHARA"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.710586,
-          35.648986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.648986,
-        "lon": 139.710586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 284.3,
-        "poi_count": 38,
-        "ped_count": 27,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "恵比寿",
-        "poi_breakdown": {
-          "shop": 12,
-          "restaurant": 19,
-          "cafe": 5,
+          "shop": 26,
+          "cafe": 10,
+          "restaurant": 9,
           "park": 2
         },
         "nearby_names": [
-          "ローソン",
-          "ローソン",
-          "YOSHIHARA",
-          "えびす飯店",
-          "セブン-イレブン"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.711586,
-          35.648986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.648986,
-        "lon": 139.711586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 347.4,
-        "poi_count": 29,
-        "ped_count": 24,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "恵比寿",
-        "poi_breakdown": {
-          "shop": 6,
-          "restaurant": 19,
-          "cafe": 3,
-          "park": 1
-        },
-        "nearby_names": [
-          "ローソン",
-          "YOSHIHARA",
-          "えびす飯店",
-          "セブン-イレブン",
-          "五右衛門"
+          "ファミリーマート",
+          "山崎伊久江美容室",
+          "Freeman Cafe",
+          "nijumaru",
+          "Suit Select"
         ]
       }
     },
@@ -555,71 +337,33 @@
         "type": "Point",
         "coordinates": [
           139.700586,
-          35.649986
+          35.647986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.649986,
+        "lat": 35.647986,
         "lon": 139.700586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "hidden_score": 0.916,
+        "poi_density": 0.88,
+        "pedestrian_space": 0.909,
         "station_distance_score": 1.0,
-        "station_distance_m": 318.1,
-        "poi_count": 20,
-        "ped_count": 29,
+        "station_distance_m": 245.3,
+        "poi_count": 57,
+        "ped_count": 41,
         "city": "Tokyo (Shibuya)",
         "nearest_station": "代官山",
         "poi_breakdown": {
-          "restaurant": 4,
-          "cafe": 2,
-          "shop": 13,
-          "park": 1
+          "cafe": 8,
+          "shop": 42,
+          "restaurant": 7
         },
         "nearby_names": [
-          "IVY PLACE",
           "スターバックス",
           "Motovelo",
-          "シェリュイ",
-          "Okura"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.701586,
-          35.649986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.649986,
-        "lon": 139.701586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 255.3,
-        "poi_count": 26,
-        "ped_count": 24,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "代官山",
-        "poi_breakdown": {
-          "shop": 19,
-          "restaurant": 4,
-          "cafe": 2,
-          "park": 1
-        },
-        "nearby_names": [
-          "Motovelo",
-          "シェリュイ",
-          "Okura",
-          "Okura",
-          "Plural"
+          "蔦屋書店",
+          "メゾン ichi",
+          "Via Bus Stop"
         ]
       }
     },
@@ -629,33 +373,34 @@
         "type": "Point",
         "coordinates": [
           139.703586,
-          35.649986
+          35.660986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.649986,
+        "lat": 35.660986,
         "lon": 139.703586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "hidden_score": 0.914,
+        "poi_density": 0.894,
+        "pedestrian_space": 0.891,
         "station_distance_score": 1.0,
-        "station_distance_m": 205.2,
-        "poi_count": 22,
-        "ped_count": 23,
+        "station_distance_m": 220.4,
+        "poi_count": 61,
+        "ped_count": 38,
         "city": "Tokyo (Shibuya)",
-        "nearest_station": "代官山",
+        "nearest_station": "渋谷",
         "poi_breakdown": {
-          "shop": 13,
-          "cafe": 7,
-          "restaurant": 2
+          "restaurant": 18,
+          "shop": 31,
+          "cafe": 11,
+          "park": 1
         },
         "nearby_names": [
-          "セブン-イレブン",
-          "BULB",
-          "Belveder",
-          "F.i.n.t",
-          "GUITAR TRADER"
+          "Kura",
+          "おおき",
+          "ととどん",
+          "ササキ理容室",
+          "ファミリーマート"
         ]
       }
     },
@@ -664,34 +409,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.692586,
-          35.654986
+          139.710586,
+          35.647986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.654986,
-        "lon": 139.692586,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 35.647986,
+        "lon": 139.710586,
+        "hidden_score": 0.913,
+        "poi_density": 0.856,
+        "pedestrian_space": 0.926,
         "station_distance_score": 1.0,
-        "station_distance_m": 260.9,
-        "poi_count": 21,
-        "ped_count": 28,
+        "station_distance_m": 208.4,
+        "poi_count": 51,
+        "ped_count": 44,
         "city": "Tokyo (Shibuya)",
-        "nearest_station": "神泉",
+        "nearest_station": "恵比寿",
         "poi_breakdown": {
-          "shop": 5,
-          "restaurant": 15,
+          "shop": 19,
+          "restaurant": 20,
+          "cafe": 11,
           "park": 1
         },
         "nearby_names": [
           "ファミリーマート",
-          "ナチュラルローソン",
-          "三百屋",
-          "たもいやんせ",
-          "喜道庵"
+          "ローソン",
+          "ローソン",
+          "YOSHIHARA",
+          "えびす飯店"
         ]
       }
     },
@@ -700,35 +446,288 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.693586,
-          35.654986
+          139.705586,
+          35.660986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.654986,
-        "lon": 139.693586,
-        "hidden_score": 1.0,
+        "lat": 35.660986,
+        "lon": 139.705586,
+        "hidden_score": 0.909,
+        "poi_density": 0.864,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 1.0,
+        "station_distance_m": 359.7,
+        "poi_count": 53,
+        "ped_count": 41,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 27,
+          "restaurant": 17,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "Beacon",
+          "AOKI",
+          "ドトールコーヒーショップ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706586,
+          35.665986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.665986,
+        "lon": 139.706586,
+        "hidden_score": 0.902,
+        "poi_density": 0.898,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 293.1,
+        "poi_count": 62,
+        "ped_count": 33,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "明治神宮前〈原宿〉",
+        "poi_breakdown": {
+          "shop": 45,
+          "cafe": 12,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "スターバックス",
+          "Adidas",
+          "Ragtag",
+          "DKNY",
+          "Oakley"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701586,
+          35.660986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.660986,
+        "lon": 139.701586,
+        "hidden_score": 0.9,
         "poi_density": 1.0,
         "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 248.1,
-        "poi_count": 22,
-        "ped_count": 30,
+        "station_distance_score": 0.5,
+        "station_distance_m": 168.8,
+        "poi_count": 100,
+        "ped_count": 66,
         "city": "Tokyo (Shibuya)",
-        "nearest_station": "神泉",
+        "nearest_station": "渋谷",
         "poi_breakdown": {
-          "cafe": 1,
-          "shop": 5,
-          "restaurant": 15,
+          "shop": 53,
+          "restaurant": 30,
+          "cafe": 16,
           "park": 1
         },
         "nearby_names": [
-          "MORIVA COFFEE",
-          "ナチュラルローソン",
-          "セブン-イレブン",
-          "三百屋",
-          "たもいやんせ"
+          "ビックカメラ",
+          "渋谷のんべい横丁",
+          "餃子の王将",
+          "shel'tter",
+          "Kura"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706586,
+          35.659986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.659986,
+        "lon": 139.706586,
+        "hidden_score": 0.897,
+        "poi_density": 0.891,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 378.9,
+        "poi_count": 60,
+        "ped_count": 32,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 28,
+          "cafe": 11,
+          "restaurant": 21
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "ドトールコーヒーショップ",
+          "Addu Mamma",
+          "カフェ・ベローチェ",
+          "タパスタパス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696586,
+          35.659986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.659986,
+        "lon": 139.696586,
+        "hidden_score": 0.894,
+        "poi_density": 0.952,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 282.9,
+        "poi_count": 80,
+        "ped_count": 24,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "restaurant": 44,
+          "shop": 27,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ガスト",
+          "Shibuya G'Club",
+          "キタムラ",
+          "ウィルコムプラザ渋谷",
+          "エーコー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706586,
+          35.660986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.660986,
+        "lon": 139.706586,
+        "hidden_score": 0.893,
+        "poi_density": 0.898,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 434.6,
+        "poi_count": 62,
+        "ped_count": 30,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 27,
+          "restaurant": 24,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "Beacon",
+          "ドトールコーヒーショップ",
+          "Addu Mamma",
+          "カフェ・ベローチェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702586,
+          35.662986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.662986,
+        "lon": 139.702586,
+        "hidden_score": 0.888,
+        "poi_density": 0.782,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 1.0,
+        "station_distance_m": 391.5,
+        "poi_count": 36,
+        "ped_count": 46,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 18,
+          "cafe": 8,
+          "restaurant": 7,
+          "park": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "Momotaro Jeans",
+          "reric渋谷",
+          "Streamer Coffee Company",
+          "KAPELMUUR"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704586,
+          35.660986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.660986,
+        "lon": 139.704586,
+        "hidden_score": 0.886,
+        "poi_density": 0.83,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 288.2,
+        "poi_count": 45,
+        "ped_count": 37,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "cafe": 6,
+          "shop": 24,
+          "restaurant": 15
+        },
+        "nearby_names": [
+          "ちくちく",
+          "ソフトバンクショップ",
+          "AOKI",
+          "ドトールコーヒーショップ",
+          "ローソン"
         ]
       }
     },
@@ -738,33 +737,69 @@
         "type": "Point",
         "coordinates": [
           135.505286,
-          34.650686
+          34.659686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.650686,
+        "lat": 34.659686,
         "lon": 135.505286,
         "hidden_score": 1.0,
         "poi_density": 1.0,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 238.5,
-        "poi_count": 44,
-        "ped_count": 17,
+        "station_distance_m": 455.9,
+        "poi_count": 106,
+        "ped_count": 72,
         "city": "Osaka (Namba)",
-        "nearest_station": "新今宮駅前",
+        "nearest_station": "恵美須町",
         "poi_breakdown": {
-          "shop": 12,
-          "restaurant": 31,
-          "cafe": 1
+          "shop": 77,
+          "restaurant": 16,
+          "cafe": 13
         },
         "nearby_names": [
-          "デイリーヤマザキ",
-          "串カツ横綱",
-          "餃子の王将",
-          "鶴亀家",
-          "エビス"
+          "ソフトバンク",
+          "ソフトバンクショップ",
+          "Disc J.J.",
+          "Super Kids Land",
+          "PCワンズ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.658686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.658686,
+        "lon": 135.505286,
+        "hidden_score": 0.984,
+        "poi_density": 0.96,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 345.1,
+        "poi_count": 83,
+        "ped_count": 83,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 54,
+          "restaurant": 20,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "Disc J.J.",
+          "Super Kids Land",
+          "PCワンズ",
+          "一真道"
         ]
       }
     },
@@ -774,33 +809,33 @@
         "type": "Point",
         "coordinates": [
           135.506286,
-          34.650686
+          34.659686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.650686,
+        "lat": 34.659686,
         "lon": 135.506286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "hidden_score": 0.98,
+        "poi_density": 0.949,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 315.1,
-        "poi_count": 39,
-        "ped_count": 18,
+        "station_distance_m": 458.1,
+        "poi_count": 79,
+        "ped_count": 67,
         "city": "Osaka (Namba)",
-        "nearest_station": "新今宮駅前",
+        "nearest_station": "恵美須町",
         "poi_breakdown": {
-          "restaurant": 32,
-          "shop": 6,
-          "cafe": 1
+          "shop": 53,
+          "cafe": 10,
+          "restaurant": 16
         },
         "nearby_names": [
-          "串カツ横綱",
-          "餃子の王将",
-          "鶴亀家",
-          "エビス",
-          "串かつだるま"
+          "ソフトバンク",
+          "ソフトバンクショップ",
+          "Disc J.J.",
+          "Super Kids Land",
+          "PCワンズ"
         ]
       }
     },
@@ -809,34 +844,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.507286,
-          34.650686
+          135.500286,
+          34.672686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.650686,
-        "lon": 135.507286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 34.672686,
+        "lon": 135.500286,
+        "hidden_score": 0.98,
+        "poi_density": 0.963,
+        "pedestrian_space": 0.988,
         "station_distance_score": 1.0,
-        "station_distance_m": 398.0,
-        "poi_count": 26,
-        "ped_count": 21,
+        "station_distance_m": 203.7,
+        "poi_count": 84,
+        "ped_count": 57,
         "city": "Osaka (Namba)",
-        "nearest_station": "新今宮駅前",
+        "nearest_station": "心斎橋",
         "poi_breakdown": {
-          "restaurant": 21,
-          "cafe": 1,
-          "shop": 4
+          "shop": 59,
+          "restaurant": 16,
+          "cafe": 9
         },
         "nearby_names": [
-          "餃子の王将",
-          "串かつだるま",
-          "夕コ天閣 新世界本店",
-          "あぶらや",
-          "近江屋 本店(ふわふわ串カツ)"
+          "ファミリーマート",
+          "ABC-Mart",
+          "ドコモショップ",
+          "クエスチョンマーク",
+          "BABYDOLL"
         ]
       }
     },
@@ -845,69 +880,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.504286,
-          34.651686
+          135.501286,
+          34.672686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.651686,
-        "lon": 135.504286,
-        "hidden_score": 1.0,
+        "lat": 34.672686,
+        "lon": 135.501286,
+        "hidden_score": 0.979,
         "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "pedestrian_space": 0.947,
         "station_distance_score": 1.0,
-        "station_distance_m": 277.2,
-        "poi_count": 22,
-        "ped_count": 15,
+        "station_distance_m": 220.6,
+        "poi_count": 100,
+        "ped_count": 48,
         "city": "Osaka (Namba)",
-        "nearest_station": "新今宮駅前",
+        "nearest_station": "心斎橋",
         "poi_breakdown": {
-          "restaurant": 12,
-          "shop": 7,
-          "cafe": 3
+          "shop": 73,
+          "restaurant": 19,
+          "cafe": 8
         },
         "nearby_names": [
-          "つけ鴨うどん",
-          "エビスサイクル",
-          "デイリーヤマザキ",
-          "串カツ横綱",
-          "鶴亀家"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.505286,
-          34.651686
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.651686,
-        "lon": 135.505286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 320.2,
-        "poi_count": 49,
-        "ped_count": 24,
-        "city": "Osaka (Namba)",
-        "nearest_station": "新今宮駅前",
-        "poi_breakdown": {
-          "restaurant": 30,
-          "shop": 12,
-          "cafe": 7
-        },
-        "nearby_names": [
-          "つけ鴨うどん",
-          "エビスサイクル",
-          "デイリーヤマザキ",
-          "串カツ横綱",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ABC-Mart",
+          "ドコモショップ",
           "餃子の王将"
         ]
       }
@@ -917,178 +916,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.506286,
-          34.651686
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.651686,
-        "lon": 135.506286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 380.6,
-        "poi_count": 57,
-        "ped_count": 26,
-        "city": "Osaka (Namba)",
-        "nearest_station": "新今宮駅前",
-        "poi_breakdown": {
-          "restaurant": 36,
-          "shop": 14,
-          "cafe": 7
-        },
-        "nearby_names": [
-          "つけ鴨うどん",
-          "串カツ横綱",
-          "餃子の王将",
-          "鶴亀家",
-          "エビス"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.507286,
-          34.651686
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.651686,
-        "lon": 135.507286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 451.7,
-        "poi_count": 37,
-        "ped_count": 28,
-        "city": "Osaka (Namba)",
-        "nearest_station": "新今宮駅前",
-        "poi_breakdown": {
-          "restaurant": 26,
-          "shop": 8,
-          "cafe": 3
-        },
-        "nearby_names": [
-          "餃子の王将",
-          "鶴亀家",
-          "エビス",
-          "タワーナイブズ",
-          "串かつだるま"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.505286,
-          34.652686
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.652686,
-        "lon": 135.505286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 325.6,
-        "poi_count": 40,
-        "ped_count": 34,
-        "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
-        "poi_breakdown": {
-          "restaurant": 18,
-          "shop": 14,
-          "cafe": 8
-        },
-        "nearby_names": [
-          "つけ鴨うどん",
-          "エビスサイクル",
-          "鶴亀家",
-          "桜苑",
-          "ROKU鮮"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.506286,
-          34.652686
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.652686,
-        "lon": 135.506286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 328.7,
-        "poi_count": 40,
-        "ped_count": 33,
-        "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
-        "poi_breakdown": {
-          "restaurant": 19,
-          "shop": 13,
-          "cafe": 8
-        },
-        "nearby_names": [
-          "つけ鴨うどん",
-          "エビスサイクル",
-          "鶴亀家",
-          "桜苑",
-          "ROKU鮮"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           135.504286,
-          34.653686
+          34.662686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.653686,
+        "lat": 34.662686,
         "lon": 135.504286,
-        "hidden_score": 1.0,
+        "hidden_score": 0.975,
         "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "pedestrian_space": 0.937,
         "station_distance_score": 1.0,
-        "station_distance_m": 247.1,
-        "poi_count": 21,
-        "ped_count": 32,
+        "station_distance_m": 254.0,
+        "poi_count": 110,
+        "ped_count": 46,
         "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
+        "nearest_station": "難波",
         "poi_breakdown": {
-          "shop": 10,
-          "restaurant": 7,
-          "cafe": 4
+          "shop": 63,
+          "restaurant": 27,
+          "cafe": 19,
+          "park": 1
         },
         "nearby_names": [
-          "ファミリーマート",
+          "ドスパラ",
+          "リンガーハット",
+          "ダイソー",
           "ローソン",
-          "らーめん亀王",
-          "エビスサイクル",
-          "スーパー玉出"
+          "カフェ・ベローチェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.666686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.666686,
+        "lon": 135.503286,
+        "hidden_score": 0.974,
+        "poi_density": 0.96,
+        "pedestrian_space": 0.975,
+        "station_distance_score": 1.0,
+        "station_distance_m": 222.1,
+        "poi_count": 83,
+        "ped_count": 54,
+        "city": "Osaka (Namba)",
+        "nearest_station": "近鉄日本橋",
+        "poi_breakdown": {
+          "shop": 13,
+          "restaurant": 62,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "正宗屋",
+          "三田製麺所",
+          "鶴橋アジヨシ",
+          "いちびり庵"
         ]
       }
     },
@@ -1098,33 +990,33 @@
         "type": "Point",
         "coordinates": [
           135.505286,
-          34.653686
+          34.660686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.653686,
+        "lat": 34.660686,
         "lon": 135.505286,
-        "hidden_score": 1.0,
+        "hidden_score": 0.97,
         "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "pedestrian_space": 0.926,
         "station_distance_score": 1.0,
-        "station_distance_m": 215.4,
-        "poi_count": 38,
-        "ped_count": 43,
+        "station_distance_m": 461.1,
+        "poi_count": 112,
+        "ped_count": 44,
         "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
+        "nearest_station": "難波",
         "poi_breakdown": {
-          "shop": 14,
-          "restaurant": 17,
-          "cafe": 7
+          "shop": 84,
+          "cafe": 17,
+          "restaurant": 11
         },
         "nearby_names": [
-          "ファミリーマート",
-          "らーめん亀王",
-          "エビスサイクル",
-          "甲州麺",
-          "桜苑"
+          "セブン-イレブン",
+          "ソフトバンクショップ",
+          "Disc J.J.",
+          "ケイ・ブックス",
+          "KARAKUŞ"
         ]
       }
     },
@@ -1134,33 +1026,34 @@
         "type": "Point",
         "coordinates": [
           135.506286,
-          34.653686
+          34.658686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.653686,
+        "lat": 34.658686,
         "lon": 135.506286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "hidden_score": 0.966,
+        "poi_density": 0.914,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 220.1,
-        "poi_count": 30,
-        "ped_count": 47,
+        "station_distance_m": 348.1,
+        "poi_count": 67,
+        "ped_count": 74,
         "city": "Osaka (Namba)",
         "nearest_station": "恵美須町",
         "poi_breakdown": {
-          "restaurant": 12,
-          "shop": 11,
-          "cafe": 7
+          "shop": 43,
+          "restaurant": 17,
+          "cafe": 6,
+          "park": 1
         },
         "nearby_names": [
-          "らーめん亀王",
-          "桜苑",
-          "ROKU鮮",
-          "車屋",
-          "大阪王将"
+          "ソフトバンク",
+          "Disc J.J.",
+          "Super Kids Land",
+          "PCワンズ",
+          "つるまるうどん"
         ]
       }
     },
@@ -1169,34 +1062,70 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.504286,
-          34.657686
+          135.500286,
+          34.671686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.657686,
-        "lon": 135.504286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "lat": 34.671686,
+        "lon": 135.500286,
+        "hidden_score": 0.962,
+        "poi_density": 0.957,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 314.8,
+        "poi_count": 82,
+        "ped_count": 48,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 60,
+          "cafe": 7,
+          "restaurant": 15
+        },
+        "nearby_names": [
+          "ユニクロ",
+          "GU",
+          "ミニストップ",
+          "Green bar",
+          "はなまるうどん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.669686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.669686,
+        "lon": 135.499286,
+        "hidden_score": 0.96,
+        "poi_density": 0.901,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 264.2,
-        "poi_count": 32,
-        "ped_count": 55,
+        "station_distance_m": 273.9,
+        "poi_count": 63,
+        "ped_count": 71,
         "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
+        "nearest_station": "なんば",
         "poi_breakdown": {
-          "restaurant": 10,
-          "shop": 18,
+          "shop": 22,
+          "restaurant": 37,
           "cafe": 4
         },
         "nearby_names": [
-          "らーめん喜六",
-          "男靴",
-          "どんどん",
-          "塚口勇商店",
-          "山中阿弥陀堂"
+          "ローソン",
+          "ミニストップ",
+          "本陣",
+          "ローソン",
+          "おぼらだれん"
         ]
       }
     },
@@ -1213,8 +1142,8 @@
         "location_name": "Hidden Spot (Osaka (Namba))",
         "lat": 34.657686,
         "lon": 135.505286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "hidden_score": 0.958,
+        "poi_density": 0.894,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
         "station_distance_m": 234.8,
@@ -1249,8 +1178,8 @@
         "location_name": "Hidden Spot (Osaka (Namba))",
         "lat": 34.657686,
         "lon": 135.506286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "hidden_score": 0.955,
+        "poi_density": 0.887,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
         "station_distance_m": 239.1,
@@ -1278,35 +1207,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.507286,
-          34.657686
+          135.505286,
+          34.662686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.657686,
-        "lon": 135.507286,
-        "hidden_score": 1.0,
+        "lat": 34.662686,
+        "lon": 135.505286,
+        "hidden_score": 0.951,
         "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "pedestrian_space": 0.878,
         "station_distance_score": 1.0,
-        "station_distance_m": 275.6,
-        "poi_count": 25,
-        "ped_count": 38,
+        "station_distance_m": 339.0,
+        "poi_count": 101,
+        "ped_count": 36,
         "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
+        "nearest_station": "難波",
         "poi_breakdown": {
-          "restaurant": 5,
-          "shop": 17,
-          "cafe": 2,
-          "park": 1
+          "shop": 55,
+          "restaurant": 26,
+          "cafe": 20
         },
         "nearby_names": [
-          "CoCo壱番屋",
-          "つるまるうどん",
-          "上田無線",
-          "伊豆美",
-          "eイヤホン"
+          "ドスパラ",
+          "東京チカラめし",
+          "カフェ・ベローチェ",
+          "ドトールコーヒーショップ",
+          "KARAKUŞ"
         ]
       }
     },
@@ -1315,34 +1243,107 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.503286,
-          34.658686
+          135.504286,
+          34.659686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.658686,
-        "lon": 135.503286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 34.659686,
+        "lon": 135.504286,
+        "hidden_score": 0.95,
+        "poi_density": 0.96,
+        "pedestrian_space": 0.915,
         "station_distance_score": 1.0,
-        "station_distance_m": 406.5,
-        "poi_count": 25,
-        "ped_count": 49,
+        "station_distance_m": 471.7,
+        "poi_count": 83,
+        "ped_count": 42,
         "city": "Osaka (Namba)",
         "nearest_station": "恵美須町",
         "poi_breakdown": {
-          "restaurant": 6,
-          "shop": 13,
-          "cafe": 6
+          "shop": 59,
+          "restaurant": 13,
+          "cafe": 11
         },
         "nearby_names": [
-          "一真道",
-          "いつき商店",
-          "かね一機械工具",
-          "ファンハウス",
-          "気楽屋"
+          "ソフトバンク",
+          "ソフトバンクショップ",
+          "Super Kids Land",
+          "PCワンズ",
+          "一真道"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.661686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.661686,
+        "lon": 135.505286,
+        "hidden_score": 0.949,
+        "poi_density": 0.993,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 389.1,
+        "poi_count": 97,
+        "ped_count": 36,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 66,
+          "cafe": 20,
+          "restaurant": 11
+        },
+        "nearby_names": [
+          "ドスパラ",
+          "セブン-イレブン",
+          "ケイ・ブックス",
+          "KARAKUŞ",
+          "駿河屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.663686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.663686,
+        "lon": 135.504286,
+        "hidden_score": 0.943,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 229.7,
+        "poi_count": 129,
+        "ped_count": 33,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 60,
+          "restaurant": 50,
+          "cafe": 18,
+          "park": 1
+        },
+        "nearby_names": [
+          "ドスパラ",
+          "釜たけうどん",
+          "やよい軒",
+          "リンガーハット",
+          "ダイソー"
         ]
       }
     },
@@ -1359,8 +1360,8 @@
         "location_name": "Hidden Spot (Osaka (Namba))",
         "lat": 34.658686,
         "lon": 135.504286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "hidden_score": 0.941,
+        "poi_density": 0.852,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
         "station_distance_m": 365.8,
@@ -1387,71 +1388,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.505286,
-          34.658686
+          135.501286,
+          34.671686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.658686,
-        "lon": 135.505286,
-        "hidden_score": 1.0,
+        "lat": 34.671686,
+        "lon": 135.501286,
+        "hidden_score": 0.937,
         "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "pedestrian_space": 0.843,
         "station_distance_score": 1.0,
-        "station_distance_m": 345.1,
-        "poi_count": 83,
-        "ped_count": 83,
+        "station_distance_m": 326.1,
+        "poi_count": 105,
+        "ped_count": 31,
         "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
+        "nearest_station": "心斎橋",
         "poi_breakdown": {
-          "shop": 54,
-          "restaurant": 20,
-          "cafe": 9
-        },
-        "nearby_names": [
-          "ソフトバンク",
-          "Disc J.J.",
-          "Super Kids Land",
-          "PCワンズ",
-          "一真道"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.506286,
-          34.658686
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.658686,
-        "lon": 135.506286,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 348.1,
-        "poi_count": 67,
-        "ped_count": 74,
-        "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
-        "poi_breakdown": {
-          "shop": 43,
-          "restaurant": 17,
+          "shop": 66,
           "cafe": 6,
-          "park": 1
+          "restaurant": 33
         },
         "nearby_names": [
-          "ソフトバンク",
-          "Disc J.J.",
-          "Super Kids Land",
-          "PCワンズ",
-          "つるまるうどん"
+          "ユニクロ",
+          "GU",
+          "ファミリーマート",
+          "Green bar",
+          "はなまるうどん"
         ]
       }
     },
@@ -1460,34 +1424,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.901386,
-          35.157886
+          135.503286,
+          34.674686
         ]
       },
       "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.157886,
-        "lon": 136.901386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.674686,
+        "lon": 135.503286,
+        "hidden_score": 0.936,
+        "poi_density": 0.839,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 494.0,
-        "poi_count": 27,
-        "ped_count": 16,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "大須観音",
+        "station_distance_m": 268.6,
+        "poi_count": 47,
+        "ped_count": 60,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
         "poi_breakdown": {
-          "shop": 20,
-          "restaurant": 6,
-          "cafe": 1
+          "shop": 18,
+          "cafe": 2,
+          "restaurant": 27
         },
         "nearby_names": [
-          "銀のあん",
-          "飲飲13",
-          "イスタンブル",
-          "チチカカ",
-          "Notice"
+          "ファミリーマート",
+          "タリーズコーヒー",
+          "希望軒",
+          "ヒョンデカスタマーエクスペリエンスセンター 大阪",
+          "カワチ画材"
         ]
       }
     },
@@ -1496,34 +1460,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.900386,
-          35.158886
+          136.901882,
+          35.158382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.158886,
-        "lon": 136.900386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 35.158382,
+        "lon": 136.901882,
+        "hidden_score": 0.986,
+        "poi_density": 0.97,
+        "pedestrian_space": 0.996,
         "station_distance_score": 1.0,
-        "station_distance_m": 350.4,
-        "poi_count": 25,
-        "ped_count": 24,
+        "station_distance_m": 452.0,
+        "poi_count": 87,
+        "ped_count": 59,
         "city": "Nagoya (Sakae)",
-        "nearest_station": "大須観音",
+        "nearest_station": "上前津",
         "poi_breakdown": {
-          "shop": 20,
-          "restaurant": 4,
-          "park": 1
+          "shop": 68,
+          "restaurant": 15,
+          "cafe": 2,
+          "park": 2
         },
         "nearby_names": [
           "コメ兵",
           "コメ兵",
-          "大須ういろ",
-          "銀のあん",
-          "飲飲13"
+          "アミカ",
+          "末廣寿司",
+          "京民"
         ]
       }
     },
@@ -1532,107 +1497,107 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.901386,
-          35.158886
+          136.902882,
+          35.158382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.158886,
-        "lon": 136.901386,
-        "hidden_score": 1.0,
+        "lat": 35.158382,
+        "lon": 136.902882,
+        "hidden_score": 0.983,
         "poi_density": 1.0,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 364.7,
+        "poi_count": 101,
+        "ped_count": 50,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "上前津",
+        "poi_breakdown": {
+          "shop": 75,
+          "restaurant": 17,
+          "cafe": 7,
+          "park": 2
+        },
+        "nearby_names": [
+          "コメ兵",
+          "アミカ",
+          "NANI",
+          "末廣寿司",
+          "御幸亭"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.905882,
+          35.159382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.159382,
+        "lon": 136.905882,
+        "hidden_score": 0.979,
+        "poi_density": 0.947,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 411.7,
-        "poi_count": 48,
-        "ped_count": 32,
+        "station_distance_m": 235.3,
+        "poi_count": 78,
+        "ped_count": 68,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "上前津",
+        "poi_breakdown": {
+          "shop": 53,
+          "cafe": 7,
+          "restaurant": 17,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ドコモショップ",
+          "スターバックス",
+          "ファミリーマート",
+          "ロイヤルサウンドプラザ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.901882,
+          35.159382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.159382,
+        "lon": 136.901882,
+        "hidden_score": 0.958,
+        "poi_density": 0.944,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 413.4,
+        "poi_count": 77,
+        "ped_count": 49,
         "city": "Nagoya (Sakae)",
         "nearest_station": "大須観音",
         "poi_breakdown": {
-          "shop": 36,
-          "restaurant": 8,
-          "cafe": 1,
+          "shop": 57,
+          "restaurant": 13,
+          "cafe": 4,
           "park": 3
         },
         "nearby_names": [
           "コメ兵",
           "コメ兵",
-          "麺や 猿",
-          "大須ういろ",
-          "銀のあん"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.902386,
-          35.158886
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.158886,
-        "lon": 136.902386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 482.4,
-        "poi_count": 88,
-        "ped_count": 33,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "大須観音",
-        "poi_breakdown": {
-          "shop": 69,
-          "restaurant": 13,
-          "cafe": 4,
-          "park": 2
-        },
-        "nearby_names": [
-          "コメ兵",
-          "コメ兵",
-          "麺や 猿",
-          "銀のあん",
-          "大須ベーカリー"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.900386,
-          35.159886
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.159886,
-        "lon": 136.900386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 270.2,
-        "poi_count": 26,
-        "ped_count": 20,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "大須観音",
-        "poi_breakdown": {
-          "shop": 15,
-          "restaurant": 6,
-          "cafe": 3,
-          "park": 2
-        },
-        "nearby_names": [
-          "コメ兵",
-          "fro.nowhere",
-          "IO.",
+          "御幸亭",
           "麺や 猿",
           "大須ういろ"
         ]
@@ -1643,35 +1608,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.901386,
-          35.159886
+          136.904882,
+          35.159382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.159886,
-        "lon": 136.901386,
-        "hidden_score": 1.0,
+        "lat": 35.159382,
+        "lon": 136.904882,
+        "hidden_score": 0.951,
         "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "pedestrian_space": 0.878,
         "station_distance_score": 1.0,
-        "station_distance_m": 345.9,
-        "poi_count": 46,
-        "ped_count": 45,
+        "station_distance_m": 277.7,
+        "poi_count": 130,
+        "ped_count": 36,
         "city": "Nagoya (Sakae)",
-        "nearest_station": "大須観音",
+        "nearest_station": "上前津",
         "poi_breakdown": {
-          "shop": 31,
-          "restaurant": 7,
-          "cafe": 4,
-          "park": 4
+          "shop": 87,
+          "cafe": 13,
+          "restaurant": 29,
+          "park": 1
         },
         "nearby_names": [
-          "コメ兵",
-          "コメ兵",
-          "麺や 猿",
-          "大須ういろ",
-          "銀のあん"
+          "セブン-イレブン",
+          "ドコモショップ",
+          "スターバックス",
+          "高原",
+          "おおもり"
         ]
       }
     },
@@ -1680,32 +1645,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.902386,
-          35.159886
+          136.900882,
+          35.158382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.159886,
-        "lon": 136.902386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 35.158382,
+        "lon": 136.900882,
+        "hidden_score": 0.949,
+        "poi_density": 0.898,
+        "pedestrian_space": 0.975,
         "station_distance_score": 1.0,
-        "station_distance_m": 427.6,
-        "poi_count": 74,
-        "ped_count": 41,
+        "station_distance_m": 422.4,
+        "poi_count": 62,
+        "ped_count": 54,
         "city": "Nagoya (Sakae)",
         "nearest_station": "大須観音",
         "poi_breakdown": {
-          "shop": 59,
-          "restaurant": 6,
-          "cafe": 6,
-          "park": 3
+          "shop": 47,
+          "restaurant": 13,
+          "cafe": 2
         },
         "nearby_names": [
           "コメ兵",
           "コメ兵",
+          "アミカ",
+          "末廣寿司",
+          "京民"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.902882,
+          35.159382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.159382,
+        "lon": 136.902882,
+        "hidden_score": 0.943,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 412.6,
+        "poi_count": 119,
+        "ped_count": 33,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "上前津",
+        "poi_breakdown": {
+          "shop": 92,
+          "restaurant": 19,
+          "cafe": 5,
+          "park": 3
+        },
+        "nearby_names": [
+          "コメ兵",
+          "おおもり",
           "Panama Boy",
           "響 オーディオクラブ",
           "麺や 猿"
@@ -1717,35 +1718,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.905386,
-          35.159886
+          136.903882,
+          35.158382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.159886,
-        "lon": 136.905386,
-        "hidden_score": 1.0,
+        "lat": 35.158382,
+        "lon": 136.903882,
+        "hidden_score": 0.928,
         "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "pedestrian_space": 0.819,
         "station_distance_score": 1.0,
-        "station_distance_m": 464.3,
-        "poi_count": 82,
-        "ped_count": 48,
+        "station_distance_m": 279.5,
+        "poi_count": 116,
+        "ped_count": 28,
         "city": "Nagoya (Sakae)",
-        "nearest_station": "矢場町",
+        "nearest_station": "上前津",
         "poi_breakdown": {
-          "shop": 57,
-          "cafe": 5,
-          "restaurant": 19,
+          "restaurant": 24,
+          "shop": 78,
+          "cafe": 13,
           "park": 1
         },
         "nearby_names": [
-          "セブン-イレブン",
-          "ドコモショップ",
-          "ソフトバンク",
-          "高原",
-          "おおもり"
+          "NANI",
+          "AOKI",
+          "スギ薬局",
+          "歌志軒",
+          "TAKERU Cafe"
         ]
       }
     },
@@ -1754,34 +1755,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.906386,
-          35.159886
+          136.904882,
+          35.160382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.159886,
-        "lon": 136.906386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "lat": 35.160382,
+        "lon": 136.904882,
+        "hidden_score": 0.926,
+        "poi_density": 0.911,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 1.0,
+        "station_distance_m": 373.0,
+        "poi_count": 66,
+        "ped_count": 40,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "上前津",
+        "poi_breakdown": {
+          "shop": 49,
+          "cafe": 2,
+          "restaurant": 13,
+          "park": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ドコモショップ",
+          "高原",
+          "おおもり",
+          "ロイヤルサウンドプラザ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.905882,
+          35.160382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.160382,
+        "lon": 136.905882,
+        "hidden_score": 0.926,
+        "poi_density": 0.815,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 411.9,
-        "poi_count": 40,
-        "ped_count": 79,
+        "station_distance_m": 342.6,
+        "poi_count": 42,
+        "ped_count": 64,
         "city": "Nagoya (Sakae)",
-        "nearest_station": "矢場町",
+        "nearest_station": "上前津",
         "poi_breakdown": {
-          "shop": 28,
-          "restaurant": 11,
+          "restaurant": 10,
+          "shop": 31,
           "cafe": 1
         },
         "nearby_names": [
+          "みそかつ矢場とん",
           "セブン-イレブン",
           "ドコモショップ",
           "ソフトバンク",
-          "ロイヤルサウンドプラザ",
-          "三洋堂書店"
+          "ロイヤルサウンドプラザ"
         ]
       }
     },
@@ -1790,68 +1828,214 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.901386,
-          35.160886
+          136.901882,
+          35.157382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.160886,
-        "lon": 136.901386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "lat": 35.157382,
+        "lon": 136.901882,
+        "hidden_score": 0.921,
+        "poi_density": 0.86,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 1.0,
+        "station_distance_m": 437.9,
+        "poi_count": 52,
+        "ped_count": 47,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "上前津",
+        "poi_breakdown": {
+          "shop": 41,
+          "restaurant": 8,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "アミカ",
+          "末廣寿司",
+          "京民",
+          "かめいち",
+          "御幸亭"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.906882,
+          35.159382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.159382,
+        "lon": 136.906882,
+        "hidden_score": 0.911,
+        "poi_density": 0.776,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 307.5,
-        "poi_count": 24,
-        "ped_count": 39,
+        "station_distance_m": 223.9,
+        "poi_count": 35,
+        "ped_count": 93,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "上前津",
+        "poi_breakdown": {
+          "shop": 22,
+          "cafe": 5,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ドコモショップ",
+          "スターバックス",
+          "ロイヤルサウンドプラザ",
+          "ワキタ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.906882,
+          35.164382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.164382,
+        "lon": 136.906882,
+        "hidden_score": 0.906,
+        "poi_density": 0.776,
+        "pedestrian_space": 0.988,
+        "station_distance_score": 1.0,
+        "station_distance_m": 216.8,
+        "poi_count": 35,
+        "ped_count": 57,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "矢場町",
+        "poi_breakdown": {
+          "cafe": 1,
+          "restaurant": 2,
+          "shop": 31,
+          "park": 1
+        },
+        "nearby_names": [
+          "スターバックス",
+          "あつた蓬莱軒",
+          "草楽",
+          "Apple Store",
+          "HIROB"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.890882,
+          35.168382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.168382,
+        "lon": 136.890882,
+        "hidden_score": 0.9,
+        "poi_density": 0.751,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 434.8,
+        "poi_count": 31,
+        "ped_count": 102,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "国際センター",
+        "poi_breakdown": {
+          "restaurant": 18,
+          "cafe": 3,
+          "shop": 8,
+          "park": 2
+        },
+        "nearby_names": [
+          "SHYRON",
+          "Midtown BBQ",
+          "YUJIAN’S KITCHEN",
+          "桃一",
+          "コメダ珈琲店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.905882,
+          35.168382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.168382,
+        "lon": 136.905882,
+        "hidden_score": 0.896,
+        "poi_density": 0.77,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 272.1,
+        "poi_count": 34,
+        "ped_count": 53,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "栄",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 25,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "スターバックス",
+          "タリーズコーヒー",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "Dr.MARI CLINIC"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.902882,
+          35.160382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.160382,
+        "lon": 136.902882,
+        "hidden_score": 0.895,
+        "poi_density": 0.88,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 452.5,
+        "poi_count": 57,
+        "ped_count": 33,
         "city": "Nagoya (Sakae)",
         "nearest_station": "大須観音",
         "poi_breakdown": {
-          "shop": 12,
-          "cafe": 6,
-          "restaurant": 3,
+          "cafe": 7,
+          "restaurant": 7,
+          "shop": 40,
           "park": 3
         },
         "nearby_names": [
-          "セブン-イレブン",
-          "コメダ珈琲店",
-          "麺や 猿",
-          "Cafe Spoon",
-          "Kannon Coffee"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.902386,
-          35.160886
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.160886,
-        "lon": 136.902386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 397.2,
-        "poi_count": 34,
-        "ped_count": 35,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "大須観音",
-        "poi_breakdown": {
-          "shop": 25,
-          "cafe": 6,
-          "restaurant": 3
-        },
-        "nearby_names": [
-          "セブン-イレブン",
-          "コメダ珈琲店",
+          "高原",
+          "おおもり",
           "Panama Boy",
           "響 オーディオクラブ",
           "arne"
@@ -1863,35 +2047,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.903386,
-          35.160886
+          136.891882,
+          35.168382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.160886,
-        "lon": 136.903386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "lat": 35.168382,
+        "lon": 136.891882,
+        "hidden_score": 0.895,
+        "poi_density": 0.737,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 487.3,
-        "poi_count": 50,
-        "ped_count": 29,
+        "station_distance_m": 468.0,
+        "poi_count": 29,
+        "ped_count": 90,
         "city": "Nagoya (Sakae)",
-        "nearest_station": "大須観音",
+        "nearest_station": "国際センター",
         "poi_breakdown": {
-          "cafe": 5,
-          "restaurant": 4,
-          "shop": 40,
-          "park": 1
+          "restaurant": 17,
+          "cafe": 2,
+          "shop": 7,
+          "park": 3
         },
         "nearby_names": [
-          "高原",
-          "おおもり",
-          "タカラ屋",
-          "ハイファイ堂",
-          "Panama Boy"
+          "SHYRON",
+          "Midtown BBQ",
+          "YUJIAN’S KITCHEN",
+          "コメダ珈琲店",
+          "ミニストップ"
         ]
       }
     },
@@ -1900,145 +2084,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.904386,
-          35.160886
+          136.904882,
+          35.161382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.160886,
-        "lon": 136.904386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
+        "lat": 35.161382,
+        "lon": 136.904882,
+        "hidden_score": 0.893,
+        "poi_density": 0.776,
+        "pedestrian_space": 0.956,
         "station_distance_score": 1.0,
-        "station_distance_m": 459.6,
-        "poi_count": 54,
-        "ped_count": 22,
+        "station_distance_m": 392.8,
+        "poi_count": 35,
+        "ped_count": 50,
         "city": "Nagoya (Sakae)",
         "nearest_station": "矢場町",
         "poi_breakdown": {
+          "restaurant": 7,
           "cafe": 1,
-          "restaurant": 9,
-          "shop": 43,
-          "park": 1
-        },
-        "nearby_names": [
-          "高原",
-          "おおもり",
-          "三洋堂書店",
-          "タカラ屋",
-          "ハイファイ堂"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.905386,
-          35.160886
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.160886,
-        "lon": 136.905386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 385.7,
-        "poi_count": 43,
-        "ped_count": 57,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "矢場町",
-        "poi_breakdown": {
-          "restaurant": 9,
-          "shop": 32,
-          "cafe": 1,
+          "shop": 26,
           "park": 1
         },
         "nearby_names": [
           "みそかつ矢場とん",
-          "セブン-イレブン",
-          "ドコモショップ",
-          "ソフトバンク",
-          "味仙"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.906386,
-          35.160886
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.160886,
-        "lon": 136.906386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 320.7,
-        "poi_count": 28,
-        "ped_count": 86,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "矢場町",
-        "poi_breakdown": {
-          "restaurant": 10,
-          "shop": 17,
-          "cafe": 1
-        },
-        "nearby_names": [
-          "みそかつ矢場とん",
-          "セブン-イレブン",
-          "ドコモショップ",
-          "ソフトバンク",
-          "味仙"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.906386,
-          35.162886
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.162886,
-        "lon": 136.906386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 208.3,
-        "poi_count": 25,
-        "ped_count": 63,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "矢場町",
-        "poi_breakdown": {
-          "restaurant": 5,
-          "shop": 18,
-          "cafe": 1,
-          "park": 1
-        },
-        "nearby_names": [
-          "みそかつ矢場とん",
-          "チケットステーション",
           "味仙",
-          "ローソン",
-          "パスタ デ ココ"
+          "高原",
+          "三洋堂書店",
+          "タカラ屋"
         ]
       }
     },
@@ -2047,108 +2121,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.911386,
-          35.162886
+          136.905882,
+          35.161382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.162886,
-        "lon": 136.911386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "lat": 35.161382,
+        "lon": 136.905882,
+        "hidden_score": 0.892,
+        "poi_density": 0.73,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 248.4,
-        "poi_count": 25,
-        "ped_count": 26,
+        "station_distance_m": 316.2,
+        "poi_count": 28,
+        "ped_count": 78,
         "city": "Nagoya (Sakae)",
         "nearest_station": "矢場町",
         "poi_breakdown": {
-          "shop": 15,
-          "restaurant": 5,
-          "cafe": 4,
-          "park": 1
+          "restaurant": 8,
+          "shop": 20
         },
         "nearby_names": [
-          "ローソン",
-          "ファミリーマート",
-          "MONA MACHO",
-          "桔梗常",
-          "すえひろ"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.896386,
-          35.163886
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.163886,
-        "lon": 136.896386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 315.6,
-        "poi_count": 27,
-        "ped_count": 10,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "大須観音",
-        "poi_breakdown": {
-          "shop": 10,
-          "restaurant": 10,
-          "cafe": 6,
-          "park": 1
-        },
-        "nearby_names": [
-          "ファミリーマート",
-          "IL GRANO",
-          "はなにしき",
-          "ファミリーマート",
-          "もうもう亭"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.903386,
-          35.163886
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.163886,
-        "lon": 136.903386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 488.0,
-        "poi_count": 24,
-        "ped_count": 16,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "矢場町",
-        "poi_breakdown": {
-          "shop": 10,
-          "cafe": 5,
-          "restaurant": 9
-        },
-        "nearby_names": [
-          "SEANT",
-          "サイクルジョイ",
+          "みそかつ矢場とん",
           "セブン-イレブン",
-          "クマカフェ",
-          "トラヴィス（メンズ服）"
+          "ドコモショップ",
+          "ソフトバンク",
+          "味仙"
         ]
       }
     },
@@ -2157,35 +2156,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.904386,
-          35.163886
+          136.907882,
+          35.165382
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.163886,
-        "lon": 136.904386,
-        "hidden_score": 1.0,
-        "poi_density": 1.0,
+        "lat": 35.165382,
+        "lon": 136.907882,
+        "hidden_score": 0.892,
+        "poi_density": 0.73,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 399.0,
-        "poi_count": 22,
-        "ped_count": 17,
+        "station_distance_m": 264.9,
+        "poi_count": 28,
+        "ped_count": 84,
         "city": "Nagoya (Sakae)",
         "nearest_station": "矢場町",
         "poi_breakdown": {
-          "shop": 12,
-          "cafe": 5,
-          "restaurant": 4,
-          "park": 1
+          "cafe": 3,
+          "restaurant": 3,
+          "shop": 22
         },
         "nearby_names": [
-          "SEANT",
-          "サイクルジョイ",
-          "セブン-イレブン",
-          "クマカフェ",
-          "ローソン"
+          "スターバックス",
+          "あつた蓬莱軒",
+          "草楽",
+          "Apple Store",
+          "山本屋総本家"
         ]
       }
     }

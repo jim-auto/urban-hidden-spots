@@ -34,6 +34,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          136.906699,
+          35.157374
+        ]
+      },
+      "properties": {
+        "osm_id": 5408459629,
+        "osm_type": "node",
+        "name": "上前津",
+        "category": "station",
+        "tags": {
+          "name": "上前津",
+          "name:en": "Kamimaezu",
+          "name:ja": "上前津",
+          "name:ko": "가미마에즈",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M03;T09",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp",
+          "wikidata": "Q862270"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           136.8967278,
           35.1749739
         ]
@@ -83,6 +112,34 @@
           "subway": "yes",
           "website": "https://www.kotsu.city.nagoya.jp/jp/pc/subway/station_top.html?name=%E4%BC%8F%E8%A6%8B",
           "wikidata": "Q862368"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.915338,
+          35.156192
+        ]
+      },
+      "properties": {
+        "osm_id": 5408576835,
+        "osm_type": "node",
+        "name": "鶴舞",
+        "category": "station",
+        "tags": {
+          "name": "鶴舞",
+          "name:en": "Tsurumai",
+          "name:ja": "鶴舞",
+          "network": "中央線",
+          "operator": "東海旅客鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp/jp/pc/subway/station_top.html?name=%E9%B6%B4%E8%88%9E"
         }
       }
     },
@@ -178,6 +235,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          136.9172966,
+          35.1562141
+        ]
+      },
+      "properties": {
+        "osm_id": 6067942950,
+        "osm_type": "node",
+        "name": "鶴舞",
+        "category": "station",
+        "tags": {
+          "name": "鶴舞",
+          "name:en": "Tsurumai",
+          "name:ja": "鶴舞",
+          "name:ko": "쓰루마이",
+          "operator:website": "https://jr-central.co.jp/",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CF02",
+          "source": "KSJ2",
+          "train": "yes",
+          "website": "https://railway.jr-central.co.jp/station-guide/tokai/tsurumai/index.html",
+          "wikidata": "Q855581",
+          "wikipedia": "ja:鶴舞駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           136.9081505,
           35.1737594
         ]
@@ -202,6 +290,37 @@
           "website": "https://www.kotsu.city.nagoya.jp",
           "wikidata": "Q858944",
           "wikipedia": "ja:久屋大通駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9294665,
+          35.1734351
+        ]
+      },
+      "properties": {
+        "osm_id": 7783663384,
+        "osm_type": "node",
+        "name": "車道",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "車道",
+          "name": "車道",
+          "name:en": "Kurumamichi",
+          "name:ja": "車道",
+          "name:ko": "구루마미치",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S07",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp",
+          "wikidata": "Q858916",
+          "wikipedia": "ja:車道駅"
         }
       }
     },
@@ -264,6 +383,40 @@
           "website": "https://www.kotsu.city.nagoya.jp",
           "wikidata": "Q854702",
           "wikipedia": "ja:丸の内駅 (愛知県)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8895686,
+          35.172142
+        ]
+      },
+      "properties": {
+        "osm_id": 7783665987,
+        "osm_type": "node",
+        "name": "国際センター",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "国際センター",
+          "alt_name:ko": "고쿠사이센터",
+          "name": "国際センター",
+          "name:en": "Kokusai Center (International Center)",
+          "name:ja": "国際センター",
+          "name:ko": "국제센터",
+          "operator": "名古屋市交通局",
+          "operator:website": "https://www.kotsu.city.nagoya.jp",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S03",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp/jp/pc/subway/station_top.html?name=%E5%9B%BD%E9%9A%9B%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "wikidata": "Q859016",
+          "wikipedia": "ja:国際センター駅 (愛知県)"
         }
       }
     },
@@ -339,6 +492,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          136.929897,
+          35.17065
+        ]
+      },
+      "properties": {
+        "osm_id": 7784263297,
+        "osm_type": "node",
+        "name": "千種",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "千草",
+          "name": "千種",
+          "name:en": "Chikusa",
+          "name:ja": "千種",
+          "name:ja-Hira": "ちくさ",
+          "name:ko": "지쿠사",
+          "operator": "名古屋市交通局",
+          "operator:website": "https://www.kotsu.city.nagoya.jp",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H12",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp/jp/pc/subway/station_top.html?name=%E5%8D%83%E7%A8%AE",
+          "wikidata": "Q863068",
+          "wikipedia": "ja:千種駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           136.9084681,
           35.1835055
         ]
@@ -403,6 +591,38 @@
           "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
           "wikidata": "Q7402752",
           "wikipedia": "ja:栄町駅 (愛知県)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.913736,
+          35.187173
+        ]
+      },
+      "properties": {
+        "osm_id": 7970589197,
+        "osm_type": "node",
+        "name": "清水",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "瀬戸線",
+          "KSJ2:STN": "清水",
+          "name": "清水",
+          "name:en": "Shimizu",
+          "name:ja": "清水",
+          "name:ko": "시미즈",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wikidata": "Q7496877",
+          "wikipedia": "ja:清水駅 (愛知県)"
         }
       }
     }

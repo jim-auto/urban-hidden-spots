@@ -154,42 +154,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.698586,
-          35.659986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.659986,
-        "lon": 139.698586,
-        "hidden_score": 0.983,
-        "poi_density": 1.0,
-        "pedestrian_space": 0.956,
-        "station_distance_score": 1.0,
-        "station_distance_m": 169.3,
-        "poi_count": 170,
-        "ped_count": 50,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "restaurant": 72,
-          "shop": 80,
-          "cafe": 18
-        },
-        "nearby_names": [
-          "不二家レストラン",
-          "Skechers",
-          "Viva - Street wear",
-          "大盛堂書店",
-          "兆楽"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.702586,
           35.660986
         ]
@@ -255,6 +219,42 @@
           "スターバックス",
           "BOTANIST",
           "Adidas"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700586,
+          35.656986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.656986,
+        "lon": 139.700586,
+        "hidden_score": 0.971,
+        "poi_density": 0.928,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 161.6,
+        "poi_count": 58,
+        "ped_count": 66,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "restaurant": 28,
+          "shop": 23,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ジョナサン",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "IKEBE JUNGLE GUITARS",
+          "Kirin City"
         ]
       }
     },
@@ -842,42 +842,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.697586,
-          35.658986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.658986,
-        "lon": 139.697586,
-        "hidden_score": 0.94,
-        "poi_density": 1.0,
-        "pedestrian_space": 0.851,
-        "station_distance_score": 1.0,
-        "station_distance_m": 150.7,
-        "poi_count": 109,
-        "ped_count": 32,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "shop": 35,
-          "restaurant": 67,
-          "cafe": 7
-        },
-        "nearby_names": [
-          "Shibuya G'Club",
-          "ユニクロ",
-          "啓文堂書店",
-          "イワキメガネ",
-          "ウィルコムプラザ渋谷"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.700586,
           35.648986
         ]
@@ -1207,78 +1171,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.697586,
-          35.657986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.657986,
-        "lon": 139.697586,
-        "hidden_score": 0.928,
-        "poi_density": 1.0,
-        "pedestrian_space": 0.819,
-        "station_distance_score": 1.0,
-        "station_distance_m": 154.8,
-        "poi_count": 85,
-        "ped_count": 28,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "shop": 25,
-          "restaurant": 59,
-          "cafe": 1
-        },
-        "nearby_names": [
-          "啓文堂書店",
-          "セブン-イレブン",
-          "イワキメガネ",
-          "ベビードール",
-          "ミニストップ"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.697586,
-          35.659986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.659986,
-        "lon": 139.697586,
-        "hidden_score": 0.928,
-        "poi_density": 1.0,
-        "pedestrian_space": 0.819,
-        "station_distance_score": 1.0,
-        "station_distance_m": 214.9,
-        "poi_count": 145,
-        "ped_count": 28,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "shop": 55,
-          "restaurant": 77,
-          "cafe": 13
-        },
-        "nearby_names": [
-          "Skechers",
-          "Viva - Street wear",
-          "兆楽",
-          "Shibuya G'Club",
-          "キタムラ"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.713586,
           35.664986
         ]
@@ -1451,6 +1343,42 @@
           "Motovelo",
           "メゾン ichi",
           "Via Bus Stop"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699586,
+          35.656986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.656986,
+        "lon": 139.699586,
+        "hidden_score": 0.92,
+        "poi_density": 0.834,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 176.6,
+        "poi_count": 38,
+        "ped_count": 52,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "shop": 15,
+          "cafe": 2,
+          "restaurant": 21
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "IKEBE JUNGLE GUITARS",
+          "Music Lnad Key",
+          "ファミリーマート"
         ]
       }
     },
@@ -1748,34 +1676,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.698586,
-          35.657986
+          139.701586,
+          35.655986
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.657986,
-        "lon": 139.698586,
-        "hidden_score": 0.901,
-        "poi_density": 1.0,
-        "pedestrian_space": 0.903,
-        "station_distance_score": 0.7,
-        "station_distance_m": 80.2,
-        "poi_count": 90,
-        "ped_count": 40,
+        "lat": 35.655986,
+        "lon": 139.701586,
+        "hidden_score": 0.9,
+        "poi_density": 0.899,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 233.3,
+        "poi_count": 51,
+        "ped_count": 32,
         "city": "Tokyo (Shibuya)",
         "nearest_station": "渋谷",
         "poi_breakdown": {
-          "shop": 28,
-          "cafe": 6,
-          "restaurant": 56
+          "restaurant": 27,
+          "shop": 18,
+          "cafe": 6
         },
         "nearby_names": [
-          "セブン-イレブン",
-          "啓文堂書店",
-          "イワキメガネ",
-          "ミニストップ",
-          "吉沢利工"
+          "ジョナサン",
+          "ファミリーマート",
+          "IKEBE JUNGLE GUITARS",
+          "Kirin City",
+          "Music Lnad Key"
         ]
       }
     },
@@ -2102,6 +2030,43 @@
           "南国酒家 迎賓館",
           "Lush",
           "hair&make lalma mit"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700586,
+          35.655986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.655986,
+        "lon": 139.700586,
+        "hidden_score": 0.89,
+        "poi_density": 0.822,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 1.0,
+        "station_distance_m": 256.0,
+        "poi_count": 36,
+        "ped_count": 40,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "restaurant": 20,
+          "shop": 11,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ジョナサン",
+          "ファミリーマート",
+          "IKEBE JUNGLE GUITARS",
+          "Kirin City",
+          "Music Lnad Key"
         ]
       }
     },
@@ -3783,42 +3748,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.698586,
-          35.658986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.658986,
-        "lon": 139.698586,
-        "hidden_score": 0.84,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 0.2,
-        "station_distance_m": 72.0,
-        "poi_count": 136,
-        "ped_count": 82,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "restaurant": 76,
-          "shop": 51,
-          "cafe": 9
-        },
-        "nearby_names": [
-          "不二家レストラン",
-          "Shibuya G'Club",
-          "ユニクロ",
-          "啓文堂書店",
-          "auショップ"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.712586,
           35.664986
         ]
@@ -4576,42 +4505,6 @@
           "takei",
           "パップハウス",
           "紅池"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.696586,
-          35.658986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shibuya))",
-        "lat": 35.658986,
-        "lon": 139.696586,
-        "hidden_score": 0.815,
-        "poi_density": 0.976,
-        "pedestrian_space": 0.56,
-        "station_distance_score": 1.0,
-        "station_distance_m": 237.8,
-        "poi_count": 72,
-        "ped_count": 9,
-        "city": "Tokyo (Shibuya)",
-        "nearest_station": "渋谷",
-        "poi_breakdown": {
-          "shop": 17,
-          "restaurant": 50,
-          "cafe": 5
-        },
-        "nearby_names": [
-          "イワキメガネ",
-          "ベビードール",
-          "角屋酒店",
-          "鳥佐",
-          "タリーズコーヒー"
         ]
       }
     },
@@ -5450,6 +5343,116 @@
           "ファミリーマート",
           "MORIVA COFFEE",
           "FabCafe"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704586,
+          35.668986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.668986,
+        "lon": 139.704586,
+        "hidden_score": 0.797,
+        "poi_density": 0.976,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 0.2,
+        "station_distance_m": 20.5,
+        "poi_count": 72,
+        "ped_count": 42,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "明治神宮前〈原宿〉",
+        "poi_breakdown": {
+          "shop": 36,
+          "restaurant": 24,
+          "cafe": 9,
+          "park": 3
+        },
+        "nearby_names": [
+          "Harry Potter",
+          "BOTANIST",
+          "南国酒家",
+          "ソフトバンクショップ",
+          "ジョナサン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703586,
+          35.649986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.649986,
+        "lon": 139.703586,
+        "hidden_score": 0.795,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 205.2,
+        "poi_count": 22,
+        "ped_count": 23,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "代官山",
+        "poi_breakdown": {
+          "shop": 13,
+          "cafe": 7,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "BULB",
+          "Belveder",
+          "F.i.n.t",
+          "GUITAR TRADER"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705586,
+          35.654986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shibuya))",
+        "lat": 35.654986,
+        "lon": 139.705586,
+        "hidden_score": 0.794,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 458.0,
+        "poi_count": 17,
+        "ped_count": 29,
+        "city": "Tokyo (Shibuya)",
+        "nearest_station": "渋谷",
+        "poi_breakdown": {
+          "cafe": 4,
+          "restaurant": 7,
+          "shop": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ベローチェ",
+          "ドトールコーヒーショップ",
+          "ターリー屋",
+          "ファミリーマート",
+          "魚料理　のじま"
         ]
       }
     }

@@ -150,6 +150,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.700686,
+          35.694586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.694586,
+        "lon": 139.700686,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 178.1,
+        "poi_count": 90,
+        "ped_count": 77,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "cafe": 8,
+          "shop": 26,
+          "restaurant": 56
+        },
+        "nearby_names": [
+          "ドトールコーヒーショップ",
+          "セブン-イレブン",
+          "すずや",
+          "松のや 西新宿店",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.697686,
           35.689586
         ]
@@ -577,42 +613,6 @@
           "Ginza Lion",
           "青山フラワーマーケット",
           "サンドラッグ"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.702686,
-          35.691586
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
-        "lat": 35.691586,
-        "lon": 139.702686,
-        "hidden_score": 0.94,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 0.7,
-        "station_distance_m": 134.3,
-        "poi_count": 144,
-        "ped_count": 179,
-        "city": "Tokyo (Shinjuku)",
-        "nearest_station": "新宿三丁目",
-        "poi_breakdown": {
-          "shop": 90,
-          "restaurant": 39,
-          "cafe": 15
-        },
-        "nearby_names": [
-          "ヨドバシカメラ",
-          "Barney's New York",
-          "ビックカメラ",
-          "大戸屋",
-          "Ginza Lion"
         ]
       }
     },
@@ -1666,43 +1666,6 @@
           "らんぶる",
           "ソフトバンクショップ",
           "スターバックス"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.701686,
-          35.688586
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
-        "lat": 35.688586,
-        "lon": 139.701686,
-        "hidden_score": 0.88,
-        "poi_density": 0.851,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 0.7,
-        "station_distance_m": 82.5,
-        "poi_count": 41,
-        "ped_count": 97,
-        "city": "Tokyo (Shinjuku)",
-        "nearest_station": "新宿",
-        "poi_breakdown": {
-          "shop": 22,
-          "cafe": 9,
-          "restaurant": 9,
-          "park": 1
-        },
-        "nearby_names": [
-          "高島屋",
-          "スターバックス",
-          "セブン-イレブン",
-          "L-Breath",
-          "Sports Lab"
         ]
       }
     },
@@ -3485,42 +3448,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.694686,
-          35.689586
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
-        "lat": 35.689586,
-        "lon": 139.694686,
-        "hidden_score": 0.813,
-        "poi_density": 0.546,
-        "pedestrian_space": 0.988,
-        "station_distance_score": 1.0,
-        "station_distance_m": 203.6,
-        "poi_count": 10,
-        "ped_count": 57,
-        "city": "Tokyo (Shinjuku)",
-        "nearest_station": "都庁前",
-        "poi_breakdown": {
-          "cafe": 4,
-          "shop": 4,
-          "restaurant": 2
-        },
-        "nearby_names": [
-          "エクセルシオール カフェ",
-          "auショップ",
-          "ローソン",
-          "サンマルクカフェ",
-          "セブン-イレブン"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.692686,
           35.686586
         ]
@@ -5052,6 +4979,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.690686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.690686,
+        "hidden_score": 0.774,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 192.1,
+        "poi_count": 7,
+        "ped_count": 51,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "shop": 2,
+          "restaurant": 1,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "東京都庁第一本庁舎32階職員食堂",
+          "むさしの森Diner 新宿中央公園店",
+          "スターバックス",
+          "新宿区立 新宿中央公園"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.693686,
           35.695586
         ]
@@ -5443,6 +5407,43 @@
           "Book Off Express",
           "チョウジヤ",
           "やよい軒"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705686,
+          35.680586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.680586,
+        "lon": 139.705686,
+        "hidden_score": 0.766,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 496.1,
+        "poi_count": 8,
+        "ped_count": 42,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "代々木",
+        "poi_breakdown": {
+          "shop": 3,
+          "cafe": 1,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "PRONTO",
+          "吉そば",
+          "セブン-イレブン",
+          "やっぱりおいしいごはんが一番"
         ]
       }
     }

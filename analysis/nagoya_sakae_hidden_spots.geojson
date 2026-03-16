@@ -4301,41 +4301,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.909882,
-          35.168382
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.168382,
-        "lon": 136.909882,
-        "hidden_score": 0.808,
-        "poi_density": 0.584,
-        "pedestrian_space": 0.937,
-        "station_distance_score": 1.0,
-        "station_distance_m": 160.9,
-        "poi_count": 12,
-        "ped_count": 46,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "栄",
-        "poi_breakdown": {
-          "shop": 7,
-          "restaurant": 5
-        },
-        "nearby_names": [
-          "デイリーヤマザキ",
-          "スギ薬局",
-          "セブン-イレブン",
-          "メガネの和光",
-          "マツモトキヨシ"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           136.897882,
           35.170382
         ]
@@ -5062,6 +5027,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          136.905882,
+          35.171382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.171382,
+        "lon": 136.905882,
+        "hidden_score": 0.797,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 280.5,
+        "poi_count": 17,
+        "ped_count": 30,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "栄町",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 2,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "デイリーヤマザキ",
+          "ファミリーマート",
+          "コーヒーショップカフェArtテラス",
+          "梅園"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           136.902882,
           35.173382
         ]
@@ -5206,6 +5207,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          136.903882,
+          35.170382
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Sakae))",
+        "lat": 35.170382,
+        "lon": 136.903882,
+        "hidden_score": 0.794,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 443.7,
+        "poi_count": 23,
+        "ped_count": 22,
+        "city": "Nagoya (Sakae)",
+        "nearest_station": "栄",
+        "poi_breakdown": {
+          "shop": 5,
+          "cafe": 1,
+          "restaurant": 17
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "デイリーヤマザキ",
+          "CAFE Bontain",
+          "えびすや",
+          "デイリーヤマザキ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           136.905882,
           35.176382
         ]
@@ -5269,42 +5306,6 @@
           "Carhartt",
           "piko",
           "Piedi"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.909882,
-          35.167382
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Sakae))",
-        "lat": 35.167382,
-        "lon": 136.909882,
-        "hidden_score": 0.792,
-        "poi_density": 0.565,
-        "pedestrian_space": 0.915,
-        "station_distance_score": 1.0,
-        "station_distance_m": 251.3,
-        "poi_count": 11,
-        "ped_count": 42,
-        "city": "Nagoya (Sakae)",
-        "nearest_station": "栄",
-        "poi_breakdown": {
-          "cafe": 2,
-          "shop": 5,
-          "restaurant": 4
-        },
-        "nearby_names": [
-          "コメダ珈琲店",
-          "デイリーヤマザキ",
-          "ローソン",
-          "デリカキッチン",
-          "ハッシェルカフェ"
         ]
       }
     },

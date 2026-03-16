@@ -43,43 +43,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.886586,
-          35.168586
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Meieki))",
-        "lat": 35.168586,
-        "lon": 136.886586,
-        "hidden_score": 0.926,
-        "poi_density": 0.815,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 270.8,
-        "poi_count": 35,
-        "ped_count": 74,
-        "city": "Nagoya (Meieki)",
-        "nearest_station": "名鉄名古屋",
-        "poi_breakdown": {
-          "shop": 13,
-          "restaurant": 12,
-          "cafe": 9,
-          "park": 1
-        },
-        "nearby_names": [
-          "セブン-イレブン",
-          "ファミリーマート",
-          "響",
-          "ドコモショップ",
-          "スターバックス"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           136.891586,
           35.168586
         ]
@@ -483,79 +446,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.885586,
-          35.168586
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Meieki))",
-        "lat": 35.168586,
-        "lon": 136.885586,
-        "hidden_score": 0.893,
-        "poi_density": 0.732,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 191.8,
-        "poi_count": 24,
-        "ped_count": 63,
-        "city": "Nagoya (Meieki)",
-        "nearest_station": "名鉄名古屋",
-        "poi_breakdown": {
-          "shop": 12,
-          "cafe": 7,
-          "restaurant": 5
-        },
-        "nearby_names": [
-          "ファミリーマート",
-          "ドコモショップ",
-          "スターバックス",
-          "力丸",
-          "コメダ珈琲店"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.886586,
-          35.169586
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Meieki))",
-        "lat": 35.169586,
-        "lon": 136.886586,
-        "hidden_score": 0.893,
-        "poi_density": 0.796,
-        "pedestrian_space": 0.937,
-        "station_distance_score": 1.0,
-        "station_distance_m": 246.5,
-        "poi_count": 32,
-        "ped_count": 46,
-        "city": "Nagoya (Meieki)",
-        "nearest_station": "名鉄名古屋",
-        "poi_breakdown": {
-          "restaurant": 9,
-          "cafe": 7,
-          "shop": 15,
-          "park": 1
-        },
-        "nearby_names": [
-          "力丸",
-          "コメダ珈琲店",
-          "セブン-イレブン",
-          "枢 くるる",
-          "トキワ寿司"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           136.892586,
           35.167586
         ]
@@ -849,42 +739,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.885586,
-          35.167586
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Meieki))",
-        "lat": 35.167586,
-        "lon": 136.885586,
-        "hidden_score": 0.855,
-        "poi_density": 0.645,
-        "pedestrian_space": 0.992,
-        "station_distance_score": 1.0,
-        "station_distance_m": 267.9,
-        "poi_count": 16,
-        "ped_count": 58,
-        "city": "Nagoya (Meieki)",
-        "nearest_station": "近鉄名古屋",
-        "poi_breakdown": {
-          "shop": 8,
-          "restaurant": 4,
-          "cafe": 4
-        },
-        "nearby_names": [
-          "ファミリーマート",
-          "ローソン",
-          "なか卵",
-          "ドコモショップ",
-          "スターバックス"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           136.878586,
           35.169586
         ]
@@ -1022,42 +876,6 @@
           "コメダ珈琲店",
           "セブン-イレブン",
           "ファミリーマート"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.886586,
-          35.170586
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Meieki))",
-        "lat": 35.170586,
-        "lon": 136.886586,
-        "hidden_score": 0.848,
-        "poi_density": 0.723,
-        "pedestrian_space": 0.897,
-        "station_distance_score": 1.0,
-        "station_distance_m": 252.3,
-        "poi_count": 23,
-        "ped_count": 39,
-        "city": "Nagoya (Meieki)",
-        "nearest_station": "名古屋",
-        "poi_breakdown": {
-          "restaurant": 10,
-          "shop": 8,
-          "cafe": 5
-        },
-        "nearby_names": [
-          "力丸",
-          "スパゲッティハウスチャオ",
-          "ファミリーマート",
-          "枢 くるる",
-          "くろ・とんラーメン黒兵衛"
         ]
       }
     },
@@ -1530,42 +1348,6 @@
           "茶",
           "とさや",
           "いそわ接骨院"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.884586,
-          35.173586
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Nagoya (Meieki))",
-        "lat": 35.173586,
-        "lon": 136.884586,
-        "hidden_score": 0.826,
-        "poi_density": 0.645,
-        "pedestrian_space": 0.921,
-        "station_distance_score": 1.0,
-        "station_distance_m": 274.2,
-        "poi_count": 16,
-        "ped_count": 43,
-        "city": "Nagoya (Meieki)",
-        "nearest_station": "名古屋",
-        "poi_breakdown": {
-          "shop": 6,
-          "restaurant": 8,
-          "cafe": 2
-        },
-        "nearby_names": [
-          "シバタ",
-          "ファミリーマート",
-          "馬喰一代",
-          "好好",
-          "セブン-イレブン"
         ]
       }
     },
@@ -5405,6 +5187,224 @@
           "ダッシュ",
           "東山",
           "ちゅうすけ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.887586,
+          35.159586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Meieki))",
+        "lat": 35.159586,
+        "lon": 136.887586,
+        "hidden_score": 0.677,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.921,
+        "station_distance_score": 0.6,
+        "station_distance_m": 598.1,
+        "poi_count": 7,
+        "ped_count": 43,
+        "city": "Nagoya (Meieki)",
+        "nearest_station": "ささしまライブ",
+        "poi_breakdown": {
+          "restaurant": 2,
+          "cafe": 2,
+          "shop": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "麺処 葉栗屋本店",
+          "味美亭",
+          "豆屋いおり",
+          "色葉",
+          "原田商店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.884586,
+          35.161586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Meieki))",
+        "lat": 35.161586,
+        "lon": 136.884586,
+        "hidden_score": 0.675,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.604,
+        "station_distance_score": 1.0,
+        "station_distance_m": 278.9,
+        "poi_count": 12,
+        "ped_count": 11,
+        "city": "Nagoya (Meieki)",
+        "nearest_station": "ささしまライブ",
+        "poi_breakdown": {
+          "restaurant": 4,
+          "shop": 4,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "びっくりドンキー",
+          "サイゼリヤ",
+          "ミニストップ",
+          "勉強カフェ",
+          "KAMIHAGI"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.878586,
+          35.166586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Meieki))",
+        "lat": 35.166586,
+        "lon": 136.878586,
+        "hidden_score": 0.675,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.473,
+        "station_distance_score": 1.0,
+        "station_distance_m": 424.3,
+        "poi_count": 22,
+        "ped_count": 6,
+        "city": "Nagoya (Meieki)",
+        "nearest_station": "名古屋",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "安兵衛青果",
+          "仙石すし",
+          "ピース理容館",
+          "みのや",
+          "Ohana"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.882586,
+          35.166586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Meieki))",
+        "lat": 35.166586,
+        "lon": 136.882586,
+        "hidden_score": 0.675,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.642,
+        "station_distance_score": 1.0,
+        "station_distance_m": 246.0,
+        "poi_count": 10,
+        "ped_count": 13,
+        "city": "Nagoya (Meieki)",
+        "nearest_station": "名古屋",
+        "poi_breakdown": {
+          "restaurant": 2,
+          "shop": 5,
+          "cafe": 1,
+          "park": 2
+        },
+        "nearby_names": [
+          "千龍",
+          "マックスバリュ",
+          "千龍",
+          "Clip",
+          "水晶堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.871586,
+          35.168586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Meieki))",
+        "lat": 35.168586,
+        "lon": 136.871586,
+        "hidden_score": 0.675,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.642,
+        "station_distance_score": 1.0,
+        "station_distance_m": 184.9,
+        "poi_count": 10,
+        "ped_count": 13,
+        "city": "Nagoya (Meieki)",
+        "nearest_station": "太閤通",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 5
+        },
+        "nearby_names": [
+          "マウンテンハブ",
+          "和食さと",
+          "花茂フローリスト",
+          "セシリアン モア",
+          "餃子の王将"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.891586,
+          35.165586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Nagoya (Meieki))",
+        "lat": 35.165586,
+        "lon": 136.891586,
+        "hidden_score": 0.672,
+        "poi_density": 0.443,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 0.6,
+        "station_distance_m": 662.4,
+        "poi_count": 6,
+        "ped_count": 46,
+        "city": "Nagoya (Meieki)",
+        "nearest_station": "伏見",
+        "poi_breakdown": {
+          "shop": 2,
+          "restaurant": 2,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "ダッシュ",
+          "東山",
+          "まるす",
+          "コインランドリーボーテ 名駅南店",
+          "Bucyo Coffee"
         ]
       }
     }

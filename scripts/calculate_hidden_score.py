@@ -63,6 +63,18 @@ CITIES = {
         "lon": 139.6226,
         "radius": 2000,
     },
+    "nagoya_meieki": {
+        "name": "Nagoya (Meieki)",
+        "lat": 35.1706,
+        "lon": 136.8816,
+        "radius": 1500,
+    },
+    "osaka_umeda": {
+        "name": "Osaka (Umeda)",
+        "lat": 34.7055,
+        "lon": 135.4983,
+        "radius": 1500,
+    },
 }
 
 # 有名観光地の座標リスト (name, lat, lon, city)
@@ -108,6 +120,18 @@ FAMOUS_SPOTS = [
     ("中華街", 35.4426, 139.6454, "Yokohama"),
     ("赤レンガ倉庫", 35.4531, 139.6428, "Yokohama"),
     ("山下公園", 35.4440, 139.6500, "Yokohama"),
+    # Meieki
+    ("名古屋駅", 35.1706, 136.8816, "Nagoya (Meieki)"),
+    ("JRゲートタワー", 35.1710, 136.8830, "Nagoya (Meieki)"),
+    ("ミッドランドスクエア", 35.1700, 136.8840, "Nagoya (Meieki)"),
+    ("大名古屋ビルヂング", 35.1715, 136.8845, "Nagoya (Meieki)"),
+    ("ナナちゃん人形", 35.1685, 136.8833, "Nagoya (Meieki)"),
+    # Umeda
+    ("梅田駅", 34.7055, 135.4983, "Osaka (Umeda)"),
+    ("グランフロント大阪", 34.7059, 135.4952, "Osaka (Umeda)"),
+    ("HEP FIVE", 34.7044, 135.5007, "Osaka (Umeda)"),
+    ("梅田スカイビル", 34.7052, 135.4900, "Osaka (Umeda)"),
+    ("ヨドバシ梅田", 34.7040, 135.4965, "Osaka (Umeda)"),
 ]
 FAMOUS_RADIUS_M = 180
 

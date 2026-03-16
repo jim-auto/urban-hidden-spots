@@ -1,0 +1,5448 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.498286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 244.3,
+        "poi_count": 82,
+        "ped_count": 69,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "shop": 46,
+          "restaurant": 21,
+          "cafe": 15
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "がんこ梅田本店",
+          "タワーレコード",
+          "フランフラン",
+          "WIRED CAFE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.499286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 257.5,
+        "poi_count": 84,
+        "ped_count": 71,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "shop": 57,
+          "restaurant": 12,
+          "cafe": 15
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "MARUZEN&ジュンク堂書店",
+          "かん菜",
+          "椿珈琲",
+          "タワーレコード"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.711486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.711486,
+        "lon": 135.494286,
+        "hidden_score": 0.981,
+        "poi_density": 0.953,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 237.8,
+        "poi_count": 65,
+        "ped_count": 60,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "restaurant": 22,
+          "shop": 40,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "焼肉マルヤマ",
+          "たかちゃん",
+          "一歩",
+          "キスミー",
+          "ナカイ電機"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.501286,
+        "hidden_score": 0.98,
+        "poi_density": 0.95,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 249.6,
+        "poi_count": 64,
+        "ped_count": 61,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "restaurant": 41,
+          "shop": 16,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "がんこ",
+          "デイリーヤマザキ",
+          "ドン・キホーテ",
+          "鶴橋風月",
+          "かに道楽"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.511286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.511286,
+        "hidden_score": 0.98,
+        "poi_density": 0.994,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 224.9,
+        "poi_count": 78,
+        "ped_count": 50,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "shop": 41,
+          "restaurant": 26,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "DELICAPIZZA",
+          "本家かまどや",
+          "てぃーあんだ",
+          "土居陶器店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.499286,
+        "hidden_score": 0.979,
+        "poi_density": 0.946,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 185.1,
+        "poi_count": 63,
+        "ped_count": 93,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "restaurant": 32,
+          "shop": 23,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "天下一品",
+          "ファミリーマート",
+          "すし処音羽",
+          "食道園",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.498286,
+        "hidden_score": 0.979,
+        "poi_density": 0.946,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 153.8,
+        "poi_count": 63,
+        "ped_count": 158,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "shop": 33,
+          "restaurant": 21,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "ドコモショップ",
+          "花椿",
+          "タリーズコーヒー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.500286,
+        "hidden_score": 0.976,
+        "poi_density": 0.939,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 238.3,
+        "poi_count": 61,
+        "ped_count": 87,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "restaurant": 37,
+          "shop": 19,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "天下一品",
+          "ファミリーマート",
+          "がんこ",
+          "デイリーヤマザキ",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.500286,
+        "hidden_score": 0.97,
+        "poi_density": 0.924,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 214.7,
+        "poi_count": 57,
+        "ped_count": 64,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "restaurant": 34,
+          "shop": 13,
+          "cafe": 10
+        },
+        "nearby_names": [
+          "がんこ",
+          "ドン・キホーテ",
+          "鶴橋風月",
+          "かに道楽",
+          "シャンデリアテーブル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.495286,
+        "hidden_score": 0.966,
+        "poi_density": 0.916,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 206.8,
+        "poi_count": 55,
+        "ped_count": 72,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "shop": 21,
+          "cafe": 9,
+          "restaurant": 25
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.510286,
+        "hidden_score": 0.963,
+        "poi_density": 0.908,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 227.0,
+        "poi_count": 53,
+        "ped_count": 65,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "shop": 29,
+          "restaurant": 16,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "DELICAPIZZA",
+          "本家かまどや",
+          "てぃーあんだ",
+          "土居陶器店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.703486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.703486,
+        "lon": 135.494286,
+        "hidden_score": 0.96,
+        "poi_density": 0.899,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 184.1,
+        "poi_count": 51,
+        "ped_count": 118,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪",
+        "poi_breakdown": {
+          "shop": 36,
+          "cafe": 7,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "大阪バスチケットセンター",
+          "PORTER",
+          "Qu'il fait bon",
+          "P2 DOG&CAT",
+          "鶴橋 焼肉 白雲台"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.710486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.710486,
+        "lon": 135.494286,
+        "hidden_score": 0.958,
+        "poi_density": 0.92,
+        "pedestrian_space": 0.975,
+        "station_distance_score": 1.0,
+        "station_distance_m": 185.8,
+        "poi_count": 56,
+        "ped_count": 54,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "restaurant": 18,
+          "shop": 33,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ビストロ・ド・ヨシモト",
+          "焼肉マルヤマ",
+          "たかちゃん",
+          "一歩",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.706486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.706486,
+        "lon": 135.500286,
+        "hidden_score": 0.957,
+        "poi_density": 0.967,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 1.0,
+        "station_distance_m": 218.5,
+        "poi_count": 69,
+        "ped_count": 44,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "shop": 48,
+          "cafe": 13,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "MARUZEN&ジュンク堂書店",
+          "ローソン",
+          "クレープ",
+          "かん菜",
+          "椿珈琲"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.511286,
+          34.706486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.706486,
+        "lon": 135.511286,
+        "hidden_score": 0.956,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 197.6,
+        "poi_count": 112,
+        "ped_count": 38,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天満",
+        "poi_breakdown": {
+          "shop": 51,
+          "restaurant": 56,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "よしや",
+          "デイリーヤマザキ",
+          "日新電器"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.502286,
+        "hidden_score": 0.954,
+        "poi_density": 0.924,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 308.5,
+        "poi_count": 57,
+        "ped_count": 51,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 35,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "がんこ",
+          "デイリーヤマザキ",
+          "ドトールコーヒーショップ",
+          "弁天別館"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.501286,
+        "hidden_score": 0.949,
+        "poi_density": 0.908,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 166.9,
+        "poi_count": 53,
+        "ped_count": 52,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "restaurant": 37,
+          "shop": 12,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "がんこ",
+          "デイリーヤマザキ",
+          "鶴橋風月",
+          "かに道楽",
+          "ゆかり"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.497286,
+        "hidden_score": 0.949,
+        "poi_density": 0.89,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 1.0,
+        "station_distance_m": 264.1,
+        "poi_count": 49,
+        "ped_count": 56,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 22,
+          "cafe": 10
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "がんこ梅田本店",
+          "STEP",
+          "炉端長屋一一",
+          "ヤマハチ商店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.494286,
+        "hidden_score": 0.948,
+        "poi_density": 0.871,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 166.7,
+        "poi_count": 45,
+        "ped_count": 75,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 22,
+          "cafe": 8,
+          "restaurant": 15
+        },
+        "nearby_names": [
+          "大黒屋",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.710486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.710486,
+        "lon": 135.495286,
+        "hidden_score": 0.948,
+        "poi_density": 0.871,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 154.0,
+        "poi_count": 45,
+        "ped_count": 68,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 22,
+          "restaurant": 21,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "お弁当物語",
+          "PALLAS",
+          "麺屋 メンヤ ニュークラシック",
+          "シャリマール",
+          "串まん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.705486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.705486,
+        "lon": 135.493286,
+        "hidden_score": 0.944,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 419.7,
+        "poi_count": 47,
+        "ped_count": 55,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪",
+        "poi_breakdown": {
+          "cafe": 9,
+          "restaurant": 7,
+          "shop": 30,
+          "park": 1
+        },
+        "nearby_names": [
+          "タリーズコーヒー",
+          "テムジン",
+          "タリーズコーヒー",
+          "セブン-イレブン",
+          "ココカラファイン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.696486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.696486,
+        "lon": 135.496286,
+        "hidden_score": 0.943,
+        "poi_density": 0.861,
+        "pedestrian_space": 0.996,
+        "station_distance_score": 1.0,
+        "station_distance_m": 229.6,
+        "poi_count": 43,
+        "ped_count": 59,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 25,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "花直",
+          "逢坂",
+          "セブン-イレブン",
+          "木曽路"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.511286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.511286,
+        "hidden_score": 0.943,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 334.9,
+        "poi_count": 88,
+        "ped_count": 33,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "shop": 52,
+          "restaurant": 27,
+          "cafe": 8,
+          "park": 1
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "はなまるうどん",
+          "エスカルゴ",
+          "ネクスト",
+          "ひろ川"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.501286,
+        "hidden_score": 0.942,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.975,
+        "station_distance_score": 1.0,
+        "station_distance_m": 182.2,
+        "poi_count": 47,
+        "ped_count": 54,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 29,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "がんこ",
+          "デイリーヤマザキ",
+          "ローソン",
+          "磯丸水産"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.704486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.704486,
+        "lon": 135.493286,
+        "hidden_score": 0.94,
+        "poi_density": 0.851,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 328.0,
+        "poi_count": 41,
+        "ped_count": 79,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪",
+        "poi_breakdown": {
+          "shop": 25,
+          "restaurant": 7,
+          "cafe": 7,
+          "park": 2
+        },
+        "nearby_names": [
+          "PORTER",
+          "P2 DOG&CAT",
+          "紀伊國屋書店",
+          "LIXILショールーム大阪",
+          "ガーブ モナーク"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.706486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.706486,
+        "lon": 135.510286,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 229.3,
+        "poi_count": 91,
+        "ped_count": 32,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "shop": 48,
+          "restaurant": 39,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "文具のディスカウントショップ FUKUYA",
+          "デイリーヤマザキ",
+          "すし政 西店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.498286,
+        "hidden_score": 0.939,
+        "poi_density": 0.997,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 94.0,
+        "poi_count": 79,
+        "ped_count": 109,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "restaurant": 41,
+          "shop": 29,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "天下一品",
+          "ファミリーマート",
+          "すし処音羽",
+          "食道園",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.499286,
+        "hidden_score": 0.938,
+        "poi_density": 0.845,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 186.4,
+        "poi_count": 40,
+        "ped_count": 100,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "梅田",
+        "poi_breakdown": {
+          "restaurant": 19,
+          "shop": 12,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "がんこ",
+          "鶴橋風月",
+          "シャンデリアテーブル",
+          "Buzz",
+          "しのぶ庵"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.494286,
+        "hidden_score": 0.937,
+        "poi_density": 0.871,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 254.5,
+        "poi_count": 45,
+        "ped_count": 53,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 18,
+          "restaurant": 20,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "ローソン",
+          "ドコモショップ",
+          "寺尾"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.510286,
+        "hidden_score": 0.936,
+        "poi_density": 0.943,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 336.3,
+        "poi_count": 62,
+        "ped_count": 39,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "shop": 39,
+          "restaurant": 17,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "DELICAPIZZA",
+          "ウェルデュール",
+          "本家かまどや",
+          "ラーメン一歩"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.500286,
+        "hidden_score": 0.936,
+        "poi_density": 0.982,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 299.5,
+        "poi_count": 74,
+        "ped_count": 33,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "shop": 50,
+          "cafe": 15,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "MARUZEN&ジュンク堂書店",
+          "実身美",
+          "クレープ",
+          "かん菜"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.510286,
+        "hidden_score": 0.935,
+        "poi_density": 0.912,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 1.0,
+        "station_distance_m": 222.1,
+        "poi_count": 54,
+        "ped_count": 44,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "shop": 24,
+          "restaurant": 23,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "コペンハーベスト",
+          "てんま",
+          "主税寿司",
+          "三丁目の珈琲",
+          "Trattria nico"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.511286,
+          34.700486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.700486,
+        "lon": 135.511286,
+        "hidden_score": 0.932,
+        "poi_density": 0.994,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 324.4,
+        "poi_count": 78,
+        "ped_count": 30,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "restaurant": 24,
+          "shop": 46,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "Buｆｆ",
+          "ローソンストア100",
+          "千里しゃぶ亭",
+          "クリームキッチン",
+          "はなまるうどん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.696486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.696486,
+        "lon": 135.495286,
+        "hidden_score": 0.931,
+        "poi_density": 0.876,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 278.2,
+        "poi_count": 46,
+        "ped_count": 49,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 22,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "ファミリーマート",
+          "エフワン",
+          "堂島グラッチェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.499286,
+        "hidden_score": 0.931,
+        "poi_density": 0.976,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 132.4,
+        "poi_count": 72,
+        "ped_count": 131,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 34,
+          "restaurant": 28,
+          "cafe": 10
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "がんこ",
+          "デイリーヤマザキ",
+          "ローソン",
+          "磯丸水産"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.511286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.511286,
+        "hidden_score": 0.931,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 213.8,
+        "poi_count": 90,
+        "ped_count": 29,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "shop": 44,
+          "restaurant": 33,
+          "cafe": 12,
+          "park": 1
+        },
+        "nearby_names": [
+          "コペンハーベスト",
+          "auショップ",
+          "主税寿司",
+          "大和路",
+          "三丁目の珈琲"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.493286,
+        "hidden_score": 0.929,
+        "poi_density": 0.822,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 242.8,
+        "poi_count": 36,
+        "ped_count": 70,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 12,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "特正",
+          "ローソン",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.512286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.512286,
+        "hidden_score": 0.928,
+        "poi_density": 0.991,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 257.6,
+        "poi_count": 77,
+        "ped_count": 29,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "shop": 42,
+          "restaurant": 23,
+          "cafe": 12
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "本家かまどや",
+          "土居陶器店",
+          "繁昌そば",
+          "F-Style"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.499286,
+        "hidden_score": 0.927,
+        "poi_density": 0.866,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 210.2,
+        "poi_count": 44,
+        "ped_count": 49,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "restaurant": 34,
+          "shop": 9,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "天下一品",
+          "すし処音羽",
+          "食道園",
+          "ファミリーマート",
+          "たらふく"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.496286,
+        "hidden_score": 0.923,
+        "poi_density": 0.957,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 90.2,
+        "poi_count": 66,
+        "ped_count": 101,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "shop": 23,
+          "cafe": 8,
+          "restaurant": 35
+        },
+        "nearby_names": [
+          "大黒屋",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.498286,
+        "hidden_score": 0.923,
+        "poi_density": 0.851,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 313.6,
+        "poi_count": 41,
+        "ped_count": 50,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 21,
+          "restaurant": 13,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "Doors",
+          "STEP",
+          "炉端長屋一一"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.499286,
+        "hidden_score": 0.923,
+        "poi_density": 0.876,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 1.0,
+        "station_distance_m": 362.0,
+        "poi_count": 46,
+        "ped_count": 45,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 28,
+          "cafe": 10,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "MARUZEN&ジュンク堂書店",
+          "実身美",
+          "UMEDA BOX CAFE＆SPACE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.502286,
+        "hidden_score": 0.922,
+        "poi_density": 0.845,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 246.5,
+        "poi_count": 40,
+        "ped_count": 51,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 13,
+          "cafe": 5,
+          "restaurant": 22
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "デイリーヤマザキ",
+          "ローソン",
+          "ドトールコーヒーショップ",
+          "かに道楽"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.500286,
+        "hidden_score": 0.921,
+        "poi_density": 0.802,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 293.8,
+        "poi_count": 33,
+        "ped_count": 63,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "restaurant": 23,
+          "shop": 9,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "天下一品",
+          "ファミリーマート",
+          "すし処音羽",
+          "食道園",
+          "エフワン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.512286,
+          34.706486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.706486,
+        "lon": 135.512286,
+        "hidden_score": 0.921,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 173.7,
+        "poi_count": 82,
+        "ped_count": 26,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天満",
+        "poi_breakdown": {
+          "shop": 31,
+          "restaurant": 48,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "よしや",
+          "ファミリーマート",
+          "デイリーヤマザキ",
+          "やなぎ屋クリーニング"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.511286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.511286,
+        "hidden_score": 0.921,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 154.0,
+        "poi_count": 125,
+        "ped_count": 26,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天神橋筋六丁目",
+        "poi_breakdown": {
+          "shop": 70,
+          "cafe": 9,
+          "restaurant": 46
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "よしや",
+          "ドトールコーヒーショップ",
+          "文具のディスカウントショップ FUKUYA"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.500286,
+        "hidden_score": 0.919,
+        "poi_density": 0.946,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 130.5,
+        "poi_count": 63,
+        "ped_count": 85,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 23,
+          "restaurant": 33,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "がんこ",
+          "デイリーヤマザキ",
+          "ローソン",
+          "磯丸水産"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.501286,
+        "hidden_score": 0.918,
+        "poi_density": 0.796,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 270.1,
+        "poi_count": 32,
+        "ped_count": 76,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 20,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "デイリーヤマザキ",
+          "磯丸水産",
+          "牛次郎",
+          "ぼん蔵"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.511286,
+          34.703486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.703486,
+        "lon": 135.511286,
+        "hidden_score": 0.918,
+        "poi_density": 0.953,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 0.7,
+        "station_distance_m": 117.2,
+        "poi_count": 65,
+        "ped_count": 58,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "cafe": 8,
+          "shop": 34,
+          "restaurant": 23
+        },
+        "nearby_names": [
+          "サンマルクカフェ",
+          "くーま",
+          "デイリーヤマザキ",
+          "浪花 ホルモン 李朝園",
+          "hifumi"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.496286,
+        "hidden_score": 0.917,
+        "poi_density": 0.943,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 134.3,
+        "poi_count": 62,
+        "ped_count": 96,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 40,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "ぬのや",
+          "音羽別館",
+          "おらんく家"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.511286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.511286,
+        "hidden_score": 0.917,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 262.2,
+        "poi_count": 149,
+        "ped_count": 25,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天神橋筋六丁目",
+        "poi_breakdown": {
+          "shop": 77,
+          "cafe": 7,
+          "restaurant": 65
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "よしや",
+          "文具のディスカウントショップ FUKUYA",
+          "デイリーヤマザキ",
+          "喫茶鳳"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.510286,
+        "hidden_score": 0.917,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 153.7,
+        "poi_count": 112,
+        "ped_count": 25,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天神橋筋六丁目",
+        "poi_breakdown": {
+          "shop": 61,
+          "cafe": 9,
+          "restaurant": 42
+        },
+        "nearby_names": [
+          "ローソン",
+          "ドトールコーヒーショップ",
+          "文具のディスカウントショップ FUKUYA",
+          "琥珀",
+          "青空書房"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.493286,
+        "hidden_score": 0.913,
+        "poi_density": 0.781,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 216.1,
+        "poi_count": 30,
+        "ped_count": 76,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 9,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "寺尾",
+          "Antico Caffe Al Avis",
+          "ザ クリームティーズ スプーンファームハウス",
+          "ビトレス 西梅田"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.709486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.709486,
+        "lon": 135.504286,
+        "hidden_score": 0.913,
+        "poi_density": 0.939,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 279.5,
+        "poi_count": 61,
+        "ped_count": 31,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 21,
+          "restaurant": 14,
+          "cafe": 26
+        },
+        "nearby_names": [
+          "Freely Kids",
+          "より道",
+          "Chay Club",
+          "あんじゅう",
+          "とり達"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.506286,
+        "hidden_score": 0.911,
+        "poi_density": 0.967,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 152.7,
+        "poi_count": 69,
+        "ped_count": 27,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 31,
+          "restaurant": 19,
+          "cafe": 19
+        },
+        "nearby_names": [
+          "犬塚美容室",
+          "ブルンネン",
+          "中崎とり天",
+          "海鮮屋台おくまん",
+          "MOKU"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.700486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.700486,
+        "lon": 135.494286,
+        "hidden_score": 0.91,
+        "poi_density": 0.774,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 167.4,
+        "poi_count": 29,
+        "ped_count": 68,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 18,
+          "restaurant": 5,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "Antico Caffe Al Avis",
+          "牛たん炭焼 利久",
+          "Enchante",
+          "ソニーストア",
+          "cafe boo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.510286,
+        "hidden_score": 0.909,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 262.0,
+        "poi_count": 134,
+        "ped_count": 23,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天神橋筋六丁目",
+        "poi_breakdown": {
+          "shop": 74,
+          "restaurant": 51,
+          "cafe": 8,
+          "park": 1
+        },
+        "nearby_names": [
+          "よしや",
+          "文具のディスカウントショップ FUKUYA",
+          "琥珀",
+          "青空書房",
+          "デイリーヤマザキ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.504286,
+        "hidden_score": 0.909,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 186.0,
+        "poi_count": 113,
+        "ped_count": 23,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 49,
+          "restaurant": 19,
+          "cafe": 44,
+          "park": 1
+        },
+        "nearby_names": [
+          "ヤマタツ",
+          "より道",
+          "Chay Club",
+          "あんじゅう",
+          "とり達"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.711486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.711486,
+        "lon": 135.493286,
+        "hidden_score": 0.907,
+        "poi_density": 0.932,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 193.5,
+        "poi_count": 59,
+        "ped_count": 30,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 39,
+          "restaurant": 16,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "キスミー",
+          "サラダ館 中津店",
+          "ナカイ電機",
+          "パーマ ナルト",
+          "福本商店（丸繁商店）"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.495286,
+        "hidden_score": 0.906,
+        "poi_density": 0.916,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 115.6,
+        "poi_count": 55,
+        "ped_count": 68,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 26,
+          "cafe": 7,
+          "restaurant": 22
+        },
+        "nearby_names": [
+          "大黒屋",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.512286,
+          34.700486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.700486,
+        "lon": 135.512286,
+        "hidden_score": 0.905,
+        "poi_density": 0.979,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 344.0,
+        "poi_count": 73,
+        "ped_count": 24,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "restaurant": 24,
+          "shop": 40,
+          "cafe": 8,
+          "park": 1
+        },
+        "nearby_names": [
+          "Buｆｆ",
+          "ローソンストア100",
+          "千里しゃぶ亭",
+          "クリームキッチン",
+          "はなまるうどん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.700486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.700486,
+        "lon": 135.510286,
+        "hidden_score": 0.904,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 329.9,
+        "poi_count": 47,
+        "ped_count": 36,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "restaurant": 15,
+          "shop": 29,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "てんま",
+          "Buｆｆ",
+          "はなまるうどん",
+          "エスカルゴ",
+          "ネクスト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.503286,
+        "hidden_score": 0.904,
+        "poi_density": 0.845,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 380.5,
+        "poi_count": 40,
+        "ped_count": 42,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 13,
+          "cafe": 4,
+          "restaurant": 23
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "セブン-イレブン",
+          "デイリーヤマザキ",
+          "ローソン",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.497286,
+        "hidden_score": 0.903,
+        "poi_density": 0.908,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 106.7,
+        "poi_count": 53,
+        "ped_count": 111,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "梅田",
+        "poi_breakdown": {
+          "shop": 32,
+          "cafe": 11,
+          "restaurant": 10
+        },
+        "nearby_names": [
+          "大丸",
+          "ドトールコーヒーショップ",
+          "グリルキャピタル東洋亭",
+          "ポケモンセンター",
+          "スキンフード"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.710486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.710486,
+        "lon": 135.493286,
+        "hidden_score": 0.901,
+        "poi_density": 0.932,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 0.7,
+        "station_distance_m": 104.7,
+        "poi_count": 59,
+        "ped_count": 53,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "restaurant": 19,
+          "shop": 34,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "焼肉マルヤマ",
+          "ファミリーマート",
+          "パーマ ナルト",
+          "福本商店（丸繁商店）",
+          "フシキ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.492286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.492286,
+        "hidden_score": 0.9,
+        "poi_density": 0.75,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 326.8,
+        "poi_count": 26,
+        "ped_count": 88,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 4,
+          "restaurant": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "スターバックス",
+          "特正",
+          "ローソン",
+          "和牛の郷"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.706486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.706486,
+        "lon": 135.501286,
+        "hidden_score": 0.9,
+        "poi_density": 0.866,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 296.4,
+        "poi_count": 44,
+        "ped_count": 37,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "cafe": 12,
+          "restaurant": 8,
+          "shop": 24
+        },
+        "nearby_names": [
+          "クレープ",
+          "かん菜",
+          "椿珈琲",
+          "PALM Cafe & Creperie",
+          "マリンカ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.495286,
+        "hidden_score": 0.898,
+        "poi_density": 0.895,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 85.0,
+        "poi_count": 50,
+        "ped_count": 68,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪",
+        "poi_breakdown": {
+          "shop": 30,
+          "restaurant": 12,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "大丸",
+          "カレー Shop MINGUS",
+          "回転寿司がんこ",
+          "ポケモンセンター",
+          "ハーブス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.500286,
+        "hidden_score": 0.898,
+        "poi_density": 0.895,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 108.0,
+        "poi_count": 50,
+        "ped_count": 69,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "restaurant": 37,
+          "cafe": 6,
+          "shop": 7
+        },
+        "nearby_names": [
+          "がんこ",
+          "鶴橋風月",
+          "かに道楽",
+          "ゆかり",
+          "丸まん寿司"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.703486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.703486,
+        "lon": 135.493286,
+        "hidden_score": 0.897,
+        "poi_density": 0.741,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 252.5,
+        "poi_count": 25,
+        "ped_count": 100,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪",
+        "poi_breakdown": {
+          "shop": 20,
+          "restaurant": 2,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "PORTER",
+          "紀伊國屋書店",
+          "LIXILショールーム大阪",
+          "ガーブ モナーク",
+          "Beams House"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.503286,
+        "hidden_score": 0.897,
+        "poi_density": 0.979,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 215.5,
+        "poi_count": 73,
+        "ped_count": 22,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "cafe": 27,
+          "restaurant": 12,
+          "shop": 33,
+          "park": 1
+        },
+        "nearby_names": [
+          "マリンカ",
+          "龍華楼",
+          "raff",
+          "うてな喫茶店",
+          "PLUG"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.498286,
+        "hidden_score": 0.896,
+        "poi_density": 0.916,
+        "pedestrian_space": 0.975,
+        "station_distance_score": 0.7,
+        "station_distance_m": 136.9,
+        "poi_count": 55,
+        "ped_count": 54,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "restaurant": 45,
+          "shop": 9,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "天下一品",
+          "ファミリーマート",
+          "すし処音羽",
+          "食道園",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.512286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.512286,
+        "hidden_score": 0.896,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.741,
+        "station_distance_score": 1.0,
+        "station_distance_m": 284.8,
+        "poi_count": 114,
+        "ped_count": 20,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天満",
+        "poi_breakdown": {
+          "shop": 46,
+          "cafe": 5,
+          "restaurant": 63
+        },
+        "nearby_names": [
+          "業務スーパー",
+          "ファミリーマート",
+          "よしや",
+          "喫茶鳳",
+          "日新電器"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.705486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.705486,
+        "lon": 135.510286,
+        "hidden_score": 0.895,
+        "poi_density": 0.935,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 0.7,
+        "station_distance_m": 123.4,
+        "poi_count": 60,
+        "ped_count": 49,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "shop": 30,
+          "cafe": 5,
+          "restaurant": 24,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "サンマルクカフェ",
+          "デイリーヤマザキ",
+          "くーま"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.507286,
+        "hidden_score": 0.894,
+        "poi_density": 0.851,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 354.4,
+        "poi_count": 41,
+        "ped_count": 37,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 3,
+          "restaurant": 26,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "ローソン",
+          "モナミ",
+          "梅が枝食堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.499286,
+        "hidden_score": 0.894,
+        "poi_density": 0.886,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 110.4,
+        "poi_count": 48,
+        "ped_count": 93,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 22,
+          "cafe": 12
+        },
+        "nearby_names": [
+          "梅田ロフト",
+          "鶴橋風月",
+          "かに道楽",
+          "ゆかり",
+          "寿司と天ぷら おやじ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.703486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.703486,
+        "lon": 135.503286,
+        "hidden_score": 0.894,
+        "poi_density": 0.924,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 451.6,
+        "poi_count": 57,
+        "ped_count": 27,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 15,
+          "cafe": 5,
+          "restaurant": 37
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "ファミリーマート",
+          "ドトールコーヒーショップ",
+          "やよい軒",
+          "炭火焼肉かんて"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.512286,
+          34.703486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.703486,
+        "lon": 135.512286,
+        "hidden_score": 0.893,
+        "poi_density": 0.939,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 160.0,
+        "poi_count": 61,
+        "ped_count": 25,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天満",
+        "poi_breakdown": {
+          "restaurant": 24,
+          "shop": 29,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "浪花 ホルモン 李朝園",
+          "hifumi",
+          "梨花食堂",
+          "takeshoku",
+          "輔"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.498286,
+        "hidden_score": 0.892,
+        "poi_density": 0.881,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 121.2,
+        "poi_count": 47,
+        "ped_count": 117,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "梅田",
+        "poi_breakdown": {
+          "restaurant": 16,
+          "cafe": 15,
+          "shop": 16
+        },
+        "nearby_names": [
+          "シャンデリアテーブル",
+          "ドトールコーヒーショップ",
+          "ドトールコーヒーショップ",
+          "グリルキャピタル東洋亭",
+          "かんじん堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.512286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.512286,
+        "hidden_score": 0.891,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 242.5,
+        "poi_count": 82,
+        "ped_count": 19,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "shop": 42,
+          "restaurant": 29,
+          "cafe": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "コペンハーベスト",
+          "auショップ",
+          "パーティェ(2F)",
+          "主税寿司",
+          "大和路"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.511286,
+          34.705486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.705486,
+        "lon": 135.511286,
+        "hidden_score": 0.891,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 0.7,
+        "station_distance_m": 113.1,
+        "poi_count": 93,
+        "ped_count": 36,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天満",
+        "poi_breakdown": {
+          "shop": 43,
+          "cafe": 6,
+          "restaurant": 43,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "サンマルクカフェ",
+          "デイリーヤマザキ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.497286,
+        "hidden_score": 0.89,
+        "poi_density": 0.876,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 122.2,
+        "poi_count": 46,
+        "ped_count": 171,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "cafe": 8,
+          "restaurant": 14,
+          "shop": 24
+        },
+        "nearby_names": [
+          "タリーズコーヒー",
+          "ホリーズカフェ",
+          "餃子の王将",
+          "マヅラ",
+          "ホリーズカフェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.492286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.492286,
+        "hidden_score": 0.889,
+        "poi_density": 0.723,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 379.2,
+        "poi_count": 23,
+        "ped_count": 73,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 11,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "どさん子",
+          "特正",
+          "ローソン",
+          "和牛の郷",
+          "ザ クリームティーズ スプーンファームハウス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.501286,
+        "hidden_score": 0.889,
+        "poi_density": 0.723,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 370.8,
+        "poi_count": 23,
+        "ped_count": 63,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 15,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "デイリーヤマザキ",
+          "エフワン",
+          "TEPPAN AKIRA",
+          "旬喰 桔梗"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.510286,
+        "hidden_score": 0.888,
+        "poi_density": 0.943,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 0.7,
+        "station_distance_m": 120.3,
+        "poi_count": 62,
+        "ped_count": 44,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "shop": 32,
+          "restaurant": 20,
+          "cafe": 10
+        },
+        "nearby_names": [
+          "コペンハーベスト",
+          "ソフトバンクショップ",
+          "auショップ",
+          "GABY（２F)",
+          "パーティェ(2F)"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.712486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.712486,
+        "lon": 135.496286,
+        "hidden_score": 0.888,
+        "poi_density": 0.774,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 168.4,
+        "poi_count": 29,
+        "ped_count": 48,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 9,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "天下一品",
+          "黒門小産弥",
+          "ファミリーマート",
+          "カンテグランデ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.507286,
+        "hidden_score": 0.886,
+        "poi_density": 0.964,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 1.0,
+        "station_distance_m": 154.8,
+        "poi_count": 68,
+        "ped_count": 21,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 30,
+          "restaurant": 23,
+          "cafe": 14,
+          "park": 1
+        },
+        "nearby_names": [
+          "犬塚美容室",
+          "ブルンネン",
+          "小林酒店",
+          "中崎とり天",
+          "海鮮屋台おくまん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.497286,
+        "hidden_score": 0.884,
+        "poi_density": 0.928,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 0.7,
+        "station_distance_m": 100.2,
+        "poi_count": 58,
+        "ped_count": 45,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 43,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "食道園",
+          "たらふく",
+          "スエヒロ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.504286,
+        "hidden_score": 0.883,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 0.7,
+        "station_distance_m": 125.6,
+        "poi_count": 93,
+        "ped_count": 33,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 43,
+          "cafe": 37,
+          "restaurant": 12,
+          "park": 1
+        },
+        "nearby_names": [
+          "ヤマタツ",
+          "フタバクリーニング",
+          "common cafe",
+          "raff",
+          "うてな喫茶店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.705486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.705486,
+        "lon": 135.502286,
+        "hidden_score": 0.882,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 357.0,
+        "poi_count": 37,
+        "ped_count": 36,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 12,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "六角鶏",
+          "やよい軒",
+          "炭火焼肉かんて",
+          "宮本むなし"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.503286,
+        "hidden_score": 0.881,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 255.5,
+        "poi_count": 84,
+        "ped_count": 17,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 37,
+          "restaurant": 11,
+          "cafe": 35,
+          "park": 1
+        },
+        "nearby_names": [
+          "Freely Kids",
+          "玄品ふぐ",
+          "らーめん Ciel",
+          "raff",
+          "うてな喫茶店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.700486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.700486,
+        "lon": 135.498286,
+        "hidden_score": 0.88,
+        "poi_density": 0.851,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 140.5,
+        "poi_count": 41,
+        "ped_count": 202,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 22,
+          "restaurant": 6,
+          "cafe": 13
+        },
+        "nearby_names": [
+          "梅田ロフト",
+          "ファミリーマート",
+          "花椿",
+          "タリーズコーヒー",
+          "ニョッキ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.506286,
+        "hidden_score": 0.878,
+        "poi_density": 0.809,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 442.8,
+        "poi_count": 34,
+        "ped_count": 37,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "shop": 9,
+          "cafe": 4,
+          "restaurant": 21
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "はんず",
+          "モナミ",
+          "梅が枝食堂",
+          "VITA DOLCE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.700486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.700486,
+        "lon": 135.495286,
+        "hidden_score": 0.878,
+        "poi_density": 0.845,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 116.5,
+        "poi_count": 40,
+        "ped_count": 98,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 25,
+          "restaurant": 6,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "大黒屋",
+          "ファミリーマート",
+          "カレー Shop MINGUS",
+          "Antico Caffe Al Avis",
+          "TGI Fridays"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.500286,
+        "hidden_score": 0.878,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 395.4,
+        "poi_count": 35,
+        "ped_count": 36,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "shop": 19,
+          "cafe": 8,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "MARUZEN&ジュンク堂書店",
+          "クルミ",
+          "実身美",
+          "santa cafe"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.692486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.692486,
+        "lon": 135.496286,
+        "hidden_score": 0.877,
+        "poi_density": 0.693,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 221.1,
+        "poi_count": 20,
+        "ped_count": 62,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "渡辺橋",
+        "poi_breakdown": {
+          "cafe": 5,
+          "shop": 11,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "里山カフェ",
+          "キャノンプラザ大阪",
+          "BUONA FORCHETTA",
+          "ローソン",
+          "妻家房"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.693486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.693486,
+        "lon": 135.496286,
+        "hidden_score": 0.877,
+        "poi_density": 0.693,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 168.5,
+        "poi_count": 20,
+        "ped_count": 77,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "渡辺橋",
+        "poi_breakdown": {
+          "cafe": 5,
+          "shop": 11,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "里山カフェ",
+          "キャノンプラザ大阪",
+          "BUONA FORCHETTA",
+          "ローソン",
+          "妻家房"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.497286,
+        "hidden_score": 0.877,
+        "poi_density": 0.732,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 287.0,
+        "poi_count": 24,
+        "ped_count": 51,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 10,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ヤマハチ商店",
+          "口八丁",
+          "Curry House",
+          "味門 燒肉"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.511286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.511286,
+        "hidden_score": 0.876,
+        "poi_density": 0.997,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 0.7,
+        "station_distance_m": 104.3,
+        "poi_count": 79,
+        "ped_count": 31,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "shop": 41,
+          "restaurant": 26,
+          "cafe": 12
+        },
+        "nearby_names": [
+          "コペンハーベスト",
+          "ソフトバンクショップ",
+          "auショップ",
+          "GABY（２F)",
+          "パーティェ(2F)"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.494286,
+        "hidden_score": 0.876,
+        "poi_density": 0.839,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 124.7,
+        "poi_count": 39,
+        "ped_count": 90,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 24,
+          "cafe": 5,
+          "restaurant": 10
+        },
+        "nearby_names": [
+          "大黒屋",
+          "ファミリーマート",
+          "ファミリーマート",
+          "サンマルクカフェ",
+          "寺尾"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.700486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.700486,
+        "lon": 135.493286,
+        "hidden_score": 0.876,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 243.2,
+        "poi_count": 23,
+        "ped_count": 52,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 4,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "Antico Caffe Al Avis",
+          "Enchante",
+          "ソニーストア",
+          "cafe boo",
+          "リストランテ ル・ミディ ひらまつ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.512286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.512286,
+        "hidden_score": 0.876,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.689,
+        "station_distance_score": 1.0,
+        "station_distance_m": 357.6,
+        "poi_count": 92,
+        "ped_count": 16,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "restaurant": 25,
+          "shop": 56,
+          "cafe": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "はなまるうどん",
+          "エスカルゴ",
+          "ひろ川",
+          "DELICAPIZZA",
+          "MAURU"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.703486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.703486,
+        "lon": 135.510286,
+        "hidden_score": 0.876,
+        "poi_density": 0.839,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 121.2,
+        "poi_count": 39,
+        "ped_count": 66,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "shop": 21,
+          "restaurant": 11,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "くーま",
+          "デイリーヤマザキ",
+          "てぃーあんだ",
+          "西洋茶館",
+          "らんぷ亭"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.709486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.709486,
+        "lon": 135.495286,
+        "hidden_score": 0.876,
+        "poi_density": 0.774,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 223.1,
+        "poi_count": 29,
+        "ped_count": 42,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 14,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "お弁当物語",
+          "PALLAS",
+          "麺屋 メンヤ ニュークラシック",
+          "シャリマール"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.504286,
+        "hidden_score": 0.875,
+        "poi_density": 0.75,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 1.0,
+        "station_distance_m": 459.5,
+        "poi_count": 26,
+        "ped_count": 46,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 9,
+          "cafe": 1,
+          "restaurant": 15,
+          "park": 1
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "セブン-イレブン",
+          "ローソン",
+          "ローソン",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.700486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.700486,
+        "lon": 135.497286,
+        "hidden_score": 0.873,
+        "poi_density": 0.834,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 103.4,
+        "poi_count": 38,
+        "ped_count": 189,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "shop": 20,
+          "restaurant": 5,
+          "cafe": 13
+        },
+        "nearby_names": [
+          "梅田ロフト",
+          "花椿",
+          "タリーズコーヒー",
+          "ニョッキ",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.506286,
+        "hidden_score": 0.872,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 431.3,
+        "poi_count": 31,
+        "ped_count": 38,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 14,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "梅が枝食堂",
+          "VITA DOLCE",
+          "ゴルフパートナー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.709486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.709486,
+        "lon": 135.503286,
+        "hidden_score": 0.871,
+        "poi_density": 0.895,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 329.9,
+        "poi_count": 50,
+        "ped_count": 24,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 18,
+          "restaurant": 13,
+          "cafe": 19
+        },
+        "nearby_names": [
+          "Freely Kids",
+          "玄品ふぐ",
+          "らーめん Ciel",
+          "ITALLIA",
+          "らぁ麺きくはん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.696486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.696486,
+        "lon": 135.500286,
+        "hidden_score": 0.87,
+        "poi_density": 0.809,
+        "pedestrian_space": 0.865,
+        "station_distance_score": 1.0,
+        "station_distance_m": 242.5,
+        "poi_count": 34,
+        "ped_count": 34,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大江橋",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 20,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "すし処音羽",
+          "ローソン",
+          "エフワン",
+          "Yamatsuji"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.706486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.706486,
+        "lon": 135.503286,
+        "hidden_score": 0.87,
+        "poi_density": 0.839,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 228.9,
+        "poi_count": 39,
+        "ped_count": 30,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 17,
+          "cafe": 14,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "マリンカ",
+          "龍華楼",
+          "raff"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.493286,
+        "hidden_score": 0.869,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 211.2,
+        "poi_count": 20,
+        "ped_count": 55,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 5,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "大阪バスチケットセンター",
+          "回転寿司がんこ",
+          "ガーブ モナーク",
+          "蔦屋書店",
+          "博多もつ鍋 おおやま"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.491286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.491286,
+        "hidden_score": 0.868,
+        "poi_density": 0.67,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 383.2,
+        "poi_count": 18,
+        "ped_count": 91,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "福島",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "shop": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "どさん子",
+          "特正",
+          "ローソン",
+          "和牛の郷",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.709486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.709486,
+        "lon": 135.497286,
+        "hidden_score": 0.868,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 1.0,
+        "station_distance_m": 177.7,
+        "poi_count": 28,
+        "ped_count": 40,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 5,
+          "restaurant": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ファミリーマート",
+          "OOZ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.693486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.693486,
+        "lon": 135.497286,
+        "hidden_score": 0.863,
+        "poi_density": 0.658,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 258.5,
+        "poi_count": 17,
+        "ped_count": 72,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "渡辺橋",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 4,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "キャノンプラザ大阪",
+          "ホリーズカフェ",
+          "ローソン",
+          "妻家房",
+          "キッチンジロー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.491286,
+          34.696486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.696486,
+        "lon": 135.491286,
+        "hidden_score": 0.863,
+        "poi_density": 0.658,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 341.8,
+        "poi_count": 17,
+        "ped_count": 67,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "福島",
+        "poi_breakdown": {
+          "restaurant": 6,
+          "shop": 9,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "どさん子",
+          "特正",
+          "和牛の郷",
+          "出入橋きんつば屋",
+          "井津長"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.696486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.696486,
+        "lon": 135.494286,
+        "hidden_score": 0.863,
+        "poi_density": 0.839,
+        "pedestrian_space": 0.819,
+        "station_distance_score": 1.0,
+        "station_distance_m": 297.5,
+        "poi_count": 39,
+        "ped_count": 28,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "渡辺橋",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 22,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "堂島グラッチェ",
+          "アジヤアジヤ",
+          "九州らーめん亀王"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.509286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.509286,
+        "hidden_score": 0.863,
+        "poi_density": 0.953,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 200.6,
+        "poi_count": 65,
+        "ped_count": 17,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天神橋筋六丁目",
+        "poi_breakdown": {
+          "shop": 28,
+          "restaurant": 28,
+          "cafe": 8,
+          "park": 1
+        },
+        "nearby_names": [
+          "文具のディスカウントショップ FUKUYA",
+          "琥珀",
+          "青空書房",
+          "小林酒店",
+          "猫の時間"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.510286,
+          34.711486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.711486,
+        "lon": 135.510286,
+        "hidden_score": 0.863,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 170.4,
+        "poi_count": 25,
+        "ped_count": 42,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天神橋筋六丁目",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 14,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "やよい軒天六店",
+          "ファミリーマート",
+          "更科",
+          "餃子の王将",
+          "中華食堂十八番"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.702486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.702486,
+        "lon": 135.494286,
+        "hidden_score": 0.861,
+        "poi_density": 0.802,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 121.5,
+        "poi_count": 33,
+        "ped_count": 85,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪",
+        "poi_breakdown": {
+          "shop": 20,
+          "restaurant": 9,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "大阪バスチケットセンター",
+          "回転寿司がんこ",
+          "牛たん炭焼 利久",
+          "ガーブ モナーク",
+          "サラベス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.505286,
+        "hidden_score": 0.861,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 0.7,
+        "station_distance_m": 143.5,
+        "poi_count": 85,
+        "ped_count": 26,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 34,
+          "restaurant": 14,
+          "cafe": 36,
+          "park": 1
+        },
+        "nearby_names": [
+          "犬塚美容室",
+          "ヤマタツ",
+          "フタバクリーニング",
+          "より道",
+          "Chay Club"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.502286,
+        "hidden_score": 0.86,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 1.0,
+        "station_distance_m": 325.4,
+        "poi_count": 23,
+        "ped_count": 44,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 5,
+          "restaurant": 18
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ぼん蔵",
+          "ウエムラサイクルパーツ",
+          "といとい",
+          "壱庵"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.508286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.508286,
+        "hidden_score": 0.86,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 268.0,
+        "poi_count": 35,
+        "ped_count": 30,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 22,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "ゴルフパートナー",
+          "仲福食堂",
+          "敲敲"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.709486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.709486,
+        "lon": 135.496286,
+        "hidden_score": 0.86,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 1.0,
+        "station_distance_m": 179.8,
+        "poi_count": 25,
+        "ped_count": 41,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 11,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "中津食堂",
+          "お弁当物語",
+          "PALLAS"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.709486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.709486,
+        "lon": 135.505286,
+        "hidden_score": 0.86,
+        "poi_density": 0.839,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 253.3,
+        "poi_count": 39,
+        "ped_count": 27,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 11,
+          "cafe": 18
+        },
+        "nearby_names": [
+          "より道",
+          "Chay Club",
+          "あんじゅう",
+          "とり達",
+          "bliss"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.492286,
+          34.699486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.699486,
+        "lon": 135.492286,
+        "hidden_score": 0.858,
+        "poi_density": 0.645,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 307.5,
+        "poi_count": 16,
+        "ped_count": 72,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 4,
+          "cafe": 4,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "スターバックス",
+          "饂飩四国",
+          "ザ クリームティーズ スプーンファームハウス",
+          "サイゼリヤ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.498286,
+        "hidden_score": 0.858,
+        "poi_density": 0.796,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 104.5,
+        "poi_count": 32,
+        "ped_count": 137,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 6,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "梅田ロフト",
+          "シャンデリアテーブル",
+          "花椿",
+          "タリーズコーヒー",
+          "ニョッキ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.509286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.509286,
+        "hidden_score": 0.858,
+        "poi_density": 0.986,
+        "pedestrian_space": 0.659,
+        "station_distance_score": 1.0,
+        "station_distance_m": 292.0,
+        "poi_count": 75,
+        "ped_count": 14,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天神橋筋六丁目",
+        "poi_breakdown": {
+          "shop": 35,
+          "restaurant": 31,
+          "cafe": 8,
+          "park": 1
+        },
+        "nearby_names": [
+          "文具のディスカウントショップ FUKUYA",
+          "琥珀",
+          "青空書房",
+          "小林酒店",
+          "けなり"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.697486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.697486,
+        "lon": 135.493286,
+        "hidden_score": 0.856,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 309.7,
+        "poi_count": 30,
+        "ped_count": 33,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 11,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "特正",
+          "ローソン",
+          "ドコモショップ",
+          "寺尾"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.712486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.712486,
+        "lon": 135.495286,
+        "hidden_score": 0.856,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 214.0,
+        "poi_count": 20,
+        "ped_count": 48,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 16,
+          "cafe": 1,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "カンテグランデ",
+          "KAYO",
+          "per noi",
+          "EL RICO"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.695486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.695486,
+        "lon": 135.505286,
+        "hidden_score": 0.855,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 488.8,
+        "poi_count": 19,
+        "ped_count": 50,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "淀屋橋",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 7,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "HALS",
+          "志津可",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "大阪現代画廊"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.509286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.509286,
+        "hidden_score": 0.855,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 186.6,
+        "poi_count": 27,
+        "ped_count": 36,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "南森町",
+        "poi_breakdown": {
+          "restaurant": 17,
+          "shop": 7,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "Trattria nico",
+          "お好み・鉄板焼 南森このむ",
+          "焼肉泰山",
+          "野菜屋",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.706486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.706486,
+        "lon": 135.493286,
+        "hidden_score": 0.855,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 390.2,
+        "poi_count": 19,
+        "ped_count": 50,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "cafe": 6,
+          "restaurant": 2,
+          "shop": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "タリーズコーヒー",
+          "テムジン",
+          "無印良品",
+          "Mercedes me DOWNSTAIRS COFFEE",
+          "ソフトバンク"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.692486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.692486,
+        "lon": 135.495286,
+        "hidden_score": 0.854,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 164.9,
+        "poi_count": 18,
+        "ped_count": 52,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "渡辺橋",
+        "poi_breakdown": {
+          "shop": 9,
+          "cafe": 5,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "スターバックス",
+          "里山カフェ",
+          "キャノンプラザ大阪",
+          "BUONA FORCHETTA"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.711486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.711486,
+        "lon": 135.495286,
+        "hidden_score": 0.853,
+        "poi_density": 0.781,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 149.6,
+        "poi_count": 30,
+        "ped_count": 64,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 18,
+          "restaurant": 12
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "焼肉マルヤマ",
+          "たかちゃん",
+          "一歩",
+          "フジ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.696486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.696486,
+        "lon": 135.497286,
+        "hidden_score": 0.852,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 211.4,
+        "poi_count": 37,
+        "ped_count": 26,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "北新地",
+        "poi_breakdown": {
+          "restaurant": 25,
+          "shop": 9,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ぬのや",
+          "音羽別館",
+          "おらんく家",
+          "花直",
+          "こてっぱん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.491286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.491286,
+        "hidden_score": 0.852,
+        "poi_density": 0.631,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 414.0,
+        "poi_count": 15,
+        "ped_count": 76,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "西梅田",
+        "poi_breakdown": {
+          "shop": 3,
+          "cafe": 2,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "スターバックス",
+          "特正",
+          "和牛の郷",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.494286,
+        "hidden_score": 0.851,
+        "poi_density": 0.822,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 0.7,
+        "station_distance_m": 142.7,
+        "poi_count": 36,
+        "ped_count": 50,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪",
+        "poi_breakdown": {
+          "shop": 22,
+          "restaurant": 8,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "大阪バスチケットセンター",
+          "回転寿司がんこ",
+          "牛たん炭焼 利久",
+          "蔦屋書店",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.502286,
+        "hidden_score": 0.851,
+        "poi_density": 0.899,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 335.7,
+        "poi_count": 51,
+        "ped_count": 19,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 25,
+          "cafe": 15,
+          "restaurant": 11
+        },
+        "nearby_names": [
+          "Permanente",
+          "クルミ",
+          "実身美",
+          "龍華楼",
+          "santa cafe"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.491286,
+          34.703486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.703486,
+        "lon": 135.491286,
+        "hidden_score": 0.85,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 416.7,
+        "poi_count": 16,
+        "ped_count": 55,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪",
+        "poi_breakdown": {
+          "cafe": 4,
+          "restaurant": 6,
+          "shop": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "滝見小路",
+          "ränbu",
+          "Malaysia boleh",
+          "ドトールコーヒーショップ",
+          "フルリール"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.705486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.705486,
+        "lon": 135.503286,
+        "hidden_score": 0.849,
+        "poi_density": 0.75,
+        "pedestrian_space": 0.872,
+        "station_distance_score": 1.0,
+        "station_distance_m": 288.1,
+        "poi_count": 26,
+        "ped_count": 35,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 8,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "六角鶏",
+          "やよい軒",
+          "宮本むなし"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.509286,
+          34.706486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.706486,
+        "lon": 135.509286,
+        "hidden_score": 0.849,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.741,
+        "station_distance_score": 1.0,
+        "station_distance_m": 265.0,
+        "poi_count": 47,
+        "ped_count": 20,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "扇町",
+        "poi_breakdown": {
+          "shop": 18,
+          "cafe": 7,
+          "restaurant": 21,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "青空書房",
+          "猫の時間",
+          "SCARPINO",
+          "すし政 西店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.508286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.508286,
+        "hidden_score": 0.849,
+        "poi_density": 0.92,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 271.3,
+        "poi_count": 56,
+        "ped_count": 17,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "天神橋筋六丁目",
+        "poi_breakdown": {
+          "restaurant": 27,
+          "shop": 19,
+          "cafe": 8,
+          "park": 2
+        },
+        "nearby_names": [
+          "琥珀",
+          "青空書房",
+          "小林酒店",
+          "中崎とり天",
+          "まりも"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.696486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.696486,
+        "lon": 135.501286,
+        "hidden_score": 0.847,
+        "poi_density": 0.732,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 270.5,
+        "poi_count": 24,
+        "ped_count": 37,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大江橋",
+        "poi_breakdown": {
+          "shop": 9,
+          "cafe": 3,
+          "restaurant": 12
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "エフワン",
+          "ドトールコーヒーショップ",
+          "Yamatsuji",
+          "TEPPAN AKIRA"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.701486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.701486,
+        "lon": 135.493286,
+        "hidden_score": 0.847,
+        "poi_density": 0.703,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 224.1,
+        "poi_count": 21,
+        "ped_count": 42,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "cafe": 6,
+          "shop": 10
+        },
+        "nearby_names": [
+          "回転寿司がんこ",
+          "牛たん炭焼 利久",
+          "スターバックス",
+          "セブン-イレブン",
+          "KITTE大阪"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.706486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.706486,
+        "lon": 135.502286,
+        "hidden_score": 0.847,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 315.9,
+        "poi_count": 35,
+        "ped_count": 26,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 17,
+          "cafe": 11,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "クレープ",
+          "マリンカ",
+          "龍華楼",
+          "Pigsty"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.707486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.707486,
+        "lon": 135.501286,
+        "hidden_score": 0.847,
+        "poi_density": 0.845,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 360.2,
+        "poi_count": 40,
+        "ped_count": 23,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "大阪梅田",
+        "poi_breakdown": {
+          "shop": 21,
+          "cafe": 12,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "MARUZEN&ジュンク堂書店",
+          "実身美",
+          "クレープ",
+          "かん菜",
+          "椿珈琲"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.695486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.695486,
+        "lon": 135.495286,
+        "hidden_score": 0.846,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 199.6,
+        "poi_count": 31,
+        "ped_count": 29,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "渡辺橋",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 4,
+          "restaurant": 17
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "エフワン",
+          "モンシェール",
+          "PRONT"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.708486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.708486,
+        "lon": 135.507286,
+        "hidden_score": 0.846,
+        "poi_density": 0.912,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 206.8,
+        "poi_count": 54,
+        "ped_count": 17,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中崎町",
+        "poi_breakdown": {
+          "shop": 26,
+          "restaurant": 20,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "犬塚美容室",
+          "ブルンネン",
+          "小林酒店",
+          "中崎とり天",
+          "海鮮屋台おくまん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.698486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.698486,
+        "lon": 135.503286,
+        "hidden_score": 0.844,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 394.4,
+        "poi_count": 22,
+        "ped_count": 39,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "東梅田",
+        "poi_breakdown": {
+          "shop": 6,
+          "cafe": 1,
+          "restaurant": 15
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ランプ珈琲",
+          "福島上等カレー",
+          "デイリーヤマザキ",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.712486
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Umeda))",
+        "lat": 34.712486,
+        "lon": 135.494286,
+        "hidden_score": 0.843,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 282.8,
+        "poi_count": 20,
+        "ped_count": 42,
+        "city": "Osaka (Umeda)",
+        "nearest_station": "中津",
+        "poi_breakdown": {
+          "shop": 17,
+          "cafe": 1,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "カンテグランデ",
+          "キスミー",
+          "サラダ館 中津店",
+          "フシキ"
+        ]
+      }
+    }
+  ]
+}

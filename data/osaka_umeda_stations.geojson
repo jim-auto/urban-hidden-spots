@@ -1,0 +1,747 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4923765,
+          34.7099152
+        ]
+      },
+      "properties": {
+        "osm_id": 346120988,
+        "osm_type": "node",
+        "name": "中津",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "中津",
+          "name": "中津",
+          "name:en": "Nakatsu",
+          "name:ja": "中津",
+          "name:ja-Hira": "なかつ",
+          "name:ja_rm": "Nakatsu",
+          "name:ko": "나카쓰",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年 国土交通省",
+          "operator": "阪急電鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "url": "http://rail.hankyu.co.jp/station/nakatsu.html",
+          "wikidata": "Q610516",
+          "wikipedia": "ja:中津駅 (阪急)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4955732,
+          34.7022133
+        ]
+      },
+      "properties": {
+        "osm_id": 346685291,
+        "osm_type": "node",
+        "name": "大阪",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "大阪環状線",
+          "KSJ2:STN": "大阪",
+          "contact:website": "https://www.jr-odekake.net/eki/top?id=0610130",
+          "name": "大阪",
+          "name:de": "Osaka",
+          "name:en": "Osaka",
+          "name:it": "Osaka",
+          "name:ja": "大阪",
+          "name:ja-Latn": "Ōsaka",
+          "name:ko": "오사카",
+          "name:vi": "osaka",
+          "name:zh": "大阪",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "西日本旅客鉄道",
+          "operator:en": "West Japan Railway Company",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "A47;G47;O11;F01",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wheelchair": "yes",
+          "wikidata": "Q801694",
+          "wikipedia": "ja:大阪駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4868438,
+          34.6972584
+        ]
+      },
+      "properties": {
+        "osm_id": 346685402,
+        "osm_type": "node",
+        "name": "福島",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "大阪環状線",
+          "KSJ2:STN": "福島",
+          "contact:website": "https://www.jr-odekake.net/eki/top?id=0610501",
+          "name": "福島",
+          "name:en": "Fukushima",
+          "name:ja": "福島",
+          "name:ja-Hira": "ふくしま",
+          "name:ja-Latn": "Fukushima",
+          "name:ko": "후쿠시마",
+          "name:zh": "福岛",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年 国土交通省",
+          "operator": "西日本旅客鉄道",
+          "operator:en": "West Japan Railway Company",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JR-O12",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wheelchair": "yes",
+          "wikidata": "Q855584",
+          "wikipedia": "ja:福島駅 (JR西日本)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4983887,
+          34.7052911
+        ]
+      },
+      "properties": {
+        "osm_id": 3544516031,
+        "osm_type": "node",
+        "name": "大阪梅田",
+        "category": "station",
+        "tags": {
+          "alt_name:ko": "한큐 우메다",
+          "name": "大阪梅田",
+          "name:de": "Umeda",
+          "name:en": "Ōsaka Umeda",
+          "name:ja": "大阪梅田",
+          "name:ja-Hira": "おおさかうめだ",
+          "name:ja_rm": "Osaka Umeda",
+          "name:ko": "오사카 우메다",
+          "name:zh": "大阪梅田",
+          "network": "阪急電鉄京都本線;阪急電鉄宝塚本線;阪急電鉄神戸本線",
+          "operator": "阪急電鉄",
+          "operator:en": "Hankyu Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "1910",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q20023053",
+          "wikipedia": "ja:大阪梅田駅 (阪急)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4971469,
+          34.7014097
+        ]
+      },
+      "properties": {
+        "osm_id": 3632936957,
+        "osm_type": "node",
+        "name": "大阪梅田",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "本線",
+          "alt_name": "阪神梅田",
+          "alt_name:en": "HanshinUmeda",
+          "alt_name:ja": "阪神梅田",
+          "alt_name:ja-Hira": "はんしんうめだ",
+          "alt_name:ja_rm": "HanshinUmeda",
+          "alt_name:ko": "한신 우메다",
+          "name": "大阪梅田",
+          "name:de": "Hanshin Umeda",
+          "name:en": "Osaka-Umeda",
+          "name:ja": "大阪梅田",
+          "name:ja-Hira": "おおさかうめだ",
+          "name:ja_rm": "Osaka-Umeda",
+          "name:ko": "오사카 우메다",
+          "network": "阪神電気鉄道本線",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年 国土交通省",
+          "operator": "阪神電気鉄道",
+          "operator:en": "Hanshin Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "HS01",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "url": "http://rail.hanshin.co.jp/station/umeda.html",
+          "wheelchair": "yes",
+          "wikidata": "Q20023052",
+          "wikipedia": "ja:大阪梅田駅 (阪神)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.487651,
+          34.6957711
+        ]
+      },
+      "properties": {
+        "osm_id": 3909772561,
+        "osm_type": "node",
+        "name": "福島",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "本線",
+          "KSJ2:STN": "福島",
+          "name": "福島",
+          "name:en": "Fukushima",
+          "name:ja": "福島",
+          "name:ja-Hira": "ふくしま",
+          "name:ja_rm": "Fukushima",
+          "name:ko": "후쿠시마",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年 国土交通省",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "HS02",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "url": "http://rail.hanshin.co.jp/station/fukushima.html",
+          "wheelchair": "yes",
+          "wikidata": "Q15141642",
+          "wikipedia": "ja:福島駅 (阪神)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4944874,
+          34.6938159
+        ]
+      },
+      "properties": {
+        "osm_id": 4894820468,
+        "osm_type": "node",
+        "name": "渡辺橋",
+        "category": "station",
+        "tags": {
+          "name": "渡辺橋",
+          "name:en": "Watanabebashi",
+          "name:ja": "渡辺橋",
+          "name:ko": "와타나베바시",
+          "network": "京阪電気鉄道中之島線",
+          "operator": "京阪電気鉄道",
+          "operator:en": "Keihan Electric Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "wikidata": "Q981701",
+          "wikipedia": "ja:渡辺橋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4999275,
+          34.6943253
+        ]
+      },
+      "properties": {
+        "osm_id": 4894820471,
+        "osm_type": "node",
+        "name": "大江橋",
+        "category": "station",
+        "tags": {
+          "name": "大江橋",
+          "name:en": "Oebashi",
+          "name:ja": "大江橋",
+          "name:ko": "오에바시",
+          "network": "京阪電気鉄道中之島線",
+          "operator": "京阪電気鉄道",
+          "operator:en": "Keihan Electric Railway",
+          "public_transport": "station",
+          "railway": "station",
+          "wheelchair": "yes",
+          "wikidata": "Q981704",
+          "wikipedia": "ja:大江橋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5013746,
+          34.6924906
+        ]
+      },
+      "properties": {
+        "osm_id": 4894826988,
+        "osm_type": "node",
+        "name": "淀屋橋",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "京阪本線",
+          "KSJ2:STN": "淀屋橋",
+          "layer": "-2",
+          "name": "淀屋橋",
+          "name:de": "Yodoyabashi",
+          "name:en": "Yodoyabashi",
+          "name:ja": "淀屋橋",
+          "name:ja_rm": "Yodoyabashi",
+          "name:ko": "요도야바시",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KH01",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wikidata": "Q1131721",
+          "wikipedia": "ja:淀屋橋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4998176,
+          34.7005946
+        ]
+      },
+      "properties": {
+        "osm_id": 5411378288,
+        "osm_type": "node",
+        "name": "東梅田",
+        "category": "station",
+        "tags": {
+          "name": "東梅田",
+          "name:en": "Higashi-Umeda",
+          "name:ja": "東梅田",
+          "name:ko": "히가시우메다",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q83600"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5056231,
+          34.7072258
+        ]
+      },
+      "properties": {
+        "osm_id": 5411378294,
+        "osm_type": "node",
+        "name": "中崎町",
+        "category": "station",
+        "tags": {
+          "level": "-1",
+          "name": "中崎町",
+          "name:en": "Nakazakicho",
+          "name:ja": "中崎町",
+          "name:ko": "나카자키초",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q83601"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5123175,
+          34.7049249
+        ]
+      },
+      "properties": {
+        "osm_id": 5798710552,
+        "osm_type": "node",
+        "name": "天満",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "大阪環状線",
+          "KSJ2:STN": "天満",
+          "contact:website": "https://www.jr-odekake.net/eki/top?id=0610513",
+          "name": "天満",
+          "name:en": "Temma",
+          "name:ja": "天満",
+          "name:ja-Latn": "Tenma",
+          "name:ko": "덴마",
+          "name:zh": "天满",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator:en": "West Japan Railway Company",
+          "operator:ja": "西日本旅客鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JR-O10",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q468599",
+          "wikipedia": "ja:天満駅",
+          "wikipedia:en": "Temma Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4975879,
+          34.7034131
+        ]
+      },
+      "properties": {
+        "osm_id": 7811929025,
+        "osm_type": "node",
+        "name": "梅田",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://subway.osakametro.co.jp/station_guide/M/m16/",
+          "int_name": "Umeda",
+          "name": "梅田",
+          "name:en": "Umeda",
+          "name:es": "Umeda",
+          "name:ja": "梅田",
+          "name:ja-Latn": "Umeda",
+          "name:ko": "우메다",
+          "network": "大阪市営地下鉄御堂筋線",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M16",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q20023053",
+          "wikipedia": "ja:大阪梅田駅 (阪急)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4968309,
+          34.7110401
+        ]
+      },
+      "properties": {
+        "osm_id": 7811929026,
+        "osm_type": "node",
+        "name": "中津",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://subway.osakametro.co.jp/station_guide/M/m15/",
+          "int_name": "Nakatsu",
+          "name": "中津",
+          "name:en": "Nakatsu",
+          "name:ja": "中津",
+          "name:ja-Hira": "なかつ",
+          "name:ja-Latn": "Nakatsu",
+          "name:ko": "나카쓰",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M15",
+          "station": "subway",
+          "wheelchair": "limited",
+          "wikidata": "Q2520333",
+          "wikipedia": "ja:中津駅 (Osaka Metro)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5110024,
+          34.6975782
+        ]
+      },
+      "properties": {
+        "osm_id": 7829401273,
+        "osm_type": "node",
+        "name": "南森町",
+        "category": "station",
+        "tags": {
+          "int_name": "Minami-morimachi",
+          "name": "南森町",
+          "name:en": "Minami-morimachi;Minami-Morimachi",
+          "name:ja": "南森町",
+          "name:ja_rm": "Minami-morimachi;Minami-Morimachi",
+          "name:ko": "미나미모리마치",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "T21",
+          "station": "subway",
+          "subway": "yes",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q1039923",
+          "wikipedia": "ja:南森町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5111553,
+          34.6975137
+        ]
+      },
+      "properties": {
+        "osm_id": 7829401274,
+        "osm_type": "node",
+        "name": "南森町",
+        "category": "station",
+        "tags": {
+          "name": "南森町",
+          "name:en": "Minami-Morimachi",
+          "name:ko": "미나미모리마치",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q1039923",
+          "wikipedia": "ja:南森町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.49565,
+          34.6994819
+        ]
+      },
+      "properties": {
+        "osm_id": 7893338340,
+        "osm_type": "node",
+        "name": "西梅田",
+        "category": "station",
+        "tags": {
+          "int_name": "Nishi-Umeda",
+          "name": "西梅田",
+          "name:en": "Nishi-Umeda",
+          "name:ja": "西梅田",
+          "name:ja_rm": "Nishi Umeda",
+          "name:ko": "니시우메다",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "operator:ja": "大阪市高速電気軌道",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "Y11",
+          "station": "subway",
+          "subway": "yes",
+          "toilets:wheelchair": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q126023",
+          "wikipedia": "ja:西梅田駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5107818,
+          34.7098074
+        ]
+      },
+      "properties": {
+        "osm_id": 7937883038,
+        "osm_type": "node",
+        "name": "天神橋筋六丁目",
+        "category": "station",
+        "tags": {
+          "level": "-1",
+          "name": "天神橋筋六丁目",
+          "name:en": "Tenjinbashisuji 6-chome",
+          "name:ja": "天神橋筋六丁目",
+          "name:ja_rm": "Tenjinbashisuji-roku-chōme",
+          "name:ko": "덴진바시스지6초메",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "KSJ2",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q1143934",
+          "wikipedia": "ja:天神橋筋六丁目駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5108434,
+          34.7044759
+        ]
+      },
+      "properties": {
+        "osm_id": 7937883039,
+        "osm_type": "node",
+        "name": "扇町",
+        "category": "station",
+        "tags": {
+          "name": "扇町",
+          "name:en": "Ogimachi",
+          "name:ja": "扇町",
+          "name:ja_rm": "Ōgimachi",
+          "name:ko": "오기마치",
+          "network": "大阪市営地下鉄堺筋線",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q843811",
+          "wikipedia": "ja:扇町駅 (大阪府)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5118514,
+          34.7106541
+        ]
+      },
+      "properties": {
+        "osm_id": 7944187510,
+        "osm_type": "node",
+        "name": "天神橋筋六丁目",
+        "category": "station",
+        "tags": {
+          "int_name": "Tenjimbashisuji Rokuchōme",
+          "name": "天神橋筋六丁目",
+          "name:en": "Tenjinbashisuji 6-chome",
+          "name:ja": "天神橋筋六丁目",
+          "name:ja_rm": "Tenjinbashisuji-roku-chōme",
+          "name:ko": "덴진바시스지6초메",
+          "operator": "大阪市高速電気軌道",
+          "operator:en": "Osaka Metro",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "T18",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q1143934",
+          "wikipedia": "ja:天神橋筋六丁目駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4972655,
+          34.6983875
+        ]
+      },
+      "properties": {
+        "osm_id": 7944201016,
+        "osm_type": "node",
+        "name": "北新地",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "JR東西線",
+          "KSJ2:STN": "北新地",
+          "name": "北新地",
+          "name:en": "Kitashinchi",
+          "name:ja": "北新地",
+          "name:ja-Hira": "きたしんち",
+          "name:ja_rm": "Kitashinchi",
+          "name:ko": "기타신치",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "西日本旅客鉄道",
+          "operator:en": "West Japan Railway Company",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JR-H44",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "url": "http://www.jr-odekake.net/eki/top.php?id=0612303",
+          "wheelchair": "yes",
+          "wikidata": "Q1073390",
+          "wikipedia": "ja:北新地駅"
+        }
+      }
+    }
+  ]
+}

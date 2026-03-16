@@ -53,6 +53,18 @@ CITIES = {
         "lon": 139.6226,
         "radius": 2000,
     },
+    "nagoya_meieki": {
+        "name": "Nagoya (Meieki)",
+        "lat": 35.1706,
+        "lon": 136.8816,
+        "radius": 1500,
+    },
+    "osaka_umeda": {
+        "name": "Osaka (Umeda)",
+        "lat": 34.7055,
+        "lon": 135.4983,
+        "radius": 1500,
+    },
 }
 
 # POI・歩行者空間を取得するクエリ

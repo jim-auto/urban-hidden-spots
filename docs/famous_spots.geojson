@@ -495,6 +495,156 @@
         "city": "Yokohama",
         "type": "famous"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8816,
+          35.1706
+        ]
+      },
+      "properties": {
+        "name": "名古屋駅",
+        "city": "Nagoya (Meieki)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.883,
+          35.171
+        ]
+      },
+      "properties": {
+        "name": "JRゲートタワー",
+        "city": "Nagoya (Meieki)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.884,
+          35.17
+        ]
+      },
+      "properties": {
+        "name": "ミッドランドスクエア",
+        "city": "Nagoya (Meieki)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8845,
+          35.1715
+        ]
+      },
+      "properties": {
+        "name": "大名古屋ビルヂング",
+        "city": "Nagoya (Meieki)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8833,
+          35.1685
+        ]
+      },
+      "properties": {
+        "name": "ナナちゃん人形",
+        "city": "Nagoya (Meieki)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4983,
+          34.7055
+        ]
+      },
+      "properties": {
+        "name": "梅田駅",
+        "city": "Osaka (Umeda)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4952,
+          34.7059
+        ]
+      },
+      "properties": {
+        "name": "グランフロント大阪",
+        "city": "Osaka (Umeda)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5007,
+          34.7044
+        ]
+      },
+      "properties": {
+        "name": "HEP FIVE",
+        "city": "Osaka (Umeda)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.49,
+          34.7052
+        ]
+      },
+      "properties": {
+        "name": "梅田スカイビル",
+        "city": "Osaka (Umeda)",
+        "type": "famous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4965,
+          34.704
+        ]
+      },
+      "properties": {
+        "name": "ヨドバシ梅田",
+        "city": "Osaka (Umeda)",
+        "type": "famous"
+      }
     }
   ]
 }

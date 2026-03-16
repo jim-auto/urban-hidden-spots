@@ -1,0 +1,476 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8833343,
+          35.169141
+        ]
+      },
+      "properties": {
+        "osm_id": 4052060934,
+        "osm_type": "node",
+        "name": "近鉄名古屋",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "名古屋線",
+          "KSJ2:STN": "近鉄名古屋",
+          "name": "近鉄名古屋",
+          "name:de": "Kintetsu Nagoya",
+          "name:en": "Kintetsu-Nagoya",
+          "name:ja": "近鉄名古屋",
+          "name:ja-Hira": "きんてつ なごや",
+          "name:ko": "긴테츠나고야",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年 国土交通省",
+          "operator": "近畿日本鉄道",
+          "operator:en": "Kintetsu Railway",
+          "operator:ja": "近畿日本鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "E01",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "website": "https://www.kintetsu.co.jp/station/station_info/station17048.html",
+          "wikidata": "Q1109915",
+          "wikipedia": "ja:近鉄名古屋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8818431,
+          35.1707285
+        ]
+      },
+      "properties": {
+        "osm_id": 4919810141,
+        "osm_type": "node",
+        "name": "名古屋",
+        "category": "station",
+        "tags": {
+          "name": "名古屋",
+          "name:en": "Nagoya",
+          "name:fr": "Nagoya",
+          "name:it": "Nagoya",
+          "name:ja": "名古屋",
+          "name:ko": "나고야",
+          "operator": "東海旅客鉄道",
+          "operator:en": "Central Japan Railway Company",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CA68;CF00;CJ00",
+          "tourism": "yes",
+          "train": "yes",
+          "website": "https://railway.jr-central.co.jp/station-guide/shinkansen/nagoya/map.html",
+          "wheelchair": "yes",
+          "wikidata": "Q49381",
+          "wikipedia": "ja:名古屋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8967278,
+          35.1749739
+        ]
+      },
+      "properties": {
+        "osm_id": 5408576833,
+        "osm_type": "node",
+        "name": "丸の内",
+        "category": "station",
+        "tags": {
+          "name": "丸の内",
+          "name:en": "Marunouchi",
+          "name:ja": "丸の内",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8973502,
+          35.1692315
+        ]
+      },
+      "properties": {
+        "osm_id": 5408576834,
+        "osm_type": "node",
+        "name": "伏見",
+        "category": "station",
+        "tags": {
+          "name": "伏見",
+          "name:en": "Fushimi",
+          "name:ja": "伏見",
+          "name:ko": "후시미",
+          "operator": "名古屋市交通局",
+          "operator:website": "https://www.kotsu.city.nagoya.jp",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H09",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp/jp/pc/subway/station_top.html?name=%E4%BC%8F%E8%A6%8B",
+          "wikidata": "Q862368"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8838742,
+          35.1695951
+        ]
+      },
+      "properties": {
+        "osm_id": 6630192285,
+        "osm_type": "node",
+        "name": "名鉄名古屋",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "名古屋本線",
+          "KSJ2:STN": "名鉄名古屋",
+          "line": "名古屋本線",
+          "name": "名鉄名古屋",
+          "name:de": "Meitetsu Nagoya",
+          "name:en": "Meitetsu Nagoya",
+          "name:ja": "名鉄名古屋",
+          "name:ja_rm": "Meitetsu Nagoya",
+          "name:ko": "메이테츠나고야",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "名古屋鉄道",
+          "operator:en": "Meitetsu",
+          "operator:ja": "名古屋鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "NH36",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "usage": "main",
+          "website": "https://www.meitetsu.co.jp/train/station_info/line01/station/1201.html",
+          "wikidata": "Q911757",
+          "wikipedia": "ja:名鉄名古屋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.882394,
+          35.1687934
+        ]
+      },
+      "properties": {
+        "osm_id": 6689865382,
+        "osm_type": "node",
+        "name": "名古屋",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "西名古屋港線",
+          "name": "名古屋",
+          "name:en": "Nagoya",
+          "name:ko": "나고야",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "東海旅客鉄道",
+          "operator:en": "Central Japan Railway Company",
+          "operator:ja": "東海旅客鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "toilets:wheelchair": "yes",
+          "train": "yes",
+          "website": "https://www.aonamiline.co.jp/pc/stinfo_nagoya.html",
+          "wheelchair": "yes",
+          "wikidata": "Q49381",
+          "wikipedia": "ja:名古屋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8815207,
+          35.1616709
+        ]
+      },
+      "properties": {
+        "osm_id": 6689897343,
+        "osm_type": "node",
+        "name": "ささしまライブ",
+        "category": "station",
+        "tags": {
+          "KSJ2:LIN": "西名古屋港線",
+          "KSJ2:STN": "ささしまライブ",
+          "name": "ささしまライブ",
+          "name:en": "Sashima-raibu",
+          "name:ja": "ささしまライブ",
+          "name:ko": "사사시마라이브",
+          "name:zh": "笹岛演奏厅",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+          "operator": "名古屋臨海高速鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "AN02",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q11267889",
+          "wikipedia": "ja:ささしまライブ駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8895686,
+          35.172142
+        ]
+      },
+      "properties": {
+        "osm_id": 7783665987,
+        "osm_type": "node",
+        "name": "国際センター",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "国際センター",
+          "alt_name:ko": "고쿠사이센터",
+          "name": "国際センター",
+          "name:en": "Kokusai Center (International Center)",
+          "name:ja": "国際センター",
+          "name:ko": "국제센터",
+          "operator": "名古屋市交通局",
+          "operator:website": "https://www.kotsu.city.nagoya.jp",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S03",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp/jp/pc/subway/station_top.html?name=%E5%9B%BD%E9%9A%9B%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "wikidata": "Q859016",
+          "wikipedia": "ja:国際センター駅 (愛知県)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8732428,
+          35.1676209
+        ]
+      },
+      "properties": {
+        "osm_id": 7783665989,
+        "osm_type": "node",
+        "name": "太閤通",
+        "category": "station",
+        "tags": {
+          "name": "太閤通",
+          "name:en": "Taiko-dori",
+          "name:ja": "太閤通",
+          "operator": "名古屋市交通局",
+          "operator:website": "https://www.kotsu.city.nagoya.jp",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S01",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.city.nagoya.jp/jp/pc/subway/station_top.html?name=%E5%A4%AA%E9%96%A4%E9%80%9A",
+          "wikidata": "Q850809",
+          "wikipedia": "ja:太閤通駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8839084,
+          35.1711834
+        ]
+      },
+      "properties": {
+        "osm_id": 7784263289,
+        "osm_type": "node",
+        "name": "名古屋",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "名古屋",
+          "name": "名古屋",
+          "name:en": "Nagoya",
+          "name:ja": "名古屋",
+          "name:ko": "나고야",
+          "operator": "名古屋市営地下鉄",
+          "operator:en": "Nagoya Municipal Subway",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H08;S02",
+          "wikidata": "Q49381",
+          "wikipedia": "ja:名古屋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8775644,
+          35.1775507
+        ]
+      },
+      "properties": {
+        "osm_id": 7784263290,
+        "osm_type": "node",
+        "name": "亀島",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "亀島",
+          "name": "亀島",
+          "name:en": "Kamejima",
+          "name:ja": "亀島",
+          "name:ja-Hira": "かめじま",
+          "name:ja_rm": "Kamejima",
+          "name:ko": "가메지마",
+          "operator": "名古屋市交通局",
+          "operator:website": "https://www.kotsu.city.nagoya.jp",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H07",
+          "station": "subway",
+          "subway": "yes",
+          "website": "http://www.kotsu.city.nagoya.jp/subway/station_info/ka_info/kamejima.html",
+          "wikidata": "Q862331",
+          "wikipedia": "ja:亀島駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8671453,
+          35.1770004
+        ]
+      },
+      "properties": {
+        "osm_id": 7784263291,
+        "osm_type": "node",
+        "name": "本陣",
+        "category": "station",
+        "tags": {
+          "KSJ2:STN": "本陣",
+          "name": "本陣",
+          "name:en": "Honjin",
+          "name:ja": "本陣",
+          "name:ko": "혼진",
+          "operator": "名古屋市交通局",
+          "operator:website": "https://www.kotsu.city.nagoya.jp",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H06",
+          "station": "subway",
+          "website": "http://www.kotsu.city.nagoya.jp/subway/station_info/ha_info/honjin.html",
+          "wikidata": "Q862320",
+          "wikipedia": "ja:本陣駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8795224,
+          35.1611738
+        ]
+      },
+      "properties": {
+        "osm_id": 7992136571,
+        "osm_type": "node",
+        "name": "米野",
+        "category": "station",
+        "tags": {
+          "name": "米野",
+          "name:de": "Komeno",
+          "name:en": "Komeno",
+          "name:ja": "米野",
+          "name:ja-Hira": "こめの",
+          "name:ko": "고메노",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "E02",
+          "wikidata": "Q6428299",
+          "wikipedia": "ja:米野駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8809822,
+          35.170581
+        ]
+      },
+      "properties": {
+        "osm_id": 11361374044,
+        "osm_type": "node",
+        "name": "名古屋",
+        "category": "station",
+        "tags": {
+          "name": "名古屋",
+          "name:en": "Nagoya",
+          "name:fr": "Nagoya",
+          "name:it": "Nagoya",
+          "name:ja": "名古屋",
+          "name:ko": "나고야",
+          "operator": "東海旅客鉄道",
+          "operator:en": "Central Japan Railway Company",
+          "public_transport": "station",
+          "railway": "station",
+          "train": "yes",
+          "website": "https://railway.jr-central.co.jp/station-guide/shinkansen/nagoya/map.html",
+          "wheelchair": "yes",
+          "wikidata": "Q49381",
+          "wikipedia": "ja:名古屋駅"
+        }
+      }
+    }
+  ]
+}

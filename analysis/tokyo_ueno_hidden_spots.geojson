@@ -1,0 +1,5462 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773086,
+          35.701986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.701986,
+        "lon": 139.773086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 165.2,
+        "poi_count": 82,
+        "ped_count": 62,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 47,
+          "restaurant": 13,
+          "cafe": 21,
+          "park": 1
+        },
+        "nearby_names": [
+          "肉のハナマサ",
+          "セブン-イレブン",
+          "花文",
+          "ばんから",
+          "めいどりーみん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.770086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 185.3,
+        "poi_count": 81,
+        "ped_count": 76,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "restaurant": 31,
+          "shop": 43,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "鮨いづ",
+          "セブン-イレブン",
+          "Y'sRoad 上野ウェア館",
+          "福錦",
+          "ジャン・カレー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.773086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 172.6,
+        "poi_count": 148,
+        "ped_count": 80,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 112,
+          "cafe": 15,
+          "restaurant": 21
+        },
+        "nearby_names": [
+          "ローソン",
+          "Cafe ASAN",
+          "花文",
+          "大阪王将",
+          "はんや一刻堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.774086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.774086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 246.8,
+        "poi_count": 158,
+        "ped_count": 65,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 131,
+          "cafe": 11,
+          "restaurant": 16
+        },
+        "nearby_names": [
+          "ローソン",
+          "Cafe ASAN",
+          "ジョナサン",
+          "Blue Sky THAILAND",
+          "PC・レーダー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.775086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 296.0,
+        "poi_count": 145,
+        "ped_count": 68,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 122,
+          "cafe": 7,
+          "restaurant": 16
+        },
+        "nearby_names": [
+          "ローソン",
+          "Cafe ASAN",
+          "ローソン",
+          "セブン-イレブン",
+          "ジョナサン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.771086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.771086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 234.2,
+        "poi_count": 98,
+        "ped_count": 87,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 51,
+          "restaurant": 32,
+          "cafe": 14,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "Y'sRoad 上野テック館",
+          "Y'sRoad 上野本館",
+          "Y'sRoad 上野ウェア館",
+          "福錦"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.773086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 259.3,
+        "poi_count": 172,
+        "ped_count": 71,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "御徒町",
+        "poi_breakdown": {
+          "shop": 129,
+          "restaurant": 31,
+          "cafe": 12
+        },
+        "nearby_names": [
+          "ローソン",
+          "Y'sRoad 上野アサゾー",
+          "Y'sRoad 上野テック館",
+          "Y'sRoad 上野本館",
+          "エントリー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.774086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.774086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 224.1,
+        "poi_count": 205,
+        "ped_count": 63,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "御徒町",
+        "poi_breakdown": {
+          "shop": 168,
+          "cafe": 7,
+          "restaurant": 30
+        },
+        "nearby_names": [
+          "ローソン",
+          "Cafe ASAN",
+          "Y'sRoad 上野アサゾー",
+          "Y'sRoad 上野テック館",
+          "エントリー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.775086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 195.0,
+        "poi_count": 167,
+        "ped_count": 82,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 144,
+          "cafe": 5,
+          "restaurant": 18
+        },
+        "nearby_names": [
+          "ローソン",
+          "カフェ・ド・クリエ",
+          "エントリー",
+          "ジョナサン",
+          "i for you"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.776086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 167.6,
+        "poi_count": 140,
+        "ped_count": 80,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "cafe": 6,
+          "shop": 118,
+          "restaurant": 16
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "セブン-イレブン",
+          "i for you",
+          "ミニストップ",
+          "カクヤス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.771086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.771086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 178.5,
+        "poi_count": 115,
+        "ped_count": 102,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "shop": 62,
+          "restaurant": 35,
+          "cafe": 18
+        },
+        "nearby_names": [
+          "Y'sRoad 上野本館",
+          "Y'sRoad 上野ウェア館",
+          "ファミリーマート",
+          "福錦",
+          "うさぎや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.772086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 220.9,
+        "poi_count": 144,
+        "ped_count": 77,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野広小路",
+        "poi_breakdown": {
+          "shop": 94,
+          "restaurant": 36,
+          "cafe": 14
+        },
+        "nearby_names": [
+          "Y'sRoad 上野アサゾー",
+          "Y'sRoad 上野テック館",
+          "Y'sRoad 上野本館",
+          "うさぎや",
+          "日本マテリアル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.773086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 176.0,
+        "poi_count": 157,
+        "ped_count": 75,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "御徒町",
+        "poi_breakdown": {
+          "cafe": 9,
+          "shop": 116,
+          "restaurant": 30,
+          "park": 2
+        },
+        "nearby_names": [
+          "ドトールコーヒーショップ",
+          "Y'sRoad 上野アサゾー",
+          "Y'sRoad 上野テック館",
+          "Y'sRoad 上野本館",
+          "エントリー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.776086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 166.5,
+        "poi_count": 189,
+        "ped_count": 62,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 139,
+          "restaurant": 39,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "ロンドンスポーツ",
+          "石山商店",
+          "コトブキゴルフ",
+          "二木ゴルフ",
+          "中田商店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.777086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 184.7,
+        "poi_count": 81,
+        "ped_count": 75,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 48,
+          "cafe": 9,
+          "restaurant": 24
+        },
+        "nearby_names": [
+          "ローソン",
+          "ソフトバンクショップ",
+          "ファミリーマート",
+          "スターバックス",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770086,
+          35.708986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.708986,
+        "lon": 139.770086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 184.0,
+        "poi_count": 128,
+        "ped_count": 83,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "shop": 51,
+          "restaurant": 71,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "デリー",
+          "チョン ハク トン",
+          "焼肉ごぉ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.771086,
+          35.708986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.708986,
+        "lon": 139.771086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 208.0,
+        "poi_count": 171,
+        "ped_count": 72,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "shop": 57,
+          "restaurant": 108,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "吉鮨",
+          "コダカ花店",
+          "ビッグ ヴィジョン21"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772086,
+          35.708986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.708986,
+        "lon": 139.772086,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 152.1,
+        "poi_count": 209,
+        "ped_count": 72,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野広小路",
+        "poi_breakdown": {
+          "shop": 79,
+          "restaurant": 118,
+          "cafe": 12
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "吉鮨",
+          "コダカ花店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.770086,
+        "hidden_score": 0.999,
+        "poi_density": 0.997,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 261.0,
+        "poi_count": 79,
+        "ped_count": 72,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "restaurant": 31,
+          "shop": 36,
+          "cafe": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "鮨いづ",
+          "セブン-イレブン",
+          "Y'sRoad 上野ウェア館",
+          "福錦",
+          "なばや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.772086,
+        "hidden_score": 0.998,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.996,
+        "station_distance_score": 1.0,
+        "station_distance_m": 230.9,
+        "poi_count": 128,
+        "ped_count": 59,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 76,
+          "restaurant": 36,
+          "cafe": 15,
+          "park": 1
+        },
+        "nearby_names": [
+          "Y'sRoad 上野テック館",
+          "Y'sRoad 上野本館",
+          "Y'sRoad 上野ウェア館",
+          "うさぎや",
+          "浜田銃砲店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.776086,
+        "hidden_score": 0.997,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 1.0,
+        "station_distance_m": 278.7,
+        "poi_count": 96,
+        "ped_count": 58,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 76,
+          "restaurant": 16,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "Sultan Indian & Pakistan Restaurant",
+          "Art Sin",
+          "美膳房"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777086,
+          35.708986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.708986,
+        "lon": 139.777086,
+        "hidden_score": 0.997,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 1.0,
+        "station_distance_m": 288.9,
+        "poi_count": 110,
+        "ped_count": 58,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 60,
+          "cafe": 8,
+          "restaurant": 42
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "ドトールコーヒーショップ",
+          "ファミリーマート",
+          "卜口函"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.774086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.774086,
+        "hidden_score": 0.992,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 217.4,
+        "poi_count": 107,
+        "ped_count": 55,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "cafe": 13,
+          "shop": 80,
+          "restaurant": 13,
+          "park": 1
+        },
+        "nearby_names": [
+          "Cafe ASAN",
+          "肉のハナマサ",
+          "花文",
+          "ローソン",
+          "はんや一刻堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.775086,
+        "hidden_score": 0.992,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 307.7,
+        "poi_count": 81,
+        "ped_count": 55,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "cafe": 7,
+          "shop": 65,
+          "restaurant": 8,
+          "park": 1
+        },
+        "nearby_names": [
+          "Cafe ASAN",
+          "肉のハナマサ",
+          "ローソン",
+          "セブン-イレブン",
+          "Sultan Indian & Pakistan Restaurant"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.777086,
+        "hidden_score": 0.989,
+        "poi_density": 0.973,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 185.7,
+        "poi_count": 71,
+        "ped_count": 74,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 51,
+          "cafe": 6,
+          "restaurant": 14
+        },
+        "nearby_names": [
+          "ミニストップ",
+          "カクヤス",
+          "ドトールコーヒーショップ",
+          "カフェ・ベローチェ",
+          "ベジキッチン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.710986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.710986,
+        "lon": 139.779086,
+        "hidden_score": 0.989,
+        "poi_density": 0.973,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 165.5,
+        "poi_count": 71,
+        "ped_count": 67,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 45,
+          "cafe": 5,
+          "restaurant": 21
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "ローソン",
+          "セブン-イレブン",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.781086,
+        "hidden_score": 0.987,
+        "poi_density": 0.967,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 240.4,
+        "poi_count": 69,
+        "ped_count": 87,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "restaurant": 11,
+          "shop": 52,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "いなかむら",
+          "クリーニング メディア",
+          "PB FARM",
+          "モードショップナカネ",
+          "中屋洋菓子店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.780086,
+        "hidden_score": 0.984,
+        "poi_density": 0.96,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 198.5,
+        "poi_count": 67,
+        "ped_count": 72,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 46,
+          "cafe": 7,
+          "restaurant": 13,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ドトールコーヒーショップ",
+          "Pizza King",
+          "いなかむら",
+          "クリーニング メディア"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.780086,
+        "hidden_score": 0.983,
+        "poi_density": 0.957,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 279.8,
+        "poi_count": 66,
+        "ped_count": 90,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 51,
+          "restaurant": 12,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "ふくはら酒店",
+          "梶田時計店",
+          "いなかむら",
+          "PB FARM",
+          "長崎"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777086,
+          35.709986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.709986,
+        "lon": 139.777086,
+        "hidden_score": 0.981,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 208.6,
+        "poi_count": 97,
+        "ped_count": 49,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 62,
+          "restaurant": 28,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ローソン",
+          "ローソン",
+          "上野藪そば",
+          "ファミリーマート",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789086,
+          35.713986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.713986,
+        "lon": 139.789086,
+        "hidden_score": 0.979,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 303.4,
+        "poi_count": 81,
+        "ped_count": 48,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "shop": 64,
+          "cafe": 7,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "ハンドメイドマルシェ",
+          "ユニオン・コマース",
+          "はし藤本店",
+          "風和里",
+          "かまた刃研社"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.778086,
+        "hidden_score": 0.977,
+        "poi_density": 0.943,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 179.4,
+        "poi_count": 62,
+        "ped_count": 66,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 43,
+          "cafe": 4,
+          "restaurant": 14,
+          "park": 1
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "ファミリーマート",
+          "ドトールコーヒーショップ",
+          "WOOD WORK",
+          "大澤鞄"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.788086,
+          35.713986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.713986,
+        "lon": 139.788086,
+        "hidden_score": 0.977,
+        "poi_density": 0.946,
+        "pedestrian_space": 0.996,
+        "station_distance_score": 1.0,
+        "station_distance_m": 393.0,
+        "poi_count": 63,
+        "ped_count": 59,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "shop": 54,
+          "cafe": 4,
+          "restaurant": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ユニオン・コマース",
+          "風和里",
+          "かまた刃研社",
+          "肉のマルタケ",
+          "まいばすけっと"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.778086,
+        "hidden_score": 0.976,
+        "poi_density": 0.939,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 238.3,
+        "poi_count": 61,
+        "ped_count": 62,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 37,
+          "cafe": 5,
+          "restaurant": 19
+        },
+        "nearby_names": [
+          "ローソン",
+          "ソフトバンクショップ",
+          "ファミリーマート",
+          "大澤鞄",
+          "日本マテリアル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.780086,
+        "hidden_score": 0.973,
+        "poi_density": 0.932,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 376.7,
+        "poi_count": 59,
+        "ped_count": 71,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 45,
+          "restaurant": 13,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ふくはら酒店",
+          "梶田時計店",
+          "安藤鰹節店",
+          "Beauty Salon Twins",
+          "ラホール"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.769086,
+        "hidden_score": 0.973,
+        "poi_density": 0.932,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 171.4,
+        "poi_count": 59,
+        "ped_count": 82,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "shop": 31,
+          "restaurant": 19,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "福錦",
+          "鳥つね",
+          "なばや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.782086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.782086,
+        "hidden_score": 0.97,
+        "poi_density": 0.924,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 447.6,
+        "poi_count": 57,
+        "ped_count": 62,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 43,
+          "restaurant": 14
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "都寿司",
+          "ポニー",
+          "ラホール",
+          "やまもと印刷"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772086,
+          35.709986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.709986,
+        "lon": 139.772086,
+        "hidden_score": 0.97,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 1.0,
+        "station_distance_m": 166.3,
+        "poi_count": 86,
+        "ped_count": 44,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "京成上野",
+        "poi_breakdown": {
+          "shop": 31,
+          "restaurant": 49,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "UENO BODY CLINIC",
+          "蔦屋書店",
+          "すしざんまい",
+          "サイゼリヤ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.781086,
+        "hidden_score": 0.966,
+        "poi_density": 0.916,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 347.0,
+        "poi_count": 55,
+        "ped_count": 67,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "restaurant": 11,
+          "shop": 43,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "都寿司",
+          "ラホール",
+          "やまもと印刷",
+          "高島屋洋装店",
+          "理容ヤマダ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.780086,
+        "hidden_score": 0.966,
+        "poi_density": 0.935,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 158.8,
+        "poi_count": 60,
+        "ped_count": 55,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 39,
+          "cafe": 6,
+          "restaurant": 14,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "ドトールコーヒーショップ",
+          "Pizza King",
+          "ラホール"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769086,
+          35.708986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.708986,
+        "lon": 139.769086,
+        "hidden_score": 0.966,
+        "poi_density": 0.916,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 201.9,
+        "poi_count": 55,
+        "ped_count": 73,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "shop": 26,
+          "restaurant": 23,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "すしざんまい",
+          "キャスバ",
+          "天久"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.778086,
+        "hidden_score": 0.965,
+        "poi_density": 0.912,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 239.1,
+        "poi_count": 54,
+        "ped_count": 62,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 42,
+          "restaurant": 9,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ミニストップ",
+          "カクヤス",
+          "WOOD WORK",
+          "ベジキッチン",
+          "ふくはら酒店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780086,
+          35.710986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.710986,
+        "lon": 139.780086,
+        "hidden_score": 0.965,
+        "poi_density": 0.912,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 238.8,
+        "poi_count": 54,
+        "ped_count": 71,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "shop": 32,
+          "cafe": 4,
+          "restaurant": 18
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "ドトールコーヒーショップ",
+          "スカーレット・フラワー",
+          "ソフトバンクショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781086,
+          35.710986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.710986,
+        "lon": 139.781086,
+        "hidden_score": 0.965,
+        "poi_density": 0.912,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 151.0,
+        "poi_count": 54,
+        "ped_count": 60,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "shop": 38,
+          "restaurant": 14,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ソフトバンクショップ",
+          "タルクジ",
+          "ローソン",
+          "Dino"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780086,
+          35.711986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.711986,
+        "lon": 139.780086,
+        "hidden_score": 0.965,
+        "poi_density": 0.912,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 228.0,
+        "poi_count": 54,
+        "ped_count": 81,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 36,
+          "cafe": 3,
+          "restaurant": 14,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "ドトールコーヒーショップ",
+          "kinko’s",
+          "Raffine"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.712986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.712986,
+        "lon": 139.779086,
+        "hidden_score": 0.965,
+        "poi_density": 0.912,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 158.5,
+        "poi_count": 54,
+        "ped_count": 62,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 34,
+          "cafe": 4,
+          "restaurant": 16
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "ドトールコーヒーショップ",
+          "kinko’s",
+          "Raffine"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.779086,
+        "hidden_score": 0.963,
+        "poi_density": 0.908,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 269.4,
+        "poi_count": 53,
+        "ped_count": 72,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 30,
+          "cafe": 5,
+          "restaurant": 18
+        },
+        "nearby_names": [
+          "ローソン",
+          "ソフトバンクショップ",
+          "ローソン",
+          "ファミリーマート",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.776086,
+        "hidden_score": 0.961,
+        "poi_density": 0.903,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 389.9,
+        "poi_count": 52,
+        "ped_count": 60,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 34,
+          "restaurant": 14,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "エアコンランド",
+          "Sultan Indian & Pakistan Restaurant",
+          "Tricolor"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.781086,
+        "hidden_score": 0.961,
+        "poi_density": 0.903,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 455.6,
+        "poi_count": 52,
+        "ped_count": 74,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 35,
+          "restaurant": 15,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "都寿司",
+          "うどん 伝次",
+          "ラホール"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.778086,
+        "hidden_score": 0.96,
+        "poi_density": 0.899,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 179.8,
+        "poi_count": 51,
+        "ped_count": 67,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 35,
+          "restaurant": 11,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ミニストップ",
+          "カクヤス",
+          "WOOD WORK",
+          "ベジキッチン",
+          "いなかむら"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.768086,
+        "hidden_score": 0.958,
+        "poi_density": 0.895,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 177.9,
+        "poi_count": 50,
+        "ped_count": 72,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "restaurant": 21,
+          "shop": 22,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "てんぷら天庄",
+          "鳥つね",
+          "ビストロ コウゾウ",
+          "インドレストラン ナワブ",
+          "オオタケ美容室"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.790086,
+          35.714986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.714986,
+        "lon": 139.790086,
+        "hidden_score": 0.958,
+        "poi_density": 0.943,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 259.6,
+        "poi_count": 62,
+        "ped_count": 49,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "shop": 48,
+          "cafe": 7,
+          "restaurant": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソンストア100",
+          "ハンドメイドマルシェ",
+          "ユニオン・コマース",
+          "まいばすけっと",
+          "ユニオン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778086,
+          35.709986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.709986,
+        "lon": 139.778086,
+        "hidden_score": 0.957,
+        "poi_density": 0.95,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 1.0,
+        "station_distance_m": 209.3,
+        "poi_count": 64,
+        "ped_count": 47,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 36,
+          "cafe": 4,
+          "restaurant": 24
+        },
+        "nearby_names": [
+          "ローソン",
+          "ローソン",
+          "ローソン",
+          "ドトールコーヒーショップ",
+          "東京苑"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.777086,
+        "hidden_score": 0.956,
+        "poi_density": 0.928,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 289.9,
+        "poi_count": 58,
+        "ped_count": 51,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 42,
+          "restaurant": 15,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ミニストップ",
+          "カクヤス",
+          "エアコンランド",
+          "Sultan Indian & Pakistan Restaurant"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776086,
+          35.701986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.701986,
+        "lon": 139.776086,
+        "hidden_score": 0.954,
+        "poi_density": 0.886,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 411.7,
+        "poi_count": 48,
+        "ped_count": 62,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 28,
+          "restaurant": 17,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ローソン",
+          "エアコンランド",
+          "Tricolor",
+          "東京スターベース",
+          "くすりのおみせ あおやぎ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.782086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.782086,
+        "hidden_score": 0.953,
+        "poi_density": 0.908,
+        "pedestrian_space": 0.975,
+        "station_distance_score": 1.0,
+        "station_distance_m": 225.2,
+        "poi_count": 53,
+        "ped_count": 54,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 45,
+          "cafe": 3,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "クリーニング メディア",
+          "PB FARM",
+          "モードショップナカネ",
+          "長崎",
+          "タムラ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.709986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.709986,
+        "lon": 139.779086,
+        "hidden_score": 0.953,
+        "poi_density": 0.903,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 245.7,
+        "poi_count": 52,
+        "ped_count": 55,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 28,
+          "restaurant": 19,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ローソン",
+          "ローソン",
+          "Tahitian Restaurant & Bar Papeete",
+          "Cafe De West"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.768086,
+        "hidden_score": 0.952,
+        "poi_density": 0.881,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 188.3,
+        "poi_count": 47,
+        "ped_count": 64,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "restaurant": 18,
+          "shop": 22,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "鳥つね",
+          "シンスケ",
+          "サイクルスポット",
+          "ビストロ コウゾウ",
+          "インドレストラン ナワブ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.788086,
+          35.714986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.714986,
+        "lon": 139.788086,
+        "hidden_score": 0.952,
+        "poi_density": 0.92,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 419.5,
+        "poi_count": 56,
+        "ped_count": 51,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "shop": 46,
+          "cafe": 5,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "ユニオン・コマース",
+          "肉のマルタケ",
+          "ユニオン",
+          "Takenokohori",
+          "Seven Uniform"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772086,
+          35.700986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.700986,
+        "lon": 139.772086,
+        "hidden_score": 0.951,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 219.9,
+        "poi_count": 82,
+        "ped_count": 36,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "cafe": 22,
+          "restaurant": 13,
+          "shop": 47
+        },
+        "nearby_names": [
+          "エクセルシオール カフェ",
+          "ばんから",
+          "ark",
+          "めいどりーみん",
+          "コイズミ無線マルデン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770086,
+          35.701986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.701986,
+        "lon": 139.770086,
+        "hidden_score": 0.951,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 178.4,
+        "poi_count": 127,
+        "ped_count": 36,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "cafe": 28,
+          "restaurant": 18,
+          "shop": 80,
+          "park": 1
+        },
+        "nearby_names": [
+          "メメントユニコーン",
+          "牛かつ 壱弐参",
+          "セルスタ・R",
+          "アキバ特区",
+          "カミカゼスタイル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778086,
+          35.708986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.708986,
+        "lon": 139.778086,
+        "hidden_score": 0.951,
+        "poi_density": 0.895,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 1.0,
+        "station_distance_m": 318.6,
+        "poi_count": 50,
+        "ped_count": 56,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 27,
+          "cafe": 5,
+          "restaurant": 18
+        },
+        "nearby_names": [
+          "ローソン",
+          "Cafe TAW",
+          "守護商店",
+          "東京苑",
+          "京城苑"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.779086,
+        "hidden_score": 0.95,
+        "poi_density": 0.876,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 310.1,
+        "poi_count": 46,
+        "ped_count": 76,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 33,
+          "restaurant": 11,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "ミニストップ",
+          "ベジキッチン",
+          "ふくはら酒店",
+          "梶田時計店",
+          "いなかむら"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.788086,
+          35.711986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.711986,
+        "lon": 139.788086,
+        "hidden_score": 0.949,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 1.0,
+        "station_distance_m": 339.5,
+        "poi_count": 47,
+        "ped_count": 58,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "田原町",
+        "poi_breakdown": {
+          "shop": 43,
+          "cafe": 2,
+          "restaurant": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "まいばすけっと",
+          "はし藤本店",
+          "風和里",
+          "かまた刃研社",
+          "大黒屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.788086,
+          35.712986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.712986,
+        "lon": 139.788086,
+        "hidden_score": 0.949,
+        "poi_density": 0.876,
+        "pedestrian_space": 0.996,
+        "station_distance_score": 1.0,
+        "station_distance_m": 397.1,
+        "poi_count": 46,
+        "ped_count": 59,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "shop": 40,
+          "cafe": 3,
+          "restaurant": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "まいばすけっと",
+          "はし藤本店",
+          "風和里",
+          "かまた刃研社",
+          "大黒屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781086,
+          35.711986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.711986,
+        "lon": 139.781086,
+        "hidden_score": 0.948,
+        "poi_density": 0.871,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 159.0,
+        "poi_count": 45,
+        "ped_count": 74,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 34,
+          "park": 1
+        },
+        "nearby_names": [
+          "Grand Chapeau",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "スカーレット・フラワー",
+          "ソフトバンクショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.783086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.783086,
+        "hidden_score": 0.947,
+        "poi_density": 0.92,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 457.6,
+        "poi_count": 56,
+        "ped_count": 48,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 45,
+          "restaurant": 11
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ポニー",
+          "プレシャス",
+          "大黒屋",
+          "鮮魚菅間"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765086,
+          35.718986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.718986,
+        "lon": 139.765086,
+        "hidden_score": 0.947,
+        "poi_density": 0.932,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 1.0,
+        "station_distance_m": 186.3,
+        "poi_count": 59,
+        "ped_count": 46,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "根津",
+        "poi_breakdown": {
+          "shop": 35,
+          "restaurant": 18,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "よろずや、ほたる",
+          "魚菜　根津　呼友",
+          "あんぱちや",
+          "柳の庭",
+          "喫茶・ギャラリー　りんごや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.790086,
+          35.713986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.713986,
+        "lon": 139.790086,
+        "hidden_score": 0.945,
+        "poi_density": 0.946,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 214.3,
+        "poi_count": 63,
+        "ped_count": 42,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "restaurant": 11,
+          "shop": 44,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "どぜう 飯田屋 (Iidaya)",
+          "ハンドメイドマルシェ",
+          "ユニオン・コマース",
+          "風和里",
+          "まいばすけっと"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.769086,
+        "hidden_score": 0.943,
+        "poi_density": 0.943,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 234.2,
+        "poi_count": 62,
+        "ped_count": 42,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 36,
+          "restaurant": 15,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "Eltus",
+          "うちだ",
+          "メメントユニコーン",
+          "カミカゼスタイル",
+          "トゥインクルモバイル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.779086,
+        "hidden_score": 0.943,
+        "poi_density": 0.866,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 1.0,
+        "station_distance_m": 249.0,
+        "poi_count": 44,
+        "ped_count": 58,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 29,
+          "cafe": 2,
+          "restaurant": 13
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "ローソン",
+          "ファミリーマート",
+          "ドトールコーヒーショップ",
+          "WOOD WORK"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789086,
+          35.714986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.714986,
+        "lon": 139.789086,
+        "hidden_score": 0.943,
+        "poi_density": 0.953,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 1.0,
+        "station_distance_m": 337.0,
+        "poi_count": 65,
+        "ped_count": 40,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "shop": 55,
+          "cafe": 4,
+          "restaurant": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "ユニオン・コマース",
+          "肉のマルタケ",
+          "まいばすけっと",
+          "ユニオン",
+          "Takenokohori"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.767086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.767086,
+        "hidden_score": 0.942,
+        "poi_density": 0.856,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 266.8,
+        "poi_count": 42,
+        "ped_count": 64,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "restaurant": 21,
+          "shop": 16,
+          "cafe": 3,
+          "park": 2
+        },
+        "nearby_names": [
+          "てんぷら天庄",
+          "江知勝",
+          "鳥つね",
+          "ビストロ コウゾウ",
+          "東京美容本舗"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772086,
+          35.701986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.701986,
+        "lon": 139.772086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 111.8,
+        "poi_count": 171,
+        "ped_count": 66,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 108,
+          "restaurant": 24,
+          "cafe": 39
+        },
+        "nearby_names": [
+          "タムタム",
+          "牛かつ 壱弐参",
+          "セルスタ・R",
+          "MOQ",
+          "GF II"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.770086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 143.9,
+        "poi_count": 130,
+        "ped_count": 61,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "restaurant": 27,
+          "shop": 80,
+          "cafe": 21,
+          "park": 2
+        },
+        "nearby_names": [
+          "うちだ",
+          "タムタム",
+          "メメントユニコーン",
+          "牛かつ 壱弐参",
+          "セルスタ・R"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.773086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 127.2,
+        "poi_count": 126,
+        "ped_count": 65,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "cafe": 14,
+          "shop": 94,
+          "restaurant": 17,
+          "park": 1
+        },
+        "nearby_names": [
+          "Cafe ASAN",
+          "肉のハナマサ",
+          "セブン-イレブン",
+          "花文",
+          "神田達磨"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.771086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.771086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 128.5,
+        "poi_count": 119,
+        "ped_count": 86,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 74,
+          "restaurant": 32,
+          "cafe": 12,
+          "park": 1
+        },
+        "nearby_names": [
+          "タムタム",
+          "R Garden",
+          "Y'sRoad 上野ウェア館",
+          "大阪王将",
+          "神田達磨"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.772086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 122.4,
+        "poi_count": 140,
+        "ped_count": 82,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 94,
+          "restaurant": 29,
+          "cafe": 16,
+          "park": 1
+        },
+        "nearby_names": [
+          "タムタム",
+          "Y'sRoad 上野ウェア館",
+          "セブン-イレブン",
+          "大阪王将",
+          "神田達磨"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.782086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.782086,
+        "hidden_score": 0.94,
+        "poi_density": 0.903,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 336.4,
+        "poi_count": 52,
+        "ped_count": 48,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 41,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ラホール",
+          "やまもと印刷",
+          "高島屋洋装店",
+          "理容ヤマダ",
+          "西川洋品店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.769086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 91.9,
+        "poi_count": 95,
+        "ped_count": 114,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "shop": 42,
+          "restaurant": 42,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "美容室 ユシマ",
+          "てんぷら天庄",
+          "鳥つね",
+          "シンスケ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.771086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.771086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 104.5,
+        "poi_count": 188,
+        "ped_count": 124,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "shop": 72,
+          "restaurant": 102,
+          "cafe": 14
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "デリー",
+          "チョン ハク トン",
+          "焼肉ごぉ",
+          "叙々苑"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.772086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 124.6,
+        "poi_count": 188,
+        "ped_count": 114,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野広小路",
+        "poi_breakdown": {
+          "restaurant": 85,
+          "shop": 83,
+          "cafe": 20
+        },
+        "nearby_names": [
+          "吉鮨",
+          "コダカ花店",
+          "ビッグ ヴィジョン21",
+          "叙々苑",
+          "うさぎや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.773086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 94.5,
+        "poi_count": 216,
+        "ped_count": 119,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野広小路",
+        "poi_breakdown": {
+          "cafe": 19,
+          "shop": 125,
+          "restaurant": 70,
+          "park": 2
+        },
+        "nearby_names": [
+          "ドトールコーヒーショップ",
+          "NewDays",
+          "吉池",
+          "ソフトバンクショップ",
+          "Y'sRoad 上野アサゾー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.769086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 110.6,
+        "poi_count": 112,
+        "ped_count": 98,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "shop": 47,
+          "restaurant": 56,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "すしざんまい",
+          "キャスバ",
+          "天久"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.771086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.771086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 121.3,
+        "poi_count": 238,
+        "ped_count": 98,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "shop": 80,
+          "restaurant": 144,
+          "cafe": 14
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "吉鮨",
+          "コダカ花店",
+          "ビッグ ヴィジョン21",
+          "デリー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.772086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 83.4,
+        "poi_count": 247,
+        "ped_count": 102,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野広小路",
+        "poi_breakdown": {
+          "shop": 87,
+          "restaurant": 142,
+          "cafe": 18
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "しゅうる",
+          "鰻 登亭",
+          "メガネスーパー",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.775086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 122.1,
+        "poi_count": 299,
+        "ped_count": 81,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "御徒町",
+        "poi_breakdown": {
+          "shop": 200,
+          "restaurant": 82,
+          "cafe": 17
+        },
+        "nearby_names": [
+          "ロンドンスポーツ",
+          "吉池",
+          "石山商店",
+          "コトブキゴルフ",
+          "二木ゴルフ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773086,
+          35.708986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.708986,
+        "lon": 139.773086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 113.9,
+        "poi_count": 296,
+        "ped_count": 87,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野御徒町",
+        "poi_breakdown": {
+          "shop": 158,
+          "restaurant": 119,
+          "cafe": 19
+        },
+        "nearby_names": [
+          "シルクロード化粧品",
+          "ソフトバンクショップ",
+          "ファミリーマート",
+          "みんなのてもみ",
+          "しゅうる"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775086,
+          35.711986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.711986,
+        "lon": 139.775086,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 101.2,
+        "poi_count": 98,
+        "ped_count": 203,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "restaurant": 48,
+          "shop": 35,
+          "cafe": 15
+        },
+        "nearby_names": [
+          "じゅらく",
+          "上野松竹デパート",
+          "過門香",
+          "浜屋食品",
+          "亜麺坊"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.770086,
+        "hidden_score": 0.939,
+        "poi_density": 0.997,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 149.9,
+        "poi_count": 79,
+        "ped_count": 83,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "shop": 38,
+          "restaurant": 29,
+          "cafe": 12
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "福錦",
+          "なばや",
+          "四川担担麺 阿吽"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.788086,
+          35.710986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.710986,
+        "lon": 139.788086,
+        "hidden_score": 0.939,
+        "poi_density": 0.851,
+        "pedestrian_space": 0.996,
+        "station_distance_score": 1.0,
+        "station_distance_m": 272.8,
+        "poi_count": 41,
+        "ped_count": 59,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "田原町",
+        "poi_breakdown": {
+          "shop": 38,
+          "restaurant": 1,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソンストア100",
+          "吉島金物",
+          "せきしん",
+          "八幡屋",
+          "吉田法衣店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789086,
+          35.711986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.711986,
+        "lon": 139.789086,
+        "hidden_score": 0.939,
+        "poi_density": 0.876,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 282.6,
+        "poi_count": 46,
+        "ped_count": 53,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "田原町",
+        "poi_breakdown": {
+          "shop": 37,
+          "restaurant": 4,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "はし藤本店",
+          "風和里",
+          "かまた刃研社",
+          "TBD burger",
+          "株式会社田中漆器店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.777086,
+        "hidden_score": 0.938,
+        "poi_density": 0.994,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 97.5,
+        "poi_count": 78,
+        "ped_count": 78,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 57,
+          "cafe": 7,
+          "restaurant": 13,
+          "park": 1
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "カフェ・ド・クリエ",
+          "ファミリーマート",
+          "カフェ・ベローチェ",
+          "WOOD WORK"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.775086,
+        "hidden_score": 0.937,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 0.7,
+        "station_distance_m": 114.8,
+        "poi_count": 195,
+        "ped_count": 58,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "cafe": 9,
+          "shop": 153,
+          "restaurant": 31,
+          "park": 2
+        },
+        "nearby_names": [
+          "ドトールコーヒーショップ",
+          "ローソン",
+          "NewDays",
+          "カフェ・ド・クリエ",
+          "Y'sRoad 上野アサゾー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.780086,
+        "hidden_score": 0.936,
+        "poi_density": 0.839,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 479.9,
+        "poi_count": 39,
+        "ped_count": 91,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 25,
+          "restaurant": 13,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "都寿司",
+          "ホワイト急便",
+          "うどん 伝次"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777086,
+          35.710986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.710986,
+        "lon": 139.777086,
+        "hidden_score": 0.935,
+        "poi_density": 0.988,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 102.5,
+        "poi_count": 76,
+        "ped_count": 103,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 46,
+          "restaurant": 24,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "ローソン",
+          "ローソン",
+          "Hard Rock Cafe",
+          "ファミリーマート",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.769086,
+        "hidden_score": 0.933,
+        "poi_density": 0.834,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 261.6,
+        "poi_count": 38,
+        "ped_count": 65,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "restaurant": 13,
+          "shop": 24,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "鮨いづ",
+          "Eltus",
+          "うちだ",
+          "セブン-イレブン",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.708986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.708986,
+        "lon": 139.779086,
+        "hidden_score": 0.933,
+        "poi_density": 0.834,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 328.4,
+        "poi_count": 38,
+        "ped_count": 69,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 11,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ローソン",
+          "Tahitian Restaurant & Bar Papeete",
+          "Cafe De West",
+          "岡埜"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.788086,
+          35.717986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.717986,
+        "lon": 139.788086,
+        "hidden_score": 0.933,
+        "poi_density": 0.845,
+        "pedestrian_space": 0.988,
+        "station_distance_score": 1.0,
+        "station_distance_m": 437.9,
+        "poi_count": 40,
+        "ped_count": 57,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "入谷",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 30,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "喫茶とみ一",
+          "明治屋酒店",
+          "まいばすけっと",
+          "サイクルスポット",
+          "DAVIDE COFFEE STOP"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.774086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.774086,
+        "hidden_score": 0.932,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 0.7,
+        "station_distance_m": 118.2,
+        "poi_count": 232,
+        "ped_count": 55,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "御徒町",
+        "poi_breakdown": {
+          "cafe": 10,
+          "shop": 177,
+          "restaurant": 43,
+          "park": 2
+        },
+        "nearby_names": [
+          "ドトールコーヒーショップ",
+          "ローソン",
+          "NewDays",
+          "吉池",
+          "Y'sRoad 上野アサゾー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.781086,
+        "hidden_score": 0.932,
+        "poi_density": 0.979,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 137.5,
+        "poi_count": 73,
+        "ped_count": 88,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 55,
+          "restaurant": 11,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "Pizza King",
+          "いなかむら",
+          "クリーニング メディア",
+          "PB FARM"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.782086,
+          35.712986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.712986,
+        "lon": 139.782086,
+        "hidden_score": 0.931,
+        "poi_density": 0.839,
+        "pedestrian_space": 0.988,
+        "station_distance_score": 1.0,
+        "station_distance_m": 185.9,
+        "poi_count": 39,
+        "ped_count": 57,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 25,
+          "cafe": 2,
+          "park": 2
+        },
+        "nearby_names": [
+          "Grand Chapeau",
+          "ファミリーマート",
+          "マルエツ",
+          "コインランドリー",
+          "武藤商店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777086,
+          35.701986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.701986,
+        "lon": 139.777086,
+        "hidden_score": 0.929,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.996,
+        "station_distance_score": 1.0,
+        "station_distance_m": 499.5,
+        "poi_count": 37,
+        "ped_count": 59,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 21,
+          "restaurant": 14,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "エアコンランド",
+          "Tricolor",
+          "Chicken Place",
+          "カリカリ",
+          "MOTHERHOUSE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.777086,
+        "hidden_score": 0.929,
+        "poi_density": 0.973,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 98.1,
+        "poi_count": 71,
+        "ped_count": 78,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "cafe": 8,
+          "shop": 57,
+          "restaurant": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "ミニストップ",
+          "カクヤス",
+          "セブン-イレブン",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781086,
+          35.709986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.709986,
+        "lon": 139.781086,
+        "hidden_score": 0.929,
+        "poi_density": 0.866,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 212.3,
+        "poi_count": 44,
+        "ped_count": 50,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "shop": 26,
+          "restaurant": 12,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "杉山弓具店",
+          "レストランベア",
+          "Dino",
+          "宅急便センター",
+          "Tahitian Restaurant & Bar Papeete"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.787086,
+          35.717986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.717986,
+        "lon": 139.787086,
+        "hidden_score": 0.929,
+        "poi_density": 0.822,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 377.8,
+        "poi_count": 36,
+        "ped_count": 60,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "入谷",
+        "poi_breakdown": {
+          "shop": 23,
+          "cafe": 4,
+          "restaurant": 7,
+          "park": 2
+        },
+        "nearby_names": [
+          "こごめ大福",
+          "喫茶とみ一",
+          "明治屋酒店",
+          "セブン-イレブン",
+          "DAVIDE COFFEE STOP"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.778086,
+        "hidden_score": 0.927,
+        "poi_density": 0.876,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 1.0,
+        "station_distance_m": 326.7,
+        "poi_count": 46,
+        "ped_count": 47,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 34,
+          "restaurant": 12
+        },
+        "nearby_names": [
+          "ミニストップ",
+          "カクヤス",
+          "ふくはら酒店",
+          "梶田時計店",
+          "安藤鰹節店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.774086,
+          35.711986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.711986,
+        "lon": 139.774086,
+        "hidden_score": 0.927,
+        "poi_density": 0.967,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 127.6,
+        "poi_count": 69,
+        "ped_count": 179,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "京成上野",
+        "poi_breakdown": {
+          "restaurant": 35,
+          "shop": 23,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "じゅらく",
+          "上野松竹デパート",
+          "過門香",
+          "浜屋食品",
+          "亜麺坊"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769086,
+          35.704986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.704986,
+        "lon": 139.769086,
+        "hidden_score": 0.926,
+        "poi_density": 0.845,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 273.9,
+        "poi_count": 40,
+        "ped_count": 53,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "restaurant": 18,
+          "shop": 18,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "鮨いづ",
+          "Eltus",
+          "セブン-イレブン",
+          "福錦",
+          "なばや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.787086,
+          35.711986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.711986,
+        "lon": 139.787086,
+        "hidden_score": 0.926,
+        "poi_density": 0.815,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 402.9,
+        "poi_count": 35,
+        "ped_count": 65,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "shop": 31,
+          "restaurant": 2,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "ブックオフ",
+          "ジョナサン",
+          "ローソンストア100",
+          "吉島金物",
+          "まいばすけっと"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.779086,
+        "hidden_score": 0.924,
+        "poi_density": 0.809,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 267.0,
+        "poi_count": 34,
+        "ped_count": 75,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 21,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "ドトールコーヒーショップ",
+          "WOOD WORK",
+          "ベジキッチン",
+          "Pizza King",
+          "いなかむら"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.787086,
+          35.710986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.710986,
+        "lon": 139.787086,
+        "hidden_score": 0.924,
+        "poi_density": 0.822,
+        "pedestrian_space": 0.988,
+        "station_distance_score": 1.0,
+        "station_distance_m": 355.1,
+        "poi_count": 36,
+        "ped_count": 57,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "田原町",
+        "poi_breakdown": {
+          "shop": 31,
+          "restaurant": 3,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ブックオフ",
+          "ジョナサン",
+          "ローソンストア100",
+          "吉島金物"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.766086,
+          35.706986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.706986,
+        "lon": 139.766086,
+        "hidden_score": 0.922,
+        "poi_density": 0.834,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 356.4,
+        "poi_count": 38,
+        "ped_count": 53,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "restaurant": 18,
+          "shop": 15,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "YORIMI",
+          "てんぷら天庄",
+          "江知勝",
+          "シタラ",
+          "十八割蕎麦"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.784086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.784086,
+        "hidden_score": 0.919,
+        "poi_density": 0.851,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 484.6,
+        "poi_count": 41,
+        "ped_count": 48,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 37,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "胡蝶蘭CAL",
+          "ヒラカワでんき",
+          "入舟屋　佃煮、煮豆",
+          "いしづ酒店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.782086,
+          35.705986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.705986,
+        "lon": 139.782086,
+        "hidden_score": 0.919,
+        "poi_density": 0.946,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 114.1,
+        "poi_count": 63,
+        "ped_count": 67,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 48,
+          "cafe": 6,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "ローソン",
+          "サワダ",
+          "クリーニング メディア",
+          "PB FARM",
+          "モードショップナカネ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789086,
+          35.710986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.710986,
+        "lon": 139.789086,
+        "hidden_score": 0.919,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 197.7,
+        "poi_count": 37,
+        "ped_count": 53,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "田原町",
+        "poi_breakdown": {
+          "shop": 34,
+          "restaurant": 1,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "せきしん",
+          "八幡屋",
+          "吉田法衣店",
+          "岩戸紙店",
+          "東京白衣"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.771086,
+          35.701986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.701986,
+        "lon": 139.771086,
+        "hidden_score": 0.917,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 0.7,
+        "station_distance_m": 118.4,
+        "poi_count": 189,
+        "ped_count": 47,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 118,
+          "cafe": 46,
+          "restaurant": 24,
+          "park": 1
+        },
+        "nearby_names": [
+          "タムタム",
+          "メメントユニコーン",
+          "牛かつ 壱弐参",
+          "セルスタ・R",
+          "アキバ特区"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.779086,
+        "hidden_score": 0.915,
+        "poi_density": 0.822,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 381.8,
+        "poi_count": 36,
+        "ped_count": 52,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 27,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "ふくはら酒店",
+          "梶田時計店",
+          "安藤鰹節店",
+          "Beauty Salon Twins",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.784086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.784086,
+        "hidden_score": 0.915,
+        "poi_density": 0.789,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 384.3,
+        "poi_count": 31,
+        "ped_count": 61,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 22,
+          "cafe": 2,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "伊勢宇本店",
+          "THROB",
+          "ちゅら髪",
+          "小島町茶房"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778086,
+          35.710986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.710986,
+        "lon": 139.778086,
+        "hidden_score": 0.911,
+        "poi_density": 0.928,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 103.9,
+        "poi_count": 58,
+        "ped_count": 72,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 36,
+          "cafe": 4,
+          "restaurant": 18
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "ローソン",
+          "Raffine",
+          "翠雲堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789086,
+          35.712986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.712986,
+        "lon": 139.789086,
+        "hidden_score": 0.911,
+        "poi_density": 0.886,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 308.7,
+        "poi_count": 48,
+        "ped_count": 38,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "shop": 38,
+          "restaurant": 4,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "はし藤本店",
+          "風和里",
+          "かまた刃研社",
+          "まいばすけっと",
+          "麺 みつヰ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.764086,
+          35.717986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.717986,
+        "lon": 139.764086,
+        "hidden_score": 0.911,
+        "poi_density": 0.856,
+        "pedestrian_space": 0.921,
+        "station_distance_score": 1.0,
+        "station_distance_m": 161.4,
+        "poi_count": 42,
+        "ped_count": 43,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "根津",
+        "poi_breakdown": {
+          "shop": 21,
+          "cafe": 4,
+          "restaurant": 17
+        },
+        "nearby_names": [
+          "京樽",
+          "ゼニヤ",
+          "Cafe&Beer Amber",
+          "多古や",
+          "華"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780086,
+          35.712986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.712986,
+        "lon": 139.780086,
+        "hidden_score": 0.91,
+        "poi_density": 0.774,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 248.7,
+        "poi_count": 29,
+        "ped_count": 63,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 16,
+          "cafe": 3,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ドトールコーヒーショップ",
+          "スカーレット・フラワー",
+          "はんこ屋さん21",
+          "萬来酒楼"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.771086,
+          35.700986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.700986,
+        "lon": 139.771086,
+        "hidden_score": 0.909,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 223.3,
+        "poi_count": 99,
+        "ped_count": 23,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "restaurant": 14,
+          "shop": 58,
+          "cafe": 26,
+          "park": 1
+        },
+        "nearby_names": [
+          "牛かつ 壱弐参",
+          "セルスタ・R",
+          "アキバ特区",
+          "MOQ",
+          "GF II"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.777086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.777086,
+        "hidden_score": 0.909,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 398.0,
+        "poi_count": 33,
+        "ped_count": 53,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 22,
+          "restaurant": 10,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "エアコンランド",
+          "Sultan Indian & Pakistan Restaurant",
+          "Tricolor",
+          "Chicken Place"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.780086,
+        "hidden_score": 0.909,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 189.1,
+        "poi_count": 35,
+        "ped_count": 50,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 24,
+          "cafe": 2,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "ドトールコーヒーショップ",
+          "ラホール",
+          "日本マテリアル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.782086,
+          35.709986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.709986,
+        "lon": 139.782086,
+        "hidden_score": 0.909,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 164.8,
+        "poi_count": 47,
+        "ped_count": 38,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 32,
+          "restaurant": 11
+        },
+        "nearby_names": [
+          "カフェ・ベローチェ",
+          "ソフトバンクショップ",
+          "杉山弓具店",
+          "日産自動車販売",
+          "過橋米線"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.787086,
+          35.718986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.718986,
+        "lon": 139.787086,
+        "hidden_score": 0.909,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 296.3,
+        "poi_count": 33,
+        "ped_count": 53,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "入谷",
+        "poi_breakdown": {
+          "shop": 22,
+          "cafe": 3,
+          "restaurant": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "こごめ大福",
+          "喫茶とみ一",
+          "明治屋酒店",
+          "セブン-イレブン",
+          "DAVIDE COFFEE STOP"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.785086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.785086,
+        "hidden_score": 0.908,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.988,
+        "station_distance_score": 1.0,
+        "station_distance_m": 435.1,
+        "poi_count": 30,
+        "ped_count": 57,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 21,
+          "cafe": 2,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "Sato Hostel-(NKK)",
+          "カキモリ",
+          "THROB",
+          "ちゅら髪"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.711986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.711986,
+        "lon": 139.779086,
+        "hidden_score": 0.906,
+        "poi_density": 0.916,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 138.2,
+        "poi_count": 55,
+        "ped_count": 82,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "上野",
+        "poi_breakdown": {
+          "shop": 36,
+          "cafe": 4,
+          "restaurant": 15
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "セブン-イレブン",
+          "ドトールコーヒーショップ",
+          "kinko’s"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769086,
+          35.701986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.701986,
+        "lon": 139.769086,
+        "hidden_score": 0.905,
+        "poi_density": 0.928,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 256.8,
+        "poi_count": 58,
+        "ped_count": 30,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "restaurant": 9,
+          "cafe": 11,
+          "shop": 37,
+          "park": 1
+        },
+        "nearby_names": [
+          "うちだ",
+          "メメントユニコーン",
+          "牛かつ 壱弐参",
+          "セルスタ・R",
+          "アキバ特区"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.767086,
+          35.707986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.707986,
+        "lon": 139.767086,
+        "hidden_score": 0.905,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.975,
+        "station_distance_score": 1.0,
+        "station_distance_m": 273.8,
+        "poi_count": 31,
+        "ped_count": 54,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "湯島",
+        "poi_breakdown": {
+          "restaurant": 12,
+          "shop": 14,
+          "cafe": 3,
+          "park": 2
+        },
+        "nearby_names": [
+          "江知勝",
+          "ビストロ コウゾウ",
+          "東京美容本舗",
+          "ゆしま食堂",
+          "十八割蕎麦"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780086,
+          35.709986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.709986,
+        "lon": 139.780086,
+        "hidden_score": 0.905,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 281.6,
+        "poi_count": 33,
+        "ped_count": 51,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 12,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "宅急便センター",
+          "Tahitian Restaurant & Bar Papeete",
+          "Cafe De West",
+          "岡埜"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.764086,
+          35.718986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.718986,
+        "lon": 139.764086,
+        "hidden_score": 0.904,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 230.5,
+        "poi_count": 47,
+        "ped_count": 36,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "根津",
+        "poi_breakdown": {
+          "shop": 28,
+          "cafe": 5,
+          "restaurant": 13,
+          "park": 1
+        },
+        "nearby_names": [
+          "金太郎飴",
+          "芋甚",
+          "よろずや、ほたる",
+          "魚菜　根津　呼友",
+          "あんぱちや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778086,
+          35.702986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.702986,
+        "lon": 139.778086,
+        "hidden_score": 0.903,
+        "poi_density": 0.758,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 425.5,
+        "poi_count": 27,
+        "ped_count": 63,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "仲御徒町",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "エアコンランド",
+          "Tricolor",
+          "Chicken Place",
+          "美膳房",
+          "満月"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781086,
+          35.708986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.708986,
+        "lon": 139.781086,
+        "hidden_score": 0.903,
+        "poi_density": 0.796,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 224.9,
+        "poi_count": 32,
+        "ped_count": 51,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 8,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "杉山弓具店",
+          "過橋米線",
+          "レストランベア",
+          "宅急便センター",
+          "Tahitian Restaurant & Bar Papeete"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.790086,
+          35.712986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.712986,
+        "lon": 139.790086,
+        "hidden_score": 0.903,
+        "poi_density": 0.908,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 221.7,
+        "poi_count": 53,
+        "ped_count": 32,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "shop": 31,
+          "restaurant": 14,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "ハンドメイドマルシェ",
+          "はし藤本店",
+          "風和里",
+          "かまた刃研社",
+          "TBD burger"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.791086,
+          35.713986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.713986,
+        "lon": 139.791086,
+        "hidden_score": 0.902,
+        "poi_density": 0.935,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 0.7,
+        "station_distance_m": 126.9,
+        "poi_count": 60,
+        "ped_count": 53,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "restaurant": 23,
+          "shop": 29,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "どぜう 飯田屋 (Iidaya)",
+          "絹康屋 (Kenko-ya)",
+          "チドリ屋",
+          "浅草 うな鉄 (Unatetsu)",
+          "浅草二丁目食堂 (Nichome-shokudo)"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.786086,
+          35.717986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.717986,
+        "lon": 139.786086,
+        "hidden_score": 0.9,
+        "poi_density": 0.75,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 331.8,
+        "poi_count": 26,
+        "ped_count": 66,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "入谷",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 6,
+          "cafe": 1,
+          "park": 3
+        },
+        "nearby_names": [
+          "こごめ大福",
+          "明治屋酒店",
+          "セブン-イレブン",
+          "上野健正会",
+          "あとらす"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.786086,
+          35.719986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.719986,
+        "lon": 139.786086,
+        "hidden_score": 0.9,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 1.0,
+        "station_distance_m": 157.8,
+        "poi_count": 28,
+        "ped_count": 56,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "入谷",
+        "poi_breakdown": {
+          "restaurant": 7,
+          "shop": 21
+        },
+        "nearby_names": [
+          "不二苑",
+          "こごめ大福",
+          "明治屋酒店",
+          "セブン-イレブン",
+          "Kai"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778086,
+          35.723986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.723986,
+        "lon": 139.778086,
+        "hidden_score": 0.899,
+        "poi_density": 0.912,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 254.3,
+        "poi_count": 54,
+        "ped_count": 30,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "鶯谷",
+        "poi_breakdown": {
+          "cafe": 7,
+          "shop": 28,
+          "restaurant": 18,
+          "park": 1
+        },
+        "nearby_names": [
+          "ドトールコーヒーショップ",
+          "セブン-イレブン",
+          "笹の雪",
+          "食事処 こもれび",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.774086,
+          35.701986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.701986,
+        "lon": 139.774086,
+        "hidden_score": 0.898,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 241.7,
+        "poi_count": 31,
+        "ped_count": 50,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 18,
+          "restaurant": 7,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "肉のハナマサ",
+          "花文",
+          "我家",
+          "はんや一刻堂",
+          "松坂象牙店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.783086,
+          35.712986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.712986,
+        "lon": 139.783086,
+        "hidden_score": 0.898,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 181.5,
+        "poi_count": 31,
+        "ped_count": 50,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "shop": 20,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "Grand Chapeau",
+          "マルエツ",
+          "コインランドリー",
+          "パリー",
+          "CLEANING 喜久屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.783086,
+          35.703986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.703986,
+        "lon": 139.783086,
+        "hidden_score": 0.897,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 349.6,
+        "poi_count": 30,
+        "ped_count": 51,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "新御徒町",
+        "poi_breakdown": {
+          "shop": 26,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "シバヤマ商店",
+          "酒井",
+          "伊勢宇本店",
+          "ココスナカムラ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.782086,
+          35.713986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.713986,
+        "lon": 139.782086,
+        "hidden_score": 0.897,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 1.0,
+        "station_distance_m": 294.1,
+        "poi_count": 27,
+        "ped_count": 56,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 6,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "マルエツ",
+          "コインランドリー",
+          "マスダ",
+          "鮒忠",
+          "長寿庵"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779086,
+          35.723986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.723986,
+        "lon": 139.779086,
+        "hidden_score": 0.895,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 274.9,
+        "poi_count": 47,
+        "ped_count": 33,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "鶯谷",
+        "poi_breakdown": {
+          "shop": 23,
+          "restaurant": 16,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "笹の雪",
+          "食事処 こもれび",
+          "ファミリーマート",
+          "世茂利奈"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781086,
+          35.721986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.721986,
+        "lon": 139.781086,
+        "hidden_score": 0.894,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.921,
+        "station_distance_score": 1.0,
+        "station_distance_m": 287.9,
+        "poi_count": 35,
+        "ped_count": 43,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "鶯谷",
+        "poi_breakdown": {
+          "shop": 21,
+          "restaurant": 13,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "イリス",
+          "ゲオ",
+          "とんかつ とん平",
+          "宝島24"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.775086,
+          35.701986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.701986,
+        "lon": 139.775086,
+        "hidden_score": 0.893,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 325.3,
+        "poi_count": 30,
+        "ped_count": 49,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "末広町",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 9,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "肉のハナマサ",
+          "ローソン",
+          "我家",
+          "アキバフクロウ",
+          "東京スターベース"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.784086,
+          35.709986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.709986,
+        "lon": 139.784086,
+        "hidden_score": 0.893,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 200.6,
+        "poi_count": 28,
+        "ped_count": 52,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "cafe": 2,
+          "shop": 21,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "カフェ・ベローチェ",
+          "北富不動産",
+          "アートライフ",
+          "シバタ",
+          "紅楽"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.786086,
+          35.710986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.710986,
+        "lon": 139.786086,
+        "hidden_score": 0.893,
+        "poi_density": 0.75,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 1.0,
+        "station_distance_m": 310.3,
+        "poi_count": 26,
+        "ped_count": 56,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "shop": 20,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "アートライフ",
+          "シバタ",
+          "紅楽",
+          "ブックオフ"
+        ]
+      }
+    }
+  ]
+}

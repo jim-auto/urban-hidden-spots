@@ -1,0 +1,902 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7002421,
+          35.7013007
+        ]
+      },
+      "properties": {
+        "osm_id": 236579696,
+        "osm_type": "node",
+        "name": "新大久保",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=857",
+          "name": "新大久保",
+          "name:en": "Shin-Ōkubo",
+          "name:fr": "Shin-Ōkubo",
+          "name:it": "Shin-Okubo",
+          "name:ja-Hira": "しんおおくぼ",
+          "name:ja-Latn": "Shin-Ōkubo",
+          "name:ko": "신 오쿠보",
+          "name:ru": "Син-Окубо",
+          "name:th": "ชินโอคุโบะ",
+          "name:zh": "新大久保",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JY16",
+          "wheelchair": "yes",
+          "wikidata": "Q589599",
+          "wikipedia": "ja:新大久保駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699177,
+          35.6886028
+        ]
+      },
+      "properties": {
+        "osm_id": 281417661,
+        "osm_type": "node",
+        "name": "新線新宿",
+        "category": "station",
+        "tags": {
+          "alt_name": "新宿",
+          "alt_name:en": "New Line Shinjuku",
+          "colour": "lightgreen",
+          "name": "新線新宿",
+          "name:en": "Shinsen-Shinjuku",
+          "name:es": "Shinsen-Shinjuku",
+          "name:fr": "Shinsen-Shinjuku",
+          "name:ja": "新線新宿",
+          "name:ja-Hira": "（しんせん）しんじゅく*",
+          "name:ja_rm": "Shinsen-Shinjuku",
+          "name:ko": "신주쿠",
+          "name:ru": "Синдзюку",
+          "network": "都営地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S01",
+          "source": "KSJ2",
+          "start_date": "1915",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q11503937",
+          "wikipedia": "ja:新線新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7006009,
+          35.6922273
+        ]
+      },
+      "properties": {
+        "osm_id": 1926277346,
+        "osm_type": "node",
+        "name": "新宿",
+        "category": "station",
+        "tags": {
+          "colour": "red",
+          "name": "新宿",
+          "name:en": "Shinjuku",
+          "name:es": "Shinjuku",
+          "name:fr": "Shinjuku",
+          "name:ja": "新宿",
+          "name:ja-Hira": "しんじゅく",
+          "name:ja_rm": "Shinjuku",
+          "name:ko": "신주쿠",
+          "name:ru": "Синдзюку",
+          "network": "東京メトロ",
+          "operator": "東京地下鉄",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M08",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q801447",
+          "wikipedia": "ja:新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707695,
+          35.698933
+        ]
+      },
+      "properties": {
+        "osm_id": 1951953898,
+        "osm_type": "node",
+        "name": "東新宿",
+        "category": "station",
+        "tags": {
+          "name": "東新宿",
+          "name:en": "Higashi-shinjuku",
+          "name:es": "Higashi-shinjuku",
+          "name:ja": "東新宿",
+          "name:ja-Hira": "ひがししんじゅく",
+          "name:ja_rm": "Higashi Shinjuku",
+          "name:ko": "히가시신주쿠",
+          "operator": "東京地下鉄",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "F12",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q112503",
+          "wikipedia": "ja:東新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7007324,
+          35.6890683
+        ]
+      },
+      "properties": {
+        "osm_id": 2389061844,
+        "osm_type": "node",
+        "name": "新宿",
+        "category": "station",
+        "tags": {
+          "maxspeed": "95",
+          "name": "新宿",
+          "name:en": "Shinjuku",
+          "name:es": "Shinjuku",
+          "name:fr": "Shinjuku",
+          "name:it": "Shinjuku",
+          "name:ja": "新宿",
+          "name:ja-Hira": "しんじゅく",
+          "name:ja-Latn": "Shinjuku",
+          "name:ko": "신주쿠",
+          "name:ru": "Синдзюку",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SJK",
+          "source": "Bing 2010",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q801447",
+          "wikipedia": "ja:新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6996243,
+          35.6902156
+        ]
+      },
+      "properties": {
+        "osm_id": 2389061846,
+        "osm_type": "node",
+        "name": "新宿",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.odakyu.jp/station/shinjuku/",
+          "name": "新宿",
+          "name:de": "Shinjuku",
+          "name:en": "Shinjuku",
+          "name:es": "Shinjuku",
+          "name:fr": "Shinjuku",
+          "name:ja": "新宿",
+          "name:ja-Hira": "しんじゅく",
+          "name:ja-Latn": "Shinjuku",
+          "name:ko": "신주쿠",
+          "name:ru": "Синдзюку",
+          "name:th": "ชินจูกุ",
+          "network": "小田急電鉄",
+          "network:en": "Odakyu Electric Railway",
+          "network:ja": "小田急電鉄",
+          "network:wikidata": "Q83584",
+          "operator": "小田急電鉄",
+          "operator:en": "Odakyu Electric Railway",
+          "operator:ja": "小田急電鉄",
+          "operator:wikidata": "Q83584",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "OH01",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "wheelchair": "limited",
+          "wikidata": "Q801447",
+          "wikipedia": "ja:新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6990749,
+          35.6883635
+        ]
+      },
+      "properties": {
+        "osm_id": 2389826024,
+        "osm_type": "node",
+        "name": "新宿",
+        "category": "station",
+        "tags": {
+          "name": "新宿",
+          "name:en": "Shinjuku",
+          "name:es": "Shinjuku",
+          "name:fr": "Shinjuku",
+          "name:ja": "新宿",
+          "name:ja_rm": "Shinjuku",
+          "name:ko": "신주쿠",
+          "name:ru": "Синдзюку",
+          "network": "都営地下鉄",
+          "network:en": "Toei subway",
+          "operator": "東京都交通局",
+          "operator:en": "Toei",
+          "operator:wikidata": "Q1377135",
+          "phone": "+81 3 32997210",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.metro.tokyo.jp/subway/stations/shinjuku.html",
+          "wheelchair": "yes",
+          "wikidata": "Q801447",
+          "wikipedia": "ja:新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6991763,
+          35.6931366
+        ]
+      },
+      "properties": {
+        "osm_id": 2389826102,
+        "osm_type": "node",
+        "name": "新宿西口",
+        "category": "station",
+        "tags": {
+          "addr:block_number": "3",
+          "addr:housenumber": "17",
+          "addr:neighbourhood": "1",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "新宿西口",
+          "name:en": "Shinjuku-nishiguchi",
+          "name:es": "Shinjuku-nishiguchi",
+          "name:ja": "新宿西口",
+          "name:ja-Hira": "しんじゅくにしぐち",
+          "name:ja_rm": "Shinjuku nishiguchi",
+          "name:ko": "신주쿠니시구치",
+          "name:ru": "Синдзюку-нисигути",
+          "network": "都営地下鉄",
+          "network:en": "Toei subway",
+          "operator": "東京都交通局",
+          "operator:en": "Toei",
+          "operator:wikidata": "Q1377135",
+          "phone": "+81 3 53892254",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "E01",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.kotsu.metro.tokyo.jp/subway/stations/shinjuku-nishiguchi.html",
+          "wheelchair": "limited",
+          "wikidata": "Q246198",
+          "wikipedia": "ja:新宿西口駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7020806,
+          35.6839514
+        ]
+      },
+      "properties": {
+        "osm_id": 2558121954,
+        "osm_type": "node",
+        "name": "代々木",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=1654",
+          "maxspeed": "95",
+          "name": "代々木",
+          "name:en": "Yoyogi",
+          "name:es": "Yoyogi",
+          "name:fr": "Yoyogi",
+          "name:it": "Yoyogi",
+          "name:ja": "代々木",
+          "name:ja-Hira": "よよぎ",
+          "name:ja-Latn": "Yoyogi",
+          "name:ko": "요요기",
+          "name:ru": "Ёёги",
+          "name:th": "โยโยงิ",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JY18;JB11",
+          "train": "yes",
+          "wheelchair": "no",
+          "wikidata": "Q590162",
+          "wikipedia": "ja:代々木駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7047597,
+          35.6907365
+        ]
+      },
+      "properties": {
+        "osm_id": 5408169522,
+        "osm_type": "node",
+        "name": "新宿三丁目",
+        "category": "station",
+        "tags": {
+          "name": "新宿三丁目",
+          "name:en": "Shinjuku-sanchome",
+          "name:es": "Shinjuku-sanchome",
+          "name:ja": "新宿三丁目",
+          "name:ja-Hira": "しんじゅくさんちょうめ",
+          "name:ko": "신주쿠산초메",
+          "network": "副都心線",
+          "operator": "東京地下鉄",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "F13",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7015967,
+          35.6835694
+        ]
+      },
+      "properties": {
+        "osm_id": 5410124418,
+        "osm_type": "node",
+        "name": "代々木",
+        "category": "station",
+        "tags": {
+          "name": "代々木",
+          "name:en": "Yoyogi",
+          "name:es": "Yoyogi",
+          "name:ja": "代々木",
+          "name:ko": "요요기",
+          "name:ru": "Ёёги",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692814,
+          35.6906065
+        ]
+      },
+      "properties": {
+        "osm_id": 6203591949,
+        "osm_type": "node",
+        "name": "都庁前",
+        "category": "station",
+        "tags": {
+          "alt_name:en": "Tokyo Metropolitan Government Station",
+          "name": "都庁前",
+          "name:en": "Tochomae",
+          "name:es": "Tochomae",
+          "name:ja": "都庁前",
+          "name:ja-Hira": "とちょうまえ",
+          "name:ja_rm": "Tochō mae",
+          "name:ko": "도초마에",
+          "name:ru": "Тотёмаэ",
+          "network": "都営地下鉄",
+          "network:en": "Toei subway",
+          "note": "See diagram: https://commons.wikimedia.org/wiki/File:Rail_Tracks_map_Toei_Tochomae_Station.svg",
+          "opening_hours": "06:00-23:00",
+          "operator": "東京都交通局",
+          "operator:en": "Toei",
+          "operator:wikidata": "Q1377135",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "E28",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q246186",
+          "wikipedia": "ja:都庁前駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7040936,
+          35.6911965
+        ]
+      },
+      "properties": {
+        "osm_id": 6280924992,
+        "osm_type": "node",
+        "name": "新宿三丁目",
+        "category": "station",
+        "tags": {
+          "name": "新宿三丁目",
+          "name:en": "Shinjuku-sanchome",
+          "name:es": "Shinjuku-sanchome",
+          "name:ja": "新宿三丁目",
+          "name:ja-Hira": "しんじゅくさんちょうめ",
+          "name:ja_rm": "Shinjuku sanchōme",
+          "name:ko": "신주쿠산초메",
+          "name:ru": "Синдзюку Сантёмэ",
+          "network": "丸ノ内線",
+          "operator": "東京地下鉄",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M09",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "limited",
+          "wheelchair:description": "A1出口情報です。向かいの伊勢丹出口か大塚家具側にエレベーターがあります。",
+          "wikidata": "Q1147009",
+          "wikipedia": "ja:新宿三丁目駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70626,
+          35.6906011
+        ]
+      },
+      "properties": {
+        "osm_id": 6281454731,
+        "osm_type": "node",
+        "name": "新宿三丁目",
+        "category": "station",
+        "tags": {
+          "colour": "lightgreen",
+          "name": "新宿三丁目",
+          "name:en": "Shinjuku-sanchome",
+          "name:es": "Shinjuku-sanchome",
+          "name:ja": "新宿三丁目",
+          "name:ja-Hira": "しんじゅくさんちょうめ",
+          "name:ja_rm": "Shinjuku sanchōme",
+          "name:ko": "신주쿠산초메",
+          "name:ru": "Синдзюку Сантёмэ",
+          "network": "新宿線",
+          "network:en": "Toei Shinjuku Line",
+          "operator": "東京都交通局",
+          "operator:en": "Toei",
+          "operator:wikidata": "Q1377135",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "S02",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "no",
+          "wikidata": "Q1147009",
+          "wikipedia": "ja:新宿三丁目駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7010645,
+          35.6891301
+        ]
+      },
+      "properties": {
+        "osm_id": 6283002002,
+        "osm_type": "node",
+        "name": "新宿",
+        "category": "station",
+        "tags": {
+          "maxspeed": "95",
+          "name": "新宿",
+          "name:en": "Shinjuku",
+          "name:es": "Shinjuku",
+          "name:fr": "Shinjuku",
+          "name:ja": "新宿",
+          "name:ja-Hira": "しんじゅく",
+          "name:ja_rm": "Shinjuku",
+          "name:ko": "신주쿠",
+          "name:ru": "Синдзюку",
+          "network": "JR成田エクスプレス",
+          "operator": "JR東日本",
+          "platforms": "1",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "Bing 2010",
+          "wheelchair": "yes",
+          "wikidata": "Q801447",
+          "wikipedia": "ja:新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7000075,
+          35.6960899
+        ]
+      },
+      "properties": {
+        "osm_id": 6283010875,
+        "osm_type": "node",
+        "name": "西武新宿",
+        "category": "station",
+        "tags": {
+          "name": "西武新宿",
+          "name:en": "Seibu-Shinjuku",
+          "name:es": "Seibu-Shinjuku",
+          "name:fr": "Seibu-Shinjuku",
+          "name:ja": "西武新宿",
+          "name:ja-Hira": "せいぶしんじゅく",
+          "name:ja_rm": "Seibu-Shinjuku",
+          "name:ko": "세이부신주쿠",
+          "name:ru": "Сейбу Синдзюку",
+          "name:zh": "西武新宿",
+          "network": "西武鉄道",
+          "network:en": "Seibu Railway",
+          "network:ja": "西武鉄道",
+          "network:wikidata": "Q83543",
+          "operator": "西武鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SS01",
+          "source": "KSJ2",
+          "train": "yes",
+          "wikidata": "Q167299",
+          "wikipedia": "ja:西武新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6991102,
+          35.6905828
+        ]
+      },
+      "properties": {
+        "osm_id": 6283384525,
+        "osm_type": "node",
+        "name": "新宿",
+        "category": "station",
+        "tags": {
+          "name": "新宿",
+          "name:en": "Shinjuku",
+          "name:es": "Shinjuku",
+          "name:fr": "Shinjuku",
+          "name:ja": "新宿",
+          "name:ko": "신주쿠",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KO01",
+          "source": "KSJ2/N02",
+          "source_ref": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Japan_KSJ2_Import",
+          "wheelchair": "no",
+          "wikidata": "Q801447",
+          "wikipedia": "ja:新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7075443,
+          35.6978967
+        ]
+      },
+      "properties": {
+        "osm_id": 6548175855,
+        "osm_type": "node",
+        "name": "東新宿",
+        "category": "station",
+        "tags": {
+          "name": "東新宿",
+          "name:en": "Higashi-shinjuku",
+          "name:es": "Higashi-shinjuku",
+          "name:ja": "東新宿",
+          "name:ja-Hira": "ひがししんじゅく",
+          "name:ja_rm": "Higashi Shinjuku",
+          "name:ko": "히가시신주쿠",
+          "name:ru": "Хигаси Синдзюку",
+          "network": "都営地下鉄",
+          "network:en": "Toei subway",
+          "operator": "東京都交通局",
+          "operator:en": "Toei",
+          "operator:wikidata": "Q1377135",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "E02",
+          "station": "subway",
+          "subway": "yes",
+          "toilets:wheelchair": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q112503",
+          "wikipedia": "ja:東新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698857,
+          35.6837073
+        ]
+      },
+      "properties": {
+        "osm_id": 7661834794,
+        "osm_type": "node",
+        "name": "南新宿",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.odakyu.jp/station/minami_shinjuku/",
+          "name": "南新宿",
+          "name:ar": "مينامي-شينجوكو",
+          "name:de": "MInami-Shinjuku",
+          "name:en": "Minami-Shinjuku",
+          "name:fr": "Minami-Shinjuku",
+          "name:ja": "南新宿",
+          "name:ja-Hira": "みなみしんじゅく",
+          "name:ja-Latn": "Minami-shinjuku",
+          "name:ko": "미나미신주쿠 역",
+          "name:ru": "Минами-Синдзюку",
+          "name:zh": "南新宿站",
+          "network": "小田急電鉄",
+          "network:en": "Odakyu Electric Railway",
+          "network:ja": "小田急電鉄",
+          "network:wikidata": "Q83584",
+          "operator": "小田急電鉄",
+          "operator:en": "Odakyu Electric Railway",
+          "operator:ja": "小田急電鉄",
+          "operator:wikidata": "Q83584",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "OH02",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q1135947",
+          "wikipedia": "ja:南新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6845183,
+          35.6898839
+        ]
+      },
+      "properties": {
+        "osm_id": 7761779877,
+        "osm_type": "node",
+        "name": "西新宿五丁目",
+        "category": "station",
+        "tags": {
+          "alt_name": "清水橋",
+          "colour": "violet",
+          "name": "西新宿五丁目",
+          "name:en": "Nishi-shinjuku-gochome",
+          "name:es": "Nishi-shinjuku-gochome",
+          "name:ja": "西新宿五丁目",
+          "name:ja-Hira": "にししんじゅくごちょうめ",
+          "name:ja_rm": "Nishi Shinjuku gochōme",
+          "name:ko": "니시신주쿠5초메",
+          "name:ru": "Ниси Синдзюку Готёмэ",
+          "network": "都営地下鉄",
+          "network:en": "Toei subway",
+          "operator": "東京都交通局",
+          "operator:en": "Toei",
+          "operator:wikidata": "Q1377135",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "E29",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q275541",
+          "wikipedia": "ja:西新宿五丁目駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7107396,
+          35.6885735
+        ]
+      },
+      "properties": {
+        "osm_id": 7786715962,
+        "osm_type": "node",
+        "name": "新宿御苑前",
+        "category": "station",
+        "tags": {
+          "alt_name:ko": "신주쿠교엔마에",
+          "name": "新宿御苑前",
+          "name:en": "Shinjuku-gyoemmae",
+          "name:es": "Shinjuku-gyoemmae",
+          "name:ja": "新宿御苑前",
+          "name:ja-Hira": "しんじゅくぎょえんまえ",
+          "name:ja_rm": "Shinjuku gyoen mae",
+          "name:ko": "신주쿠교엔앞",
+          "name:ru": "Синдзюку Гёэнмаэ",
+          "operator": "東京地下鉄",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M10",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q1132610",
+          "wikipedia": "ja:新宿御苑前駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6927667,
+          35.6944315
+        ]
+      },
+      "properties": {
+        "osm_id": 7786715968,
+        "osm_type": "node",
+        "name": "西新宿",
+        "category": "station",
+        "tags": {
+          "addr:city": "新宿区",
+          "addr:neighbourhood": "7丁目",
+          "addr:postcode": "160-0023",
+          "addr:province": "東京都",
+          "addr:quarter": "西新宿",
+          "internet_access": "wlan",
+          "name": "西新宿",
+          "name:en": "Nishi-shinjuku",
+          "name:es": "Nishi-shinjuku",
+          "name:ja": "西新宿",
+          "name:ja-Hira": "にししんじゅく",
+          "name:ja_rm": "Nishi Shinjuku",
+          "name:ko": "니시신주쿠",
+          "name:ru": "Ниси Синдзюку",
+          "operator": "東京地下鉄",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M07",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q138555",
+          "wikipedia": "ja:西新宿駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6973178,
+          35.7007776
+        ]
+      },
+      "properties": {
+        "osm_id": 7865838640,
+        "osm_type": "node",
+        "name": "大久保",
+        "category": "station",
+        "tags": {
+          "maxspeed": "95",
+          "name": "大久保",
+          "name:en": "Okubo",
+          "name:it": "Okubo",
+          "name:ja": "大久保",
+          "name:ja-Hira": "おおくぼ",
+          "name:ja-Latn": "Ōkubo",
+          "name:ko": "오쿠보",
+          "name:ru": "Окубо",
+          "operator": "東日本旅客鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JB09",
+          "wikidata": "Q116259",
+          "wikipedia": "ja:大久保駅 (東京都)"
+        }
+      }
+    }
+  ]
+}

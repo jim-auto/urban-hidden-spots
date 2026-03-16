@@ -1,0 +1,645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7285879,
+          35.7316851
+        ]
+      },
+      "properties": {
+        "osm_id": 236579274,
+        "osm_type": "node",
+        "name": "大塚",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=330",
+          "name": "大塚",
+          "name:en": "Otsuka",
+          "name:it": "Otsuka",
+          "name:ja": "大塚",
+          "name:ja-Latn": "Ōtsuka",
+          "name:ko": "오츠카",
+          "name:ru": "Оцука",
+          "name:th": "โอสึกะ",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JY12",
+          "train": "yes",
+          "wikidata": "Q801696",
+          "wikipedia": "ja:大塚駅 (東京都)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7110372,
+          35.7280917
+        ]
+      },
+      "properties": {
+        "osm_id": 664579562,
+        "osm_type": "node",
+        "name": "池袋",
+        "category": "station",
+        "tags": {
+          "name": "池袋",
+          "name:en": "Ikebukuro",
+          "name:es": "Ikebukuro",
+          "name:ja": "池袋",
+          "name:ja-Hira": "いけぶくろ",
+          "name:ja-Latn": "Ikebukuro",
+          "name:ko": "이케부쿠로",
+          "network": "西武鉄道",
+          "network:en": "Seibu Railway",
+          "network:ja": "西武鉄道",
+          "network:wikidata": "Q83543",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "西武鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SI01",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "toilets:wheelchair": "yes",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q173919",
+          "wikipedia": "ja:池袋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7064645,
+          35.7211919
+        ]
+      },
+      "properties": {
+        "osm_id": 832289046,
+        "osm_type": "node",
+        "name": "目白",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=1553",
+          "int_name": "Mejiro",
+          "name": "目白",
+          "name:en": "Mejiro",
+          "name:fr": "Mejiro",
+          "name:it": "Mejiro",
+          "name:ja": "目白",
+          "name:ja-Hira": "めじろ",
+          "name:ja-Latn": "Mejiro",
+          "name:ko": "메지로 역",
+          "name:ru": "Мэдзиро",
+          "name:th": "เมจิโระ",
+          "name:zh": "目白",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JY14",
+          "train": "yes",
+          "wikidata": "Q375154",
+          "wikipedia": "ja:目白駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7193857,
+          35.7256214
+        ]
+      },
+      "properties": {
+        "osm_id": 1926376079,
+        "osm_type": "node",
+        "name": "東池袋",
+        "category": "station",
+        "tags": {
+          "colour": "yellow",
+          "name": "東池袋",
+          "name:en": "Higashi-ikebukuro",
+          "name:es": "Higashi-ikebukuro",
+          "name:ja": "東池袋",
+          "name:ja_rm": "Higashi Ikebukuro",
+          "name:ko": "히가시이케부쿠로",
+          "name:ru": "Хигаси Икэбукуро",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "Y10",
+          "station": "subway",
+          "subway": "yes",
+          "website": "https://www.tokyometro.jp/rosen/eki/higashi-ikebukuro/index.html",
+          "wheelchair": "yes",
+          "wikidata": "Q331193",
+          "wikipedia": "ja:東池袋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7096856,
+          35.729643
+        ]
+      },
+      "properties": {
+        "osm_id": 1926376083,
+        "osm_type": "node",
+        "name": "池袋",
+        "category": "station",
+        "tags": {
+          "name": "池袋",
+          "name:en": "Ikebukuro",
+          "name:es": "Ikebukuro",
+          "name:ja": "池袋",
+          "name:ja-Hira": "いけぶくろ",
+          "name:ja-Latn": "Ikebukuro",
+          "name:ko": "이케부쿠로",
+          "name:ru": "Икебукуро",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "Y09",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q173919",
+          "wikipedia": "ja:池袋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6986842,
+          35.7332405
+        ]
+      },
+      "properties": {
+        "osm_id": 1926376084,
+        "osm_type": "node",
+        "name": "要町",
+        "category": "station",
+        "tags": {
+          "colour": "yellow",
+          "name": "要町",
+          "name:en": "Kanamecho",
+          "name:es": "Kanamecho",
+          "name:ja": "要町",
+          "name:ja-Hira": "かなめちょう",
+          "name:ja_rm": "Kanamechō",
+          "name:ko": "가나메초",
+          "name:ru": "Канамэтё",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "Y08;F08",
+          "station": "subway",
+          "subway": "yes",
+          "transport": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q128296",
+          "wikipedia": "ja:要町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7114846,
+          35.7302282
+        ]
+      },
+      "properties": {
+        "osm_id": 1926700040,
+        "osm_type": "node",
+        "name": "池袋",
+        "category": "station",
+        "tags": {
+          "name": "池袋",
+          "name:en": "Ikebukuro",
+          "name:es": "Ikebukuro",
+          "name:fr": "Ikebukuro",
+          "name:ja": "池袋",
+          "name:ja-Hira": "いけぶくろ",
+          "name:ja-Latn": "Ikebukuro",
+          "name:ko": "이케부쿠로",
+          "name:ru": "Икебукуро",
+          "name:th": "อิเคะบุคุโระ",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "M25",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q173919",
+          "wikipedia": "ja:池袋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72926,
+          35.7314483
+        ]
+      },
+      "properties": {
+        "osm_id": 1931878067,
+        "osm_type": "node",
+        "name": "大塚駅前",
+        "category": "station",
+        "tags": {
+          "name": "大塚駅前",
+          "name:en": "Otsuka-ekimae",
+          "name:ja": "大塚駅前",
+          "name:ja-Hira": "おおつかえきまえ",
+          "name:ja_rm": "Ōtsuka eki mae",
+          "name:ko": "오쓰카에키마에",
+          "operator": "東京都交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SA23",
+          "start_date": "1925-12-12",
+          "tram": "yes",
+          "wikidata": "Q801696",
+          "wikipedia": "ja:大塚駅 (東京都)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7147782,
+          35.7202465
+        ]
+      },
+      "properties": {
+        "osm_id": 1951959623,
+        "osm_type": "node",
+        "name": "雑司が谷",
+        "category": "station",
+        "tags": {
+          "name": "雑司が谷",
+          "name:en": "Zoshigaya",
+          "name:es": "Zoshigaya",
+          "name:ja": "雑司が谷",
+          "name:ja-Hira": "ぞうしがや",
+          "name:ja_rm": "Zōshigaya",
+          "name:ko": "조시가야",
+          "operator": "東京地下鉄",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "F10",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q128312",
+          "wikipedia": "ja:雑司が谷駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7111512,
+          35.730185
+        ]
+      },
+      "properties": {
+        "osm_id": 2558121915,
+        "osm_type": "node",
+        "name": "池袋",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=108",
+          "name": "池袋",
+          "name:en": "Ikebukuro",
+          "name:es": "Ikebukuro",
+          "name:fr": "Ikebukuro",
+          "name:it": "Ikebukuro",
+          "name:ja": "池袋",
+          "name:ja-Hira": "いけぶくろ",
+          "name:ja-Latn": "Ikebukuro",
+          "name:ko": "이케부쿠로 역",
+          "name:ru": "Икебукуро",
+          "name:th": "อิเคะบุคุโระ",
+          "name:zh": "池袋站",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JA12;JS21;JY13",
+          "wheelchair": "yes",
+          "wikidata": "Q173919",
+          "wikipedia": "ja:池袋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7148568,
+          35.7202125
+        ]
+      },
+      "properties": {
+        "osm_id": 2696334868,
+        "osm_type": "node",
+        "name": "鬼子母神前",
+        "category": "station",
+        "tags": {
+          "name": "鬼子母神前",
+          "name:en": "Kishibojimmae",
+          "name:ja": "鬼子母神前",
+          "name:ja-Hira": "きしぼじんまえ",
+          "name:ja_rm": "Kishibojin mae",
+          "name:ko": "기시보진마에",
+          "network": "都電荒川線",
+          "operator": "東京都交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "1914-12-25",
+          "tram": "yes",
+          "wikidata": "Q6416581",
+          "wikipedia": "ja:鬼子母神前停留場"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7089439,
+          35.7311425
+        ]
+      },
+      "properties": {
+        "osm_id": 5409272742,
+        "osm_type": "node",
+        "name": "池袋",
+        "category": "station",
+        "tags": {
+          "alt_name": "新線池袋",
+          "description": "副都心線開通以前（小竹向原～池袋間の有楽町新線時代）は 通称「新線池袋駅」と呼称された",
+          "name": "池袋",
+          "name:en": "Ikebukuro",
+          "name:es": "Ikebukuro",
+          "name:ja": "池袋",
+          "name:ko": "이케부쿠로",
+          "operator": "東京メトロ",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "F09",
+          "routes": "副都心線",
+          "source": "survey",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q173919",
+          "wikipedia": "ja:池袋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7179309,
+          35.7241989
+        ]
+      },
+      "properties": {
+        "osm_id": 6236080113,
+        "osm_type": "node",
+        "name": "都電雑司ヶ谷",
+        "category": "station",
+        "tags": {
+          "name": "都電雑司ヶ谷",
+          "name:en": "Toden-zoshigaya",
+          "name:ja": "都電雑司ヶ谷",
+          "name:ja-Hira": "とでんぞうしがや",
+          "name:ja_rm": "Toden-zōshigaya",
+          "name:ko": "도덴조시가야",
+          "operator": "東京都交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SA26",
+          "start_date": "1925-12-12",
+          "tram": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q7812764",
+          "wikipedia": "ja:都電雑司ヶ谷停留場"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7201704,
+          35.7252736
+        ]
+      },
+      "properties": {
+        "osm_id": 6236080114,
+        "osm_type": "node",
+        "name": "東池袋四丁目",
+        "category": "station",
+        "tags": {
+          "name": "東池袋四丁目",
+          "name:en": "Higashi-ikebukuro-yonchome",
+          "name:ja": "東池袋四丁目",
+          "name:ja-Hira": "ひがしいけぶくろよんちょうめ",
+          "name:ja_rm": "Higashi Ikebukuro yonchōme",
+          "name:ko": "히가시이케부쿠로욘초메",
+          "operator": "東京都交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SA25",
+          "start_date": "1925-12-12",
+          "tram": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q13479437",
+          "wikipedia": "ja:東池袋四丁目停留所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7250932,
+          35.7290407
+        ]
+      },
+      "properties": {
+        "osm_id": 6236080117,
+        "osm_type": "node",
+        "name": "向原",
+        "category": "station",
+        "tags": {
+          "name": "向原",
+          "name:en": "Mukohara",
+          "name:ja": "向原",
+          "name:ja-Hira": "むこうはら",
+          "name:ja_rm": "Mukōhara",
+          "name:ko": "무코하라",
+          "operator": "東京都交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SA24",
+          "start_date": "1925-12-12",
+          "tram": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q10918083",
+          "wikipedia": "ja:向原停留所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7277426,
+          35.735513
+        ]
+      },
+      "properties": {
+        "osm_id": 6236325155,
+        "osm_type": "node",
+        "name": "巣鴨新田",
+        "category": "station",
+        "tags": {
+          "name": "巣鴨新田",
+          "name:en": "Sugamoshinden",
+          "name:es": "Sugamoshinden",
+          "name:ja": "巣鴨新田",
+          "name:ja-Hira": "すがもしんでん",
+          "name:ja_rm": "Sugamo shinden",
+          "name:ko": "스가모신덴",
+          "operator": "東京都交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "start_date": "1911-08-20",
+          "tram": "yes",
+          "wikidata": "Q11056416",
+          "wikipedia": "ja:巣鴨新田停留所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7107453,
+          35.7304418
+        ]
+      },
+      "properties": {
+        "osm_id": 7093641218,
+        "osm_type": "node",
+        "name": "池袋",
+        "category": "station",
+        "tags": {
+          "name": "池袋",
+          "name:en": "Ikebukuro",
+          "name:es": "Ikebukuro",
+          "name:it": "Ikebukuro",
+          "name:ja": "池袋",
+          "name:ja-Hira": "いけぶくろ",
+          "name:ja-Latn": "Ikebukuro",
+          "name:ko": "이케부쿠로",
+          "name:ru": "Икебукуро",
+          "operator": "Tojoouter",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TJ01",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q173919",
+          "wikipedia": "ja:池袋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7168198,
+          35.7409856
+        ]
+      },
+      "properties": {
+        "osm_id": 7863114045,
+        "osm_type": "node",
+        "name": "北池袋",
+        "category": "station",
+        "tags": {
+          "name": "北池袋",
+          "name:en": "Kita-ikebukuro",
+          "name:ja": "北池袋",
+          "name:ja-Hira": "きたいけぶくろ",
+          "name:ja_rm": "Kita Ikebukuro",
+          "name:ko": "기타이케부쿠로",
+          "name:ru": "Кита-Икебукуро",
+          "network": "東武鉄道",
+          "network:en": "Tobu Railway",
+          "network:ja": "東武鉄道",
+          "network:wikidata": "Q1321914",
+          "operator": "東武鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TJ02",
+          "train": "yes",
+          "wikidata": "Q6417547",
+          "wikipedia": "ja:北池袋駅"
+        }
+      }
+    }
+  ]
+}

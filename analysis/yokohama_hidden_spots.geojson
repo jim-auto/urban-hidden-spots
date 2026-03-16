@@ -1,0 +1,5414 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.618082,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 202.0,
+        "poi_count": 100,
+        "ped_count": 63,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 32,
+          "cafe": 7,
+          "shop": 61
+        },
+        "nearby_names": [
+          "俺のフレンチ",
+          "スターバックス",
+          "TAPATAPAS",
+          "ブランド楽市",
+          "ソフトバンクショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621082,
+          35.467482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.467482,
+        "lon": 139.621082,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 160.3,
+        "poi_count": 94,
+        "ped_count": 97,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 55,
+          "restaurant": 32,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ヨドバシカメラ",
+          "UNIX",
+          "ダイソー",
+          "雛鮨",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.622082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.622082,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 243.5,
+        "poi_count": 81,
+        "ped_count": 62,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 45,
+          "shop": 35,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "町田商店",
+          "はやし田",
+          "ダイソー",
+          "ワイモバイル",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618082,
+          35.465482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.465482,
+        "lon": 139.618082,
+        "hidden_score": 0.995,
+        "poi_density": 0.988,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 189.2,
+        "poi_count": 76,
+        "ped_count": 77,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 14,
+          "shop": 43,
+          "restaurant": 19
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ドトールコーヒーショップ",
+          "洋服の青山",
+          "PRONTO",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.617082,
+        "hidden_score": 0.983,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 304.1,
+        "poi_count": 94,
+        "ped_count": 50,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 32,
+          "shop": 59,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "俺のフレンチ",
+          "横浜花幸",
+          "八百徳　西口店",
+          "イエロー・サブマリン",
+          "メガネドラッグ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.617082,
+        "hidden_score": 0.983,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 292.2,
+        "poi_count": 93,
+        "ped_count": 50,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 25,
+          "cafe": 9,
+          "shop": 59
+        },
+        "nearby_names": [
+          "俺のフレンチ",
+          "スターバックス",
+          "TAPATAPAS",
+          "Casa vella",
+          "Halenohea"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617082,
+          35.465482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.465482,
+        "lon": 139.617082,
+        "hidden_score": 0.948,
+        "poi_density": 0.89,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 279.6,
+        "poi_count": 49,
+        "ped_count": 55,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 12,
+          "shop": 29,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "スターバックス",
+          "上島珈琲店",
+          "カフェ・ベローチェ",
+          "ビッグヴィジョン21 横浜店",
+          "TAPATAPAS"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.621082,
+        "hidden_score": 0.944,
+        "poi_density": 0.871,
+        "pedestrian_space": 0.988,
+        "station_distance_score": 1.0,
+        "station_distance_m": 259.8,
+        "poi_count": 45,
+        "ped_count": 57,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 22,
+          "restaurant": 21,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ヨドバシカメラ",
+          "UNIX",
+          "町田商店",
+          "はやし田",
+          "ダイソー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.619082,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 112.6,
+        "poi_count": 103,
+        "ped_count": 77,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 9,
+          "shop": 60,
+          "restaurant": 34
+        },
+        "nearby_names": [
+          "kawara cafe&dining",
+          "スターバックス",
+          "スターバックス",
+          "ドトールコーヒーショップ",
+          "青山フラワーマーケット"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.616082,
+        "hidden_score": 0.939,
+        "poi_density": 0.895,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 391.7,
+        "poi_count": 50,
+        "ped_count": 49,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 17,
+          "shop": 30,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "俺のフレンチ",
+          "スリーエフ",
+          "ファミリーマート",
+          "ファミリーマート",
+          "眼鏡市場"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.618082,
+        "hidden_score": 0.937,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 218.9,
+        "poi_count": 98,
+        "ped_count": 31,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 33,
+          "shop": 62,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "俺のフレンチ",
+          "コナカ",
+          "横浜花幸",
+          "八百徳　西口店",
+          "イエロー・サブマリン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631082,
+          35.452482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.452482,
+        "lon": 139.631082,
+        "hidden_score": 0.936,
+        "poi_density": 0.839,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 164.3,
+        "poi_count": 39,
+        "ped_count": 64,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "restaurant": 17,
+          "shop": 16,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "Bubby's",
+          "WINE HALL",
+          "MANOA Aloha Table",
+          "郷どり燦鶏",
+          "Sweets Paradise"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.623082,
+        "hidden_score": 0.932,
+        "poi_density": 0.899,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 1.0,
+        "station_distance_m": 253.2,
+        "poi_count": 51,
+        "ped_count": 45,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 34,
+          "shop": 15,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "町田商店",
+          "はやし田",
+          "中国料理 煌蘭",
+          "鮮と閑",
+          "塚田農場"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619082,
+          35.465482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.465482,
+        "lon": 139.619082,
+        "hidden_score": 0.928,
+        "poi_density": 0.97,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 98.9,
+        "poi_count": 70,
+        "ped_count": 106,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 13,
+          "shop": 37,
+          "restaurant": 19,
+          "park": 1
+        },
+        "nearby_names": [
+          "スターバックス",
+          "スターバックス",
+          "ドトールコーヒーショップ",
+          "洋服の青山",
+          "PRONTO"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.452482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.452482,
+        "lon": 139.630082,
+        "hidden_score": 0.92,
+        "poi_density": 0.834,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 184.1,
+        "poi_count": 38,
+        "ped_count": 52,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "restaurant": 16,
+          "shop": 16,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "WINE HALL",
+          "MANOA Aloha Table",
+          "郷どり燦鶏",
+          "Sweets Paradise",
+          "梅蘭"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618082,
+          35.466482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.466482,
+        "lon": 139.618082,
+        "hidden_score": 0.918,
+        "poi_density": 0.796,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 225.2,
+        "poi_count": 32,
+        "ped_count": 63,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 11,
+          "shop": 12,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "スターバックス",
+          "PRONTO",
+          "ローソン",
+          "上島珈琲店",
+          "カフェ・ベローチェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.606082,
+          35.456482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.456482,
+        "lon": 139.606082,
+        "hidden_score": 0.917,
+        "poi_density": 0.845,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 416.4,
+        "poi_count": 40,
+        "ped_count": 48,
+        "city": "Yokohama",
+        "nearest_station": "西横浜",
+        "poi_breakdown": {
+          "shop": 34,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ローソン",
+          "ダイソー",
+          "光家",
+          "外川商店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.616082,
+        "hidden_score": 0.916,
+        "poi_density": 0.839,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 382.5,
+        "poi_count": 39,
+        "ped_count": 49,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 13,
+          "shop": 24,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "俺のフレンチ",
+          "ファミリーマート",
+          "スリーエフ",
+          "眼鏡市場",
+          "玄品ふぐ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620082,
+          35.467482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.467482,
+        "lon": 139.620082,
+        "hidden_score": 0.915,
+        "poi_density": 0.789,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 224.2,
+        "poi_count": 31,
+        "ped_count": 87,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 12,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ヨドバシカメラ",
+          "UNIX",
+          "ダイソー",
+          "雛鮨",
+          "有隣堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.620082,
+        "hidden_score": 0.915,
+        "poi_density": 0.789,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 303.4,
+        "poi_count": 31,
+        "ped_count": 74,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 13,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ヨドバシカメラ",
+          "雛鮨",
+          "Chacott",
+          "K.uno",
+          "ジョナサン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619082,
+          35.466482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.466482,
+        "lon": 139.619082,
+        "hidden_score": 0.907,
+        "poi_density": 0.766,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 157.3,
+        "poi_count": 28,
+        "ped_count": 92,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 8,
+          "shop": 10,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ドトールコーヒーショップ",
+          "洋服の青山",
+          "PRONTO",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624082,
+          35.467482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.467482,
+        "lon": 139.624082,
+        "hidden_score": 0.906,
+        "poi_density": 0.796,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 163.0,
+        "poi_count": 32,
+        "ped_count": 53,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 18,
+          "shop": 10,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "伸寿し",
+          "大黒屋",
+          "みなと寿司",
+          "セブン-イレブン",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.624082,
+        "hidden_score": 0.905,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.996,
+        "station_distance_score": 1.0,
+        "station_distance_m": 195.8,
+        "poi_count": 28,
+        "ped_count": 59,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 18,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "スターバックス",
+          "そごう",
+          "東京メガネ",
+          "SUIT SELECT",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632082,
+          35.452482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.452482,
+        "lon": 139.632082,
+        "hidden_score": 0.903,
+        "poi_density": 0.758,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 191.1,
+        "poi_count": 27,
+        "ped_count": 64,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "restaurant": 14,
+          "shop": 9,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "MANOA Aloha Table",
+          "郷どり燦鶏",
+          "Sweets Paradise",
+          "梅蘭",
+          "ブレドール"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.605082,
+          35.456482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.456482,
+        "lon": 139.605082,
+        "hidden_score": 0.901,
+        "poi_density": 0.861,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 470.0,
+        "poi_count": 43,
+        "ped_count": 38,
+        "city": "Yokohama",
+        "nearest_station": "西横浜",
+        "poi_breakdown": {
+          "shop": 36,
+          "restaurant": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "まいばすけっと",
+          "ダイソー",
+          "ロイヤルホスト",
+          "外川商店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620082,
+          35.466482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.466482,
+        "lon": 139.620082,
+        "hidden_score": 0.896,
+        "poi_density": 0.89,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 123.1,
+        "poi_count": 49,
+        "ped_count": 103,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 25,
+          "restaurant": 13,
+          "cafe": 9,
+          "park": 2
+        },
+        "nearby_names": [
+          "ヨドバシカメラ",
+          "UNIX",
+          "雛鮨",
+          "スターバックス",
+          "有隣堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617082,
+          35.466482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.466482,
+        "lon": 139.617082,
+        "hidden_score": 0.89,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 1.0,
+        "station_distance_m": 305.2,
+        "poi_count": 31,
+        "ped_count": 46,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 10,
+          "shop": 10,
+          "restaurant": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ローソン",
+          "上島珈琲店",
+          "カフェ・ベローチェ",
+          "ビッグヴィジョン21 横浜店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631082,
+          35.456482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.456482,
+        "lon": 139.631082,
+        "hidden_score": 0.885,
+        "poi_density": 0.856,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 180.2,
+        "poi_count": 42,
+        "ped_count": 33,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "shop": 17,
+          "cafe": 4,
+          "restaurant": 21
+        },
+        "nearby_names": [
+          "成城石井",
+          "H&M",
+          "ドトールコーヒーショップ",
+          "ダイソー",
+          "まいにちマルシェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619082,
+          35.467482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.467482,
+        "lon": 139.619082,
+        "hidden_score": 0.885,
+        "poi_density": 0.714,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 253.8,
+        "poi_count": 22,
+        "ped_count": 61,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 13,
+          "restaurant": 7,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "ヨドバシカメラ",
+          "雛鮨",
+          "ローソン",
+          "Chacott",
+          "K.uno"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632082,
+          35.451482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.451482,
+        "lon": 139.632082,
+        "hidden_score": 0.878,
+        "poi_density": 0.845,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 111.3,
+        "poi_count": 40,
+        "ped_count": 65,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "cafe": 10,
+          "restaurant": 16,
+          "shop": 14
+        },
+        "nearby_names": [
+          "Bubby's",
+          "Bubby's",
+          "カフェ・ド・クリエ",
+          "ニャーヴェトナム ビアホイ",
+          "WINE HALL"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.450482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.450482,
+        "lon": 139.630082,
+        "hidden_score": 0.876,
+        "poi_density": 0.839,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 101.6,
+        "poi_count": 39,
+        "ped_count": 67,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "cafe": 6,
+          "restaurant": 12,
+          "shop": 21
+        },
+        "nearby_names": [
+          "Bubby's",
+          "Bubby's",
+          "セブン-イレブン",
+          "ダイソー",
+          "阿里山"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.625082,
+        "hidden_score": 0.874,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 222.2,
+        "poi_count": 22,
+        "ped_count": 53,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 14,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "スターバックス",
+          "SUIT SELECT",
+          "ローソン",
+          "PRONTO",
+          "天賞堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.619082,
+        "hidden_score": 0.871,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 0.7,
+        "station_distance_m": 140.6,
+        "poi_count": 87,
+        "ped_count": 29,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 53,
+          "restaurant": 31
+        },
+        "nearby_names": [
+          "kawara cafe&dining",
+          "ブランド楽市",
+          "ソフトバンクショップ",
+          "ムーラン 横浜西口店",
+          "ドスパラ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.451482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.451482,
+        "lon": 139.630082,
+        "hidden_score": 0.865,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 0.7,
+        "station_distance_m": 98.7,
+        "poi_count": 47,
+        "ped_count": 45,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "cafe": 9,
+          "restaurant": 19,
+          "shop": 19
+        },
+        "nearby_names": [
+          "Bubby's",
+          "Bubby's",
+          "WINE HALL",
+          "MANOA Aloha Table",
+          "郷どり燦鶏"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.624082,
+        "hidden_score": 0.864,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 239.5,
+        "poi_count": 19,
+        "ped_count": 55,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "restaurant": 7,
+          "shop": 10,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "はなたれ",
+          "La Cocorico",
+          "Kamoshika",
+          "文化堂",
+          "PRONTO"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.623082,
+        "hidden_score": 0.864,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 250.5,
+        "poi_count": 19,
+        "ped_count": 55,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 9,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "SUIT SELECT",
+          "Bistrot A Vin La-fina",
+          "セブン-イレブン",
+          "ドトールコーヒーショップ",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.624082,
+        "hidden_score": 0.864,
+        "poi_density": 0.703,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 283.6,
+        "poi_count": 21,
+        "ped_count": 50,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 14,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "スターバックス",
+          "SUIT SELECT",
+          "Bistrot A Vin La-fina",
+          "ローソン",
+          "崎陽軒"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.617082,
+        "hidden_score": 0.862,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 320.3,
+        "poi_count": 37,
+        "ped_count": 29,
+        "city": "Yokohama",
+        "nearest_station": "平沼橋",
+        "poi_breakdown": {
+          "shop": 24,
+          "restaurant": 12,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "豚そば 秀吉",
+          "ファミリーマート",
+          "(ネットカフェ)",
+          "じゃんぱら"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.624082,
+        "hidden_score": 0.857,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 265.4,
+        "poi_count": 35,
+        "ped_count": 29,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 19,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "麺場 浜虎",
+          "本丸亭 鶴屋町店",
+          "THE RIGOLETTO OCEAN CLUB",
+          "PRONTO"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618082,
+          35.467482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.467482,
+        "lon": 139.618082,
+        "hidden_score": 0.856,
+        "poi_density": 0.75,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 300.7,
+        "poi_count": 26,
+        "ped_count": 38,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 11,
+          "restaurant": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ローソン",
+          "Chacott",
+          "K.uno",
+          "ジョナサン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632082,
+          35.455482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.455482,
+        "lon": 139.632082,
+        "hidden_score": 0.855,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 206.6,
+        "poi_count": 19,
+        "ped_count": 50,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "cafe": 2,
+          "restaurant": 11,
+          "shop": 6
+        },
+        "nearby_names": [
+          "スターバックス",
+          "Brasserie la Classe",
+          "ペッシェドーロ 横浜店",
+          "成城石井",
+          "H&M"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.616082,
+        "hidden_score": 0.855,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.872,
+        "station_distance_score": 1.0,
+        "station_distance_m": 314.1,
+        "poi_count": 28,
+        "ped_count": 35,
+        "city": "Yokohama",
+        "nearest_station": "平沼橋",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 11,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "Bisbee",
+          "スリーエフ",
+          "ローソン",
+          "じゃんぱら",
+          "玄品ふぐ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.607082,
+          35.456482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.456482,
+        "lon": 139.607082,
+        "hidden_score": 0.854,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.921,
+        "station_distance_score": 1.0,
+        "station_distance_m": 377.1,
+        "poi_count": 22,
+        "ped_count": 43,
+        "city": "Yokohama",
+        "nearest_station": "西横浜",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ローソン",
+          "光家",
+          "三ツ和寿司",
+          "釜山キムチ 韓国の軽食"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632082,
+          35.454482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.454482,
+        "lon": 139.632082,
+        "hidden_score": 0.852,
+        "poi_density": 0.631,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 313.6,
+        "poi_count": 15,
+        "ped_count": 60,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "cafe": 1,
+          "restaurant": 8,
+          "shop": 6
+        },
+        "nearby_names": [
+          "スターバックス",
+          "Brasserie la Classe",
+          "ペッシェドーロ 横浜店",
+          "成城石井",
+          "H&M"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.625082,
+        "hidden_score": 0.85,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 256.8,
+        "poi_count": 28,
+        "ped_count": 33,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 18,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "スターバックス",
+          "そごう",
+          "東京メガネ",
+          "SUIT SELECT",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.607082,
+          35.457482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.457482,
+        "lon": 139.607082,
+        "hidden_score": 0.849,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.865,
+        "station_distance_score": 1.0,
+        "station_distance_m": 483.3,
+        "poi_count": 27,
+        "ped_count": 34,
+        "city": "Yokohama",
+        "nearest_station": "西横浜",
+        "poi_breakdown": {
+          "shop": 22,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "ローソン",
+          "光家",
+          "花のあとりえ かりん",
+          "三ツ和寿司",
+          "肉のえんどう"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.615082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.615082,
+        "hidden_score": 0.849,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 439.5,
+        "poi_count": 17,
+        "ped_count": 52,
+        "city": "Yokohama",
+        "nearest_station": "平沼橋",
+        "poi_breakdown": {
+          "shop": 5,
+          "restaurant": 10,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "スリーエフ",
+          "ファミリーマート",
+          "らーめん 山頭火",
+          "一風堂",
+          "ねこっ茶 横浜西口店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625082,
+          35.466482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.466482,
+        "lon": 139.625082,
+        "hidden_score": 0.845,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 1.0,
+        "station_distance_m": 173.6,
+        "poi_count": 18,
+        "ped_count": 47,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 4,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "そごう",
+          "coen",
+          "スターバックス",
+          "KIRIN CITY+",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627082,
+          35.467482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.467482,
+        "lon": 139.627082,
+        "hidden_score": 0.844,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 379.5,
+        "poi_count": 22,
+        "ped_count": 39,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 3,
+          "restaurant": 5,
+          "shop": 13,
+          "park": 1
+        },
+        "nearby_names": [
+          "Urth Cafe",
+          "スターバックス",
+          "KIRIN CITY+",
+          "セブン-イレブン",
+          "カルディコーヒーファーム"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631082,
+          35.453482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.453482,
+        "lon": 139.631082,
+        "hidden_score": 0.843,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 1.0,
+        "station_distance_m": 275.5,
+        "poi_count": 14,
+        "ped_count": 58,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "cafe": 1,
+          "restaurant": 8,
+          "shop": 5
+        },
+        "nearby_names": [
+          "スターバックス",
+          "MANOA Aloha Table",
+          "郷どり燦鶏",
+          "Sweets Paradise",
+          "信州そば処 そじ坊"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.619082,
+        "hidden_score": 0.843,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 1.0,
+        "station_distance_m": 358.9,
+        "poi_count": 18,
+        "ped_count": 46,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "Chacott",
+          "K.uno",
+          "ジョナサン",
+          "ファミリーマート",
+          "サンスイ 横浜店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629082,
+          35.459482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.459482,
+        "lon": 139.629082,
+        "hidden_score": 0.842,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 351.5,
+        "poi_count": 17,
+        "ped_count": 48,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "shop": 8,
+          "cafe": 4,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "スターバックス",
+          "ナチュラルローソン",
+          "TSUTAYA",
+          "mm thai"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.618082,
+        "hidden_score": 0.841,
+        "poi_density": 0.839,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 282.4,
+        "poi_count": 39,
+        "ped_count": 22,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 25,
+          "restaurant": 13,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "とらのあな",
+          "豚そば 秀吉",
+          "ファミリーマート",
+          "(ネットカフェ)"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631082,
+          35.455482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.455482,
+        "lon": 139.631082,
+        "hidden_score": 0.84,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 1.0,
+        "station_distance_m": 251.8,
+        "poi_count": 17,
+        "ped_count": 47,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "cafe": 1,
+          "restaurant": 9,
+          "shop": 7
+        },
+        "nearby_names": [
+          "スターバックス",
+          "Brasserie la Classe",
+          "ペッシェドーロ 横浜店",
+          "成城石井",
+          "H&M"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628082,
+          35.459482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.459482,
+        "lon": 139.628082,
+        "hidden_score": 0.835,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 302.8,
+        "poi_count": 15,
+        "ped_count": 50,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "cafe": 4,
+          "restaurant": 6,
+          "shop": 5
+        },
+        "nearby_names": [
+          "サンマルクカフェ",
+          "田舎そば のぶや",
+          "ガスト",
+          "スターバックス",
+          "バーミヤン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.618082,
+        "hidden_score": 0.834,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 393.5,
+        "poi_count": 20,
+        "ped_count": 38,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 6,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "K.uno",
+          "ジョナサン",
+          "ファミリーマート",
+          "サンスイ 横浜店",
+          "東天閣"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.606082,
+          35.457482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.457482,
+        "lon": 139.606082,
+        "hidden_score": 0.829,
+        "poi_density": 0.908,
+        "pedestrian_space": 0.865,
+        "station_distance_score": 0.6,
+        "station_distance_m": 514.5,
+        "poi_count": 53,
+        "ped_count": 34,
+        "city": "Yokohama",
+        "nearest_station": "西横浜",
+        "poi_breakdown": {
+          "shop": 46,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "まいばすけっと",
+          "ダイソー",
+          "光家",
+          "外川商店",
+          "魚幸水産"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616082,
+          35.465482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.465482,
+        "lon": 139.616082,
+        "hidden_score": 0.829,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 370.1,
+        "poi_count": 19,
+        "ped_count": 38,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 5,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "TAPATAPAS",
+          "Casa vella",
+          "Halenohea",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.623082,
+        "hidden_score": 0.827,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 1.0,
+        "station_distance_m": 321.1,
+        "poi_count": 15,
+        "ped_count": 46,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 7,
+          "shop": 7,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "Bistrot A Vin La-fina",
+          "セブン-イレブン",
+          "はなたれ",
+          "La Cocorico",
+          "Kamoshika"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625082,
+          35.465482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.465482,
+        "lon": 139.625082,
+        "hidden_score": 0.826,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 188.9,
+        "poi_count": 22,
+        "ped_count": 32,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 15,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "スターバックス",
+          "そごう",
+          "東京メガネ",
+          "ローソン",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626082,
+          35.466482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.466482,
+        "lon": 139.626082,
+        "hidden_score": 0.826,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 263.2,
+        "poi_count": 22,
+        "ped_count": 32,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 14,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "Urth Cafe",
+          "coen",
+          "スターバックス",
+          "KIRIN CITY+",
+          "ロフト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626082,
+          35.465482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.465482,
+        "lon": 139.626082,
+        "hidden_score": 0.823,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 273.6,
+        "poi_count": 22,
+        "ped_count": 31,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 4,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "そごう",
+          "東京メガネ",
+          "セブン-イレブン",
+          "Urth Cafe",
+          "coen"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626082,
+          35.467482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.467482,
+        "lon": 139.626082,
+        "hidden_score": 0.823,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 297.4,
+        "poi_count": 23,
+        "ped_count": 30,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 5,
+          "restaurant": 2,
+          "shop": 16
+        },
+        "nearby_names": [
+          "スターバックス",
+          "KIRIN CITY+",
+          "セブン-イレブン",
+          "カルディコーヒーファーム",
+          "PRONTO"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.615082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.615082,
+        "hidden_score": 0.821,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 1.0,
+        "station_distance_m": 471.1,
+        "poi_count": 14,
+        "ped_count": 46,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 5,
+          "restaurant": 8,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "スリーエフ",
+          "ファミリーマート",
+          "一風堂",
+          "ローソン",
+          "ゴル麺。"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620082,
+          35.465482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.465482,
+        "lon": 139.620082,
+        "hidden_score": 0.82,
+        "poi_density": 0.95,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 13.9,
+        "poi_count": 64,
+        "ped_count": 112,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 11,
+          "shop": 34,
+          "restaurant": 17,
+          "park": 2
+        },
+        "nearby_names": [
+          "スターバックス",
+          "スターバックス",
+          "ドトールコーヒーショップ",
+          "青山フラワーマーケット",
+          "洋服の青山"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.620082,
+        "hidden_score": 0.817,
+        "poi_density": 0.943,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 30.7,
+        "poi_count": 62,
+        "ped_count": 69,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 7,
+          "shop": 29,
+          "restaurant": 24,
+          "park": 2
+        },
+        "nearby_names": [
+          "kawara cafe&dining",
+          "スターバックス",
+          "スターバックス",
+          "青山フラワーマーケット",
+          "ABCマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625082,
+          35.467482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.467482,
+        "lon": 139.625082,
+        "hidden_score": 0.811,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 1.0,
+        "station_distance_m": 222.0,
+        "poi_count": 13,
+        "ped_count": 44,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 8,
+          "cafe": 3,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "PRONTO",
+          "ファミリーマート",
+          "12. cafe",
+          "NewDays"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.458482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.458482,
+        "lon": 139.630082,
+        "hidden_score": 0.81,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 286.2,
+        "poi_count": 19,
+        "ped_count": 31,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 12,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ナチュラルローソン",
+          "TSUTAYA",
+          "Kouu",
+          "3coins"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616082,
+          35.466482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.466482,
+        "lon": 139.616082,
+        "hidden_score": 0.81,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 389.8,
+        "poi_count": 25,
+        "ped_count": 24,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 8,
+          "cafe": 7,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "セブン-イレブン",
+          "スターバックス",
+          "TAPATAPAS",
+          "Casa vella"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631082,
+          35.454482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.454482,
+        "lon": 139.631082,
+        "hidden_score": 0.806,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 345.1,
+        "poi_count": 13,
+        "ped_count": 42,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "cafe": 1,
+          "restaurant": 5,
+          "shop": 7
+        },
+        "nearby_names": [
+          "スターバックス",
+          "Brasserie la Classe",
+          "成城石井",
+          "H&M",
+          "味散歩 横濱文明開館"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623082,
+          35.469482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.469482,
+        "lon": 139.623082,
+        "hidden_score": 0.806,
+        "poi_density": 0.703,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 364.4,
+        "poi_count": 21,
+        "ped_count": 27,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 9,
+          "shop": 9,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "町田商店",
+          "はやし田",
+          "料亭 田中家",
+          "ファミリーマート",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.622082,
+          35.469482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.469482,
+        "lon": 139.622082,
+        "hidden_score": 0.804,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 354.7,
+        "poi_count": 19,
+        "ped_count": 29,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "shop": 9,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "町田商店",
+          "はやし田",
+          "セブン-イレブン",
+          "メガネストアー",
+          "ワイモバイル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633082,
+          35.479482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.479482,
+        "lon": 139.633082,
+        "hidden_score": 0.804,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 1.0,
+        "station_distance_m": 172.5,
+        "poi_count": 13,
+        "ped_count": 41,
+        "city": "Yokohama",
+        "nearest_station": "東神奈川",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 4,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "イオン",
+          "NewDays",
+          "餃子の王将",
+          "セブン-イレブン",
+          "セ・ララ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.457482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.457482,
+        "lon": 139.630082,
+        "hidden_score": 0.801,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 251.8,
+        "poi_count": 20,
+        "ped_count": 27,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "cafe": 6,
+          "restaurant": 6,
+          "shop": 8
+        },
+        "nearby_names": [
+          "スターバックス",
+          "Kouu",
+          "mm thai",
+          "AOKI",
+          "MINI みなとみらい"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633082,
+          35.455482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.455482,
+        "lon": 139.633082,
+        "hidden_score": 0.8,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 195.8,
+        "poi_count": 14,
+        "ped_count": 37,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "cafe": 1,
+          "restaurant": 10,
+          "shop": 3
+        },
+        "nearby_names": [
+          "スターバックス",
+          "Brasserie la Classe",
+          "Doctor Belee",
+          "ペッシェドーロ 横浜店",
+          "Culture Agent"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632082,
+          35.450482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.450482,
+        "lon": 139.632082,
+        "hidden_score": 0.798,
+        "poi_density": 0.645,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 113.9,
+        "poi_count": 16,
+        "ped_count": 74,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "cafe": 5,
+          "restaurant": 4,
+          "shop": 7
+        },
+        "nearby_names": [
+          "Bubby's",
+          "Bubby's",
+          "セブン-イレブン",
+          "ダイソー",
+          "カフェ・ド・クリエ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.626082,
+        "hidden_score": 0.798,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 287.3,
+        "poi_count": 20,
+        "ped_count": 26,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 14,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "スターバックス",
+          "スターバックス",
+          "そごう",
+          "東京メガネ",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.625082,
+        "hidden_score": 0.797,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 1.0,
+        "station_distance_m": 153.5,
+        "poi_count": 8,
+        "ped_count": 58,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 3,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "PRONTO",
+          "天賞堂",
+          "ファミリーマート",
+          "せんざん本店",
+          "Malibu"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.631082,
+        "hidden_score": 0.797,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 406.7,
+        "poi_count": 10,
+        "ped_count": 48,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "土屋鞄製造所",
+          "X-GOLF倶楽部",
+          "glam: universal works",
+          "葉山庵",
+          "まいばすけっと"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629082,
+          35.449482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.449482,
+        "lon": 139.629082,
+        "hidden_score": 0.795,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 155.3,
+        "poi_count": 27,
+        "ped_count": 19,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 16,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "阿里山",
+          "ローソンストア100",
+          "Petit",
+          "一蘭横浜桜木町店",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.605082,
+          35.457482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.457482,
+        "lon": 139.605082,
+        "hidden_score": 0.795,
+        "poi_density": 0.935,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 0.6,
+        "station_distance_m": 558.8,
+        "poi_count": 60,
+        "ped_count": 21,
+        "city": "Yokohama",
+        "nearest_station": "西横浜",
+        "poi_breakdown": {
+          "shop": 49,
+          "restaurant": 9,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "まいばすけっと",
+          "ダイソー",
+          "ロイヤルホスト",
+          "光家",
+          "外川商店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617082,
+          35.467482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.467482,
+        "lon": 139.617082,
+        "hidden_score": 0.795,
+        "poi_density": 0.703,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 364.4,
+        "poi_count": 21,
+        "ped_count": 24,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 4,
+          "restaurant": 6,
+          "shop": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "スターバックス",
+          "チーズカフェ",
+          "買取センター横浜西口店",
+          "ジョナサン",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632082,
+          35.479482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.479482,
+        "lon": 139.632082,
+        "hidden_score": 0.795,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.872,
+        "station_distance_score": 1.0,
+        "station_distance_m": 204.9,
+        "poi_count": 14,
+        "ped_count": 35,
+        "city": "Yokohama",
+        "nearest_station": "東神奈川",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 4,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "イオン",
+          "ローソンストア100西神奈川店",
+          "セブン-イレブン",
+          "ガスト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627082,
+          35.466482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.466482,
+        "lon": 139.627082,
+        "hidden_score": 0.793,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 353.3,
+        "poi_count": 15,
+        "ped_count": 32,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 3,
+          "restaurant": 3,
+          "shop": 9
+        },
+        "nearby_names": [
+          "Urth Cafe",
+          "スターバックス",
+          "KIRIN CITY+",
+          "カルディコーヒーファーム",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631082,
+          35.451482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.451482,
+        "lon": 139.631082,
+        "hidden_score": 0.792,
+        "poi_density": 0.881,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 53.5,
+        "poi_count": 47,
+        "ped_count": 69,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "cafe": 10,
+          "restaurant": 19,
+          "shop": 18
+        },
+        "nearby_names": [
+          "Bubby's",
+          "Bubby's",
+          "カフェ・ド・クリエ",
+          "WINE HALL",
+          "MANOA Aloha Table"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.632082,
+        "hidden_score": 0.791,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 1.0,
+        "station_distance_m": 496.5,
+        "poi_count": 10,
+        "ped_count": 45,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "土屋鞄製造所",
+          "X-GOLF倶楽部",
+          "hair rough",
+          "glam: universal works",
+          "葉山庵"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628082,
+          35.460482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.460482,
+        "lon": 139.628082,
+        "hidden_score": 0.79,
+        "poi_density": 0.524,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 208.0,
+        "poi_count": 9,
+        "ped_count": 49,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "restaurant": 3,
+          "cafe": 2,
+          "shop": 4
+        },
+        "nearby_names": [
+          "ガスト",
+          "スターバックス",
+          "バーミヤン",
+          "ファミリーマート",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.625082,
+        "hidden_score": 0.79,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 305.3,
+        "poi_count": 22,
+        "ped_count": 22,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 6,
+          "cafe": 4,
+          "shop": 12
+        },
+        "nearby_names": [
+          "本丸亭 鶴屋町店",
+          "PRONTO",
+          "ローソン",
+          "ファミリーマート",
+          "12. cafe"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618082,
+          35.469482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.469482,
+        "lon": 139.618082,
+        "hidden_score": 0.79,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 493.9,
+        "poi_count": 15,
+        "ped_count": 31,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 6,
+          "shop": 7,
+          "park": 2
+        },
+        "nearby_names": [
+          "ジョナサン",
+          "ファミリーマート",
+          "サンスイ 横浜店",
+          "東天閣",
+          "little cat"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.607082,
+          35.455482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.455482,
+        "lon": 139.607082,
+        "hidden_score": 0.789,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.872,
+        "station_distance_score": 1.0,
+        "station_distance_m": 274.9,
+        "poi_count": 13,
+        "ped_count": 35,
+        "city": "Yokohama",
+        "nearest_station": "西横浜",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ローソン",
+          "英和自動車販売",
+          "れすとらん",
+          "城（やきとり・今川焼き)"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.453482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.453482,
+        "lon": 139.630082,
+        "hidden_score": 0.788,
+        "poi_density": 0.524,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 287.7,
+        "poi_count": 9,
+        "ped_count": 48,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "restaurant": 4,
+          "shop": 5
+        },
+        "nearby_names": [
+          "郷どり燦鶏",
+          "オナオシプラス",
+          "信州そば処 そじ坊",
+          "やわらかとんかつ かつ泉",
+          "Colette・Mare"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.622082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.622082,
+        "hidden_score": 0.787,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 183.8,
+        "poi_count": 15,
+        "ped_count": 30,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 9,
+          "shop": 5,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "Bistrot A Vin La-fina",
+          "セブン-イレブン",
+          "ドトールコーヒーショップ",
+          "ファミリーマート",
+          "文化堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628082,
+          35.458482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.458482,
+        "lon": 139.628082,
+        "hidden_score": 0.786,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.819,
+        "station_distance_score": 1.0,
+        "station_distance_m": 382.6,
+        "poi_count": 16,
+        "ped_count": 28,
+        "city": "Yokohama",
+        "nearest_station": "高島町",
+        "poi_breakdown": {
+          "cafe": 2,
+          "restaurant": 3,
+          "shop": 11
+        },
+        "nearby_names": [
+          "サンマルクカフェ",
+          "田舎そば のぶや",
+          "ニトリ",
+          "AOKI",
+          "Porsche Center Minatomirai Pre-owned Car Center"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.619082,
+        "hidden_score": 0.786,
+        "poi_density": 0.703,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 227.2,
+        "poi_count": 21,
+        "ped_count": 22,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 10
+        },
+        "nearby_names": [
+          "Lovely Cleaning",
+          "豚そば 秀吉",
+          "ビコローレ ヨコハマ",
+          "香港厨房",
+          "串カツ田中"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631082,
+          35.461482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.461482,
+        "lon": 139.631082,
+        "hidden_score": 0.784,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 405.4,
+        "poi_count": 8,
+        "ped_count": 51,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "土屋鞄製造所",
+          "X-GOLF倶楽部",
+          "glam: universal works",
+          "葉山庵",
+          "まいばすけっと"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.622082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.622082,
+        "hidden_score": 0.784,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 256.2,
+        "poi_count": 17,
+        "ped_count": 26,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "shop": 8,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "Bistrot A Vin La-fina",
+          "セブン-イレブン",
+          "ほっともっと",
+          "はなたれ",
+          "La Cocorico"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.459482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.459482,
+        "lon": 139.630082,
+        "hidden_score": 0.783,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 353.8,
+        "poi_count": 15,
+        "ped_count": 29,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "shop": 6,
+          "cafe": 4,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "スターバックス",
+          "ナチュラルローソン",
+          "TSUTAYA",
+          "mm thai"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621082,
+          35.460482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.460482,
+        "lon": 139.621082,
+        "hidden_score": 0.783,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 338.0,
+        "poi_count": 13,
+        "ped_count": 33,
+        "city": "Yokohama",
+        "nearest_station": "高島町",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "ローソン",
+          "ブックオフ",
+          "ほっともっと",
+          "ガスト",
+          "そば/天ぷら 角平"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620082,
+          35.460482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.460482,
+        "lon": 139.620082,
+        "hidden_score": 0.782,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 350.6,
+        "poi_count": 16,
+        "ped_count": 27,
+        "city": "Yokohama",
+        "nearest_station": "平沼橋",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "Lovely Cleaning",
+          "ローソン",
+          "ブックオフ",
+          "ガスト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633082,
+          35.451482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.451482,
+        "lon": 139.633082,
+        "hidden_score": 0.781,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 195.8,
+        "poi_count": 7,
+        "ped_count": 55,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "cafe": 3,
+          "restaurant": 2,
+          "shop": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "ニャーヴェトナム ビアホイ",
+          "スターバックス",
+          "もとまちユニオン",
+          "TSUBAKI食堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621082,
+          35.469482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.469482,
+        "lon": 139.621082,
+        "hidden_score": 0.781,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 366.1,
+        "poi_count": 14,
+        "ped_count": 30,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 6,
+          "shop": 8
+        },
+        "nearby_names": [
+          "町田商店",
+          "はやし田",
+          "介護用品ショップ",
+          "神奈川鶴屋町センター",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.455482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.455482,
+        "lon": 139.630082,
+        "hidden_score": 0.78,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 1.0,
+        "station_distance_m": 317.1,
+        "poi_count": 10,
+        "ped_count": 40,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "restaurant": 3,
+          "shop": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "Brasserie la Classe",
+          "成城石井",
+          "H&M",
+          "ドトールコーヒーショップ",
+          "Spingle Move"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629082,
+          35.457482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.457482,
+        "lon": 139.629082,
+        "hidden_score": 0.78,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 342.0,
+        "poi_count": 11,
+        "ped_count": 37,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "restaurant": 2,
+          "shop": 6,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "mm thai",
+          "ニトリ",
+          "AOKI",
+          "Porsche Center Minatomirai Pre-owned Car Center",
+          "MINI みなとみらい"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631082,
+          35.459482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.459482,
+        "lon": 139.631082,
+        "hidden_score": 0.78,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 296.8,
+        "poi_count": 11,
+        "ped_count": 37,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 5,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ナチュラルローソン",
+          "Tullys",
+          "TSUTAYA",
+          "大戸屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620082,
+          35.461482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.461482,
+        "lon": 139.620082,
+        "hidden_score": 0.779,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 310.5,
+        "poi_count": 16,
+        "ped_count": 26,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "Lovely Cleaning",
+          "ローソン",
+          "ブックオフ",
+          "ほっともっと"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.616082,
+          35.467482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.467482,
+        "lon": 139.616082,
+        "hidden_score": 0.778,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 437.7,
+        "poi_count": 19,
+        "ped_count": 22,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 4,
+          "restaurant": 4,
+          "shop": 8,
+          "park": 3
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ジョナサン",
+          "ローソン",
+          "九つ井",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633082,
+          35.450482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.450482,
+        "lon": 139.633082,
+        "hidden_score": 0.777,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 197.2,
+        "poi_count": 10,
+        "ped_count": 39,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "cafe": 4,
+          "restaurant": 2,
+          "shop": 4
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "ニャーヴェトナム ビアホイ",
+          "NewDays",
+          "成城石井",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629082,
+          35.458482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.458482,
+        "lon": 139.629082,
+        "hidden_score": 0.777,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 368.1,
+        "poi_count": 14,
+        "ped_count": 29,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "cafe": 2,
+          "shop": 9,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ナチュラルローソン",
+          "TSUTAYA",
+          "mm thai",
+          "サンマルクカフェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629082,
+          35.461482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.461482,
+        "lon": 139.629082,
+        "hidden_score": 0.777,
+        "poi_density": 0.443,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 226.9,
+        "poi_count": 6,
+        "ped_count": 61,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "shop": 3,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "スターバックス",
+          "ファミリーマート",
+          "ドトールコーヒーショップ",
+          "JAGUAR LANDROVER YOKOHAMA"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629082,
+          35.451482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.451482,
+        "lon": 139.629082,
+        "hidden_score": 0.775,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 181.8,
+        "poi_count": 16,
+        "ped_count": 25,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "restaurant": 3,
+          "shop": 9,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "WINE HALL",
+          "オナオシプラス",
+          "Station DELI",
+          "SoupStockTokyo",
+          "ポチャ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633082,
+          35.454482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.454482,
+        "lon": 139.633082,
+        "hidden_score": 0.775,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 1.0,
+        "station_distance_m": 306.6,
+        "poi_count": 8,
+        "ped_count": 46,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "restaurant": 7,
+          "shop": 1
+        },
+        "nearby_names": [
+          "Brasserie la Classe",
+          "ペッシェドーロ 横浜店",
+          "味散歩 横濱文明開館",
+          "銀座天國",
+          "Hard Rock Cafe"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624082,
+          35.461482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.461482,
+        "lon": 139.624082,
+        "hidden_score": 0.775,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 1.0,
+        "station_distance_m": 237.2,
+        "poi_count": 8,
+        "ped_count": 46,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 3
+        },
+        "nearby_names": [
+          "はなたれ",
+          "La Cocorico",
+          "Kamoshika",
+          "味蕾亭",
+          "サバーイ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.615082,
+          35.462482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.462482,
+        "lon": 139.615082,
+        "hidden_score": 0.772,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.865,
+        "station_distance_score": 1.0,
+        "station_distance_m": 333.4,
+        "poi_count": 11,
+        "ped_count": 34,
+        "city": "Yokohama",
+        "nearest_station": "平沼橋",
+        "poi_breakdown": {
+          "shop": 6,
+          "cafe": 1,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "Bisbee",
+          "スリーエフ",
+          "ねこっ茶 横浜西口店",
+          "ローソン",
+          "CoCo壱番屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.608082,
+          35.456482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.456482,
+        "lon": 139.608082,
+        "hidden_score": 0.771,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 357.0,
+        "poi_count": 13,
+        "ped_count": 29,
+        "city": "Yokohama",
+        "nearest_station": "西横浜",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "英和自動車販売",
+          "れすとらん",
+          "城（やきとり・今川焼き)",
+          "リサイクル7"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.621082,
+        "hidden_score": 0.771,
+        "poi_density": 0.89,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 0.2,
+        "station_distance_m": 74.9,
+        "poi_count": 49,
+        "ped_count": 46,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 6,
+          "shop": 24,
+          "restaurant": 18,
+          "park": 1
+        },
+        "nearby_names": [
+          "kawara cafe&dining",
+          "青山フラワーマーケット",
+          "ABCマート",
+          "ブランド楽市",
+          "Miami Garden"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619082,
+          35.469482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.469482,
+        "lon": 139.619082,
+        "hidden_score": 0.771,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 446.8,
+        "poi_count": 13,
+        "ped_count": 29,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "ジョナサン",
+          "ファミリーマート",
+          "サンスイ 横浜店",
+          "東天閣",
+          "little cat"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631082,
+          35.450482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.450482,
+        "lon": 139.631082,
+        "hidden_score": 0.769,
+        "poi_density": 0.822,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 58.7,
+        "poi_count": 36,
+        "ped_count": 90,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "cafe": 10,
+          "restaurant": 8,
+          "shop": 18
+        },
+        "nearby_names": [
+          "Bubby's",
+          "Bubby's",
+          "セブン-イレブン",
+          "ダイソー",
+          "カフェ・ド・クリエ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619082,
+          35.460482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.460482,
+        "lon": 139.619082,
+        "hidden_score": 0.769,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 264.2,
+        "poi_count": 11,
+        "ped_count": 33,
+        "city": "Yokohama",
+        "nearest_station": "平沼橋",
+        "poi_breakdown": {
+          "shop": 4,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ローソン",
+          "そば/天ぷら 角平",
+          "まいばすけっと",
+          "ほ志精肉店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.614082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.614082,
+        "hidden_score": 0.769,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 471.2,
+        "poi_count": 11,
+        "ped_count": 33,
+        "city": "Yokohama",
+        "nearest_station": "平沼橋",
+        "poi_breakdown": {
+          "shop": 5,
+          "cafe": 2,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "スリーエフ",
+          "ファミリーマート",
+          "ねこっ茶 横浜西口店",
+          "CoCo壱番屋",
+          "GUN&MILITARY ECHIGOYA"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.626082,
+        "hidden_score": 0.768,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 178.9,
+        "poi_count": 7,
+        "ped_count": 48,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "cafe": 2,
+          "shop": 3,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "スターバックス",
+          "PRONTO",
+          "天賞堂",
+          "ファミリーマート",
+          "せんざん本店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627082,
+          35.469482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.469482,
+        "lon": 139.627082,
+        "hidden_score": 0.768,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 230.7,
+        "poi_count": 17,
+        "ped_count": 22,
+        "city": "Yokohama",
+        "nearest_station": "神奈川",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "cafe": 1,
+          "shop": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "萬珍菜館",
+          "樹林",
+          "ファミリーマート",
+          "エビン",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.617082,
+        "hidden_score": 0.764,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.716,
+        "station_distance_score": 1.0,
+        "station_distance_m": 444.1,
+        "poi_count": 20,
+        "ped_count": 18,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 11,
+          "cafe": 1,
+          "park": 3
+        },
+        "nearby_names": [
+          "ジョナサン",
+          "ファミリーマート",
+          "FEI ART MUSEUM YOKOHAMA",
+          "CoCo壱番屋",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628082,
+          35.469482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.469482,
+        "lon": 139.628082,
+        "hidden_score": 0.764,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 232.9,
+        "poi_count": 12,
+        "ped_count": 29,
+        "city": "Yokohama",
+        "nearest_station": "神奈川",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "サンオリーブ",
+          "和服 京都嫩草苑",
+          "萬珍菜館",
+          "ファミリーマート",
+          "味奈登庵"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629082,
+          35.460482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.460482,
+        "lon": 139.629082,
+        "hidden_score": 0.762,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 1.0,
+        "station_distance_m": 274.1,
+        "poi_count": 7,
+        "ped_count": 45,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "shop": 3,
+          "restaurant": 2,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ガスト",
+          "スターバックス",
+          "バーミヤン",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628082,
+          35.466482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.466482,
+        "lon": 139.628082,
+        "hidden_score": 0.761,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 443.6,
+        "poi_count": 13,
+        "ped_count": 26,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 2,
+          "restaurant": 3,
+          "shop": 8
+        },
+        "nearby_names": [
+          "Urth Cafe",
+          "スターバックス",
+          "KIRIN CITY+",
+          "カルディコーヒーファーム",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.628082,
+        "hidden_score": 0.761,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 342.3,
+        "poi_count": 10,
+        "ped_count": 33,
+        "city": "Yokohama",
+        "nearest_station": "神奈川",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "大きい靴専門店 ガリバーシューズ",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "asti ritme"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633082,
+          35.480482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.480482,
+        "lon": 139.633082,
+        "hidden_score": 0.761,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.819,
+        "station_distance_score": 1.0,
+        "station_distance_m": 283.2,
+        "poi_count": 12,
+        "ped_count": 28,
+        "city": "Yokohama",
+        "nearest_station": "東神奈川",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 3,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "イオン",
+          "ローソンストア100西神奈川店",
+          "セブン-イレブン",
+          "ガスト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629082,
+          35.450482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.450482,
+        "lon": 139.629082,
+        "hidden_score": 0.76,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 181.3,
+        "poi_count": 18,
+        "ped_count": 19,
+        "city": "Yokohama",
+        "nearest_station": "桜木町",
+        "poi_breakdown": {
+          "restaurant": 7,
+          "shop": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "阿里山",
+          "ローソンストア100",
+          "Petit",
+          "横浜チケットサービス",
+          "野口サイクル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627082,
+          35.460482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.460482,
+        "lon": 139.627082,
+        "hidden_score": 0.76,
+        "poi_density": 0.443,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 166.9,
+        "poi_count": 6,
+        "ped_count": 50,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "cafe": 2,
+          "shop": 3,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ファミリーマート",
+          "タリーズコーヒー",
+          "セブン-イレブン",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.606082,
+          35.455482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.455482,
+        "lon": 139.606082,
+        "hidden_score": 0.758,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 326.7,
+        "poi_count": 10,
+        "ped_count": 32,
+        "city": "Yokohama",
+        "nearest_station": "西横浜",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "リサイクル7",
+          "ウエダ・ヨウコ美容室",
+          "寺尾塗料",
+          "天王町質店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.627082,
+        "hidden_score": 0.757,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 340.8,
+        "poi_count": 13,
+        "ped_count": 25,
+        "city": "Yokohama",
+        "nearest_station": "神奈川",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "ローソン",
+          "asti ritme",
+          "ビストロボンノ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632082,
+          35.461482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.461482,
+        "lon": 139.632082,
+        "hidden_score": 0.754,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 477.5,
+        "poi_count": 8,
+        "ped_count": 37,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "土屋鞄製造所",
+          "X-GOLF倶楽部",
+          "hair rough",
+          "glam: universal works",
+          "葉山庵"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628082,
+          35.457482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.457482,
+        "lon": 139.628082,
+        "hidden_score": 0.752,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 397.4,
+        "poi_count": 10,
+        "ped_count": 30,
+        "city": "Yokohama",
+        "nearest_station": "高島町",
+        "poi_breakdown": {
+          "shop": 8,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ニトリ",
+          "AOKI",
+          "Porsche Center Minatomirai Pre-owned Car Center",
+          "MINI みなとみらい",
+          "Minato-Mirai BMW"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632082,
+          35.459482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.459482,
+        "lon": 139.632082,
+        "hidden_score": 0.752,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 259.5,
+        "poi_count": 10,
+        "ped_count": 30,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "shop": 3,
+          "cafe": 3,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "PRONTO",
+          "阿里城",
+          "Tullys",
+          "大戸屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.460482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.460482,
+        "lon": 139.630082,
+        "hidden_score": 0.751,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 1.0,
+        "station_distance_m": 351.3,
+        "poi_count": 7,
+        "ped_count": 40,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "shop": 3,
+          "restaurant": 2,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ナチュラルローソン",
+          "ガスト",
+          "スターバックス",
+          "バーミヤン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627082,
+          35.458482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.458482,
+        "lon": 139.627082,
+        "hidden_score": 0.75,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 292.0,
+        "poi_count": 11,
+        "ped_count": 27,
+        "city": "Yokohama",
+        "nearest_station": "高島町",
+        "poi_breakdown": {
+          "shop": 9,
+          "cafe": 1,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "ニトリ",
+          "Porsche Center Minatomirai Pre-owned Car Center",
+          "Minato-Mirai BMW",
+          "タリーズコーヒー",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624082,
+          35.469482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.469482,
+        "lon": 139.624082,
+        "hidden_score": 0.75,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 373.0,
+        "poi_count": 11,
+        "ped_count": 27,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "restaurant": 4,
+          "shop": 5,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "料亭 田中家",
+          "麺場 浜虎",
+          "本丸亭 鶴屋町店",
+          "CIAL横浜ANNEX",
+          "文化堂 シァル横浜アネックス店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.464482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.464482,
+        "lon": 139.630082,
+        "hidden_score": 0.748,
+        "poi_density": 0.443,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 1.0,
+        "station_distance_m": 420.8,
+        "poi_count": 6,
+        "ped_count": 44,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "restaurant": 2,
+          "shop": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "Ocean Milano",
+          "K-ARENA SHOP",
+          "ローソン",
+          "Parade",
+          "高島水際線公園"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.625082,
+          35.469482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.469482,
+        "lon": 139.625082,
+        "hidden_score": 0.747,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 1.0,
+        "station_distance_m": 316.9,
+        "poi_count": 14,
+        "ped_count": 21,
+        "city": "Yokohama",
+        "nearest_station": "神奈川",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 4,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "しもじま",
+          "本丸亭 鶴屋町店",
+          "ローソン",
+          "12. cafe",
+          "ビストロボンノ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626082,
+          35.470482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.470482,
+        "lon": 139.626082,
+        "hidden_score": 0.747,
+        "poi_density": 0.524,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 174.5,
+        "poi_count": 9,
+        "ped_count": 31,
+        "city": "Yokohama",
+        "nearest_station": "神奈川",
+        "poi_breakdown": {
+          "shop": 5,
+          "restaurant": 3,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "しもじま",
+          "萬珍菜館",
+          "樹林",
+          "武田印房",
+          "エビン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626082,
+          35.468482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.468482,
+        "lon": 139.626082,
+        "hidden_score": 0.744,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 362.7,
+        "poi_count": 15,
+        "ped_count": 19,
+        "city": "Yokohama",
+        "nearest_station": "神奈川",
+        "poi_breakdown": {
+          "shop": 8,
+          "cafe": 2,
+          "restaurant": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ローソン",
+          "12. cafe",
+          "asti ritme",
+          "ビストロボンノ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630082,
+          35.454482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.454482,
+        "lon": 139.630082,
+        "hidden_score": 0.743,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 395.2,
+        "poi_count": 7,
+        "ped_count": 37,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 6
+        },
+        "nearby_names": [
+          "スターバックス",
+          "成城石井",
+          "H&M",
+          "Spingle Move",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.637082,
+          35.454482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.454482,
+        "lon": 139.637082,
+        "hidden_score": 0.743,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 490.7,
+        "poi_count": 12,
+        "ped_count": 23,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "restaurant": 4,
+          "shop": 4,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "PORTICELLO",
+          "BUYCHARI",
+          "タリーズコーヒー",
+          "Francfrancfranc",
+          "L.A.S.T"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627082,
+          35.459482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.459482,
+        "lon": 139.627082,
+        "hidden_score": 0.743,
+        "poi_density": 0.443,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 276.1,
+        "poi_count": 6,
+        "ped_count": 42,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 3,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "タリーズコーヒー",
+          "セブン-イレブン",
+          "Merengue",
+          "セブン-イレブン",
+          "香露庵"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621082,
+          35.463482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.463482,
+        "lon": 139.621082,
+        "hidden_score": 0.742,
+        "poi_density": 0.732,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 0.7,
+        "station_distance_m": 112.8,
+        "poi_count": 24,
+        "ped_count": 23,
+        "city": "Yokohama",
+        "nearest_station": "横浜",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 11,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "kawara cafe&dining",
+          "青山フラワーマーケット",
+          "ヨドバシカメラ",
+          "マツヤ",
+          "スマステ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629082,
+          35.470482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.470482,
+        "lon": 139.629082,
+        "hidden_score": 0.739,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 183.0,
+        "poi_count": 11,
+        "ped_count": 24,
+        "city": "Yokohama",
+        "nearest_station": "神奈川",
+        "poi_breakdown": {
+          "restaurant": 3,
+          "shop": 7,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "サンオリーブ",
+          "小西商店",
+          "和服 京都嫩草苑",
+          "萬珍菜館",
+          "マルシェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.635082,
+          35.476482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.476482,
+        "lon": 139.635082,
+        "hidden_score": 0.737,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 0.7,
+        "station_distance_m": 99.9,
+        "poi_count": 11,
+        "ped_count": 44,
+        "city": "Yokohama",
+        "nearest_station": "京急東神奈川",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "中華料理 吉田大飯店",
+          "ガリバー",
+          "ユニホームのフジサキ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623082,
+          35.461482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.461482,
+        "lon": 139.623082,
+        "hidden_score": 0.735,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 326.3,
+        "poi_count": 11,
+        "ped_count": 23,
+        "city": "Yokohama",
+        "nearest_station": "新高島",
+        "poi_breakdown": {
+          "restaurant": 4,
+          "shop": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "はなたれ",
+          "La Cocorico",
+          "Kamoshika",
+          "文化堂",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629082,
+          35.456482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.456482,
+        "lon": 139.629082,
+        "hidden_score": 0.734,
+        "poi_density": 0.443,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 350.9,
+        "poi_count": 6,
+        "ped_count": 38,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "shop": 2,
+          "restaurant": 1,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "MINI みなとみらい",
+          "Minato-Mirai BMW",
+          "ドトールコーヒーショップ",
+          "The Blue Bell",
+          "タリーズみなとみらい東急スクエア1店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633082,
+          35.459482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.459482,
+        "lon": 139.633082,
+        "hidden_score": 0.734,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 251.0,
+        "poi_count": 8,
+        "ped_count": 30,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "shop": 1,
+          "restaurant": 4,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "阿里城",
+          "Tullys",
+          "大戸屋",
+          "三間堂"
+        ]
+      }
+    }
+  ]
+}

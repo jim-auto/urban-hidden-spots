@@ -1,0 +1,5450 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.696686,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 217.1,
+        "poi_count": 109,
+        "ped_count": 61,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 39,
+          "restaurant": 61,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "LABI",
+          "サイゼリヤ",
+          "PRONTO",
+          "番番"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.701686,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 171.4,
+        "poi_count": 93,
+        "ped_count": 147,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 53,
+          "restaurant": 31,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ヨドバシカメラ",
+          "大戸屋",
+          "Ginza Lion",
+          "SHINSEIDO",
+          "Lumine 2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.703686,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 158.9,
+        "poi_count": 102,
+        "ped_count": 164,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 58,
+          "cafe": 12,
+          "restaurant": 32
+        },
+        "nearby_names": [
+          "Isetan Men's",
+          "Barney's New York",
+          "ファミリーマート",
+          "カフェ・ド・クリエ",
+          "ABCマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699686,
+          35.694586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.694586,
+        "lon": 139.699686,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 167.7,
+        "poi_count": 106,
+        "ped_count": 65,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "cafe": 9,
+          "shop": 24,
+          "restaurant": 73
+        },
+        "nearby_names": [
+          "ドトールコーヒーショップ",
+          "デイリーヤマザキ",
+          "すずや",
+          "エクセルシオール カフェ",
+          "シティーク"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.697686,
+        "hidden_score": 0.993,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 1.0,
+        "station_distance_m": 169.7,
+        "poi_count": 123,
+        "ped_count": 56,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 52,
+          "restaurant": 63,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "ソフマップ",
+          "LABI",
+          "サイゼリヤ",
+          "PRONTO",
+          "番番"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.702686,
+        "hidden_score": 0.992,
+        "poi_density": 0.979,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 155.0,
+        "poi_count": 73,
+        "ped_count": 87,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "restaurant": 23,
+          "shop": 42,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "大戸屋",
+          "L-Breath",
+          "ドコモショップ",
+          "扇寿司",
+          "Segafredo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.704686,
+        "hidden_score": 0.984,
+        "poi_density": 0.96,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 163.6,
+        "poi_count": 67,
+        "ped_count": 92,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 33,
+          "restaurant": 24,
+          "cafe": 10
+        },
+        "nearby_names": [
+          "Isetan Men's",
+          "ローソン",
+          "無印良品",
+          "ローソン",
+          "すごい煮干ラーメン凪"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.703686,
+        "hidden_score": 0.981,
+        "poi_density": 0.953,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 160.5,
+        "poi_count": 65,
+        "ped_count": 65,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "restaurant": 19,
+          "shop": 38,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "大戸屋",
+          "ディスクユニオン",
+          "ドコモショップ",
+          "らんぶる",
+          "L-Breath"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.697686,
+        "hidden_score": 0.973,
+        "poi_density": 0.976,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 152.3,
+        "poi_count": 72,
+        "ped_count": 50,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 30,
+          "cafe": 9,
+          "restaurant": 32,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ソフマップ",
+          "LABI",
+          "PRONTO",
+          "番番"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.705686,
+        "hidden_score": 0.97,
+        "poi_density": 0.924,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 211.1,
+        "poi_count": 57,
+        "ped_count": 69,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 29,
+          "restaurant": 20,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "Isetan Men's",
+          "ローソン",
+          "ローソン",
+          "esogie",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698686,
+          35.694586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.694586,
+        "lon": 139.698686,
+        "hidden_score": 0.966,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 167.2,
+        "poi_count": 108,
+        "ped_count": 42,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "shop": 26,
+          "cafe": 10,
+          "restaurant": 71,
+          "park": 1
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "エクセルシオール カフェ",
+          "シティーク",
+          "セブン-イレブン",
+          "ルノアール"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.696686,
+        "hidden_score": 0.958,
+        "poi_density": 0.903,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 1.0,
+        "station_distance_m": 232.4,
+        "poi_count": 52,
+        "ped_count": 58,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 21,
+          "cafe": 7,
+          "restaurant": 23,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "PRONTO",
+          "カフェ・ド・クリエ",
+          "スターバックス",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.695686,
+        "hidden_score": 0.958,
+        "poi_density": 0.895,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 307.0,
+        "poi_count": 50,
+        "ped_count": 63,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 19,
+          "cafe": 7,
+          "restaurant": 24
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "カフェ・ド・クリエ",
+          "鶏と麺と",
+          "THE SUIT COMPANY",
+          "ウィルコムプラザ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.706686,
+        "hidden_score": 0.944,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 224.1,
+        "poi_count": 47,
+        "ped_count": 55,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 19,
+          "cafe": 9,
+          "restaurant": 19
+        },
+        "nearby_names": [
+          "ローソン",
+          "ローソン",
+          "ルノアール",
+          "セブン-イレブン",
+          "esogie"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.697686,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 127.8,
+        "poi_count": 125,
+        "ped_count": 77,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 53,
+          "restaurant": 63,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ソフマップ",
+          "LABI",
+          "サイゼリヤ",
+          "PRONTO",
+          "番番"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.702686,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 144.0,
+        "poi_count": 129,
+        "ped_count": 124,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 83,
+          "restaurant": 34,
+          "cafe": 12
+        },
+        "nearby_names": [
+          "ヨドバシカメラ",
+          "大戸屋",
+          "Ginza Lion",
+          "青山フラワーマーケット",
+          "サンドラッグ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.702686,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 134.3,
+        "poi_count": 144,
+        "ped_count": 179,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 90,
+          "restaurant": 39,
+          "cafe": 15
+        },
+        "nearby_names": [
+          "ヨドバシカメラ",
+          "Barney's New York",
+          "ビックカメラ",
+          "大戸屋",
+          "Ginza Lion"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.705686,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 121.2,
+        "poi_count": 94,
+        "ped_count": 131,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 41,
+          "restaurant": 37,
+          "cafe": 16
+        },
+        "nearby_names": [
+          "Isetan Men's",
+          "ローソン",
+          "ファミリーマート",
+          "esogie",
+          "auショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.706686,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 116.1,
+        "poi_count": 85,
+        "ped_count": 82,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 36,
+          "cafe": 13,
+          "restaurant": 36
+        },
+        "nearby_names": [
+          "ローソン",
+          "ルノアール",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "esogie"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.704686,
+        "hidden_score": 0.938,
+        "poi_density": 0.845,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 271.1,
+        "poi_count": 40,
+        "ped_count": 80,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 20,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "Isetan Men's",
+          "ローソン",
+          "ローソン",
+          "すごい煮干ラーメン凪",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.695686,
+        "hidden_score": 0.937,
+        "poi_density": 0.895,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 283.1,
+        "poi_count": 50,
+        "ped_count": 48,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 25,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "たちばな書店",
+          "とく一",
+          "段々屋",
+          "セブン-イレブン",
+          "ねぎし"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.696686,
+        "hidden_score": 0.937,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 245.3,
+        "poi_count": 103,
+        "ped_count": 31,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 39,
+          "restaurant": 56,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "LABI",
+          "サイゼリヤ",
+          "番番",
+          "ルノアール",
+          "チェゴヤ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.707686,
+        "hidden_score": 0.935,
+        "poi_density": 0.895,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 1.0,
+        "station_distance_m": 171.2,
+        "poi_count": 50,
+        "ped_count": 47,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 23,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "世界堂",
+          "セブン-イレブン",
+          "ココロ カフェ",
+          "トモズ",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.697686,
+        "hidden_score": 0.932,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 0.7,
+        "station_distance_m": 143.5,
+        "poi_count": 82,
+        "ped_count": 55,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "shop": 21,
+          "restaurant": 51,
+          "cafe": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "サンドラッグ",
+          "デイリーヤマザキ",
+          "ファミリーマート",
+          "ビックカメラ",
+          "シティーク"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.702686,
+        "hidden_score": 0.931,
+        "poi_density": 0.828,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 158.5,
+        "poi_count": 37,
+        "ped_count": 68,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 22,
+          "cafe": 6,
+          "restaurant": 8,
+          "park": 1
+        },
+        "nearby_names": [
+          "高島屋",
+          "セブン-イレブン",
+          "L-Breath",
+          "エイチ・アイ・エス",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.696686,
+        "hidden_score": 0.929,
+        "poi_density": 0.876,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 218.9,
+        "poi_count": 46,
+        "ped_count": 48,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "restaurant": 17,
+          "shop": 23,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "ねぎし",
+          "auショップ",
+          "不二家",
+          "ナチュラルローソン",
+          "PRONTO"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.695686,
+        "hidden_score": 0.926,
+        "poi_density": 0.815,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 318.0,
+        "poi_count": 35,
+        "ped_count": 70,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 17,
+          "cafe": 7,
+          "restaurant": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ミニストップ",
+          "カフェ・ド・クリエ",
+          "アクセア",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.694586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.694586,
+        "lon": 139.697686,
+        "hidden_score": 0.917,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 210.0,
+        "poi_count": 113,
+        "ped_count": 25,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "shop": 29,
+          "cafe": 7,
+          "restaurant": 76,
+          "park": 1
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "エクセルシオール カフェ",
+          "ラーメン凪 炎のつけめん",
+          "シティーク",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.707686,
+        "hidden_score": 0.916,
+        "poi_density": 0.834,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 169.1,
+        "poi_count": 38,
+        "ped_count": 50,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "cafe": 7,
+          "shop": 16,
+          "restaurant": 15
+        },
+        "nearby_names": [
+          "ルノアール",
+          "セブン-イレブン",
+          "ココロ カフェ",
+          "esogie",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.707686,
+        "hidden_score": 0.911,
+        "poi_density": 0.928,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 128.8,
+        "poi_count": 58,
+        "ped_count": 67,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "cafe": 11,
+          "shop": 24,
+          "restaurant": 23
+        },
+        "nearby_names": [
+          "ルノアール",
+          "世界堂",
+          "セブン-イレブン",
+          "ココロ カフェ",
+          "トモズ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.706686,
+        "hidden_score": 0.908,
+        "poi_density": 0.92,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 119.2,
+        "poi_count": 56,
+        "ped_count": 65,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 26,
+          "cafe": 12,
+          "restaurant": 18
+        },
+        "nearby_names": [
+          "世界堂",
+          "セブン-イレブン",
+          "トモズ",
+          "スターバックス",
+          "Curry 草枕"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.708686,
+        "hidden_score": 0.903,
+        "poi_density": 0.866,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 217.0,
+        "poi_count": 44,
+        "ped_count": 38,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 18,
+          "cafe": 8,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ココロ カフェ",
+          "トモズ",
+          "スターバックス",
+          "Curry 草枕"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.697686,
+        "hidden_score": 0.903,
+        "poi_density": 0.908,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 128.6,
+        "poi_count": 53,
+        "ped_count": 88,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 27,
+          "cafe": 4,
+          "restaurant": 22
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "不二家",
+          "ナチュラルローソン",
+          "PRONTO",
+          "inton"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700686,
+          35.695586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.695586,
+        "lon": 139.700686,
+        "hidden_score": 0.903,
+        "poi_density": 0.946,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 0.7,
+        "station_distance_m": 83.0,
+        "poi_count": 63,
+        "ped_count": 51,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "restaurant": 36,
+          "shop": 20,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "国産牛焼肉ふうふう亭JAPAN",
+          "Italian Tomato Cafe Jr.",
+          "セブン-イレブン",
+          "サンマルクカフェ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.698686,
+        "hidden_score": 0.898,
+        "poi_density": 0.895,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 93.2,
+        "poi_count": 50,
+        "ped_count": 64,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 25,
+          "cafe": 9,
+          "restaurant": 16
+        },
+        "nearby_names": [
+          "ソフマップ",
+          "LABI",
+          "スターバックス",
+          "PRONTO",
+          "カフェ・ド・クリエ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.701686,
+        "hidden_score": 0.898,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 1.0,
+        "station_distance_m": 180.6,
+        "poi_count": 33,
+        "ped_count": 47,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 18,
+          "cafe": 5,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "高島屋",
+          "スターバックス",
+          "エイチ・アイ・エス",
+          "Sports Lab",
+          "サンマルクカフェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.696686,
+        "hidden_score": 0.898,
+        "poi_density": 0.866,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 230.3,
+        "poi_count": 44,
+        "ped_count": 36,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 25,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ラーメン凪 炎のつけめん",
+          "ナラビ",
+          "木場",
+          "ナチュラルローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.705686,
+        "hidden_score": 0.894,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 1.0,
+        "station_distance_m": 302.2,
+        "poi_count": 33,
+        "ped_count": 45,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 18,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ローソン",
+          "新宿眼科画廊",
+          "ローソン",
+          "すごい煮干ラーメン凪",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.705686,
+        "hidden_score": 0.892,
+        "poi_density": 0.881,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 124.1,
+        "poi_count": 47,
+        "ped_count": 73,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 26,
+          "cafe": 11,
+          "restaurant": 10
+        },
+        "nearby_names": [
+          "世界堂",
+          "トモズ",
+          "ファミリーマート",
+          "auショップ",
+          "ソフトバンクショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.700686,
+        "hidden_score": 0.891,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 164.8,
+        "poi_count": 30,
+        "ped_count": 48,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 13,
+          "cafe": 5,
+          "restaurant": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "高島屋",
+          "スターバックス",
+          "ファミリーマート",
+          "ダイコクドラッグ",
+          "モンベル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.695686,
+        "hidden_score": 0.89,
+        "poi_density": 0.839,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 279.9,
+        "poi_count": 39,
+        "ped_count": 37,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 18,
+          "restaurant": 13,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "ラーメン凪 炎のつけめん",
+          "木場",
+          "ナチュラルローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.708686,
+        "hidden_score": 0.889,
+        "poi_density": 0.845,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 219.1,
+        "poi_count": 40,
+        "ped_count": 36,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "cafe": 6,
+          "restaurant": 17,
+          "shop": 16,
+          "park": 1
+        },
+        "nearby_names": [
+          "ルノアール",
+          "ココロ カフェ",
+          "ファミリーマート",
+          "Yakiniku Kobeya",
+          "チョウジヤ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.696686,
+        "hidden_score": 0.889,
+        "poi_density": 0.723,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 233.0,
+        "poi_count": 23,
+        "ped_count": 65,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 7,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "スターバックス",
+          "セブン-イレブン",
+          "ブックファースト",
+          "エクセルシオール カフェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.695586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.695586,
+        "lon": 139.697686,
+        "hidden_score": 0.887,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.716,
+        "station_distance_score": 1.0,
+        "station_distance_m": 216.9,
+        "poi_count": 109,
+        "ped_count": 18,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "shop": 32,
+          "cafe": 4,
+          "restaurant": 72,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "カクヤス",
+          "エクセルシオール カフェ",
+          "ソフトバンクショップ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.695686,
+        "hidden_score": 0.886,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.975,
+        "station_distance_score": 1.0,
+        "station_distance_m": 259.4,
+        "poi_count": 25,
+        "ped_count": 54,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "cafe": 7,
+          "shop": 12,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "エクセルシオール カフェ",
+          "auショップ",
+          "不二家",
+          "ナチュラルローソン",
+          "PRONTO"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.704686,
+        "hidden_score": 0.882,
+        "poi_density": 0.856,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 128.0,
+        "poi_count": 42,
+        "ped_count": 70,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 29,
+          "cafe": 9,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "ディスクユニオン",
+          "ドコモショップ",
+          "らんぶる",
+          "ソフトバンクショップ",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.701686,
+        "hidden_score": 0.88,
+        "poi_density": 0.851,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 82.5,
+        "poi_count": 41,
+        "ped_count": 97,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 22,
+          "cafe": 9,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "高島屋",
+          "スターバックス",
+          "セブン-イレブン",
+          "L-Breath",
+          "Sports Lab"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.694686,
+        "hidden_score": 0.88,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 197.2,
+        "poi_count": 35,
+        "ped_count": 37,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 18,
+          "cafe": 10,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "Kinko's",
+          "ナチュラルローソン",
+          "エフワン",
+          "キャンドゥ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693686,
+          35.694586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.694586,
+        "lon": 139.693686,
+        "hidden_score": 0.88,
+        "poi_density": 0.851,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 84.8,
+        "poi_count": 41,
+        "ped_count": 65,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 21,
+          "cafe": 9,
+          "restaurant": 11
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "Kinko's",
+          "ナチュラルローソン",
+          "エフワン",
+          "キャンドゥ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.699686,
+        "hidden_score": 0.878,
+        "poi_density": 0.845,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 109.1,
+        "poi_count": 40,
+        "ped_count": 197,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 27,
+          "restaurant": 9,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "サンドラッグ",
+          "MINAMI",
+          "ビッグチケット",
+          "アクセスチケット",
+          "シャニット"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.694686,
+        "hidden_score": 0.877,
+        "poi_density": 0.693,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 376.0,
+        "poi_count": 20,
+        "ped_count": 62,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 7,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "カフェ・ド・クリエ",
+          "アクセア",
+          "ドトールコーヒーショップ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.694586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.694586,
+        "lon": 139.694686,
+        "hidden_score": 0.877,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.865,
+        "station_distance_score": 1.0,
+        "station_distance_m": 174.2,
+        "poi_count": 37,
+        "ped_count": 34,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 18,
+          "restaurant": 13,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ラーメン凪 炎のつけめん",
+          "Kinko's",
+          "ナチュラルローソン",
+          "エフワン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.686586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.686586,
+        "lon": 139.696686,
+        "hidden_score": 0.876,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 1.0,
+        "station_distance_m": 292.5,
+        "poi_count": 30,
+        "ped_count": 41,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 14,
+          "cafe": 5,
+          "restaurant": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ミニストップ",
+          "カフェ・ド・クリエ",
+          "セブン-イレブン",
+          "Excelsior"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.697686,
+        "hidden_score": 0.876,
+        "poi_density": 0.839,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 147.8,
+        "poi_count": 39,
+        "ped_count": 102,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 14,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "サンドラッグ",
+          "デイリーヤマザキ",
+          "ファミリーマート",
+          "Tenkane Shinjuku Odakyu HALC",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.696586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.696586,
+        "lon": 139.697686,
+        "hidden_score": 0.875,
+        "poi_density": 0.946,
+        "pedestrian_space": 0.741,
+        "station_distance_score": 1.0,
+        "station_distance_m": 216.7,
+        "poi_count": 63,
+        "ped_count": 20,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 43,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "カクヤス",
+          "ソフトバンクショップ",
+          "So-ALL",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.708686,
+        "hidden_score": 0.872,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 185.4,
+        "poi_count": 31,
+        "ped_count": 38,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "shop": 13,
+          "restaurant": 13,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "Curry 草枕",
+          "100円ショップ",
+          "ファミリーマート",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.686586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.686586,
+        "lon": 139.695686,
+        "hidden_score": 0.868,
+        "poi_density": 0.75,
+        "pedestrian_space": 0.921,
+        "station_distance_score": 1.0,
+        "station_distance_m": 364.3,
+        "poi_count": 26,
+        "ped_count": 43,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 6,
+          "restaurant": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ミニストップ",
+          "カフェ・ド・クリエ",
+          "アクセア",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.693686,
+        "hidden_score": 0.864,
+        "poi_density": 0.809,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 125.4,
+        "poi_count": 34,
+        "ped_count": 67,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 17,
+          "cafe": 8,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "Kinko's",
+          "ナチュラルローソン",
+          "エフワン",
+          "キャンドゥ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698686,
+          35.695586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.695586,
+        "lon": 139.698686,
+        "hidden_score": 0.861,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 0.7,
+        "station_distance_m": 131.8,
+        "poi_count": 90,
+        "ped_count": 26,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "shop": 26,
+          "cafe": 4,
+          "restaurant": 59,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "エクセルシオール カフェ",
+          "ソフトバンクショップ",
+          "セブン-イレブン",
+          "ルノアール"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691686,
+          35.695586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.695586,
+        "lon": 139.691686,
+        "hidden_score": 0.855,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.872,
+        "station_distance_score": 1.0,
+        "station_distance_m": 161.3,
+        "poi_count": 28,
+        "ped_count": 35,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 4,
+          "restaurant": 12,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "BBB",
+          "ジョナサン",
+          "ターリー家"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693686,
+          35.686586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.686586,
+        "lon": 139.693686,
+        "hidden_score": 0.854,
+        "poi_density": 0.703,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 1.0,
+        "station_distance_m": 453.9,
+        "poi_count": 21,
+        "ped_count": 45,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 5,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "アクセア",
+          "ドトールコーヒーショップ",
+          "POTPHAR",
+          "セブン-イレブン",
+          "Excelsior"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.707686,
+        "hidden_score": 0.853,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 258.4,
+        "poi_count": 31,
+        "ped_count": 31,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 6,
+          "restaurant": 13
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "トモズ",
+          "スターバックス",
+          "Curry 草枕",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.697686,
+        "hidden_score": 0.852,
+        "poi_density": 0.631,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 170.3,
+        "poi_count": 15,
+        "ped_count": 93,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "restaurant": 2,
+          "cafe": 4,
+          "shop": 9
+        },
+        "nearby_names": [
+          "Tenkane Shinjuku Odakyu HALC",
+          "スターバックス",
+          "セブン-イレブン",
+          "ビックカメラ",
+          "ブックファースト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.699686,
+        "hidden_score": 0.85,
+        "poi_density": 0.774,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 102.5,
+        "poi_count": 29,
+        "ped_count": 60,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "cafe": 7,
+          "restaurant": 10,
+          "shop": 12
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ファミリーマート",
+          "ローソン",
+          "ドトールコーヒーショップ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.686586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.686586,
+        "lon": 139.694686,
+        "hidden_score": 0.847,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 1.0,
+        "station_distance_m": 442.9,
+        "poi_count": 22,
+        "ped_count": 40,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 5,
+          "restaurant": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "ミニストップ",
+          "カフェ・ド・クリエ",
+          "アクセア",
+          "ドトールコーヒーショップ",
+          "POTPHAR"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.698686,
+        "hidden_score": 0.847,
+        "poi_density": 0.766,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 118.0,
+        "poi_count": 28,
+        "ped_count": 140,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 9,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "サンドラッグ",
+          "MINAMI",
+          "ビッグチケット",
+          "アクセスチケット",
+          "Tenkane Shinjuku Odakyu HALC"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701686,
+          35.696586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.696586,
+        "lon": 139.701686,
+        "hidden_score": 0.847,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 161.4,
+        "poi_count": 30,
+        "ped_count": 30,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 17,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "daichi no megumi",
+          "Universal City",
+          "Hona Cafe ホナカフェ 新宿シネシティ広場店",
+          "つり具の上州屋 新宿店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.709686,
+        "hidden_score": 0.844,
+        "poi_density": 0.732,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 243.2,
+        "poi_count": 24,
+        "ped_count": 36,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "shop": 13,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "ココロ カフェ",
+          "Yakiniku Kobeya",
+          "チョウジヤ",
+          "やよい軒",
+          "ワンダフル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.695686,
+        "hidden_score": 0.843,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 321.0,
+        "poi_count": 20,
+        "ped_count": 42,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 8,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "ドトールコーヒーショップ",
+          "愛美堂",
+          "エクセルシオール カフェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.703686,
+        "hidden_score": 0.84,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 77.2,
+        "poi_count": 113,
+        "ped_count": 119,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "restaurant": 28,
+          "shop": 71,
+          "cafe": 14
+        },
+        "nearby_names": [
+          "大戸屋",
+          "Ginza Lion",
+          "青山フラワーマーケット",
+          "マツモトキヨシ",
+          "星乃珈琲店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.704686,
+        "hidden_score": 0.84,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 17.9,
+        "poi_count": 121,
+        "ped_count": 129,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 73,
+          "cafe": 15,
+          "restaurant": 33
+        },
+        "nearby_names": [
+          "青山フラワーマーケット",
+          "無印良品",
+          "ディスクユニオン",
+          "ドコモショップ",
+          "らんぶる"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.705686,
+        "hidden_score": 0.84,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 51.8,
+        "poi_count": 89,
+        "ped_count": 119,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 43,
+          "cafe": 14,
+          "restaurant": 32
+        },
+        "nearby_names": [
+          "世界堂",
+          "ディスクユニオン",
+          "ドコモショップ",
+          "らんぶる",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.706686,
+        "hidden_score": 0.84,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 38.6,
+        "poi_count": 91,
+        "ped_count": 86,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "cafe": 17,
+          "shop": 38,
+          "restaurant": 36
+        },
+        "nearby_names": [
+          "ルノアール",
+          "世界堂",
+          "トモズ",
+          "スターバックス",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.703686,
+        "hidden_score": 0.84,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 56.9,
+        "poi_count": 122,
+        "ped_count": 126,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 80,
+          "restaurant": 26,
+          "cafe": 16
+        },
+        "nearby_names": [
+          "Isetan Men's",
+          "Barney's New York",
+          "大戸屋",
+          "Ginza Lion",
+          "青山フラワーマーケット"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.704686,
+        "hidden_score": 0.84,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 68.9,
+        "poi_count": 117,
+        "ped_count": 126,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 59,
+          "cafe": 19,
+          "restaurant": 39
+        },
+        "nearby_names": [
+          "Isetan Men's",
+          "ローソン",
+          "青山フラワーマーケット",
+          "マツモトキヨシ",
+          "星乃珈琲店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.698686,
+        "hidden_score": 0.84,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 66.8,
+        "poi_count": 107,
+        "ped_count": 77,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "restaurant": 67,
+          "shop": 32,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "CoCo壱番屋",
+          "サンドラッグ",
+          "デイリーヤマザキ",
+          "MINAMI",
+          "ビッグチケット"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.703686,
+        "hidden_score": 0.839,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 244.4,
+        "poi_count": 19,
+        "ped_count": 42,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 4,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "L-Breath",
+          "つけ麺 五ノ神製麺所",
+          "エイチ・アイ・エス",
+          "Sports Lab"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.694586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.694586,
+        "lon": 139.695686,
+        "hidden_score": 0.836,
+        "poi_density": 0.861,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 264.2,
+        "poi_count": 43,
+        "ped_count": 19,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 24,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ラーメン凪 炎のつけめん",
+          "ファミリーマート",
+          "タイ国屋台食道",
+          "ナラビ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.697586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.697586,
+        "lon": 139.697686,
+        "hidden_score": 0.836,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 267.6,
+        "poi_count": 37,
+        "ped_count": 22,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 24,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ラーメン七福屋",
+          "Niimura Shabu Shabu",
+          "麺屋 翔",
+          "鍵と錠"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.693686,
+        "hidden_score": 0.835,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 344.9,
+        "poi_count": 15,
+        "ped_count": 50,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "cafe": 5,
+          "shop": 7,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "アクセア",
+          "ドトールコーヒーショップ",
+          "セブン-イレブン",
+          "やまや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704686,
+          35.695586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.695586,
+        "lon": 139.704686,
+        "hidden_score": 0.834,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 364.1,
+        "poi_count": 27,
+        "ped_count": 29,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "東新宿",
+        "poi_breakdown": {
+          "restaurant": 20,
+          "shop": 7
+        },
+        "nearby_names": [
+          "ハザード",
+          "ローソン",
+          "ローソン",
+          "セブン-イレブン",
+          "歌虎河豚亭"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.696686,
+        "hidden_score": 0.833,
+        "poi_density": 0.584,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 245.7,
+        "poi_count": 12,
+        "ped_count": 64,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "cafe": 5,
+          "shop": 5,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "スターバックス",
+          "セブン-イレブン",
+          "ブックファースト",
+          "ソフトバンクショップ",
+          "タリーズコーヒー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.692686,
+        "hidden_score": 0.833,
+        "poi_density": 0.732,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 94.2,
+        "poi_count": 24,
+        "ped_count": 66,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 6,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "Kinko's",
+          "成市果実店",
+          "BBB",
+          "ジョナサン",
+          "タリーズコーヒー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.694586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.694586,
+        "lon": 139.696686,
+        "hidden_score": 0.831,
+        "poi_density": 0.973,
+        "pedestrian_space": 0.604,
+        "station_distance_score": 1.0,
+        "station_distance_m": 276.7,
+        "poi_count": 71,
+        "ped_count": 11,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "restaurant": 48,
+          "cafe": 5,
+          "shop": 17,
+          "park": 1
+        },
+        "nearby_names": [
+          "ラーメン凪 炎のつけめん",
+          "ルノアール",
+          "キタムラ",
+          "So-ALL",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691686,
+          35.694586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.694586,
+        "lon": 139.691686,
+        "hidden_score": 0.83,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 0.7,
+        "station_distance_m": 99.1,
+        "poi_count": 25,
+        "ped_count": 56,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 5,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "BBB",
+          "ジョナサン",
+          "タリーズコーヒー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.694686,
+        "hidden_score": 0.828,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 268.6,
+        "poi_count": 20,
+        "ped_count": 36,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 9,
+          "cafe": 7,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "ナチュラルローソン",
+          "ドトールコーヒーショップ",
+          "愛美堂",
+          "HIS東日本ビザセンター",
+          "Strawbery Fields"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.702686,
+        "hidden_score": 0.827,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 225.7,
+        "poi_count": 28,
+        "ped_count": 26,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 8,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "高島屋",
+          "セブン-イレブン",
+          "つけ麺 五ノ神製麺所",
+          "エイチ・アイ・エス",
+          "Sports Lab"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.708686,
+        "hidden_score": 0.823,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 245.0,
+        "poi_count": 23,
+        "ped_count": 30,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 14,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "ルノアール",
+          "セブン-イレブン",
+          "ココロ カフェ",
+          "やよい軒",
+          "カフェ・ベローチェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690686,
+          35.695586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.695586,
+        "lon": 139.690686,
+        "hidden_score": 0.82,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 227.6,
+        "poi_count": 20,
+        "ped_count": 33,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 8,
+          "restaurant": 8,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "もとまちUNION",
+          "ナチュラルローソン",
+          "ファミリーマート",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699686,
+          35.695586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.695586,
+        "lon": 139.699686,
+        "hidden_score": 0.818,
+        "poi_density": 0.988,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 0.2,
+        "station_distance_m": 63.0,
+        "poi_count": 76,
+        "ped_count": 50,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "cafe": 7,
+          "shop": 22,
+          "restaurant": 47
+        },
+        "nearby_names": [
+          "エクセルシオール カフェ",
+          "セブン-イレブン",
+          "福しん",
+          "ココカラファイン",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.701586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.701586,
+        "lon": 139.695686,
+        "hidden_score": 0.818,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 172.6,
+        "poi_count": 35,
+        "ped_count": 19,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "大久保",
+        "poi_breakdown": {
+          "restaurant": 13,
+          "shop": 19,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "サイゼリヤ",
+          "ソフトバンクショップ",
+          "サンマルクカフェ",
+          "セブン-イレブン",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.697586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.697586,
+        "lon": 139.696686,
+        "hidden_score": 0.817,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 343.0,
+        "poi_count": 27,
+        "ped_count": 24,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 15,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "カクヤス",
+          "セブン-イレブン",
+          "ラーメン七福屋",
+          "麺屋 翔",
+          "鍵と錠"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.695686,
+        "hidden_score": 0.816,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 281.4,
+        "poi_count": 12,
+        "ped_count": 50,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "shop": 6,
+          "cafe": 5,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ブックファースト",
+          "ソフトバンクショップ",
+          "タリーズコーヒー",
+          "タリーズコーヒー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705686,
+          35.694586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.694586,
+        "lon": 139.705686,
+        "hidden_score": 0.816,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 403.5,
+        "poi_count": 22,
+        "ped_count": 29,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 9,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "新宿眼科画廊",
+          "すごい煮干ラーメン凪",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.694686,
+        "hidden_score": 0.815,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 1.0,
+        "station_distance_m": 169.1,
+        "poi_count": 10,
+        "ped_count": 58,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "cafe": 5,
+          "shop": 2,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "エクセルシオール カフェ",
+          "スターバックス",
+          "タリーズコーヒー",
+          "サンマルクカフェ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692686,
+          35.695586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.695586,
+        "lon": 139.692686,
+        "hidden_score": 0.814,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 0.7,
+        "station_distance_m": 128.6,
+        "poi_count": 23,
+        "ped_count": 51,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "cafe": 3,
+          "restaurant": 7,
+          "shop": 12,
+          "park": 1
+        },
+        "nearby_names": [
+          "BBB",
+          "ジョナサン",
+          "タリーズコーヒー",
+          "ターリー家",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.694686,
+        "hidden_score": 0.813,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.988,
+        "station_distance_score": 1.0,
+        "station_distance_m": 203.6,
+        "poi_count": 10,
+        "ped_count": 57,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 4,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "エクセルシオール カフェ",
+          "auショップ",
+          "ローソン",
+          "サンマルクカフェ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692686,
+          35.686586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.686586,
+        "lon": 139.692686,
+        "hidden_score": 0.812,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 447.2,
+        "poi_count": 14,
+        "ped_count": 42,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 3,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "POTPHAR",
+          "セブン-イレブン",
+          "ローソン",
+          "やまや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.694686,
+        "hidden_score": 0.812,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 1.0,
+        "station_distance_m": 281.2,
+        "poi_count": 10,
+        "ped_count": 56,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 4,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "アクセア",
+          "鶏と麺と",
+          "SHOES-MATE",
+          "エクセルシオール カフェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.713686,
+        "hidden_score": 0.811,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 347.8,
+        "poi_count": 15,
+        "ped_count": 39,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 4,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "CIRA Japana",
+          "セブン-イレブン",
+          "ローソン",
+          "ステーキハウス",
+          "IRREGULAR RHYTHM ASYLUM"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.698686,
+        "hidden_score": 0.806,
+        "poi_density": 0.916,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 75.5,
+        "poi_count": 55,
+        "ped_count": 119,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿西口",
+        "poi_breakdown": {
+          "restaurant": 23,
+          "shop": 25,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "CoCo壱番屋",
+          "サンドラッグ",
+          "デイリーヤマザキ",
+          "MINAMI",
+          "ビッグチケット"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.707686,
+        "hidden_score": 0.806,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 255.6,
+        "poi_count": 25,
+        "ped_count": 23,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 15,
+          "cafe": 4,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ローソン",
+          "ルノアール",
+          "セブン-イレブン",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.712686,
+        "hidden_score": 0.805,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 207.3,
+        "poi_count": 11,
+        "ped_count": 48,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "shop": 4,
+          "cafe": 1,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "PRONTO",
+          "新宿御苑らーめん桜花",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695686,
+          35.702586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.702586,
+        "lon": 139.695686,
+        "hidden_score": 0.805,
+        "poi_density": 0.796,
+        "pedestrian_space": 0.716,
+        "station_distance_score": 1.0,
+        "station_distance_m": 249.3,
+        "poi_count": 32,
+        "ped_count": 18,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "大久保",
+        "poi_breakdown": {
+          "restaurant": 14,
+          "shop": 13,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "サイゼリヤ",
+          "ソフトバンクショップ",
+          "サンマルクカフェ",
+          "セブン-イレブン",
+          "Saishoku kenbi"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.709686,
+        "hidden_score": 0.804,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 0.7,
+        "station_distance_m": 147.4,
+        "poi_count": 30,
+        "ped_count": 36,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 11,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "100円ショップ",
+          "ファミリーマート",
+          "ファミリーマート",
+          "Yakiniku Kobeya",
+          "PONY"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.687686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.687686,
+        "hidden_score": 0.804,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 1.0,
+        "station_distance_m": 296.6,
+        "poi_count": 27,
+        "ped_count": 21,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿五丁目",
+        "poi_breakdown": {
+          "restaurant": 14,
+          "shop": 10,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "ひじり屋",
+          "Maruetsu petit",
+          "さざんか",
+          "むつみや",
+          "作治"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.701586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.701586,
+        "lon": 139.694686,
+        "hidden_score": 0.802,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 254.1,
+        "poi_count": 33,
+        "ped_count": 17,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "大久保",
+        "poi_breakdown": {
+          "restaurant": 14,
+          "shop": 17,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "サイゼリヤ",
+          "ソフトバンクショップ",
+          "セブン-イレブン",
+          "ゲオ",
+          "ハッピー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.696586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.696586,
+        "lon": 139.696686,
+        "hidden_score": 0.8,
+        "poi_density": 0.895,
+        "pedestrian_space": 0.604,
+        "station_distance_score": 1.0,
+        "station_distance_m": 304.9,
+        "poi_count": 50,
+        "ped_count": 11,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "shop": 18,
+          "restaurant": 32
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "カクヤス",
+          "ソフトバンクショップ",
+          "So-ALL",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.710686,
+        "hidden_score": 0.799,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 223.9,
+        "poi_count": 18,
+        "ped_count": 29,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 10,
+          "cafe": 1,
+          "park": 2
+        },
+        "nearby_names": [
+          "Yakiniku Kobeya",
+          "チョウジヤ",
+          "やよい軒",
+          "ワンダフル",
+          "Raja Vetta"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.688686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.688686,
+        "hidden_score": 0.798,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.865,
+        "station_distance_score": 1.0,
+        "station_distance_m": 372.8,
+        "poi_count": 15,
+        "ped_count": 34,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "shop": 4,
+          "cafe": 3,
+          "restaurant": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "Maruetsu petit",
+          "たがみ陶苑",
+          "ブラジル館",
+          "松葉たばこ店",
+          "アジアンダイニング ミールス 西新宿店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697686,
+          35.686586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.686586,
+        "lon": 139.697686,
+        "hidden_score": 0.797,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 1.0,
+        "station_distance_m": 234.0,
+        "poi_count": 25,
+        "ped_count": 21,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "cafe": 5,
+          "shop": 9,
+          "restaurant": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "セブン-イレブン",
+          "スターバックス",
+          "ローソン",
+          "Friend"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.709686,
+        "hidden_score": 0.797,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 0.7,
+        "station_distance_m": 95.1,
+        "poi_count": 27,
+        "ped_count": 37,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "shop": 14,
+          "cafe": 5,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "100円ショップ",
+          "ファミリーマート",
+          "ファミリーマート",
+          "PONY",
+          "Raja Vetta"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.713686,
+        "hidden_score": 0.794,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 266.1,
+        "poi_count": 20,
+        "ped_count": 25,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "shop": 7,
+          "cafe": 3,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "ドトールコーヒーショップ",
+          "セブン-イレブン",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.688686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.688686,
+        "hidden_score": 0.792,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 377.9,
+        "poi_count": 12,
+        "ped_count": 39,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿五丁目",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "肉そば家 笑梟",
+          "和食・そば いちぞう 十二社店",
+          "PIZZA&craft beer 夢の橋",
+          "Bistro Picoler",
+          "そば処 福助"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.710686,
+        "hidden_score": 0.792,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.872,
+        "station_distance_score": 0.7,
+        "station_distance_m": 112.7,
+        "poi_count": 27,
+        "ped_count": 35,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 6,
+          "cafe": 4,
+          "park": 2
+        },
+        "nearby_names": [
+          "100円ショップ",
+          "ファミリーマート",
+          "Yakiniku Kobeya",
+          "PONY",
+          "チョウジヤ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.702586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.702586,
+        "lon": 139.694686,
+        "hidden_score": 0.791,
+        "poi_density": 0.774,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 311.3,
+        "poi_count": 29,
+        "ped_count": 17,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "大久保",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 15,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "サイゼリヤ",
+          "まいばすけっと",
+          "ソフトバンクショップ",
+          "セブン-イレブン",
+          "ゲオ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713686,
+          35.689586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.689586,
+        "lon": 139.713686,
+        "hidden_score": 0.79,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 289.0,
+        "poi_count": 19,
+        "ped_count": 25,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "shop": 7,
+          "cafe": 2,
+          "restaurant": 8,
+          "park": 2
+        },
+        "nearby_names": [
+          "CIRA Japana",
+          "ドトールコーヒーショップ",
+          "セブン-イレブン",
+          "IRREGULAR RHYTHM ASYLUM",
+          "文明堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.706686,
+        "hidden_score": 0.79,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 334.2,
+        "poi_count": 19,
+        "ped_count": 25,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 7,
+          "cafe": 4,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "新宿眼科画廊",
+          "ドトールコーヒーショップ",
+          "カフェ・ベローチェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703686,
+          35.680586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.680586,
+        "lon": 139.703686,
+        "hidden_score": 0.789,
+        "poi_density": 0.473,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 381.6,
+        "poi_count": 7,
+        "ped_count": 62,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "代々木",
+        "poi_breakdown": {
+          "cafe": 2,
+          "restaurant": 3,
+          "shop": 2
+        },
+        "nearby_names": [
+          "PRONTO",
+          "吉そば",
+          "まんてん",
+          "炙縁",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701686,
+          35.682586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.682586,
+        "lon": 139.701686,
+        "hidden_score": 0.789,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 0.7,
+        "station_distance_m": 109.6,
+        "poi_count": 19,
+        "ped_count": 47,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "代々木",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 3,
+          "restaurant": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "ドトールコーヒーショップ",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702686,
+          35.686586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.686586,
+        "lon": 139.702686,
+        "hidden_score": 0.789,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 298.1,
+        "poi_count": 18,
+        "ped_count": 26,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "代々木",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 6,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "紀伊國屋書店",
+          "つけ麺 五ノ神製麺所",
+          "エイチ・アイ・エス",
+          "タリーズコーヒー",
+          "HAIR STATION"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700686,
+          35.683586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.683586,
+        "lon": 139.700686,
+        "hidden_score": 0.788,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 0.7,
+        "station_distance_m": 82.2,
+        "poi_count": 17,
+        "ped_count": 51,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "代々木",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 4,
+          "restaurant": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "ドトールコーヒーショップ",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "タリーズコーヒー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698686,
+          35.696586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.696586,
+        "lon": 139.698686,
+        "hidden_score": 0.788,
+        "poi_density": 0.89,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 0.7,
+        "station_distance_m": 131.5,
+        "poi_count": 49,
+        "ped_count": 19,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "shop": 16,
+          "cafe": 2,
+          "restaurant": 31
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "エクセルシオール カフェ",
+          "ソフトバンクショップ",
+          "ファミリーマート",
+          "CoCo壱番屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.686686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.686686,
+        "hidden_score": 0.787,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 455.9,
+        "poi_count": 15,
+        "ped_count": 30,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿五丁目",
+        "poi_breakdown": {
+          "shop": 7,
+          "cafe": 2,
+          "restaurant": 4,
+          "park": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "マックス",
+          "孝林",
+          "タリーズコーヒー",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691686,
+          35.696586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.696586,
+        "lon": 139.691686,
+        "hidden_score": 0.787,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 258.7,
+        "poi_count": 14,
+        "ped_count": 32,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 7,
+          "cafe": 2,
+          "restaurant": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "スペシャライズド東京",
+          "セブン-イレブン",
+          "サンマルクカフェ",
+          "ファミリーマート",
+          "千代田園"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.709686,
+        "hidden_score": 0.786,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 328.3,
+        "poi_count": 19,
+        "ped_count": 24,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "restaurant": 6,
+          "shop": 12,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ココロ カフェ",
+          "Yakiniku Kobeya",
+          "チョウジヤ",
+          "やよい軒",
+          "ワンダフル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690686,
+          35.696586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.696586,
+        "lon": 139.690686,
+        "hidden_score": 0.786,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.865,
+        "station_distance_score": 1.0,
+        "station_distance_m": 304.5,
+        "poi_count": 13,
+        "ped_count": 34,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 5,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "もとまちUNION",
+          "ナチュラルローソン",
+          "丸や",
+          "権太呂すし",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.686686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.686686,
+        "hidden_score": 0.785,
+        "poi_density": 0.822,
+        "pedestrian_space": 0.642,
+        "station_distance_score": 1.0,
+        "station_distance_m": 210.8,
+        "poi_count": 36,
+        "ped_count": 13,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿五丁目",
+        "poi_breakdown": {
+          "restaurant": 20,
+          "shop": 14,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ひじり屋",
+          "コチン・ニヴァース",
+          "セブン-イレブン",
+          "さざんか",
+          "ラーメン天草"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.687686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.687686,
+        "hidden_score": 0.785,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.674,
+        "station_distance_score": 1.0,
+        "station_distance_m": 343.1,
+        "poi_count": 31,
+        "ped_count": 15,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿五丁目",
+        "poi_breakdown": {
+          "restaurant": 16,
+          "cafe": 4,
+          "shop": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "ひじり屋",
+          "マックス",
+          "孝林",
+          "Maruetsu petit",
+          "EAST WAY CAFFE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700686,
+          35.696586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.696586,
+        "lon": 139.700686,
+        "hidden_score": 0.785,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.872,
+        "station_distance_score": 0.7,
+        "station_distance_m": 82.5,
+        "poi_count": 25,
+        "ped_count": 35,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 12,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "Italian Tomato Cafe Jr.",
+          "ドトールコーヒーショップ",
+          "Hona Cafe ホナカフェ 新宿シネシティ広場店",
+          "つり具の上州屋 新宿店",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704686,
+          35.680586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.680586,
+        "lon": 139.704686,
+        "hidden_score": 0.784,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 1.0,
+        "station_distance_m": 433.5,
+        "poi_count": 8,
+        "ped_count": 51,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "代々木",
+        "poi_breakdown": {
+          "cafe": 2,
+          "restaurant": 3,
+          "shop": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "PRONTO",
+          "吉そば",
+          "やっぱりおいしいごはんが一番",
+          "ローソン",
+          "炙縁"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.694686,
+        "hidden_score": 0.784,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 201.2,
+        "poi_count": 10,
+        "ped_count": 42,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "shop": 4,
+          "cafe": 4,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "スターバックス",
+          "タリーズコーヒー",
+          "サンマルクカフェ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698686,
+          35.697586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.697586,
+        "lon": 139.698686,
+        "hidden_score": 0.782,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 204.8,
+        "poi_count": 20,
+        "ped_count": 22,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西武新宿",
+        "poi_breakdown": {
+          "restaurant": 13,
+          "shop": 7
+        },
+        "nearby_names": [
+          "Niimura Shabu Shabu",
+          "ポニー",
+          "幸寿司",
+          "セブン-イレブン",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696686,
+          35.701586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.701586,
+        "lon": 139.696686,
+        "hidden_score": 0.781,
+        "poi_density": 0.886,
+        "pedestrian_space": 0.716,
+        "station_distance_score": 0.7,
+        "station_distance_m": 106.5,
+        "poi_count": 48,
+        "ped_count": 18,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "大久保",
+        "poi_breakdown": {
+          "shop": 22,
+          "cafe": 3,
+          "restaurant": 23
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "ドトールコーヒーショップ",
+          "サンマルクカフェ",
+          "セブン-イレブン",
+          "Saishoku kenbi"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702686,
+          35.682586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.682586,
+        "lon": 139.702686,
+        "hidden_score": 0.78,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 0.7,
+        "station_distance_m": 147.1,
+        "poi_count": 16,
+        "ped_count": 50,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "代々木",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 7,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "セブン-イレブン",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.693686,
+        "hidden_score": 0.779,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 221.3,
+        "poi_count": 16,
+        "ped_count": 26,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 6,
+          "cafe": 5,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "FRUIT SHOP kanno",
+          "HIS東日本ビザセンター",
+          "Strawbery Fields",
+          "クラブツーリズム",
+          "三共フォート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.691686,
+        "hidden_score": 0.778,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 0.7,
+        "station_distance_m": 135.4,
+        "poi_count": 18,
+        "ped_count": 44,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "cafe": 7,
+          "shop": 3,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "RIE coffee",
+          "ファミリーマート",
+          "BBB",
+          "ジョナサン",
+          "ターリー家"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.688686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.688686,
+        "hidden_score": 0.777,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 388.4,
+        "poi_count": 22,
+        "ped_count": 19,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "restaurant": 9,
+          "shop": 6,
+          "cafe": 5,
+          "park": 2
+        },
+        "nearby_names": [
+          "ひじり屋",
+          "Maruetsu petit",
+          "EAST WAY CAFFE",
+          "スターバックス",
+          "富士屋商店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.706686,
+        "hidden_score": 0.774,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 227.3,
+        "poi_count": 13,
+        "ped_count": 30,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿三丁目",
+        "poi_breakdown": {
+          "shop": 5,
+          "cafe": 5,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "トモズ",
+          "スターバックス",
+          "Curry 草枕",
+          "タリーズコーヒー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693686,
+          35.695586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.695586,
+        "lon": 139.693686,
+        "hidden_score": 0.773,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 152.9,
+        "poi_count": 18,
+        "ped_count": 22,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "cafe": 4,
+          "restaurant": 6,
+          "shop": 8
+        },
+        "nearby_names": [
+          "BBB",
+          "ジョナサン",
+          "タリーズコーヒー",
+          "ターリー家",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708686,
+          35.701586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.701586,
+        "lon": 139.708686,
+        "hidden_score": 0.773,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 1.0,
+        "station_distance_m": 308.3,
+        "poi_count": 19,
+        "ped_count": 21,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "東新宿",
+        "poi_breakdown": {
+          "shop": 15,
+          "cafe": 2,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "三徳",
+          "コープとうきょう",
+          "セブン-イレブン",
+          "ローソン",
+          "Fun O Smile"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.689686,
+          35.696586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.696586,
+        "lon": 139.689686,
+        "hidden_score": 0.772,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.865,
+        "station_distance_score": 1.0,
+        "station_distance_m": 367.1,
+        "poi_count": 11,
+        "ped_count": 34,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "cafe": 2,
+          "shop": 5,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "もとまちUNION",
+          "ナチュラルローソン",
+          "サンマルクカフェ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.688686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.688686,
+        "hidden_score": 0.771,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 403.1,
+        "poi_count": 12,
+        "ped_count": 31,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿五丁目",
+        "poi_breakdown": {
+          "shop": 5,
+          "cafe": 1,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ロシュ",
+          "サイクルメンテナンス",
+          "Excel",
+          "そば処 福助"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690686,
+          35.691586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.691586,
+        "lon": 139.690686,
+        "hidden_score": 0.771,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 220.9,
+        "poi_count": 12,
+        "ped_count": 31,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "cafe": 5,
+          "shop": 3,
+          "restaurant": 4
+        },
+        "nearby_names": [
+          "スターバックス",
+          "RIE coffee",
+          "セブン-イレブン",
+          "十二颯",
+          "メトロポリタングリル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.687686,
+          35.693586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.693586,
+        "lon": 139.687686,
+        "hidden_score": 0.771,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 468.3,
+        "poi_count": 14,
+        "ped_count": 27,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "shop": 8,
+          "cafe": 2,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "マックス",
+          "ファミリーマート",
+          "タリーズコーヒー",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.689686,
+          35.695586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.695586,
+        "lon": 139.689686,
+        "hidden_score": 0.771,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 306.4,
+        "poi_count": 14,
+        "ped_count": 27,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 5,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "もとまちUNION",
+          "もうやんカレー",
+          "ナチュラルローソン",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.686686,
+          35.692586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.692586,
+        "lon": 139.686686,
+        "hidden_score": 0.77,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.659,
+        "station_distance_score": 1.0,
+        "station_distance_m": 358.7,
+        "poi_count": 28,
+        "ped_count": 14,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "西新宿五丁目",
+        "poi_breakdown": {
+          "restaurant": 14,
+          "shop": 11,
+          "cafe": 1,
+          "park": 2
+        },
+        "nearby_names": [
+          "ひじり屋",
+          "ファミリーマート",
+          "マックス",
+          "孝林",
+          "コチン・ニヴァース"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703686,
+          35.687586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.687586,
+        "lon": 139.703686,
+        "hidden_score": 0.769,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.741,
+        "station_distance_score": 1.0,
+        "station_distance_m": 292.5,
+        "poi_count": 19,
+        "ped_count": 20,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 5,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "高島屋",
+          "セブン-イレブン",
+          "つけ麺 五ノ神製麺所",
+          "エイチ・アイ・エス",
+          "Sports Lab"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.689686,
+          35.688586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.688586,
+        "lon": 139.689686,
+        "hidden_score": 0.769,
+        "poi_density": 0.443,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 360.9,
+        "poi_count": 6,
+        "ped_count": 55,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "都庁前",
+        "poi_breakdown": {
+          "shop": 3,
+          "cafe": 1,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ロシュ",
+          "MORETHAN BAKERY",
+          "MORETHAN TAPAS LOUNGE",
+          "中華ごはん れんげ食堂 西新宿店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711686,
+          35.690586
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Shinjuku))",
+        "lat": 35.690586,
+        "lon": 139.711686,
+        "hidden_score": 0.767,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 239.6,
+        "poi_count": 16,
+        "ped_count": 23,
+        "city": "Tokyo (Shinjuku)",
+        "nearest_station": "新宿御苑前",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "CIRA Japana",
+          "セブン-イレブン",
+          "Book Off Express",
+          "チョウジヤ",
+          "やよい軒"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5416 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.716986,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 496.7,
+        "poi_count": 97,
+        "ped_count": 80,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 56,
+          "cafe": 13,
+          "restaurant": 27,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ジーンズメイト",
+          "Y'sロード 池袋店",
+          "K-BOOKS",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.712986,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 172.4,
+        "poi_count": 89,
+        "ped_count": 73,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 54,
+          "cafe": 10,
+          "restaurant": 25
+        },
+        "nearby_names": [
+          "RINGO",
+          "ヤマダデンキ",
+          "皇琲亭",
+          "ringo apple pie",
+          "明治書店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.713986,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 249.7,
+        "poi_count": 123,
+        "ped_count": 86,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 66,
+          "cafe": 15,
+          "restaurant": 41,
+          "park": 1
+        },
+        "nearby_names": [
+          "RINGO",
+          "ABCマート",
+          "建武堂",
+          "カフェ・ド・クリエ",
+          "ヤマダデンキ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.714986,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 333.6,
+        "poi_count": 126,
+        "ped_count": 78,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 58,
+          "cafe": 18,
+          "restaurant": 49,
+          "park": 1
+        },
+        "nearby_names": [
+          "ABCマート",
+          "ジーンズメイト",
+          "建武堂",
+          "カフェ・ド・クリエ",
+          "ヤマダデンキ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.715986,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 420.1,
+        "poi_count": 99,
+        "ped_count": 90,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 47,
+          "cafe": 14,
+          "restaurant": 37,
+          "park": 1
+        },
+        "nearby_names": [
+          "ABCマート",
+          "ジーンズメイト",
+          "建武堂",
+          "アニメイト",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.714986,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 383.8,
+        "poi_count": 94,
+        "ped_count": 66,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "restaurant": 43,
+          "shop": 38,
+          "cafe": 12,
+          "park": 1
+        },
+        "nearby_names": [
+          "一蘭",
+          "アニメイト",
+          "サンマルクカフェ",
+          "カフェ・ベローチェ",
+          "カフェ・ベローチェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.715986,
+        "hidden_score": 0.987,
+        "poi_density": 0.967,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 461.0,
+        "poi_count": 69,
+        "ped_count": 77,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 31,
+          "cafe": 10,
+          "restaurant": 27,
+          "park": 1
+        },
+        "nearby_names": [
+          "アニメイト",
+          "サンマルクカフェ",
+          "カフェ・ベローチェ",
+          "カフェ・ベローチェ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.713986,
+        "hidden_score": 0.986,
+        "poi_density": 0.986,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 313.7,
+        "poi_count": 75,
+        "ped_count": 55,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "restaurant": 29,
+          "shop": 35,
+          "cafe": 9,
+          "park": 2
+        },
+        "nearby_names": [
+          "一蘭",
+          "Y's Road 池袋チャーリー店",
+          "ヤマダデンキ",
+          "ファミリーマート",
+          "サンマルクカフェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.712986,
+        "hidden_score": 0.964,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 1.0,
+        "station_distance_m": 176.3,
+        "poi_count": 92,
+        "ped_count": 41,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 12,
+          "restaurant": 40,
+          "shop": 39,
+          "park": 1
+        },
+        "nearby_names": [
+          "スターバックス",
+          "一風堂",
+          "東京メガネ",
+          "赤鬼",
+          "サンマルクカフェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.712986,
+        "hidden_score": 0.956,
+        "poi_density": 0.964,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 1.0,
+        "station_distance_m": 256.5,
+        "poi_count": 68,
+        "ped_count": 44,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "restaurant": 17,
+          "shop": 44,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "一蘭",
+          "RINGO",
+          "Y's Road 池袋チャーリー店",
+          "サンマルクカフェ",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.706986,
+        "hidden_score": 0.948,
+        "poi_density": 0.886,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 1.0,
+        "station_distance_m": 176.8,
+        "poi_count": 48,
+        "ped_count": 56,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 21,
+          "cafe": 8,
+          "restaurant": 19
+        },
+        "nearby_names": [
+          "ドコモショップ",
+          "auショップ",
+          "エクセルシオール カフェ",
+          "ミラネーゼ",
+          "arrows"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.711986,
+        "hidden_score": 0.937,
+        "poi_density": 0.871,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 222.4,
+        "poi_count": 45,
+        "ped_count": 53,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 33,
+          "restaurant": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "伯爵",
+          "ファミリーマート",
+          "RINGO",
+          "コメダ珈琲店",
+          "auショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.714986,
+        "hidden_score": 0.929,
+        "poi_density": 0.866,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 456.2,
+        "poi_count": 44,
+        "ped_count": 50,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "restaurant": 20,
+          "shop": 17,
+          "cafe": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "一蘭",
+          "Y's Road 池袋チャーリー店",
+          "ファミリーマート",
+          "サンマルクカフェ",
+          "カフェ・ベローチェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.711986,
+        "hidden_score": 0.925,
+        "poi_density": 0.964,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 124.4,
+        "poi_count": 68,
+        "ped_count": 70,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 6,
+          "shop": 41,
+          "restaurant": 21
+        },
+        "nearby_names": [
+          "スターバックス",
+          "青山フラワーマーケット",
+          "池袋西武百貨店",
+          "東京メガネ",
+          "サンマルクカフェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.716986,
+        "hidden_score": 0.918,
+        "poi_density": 0.994,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.6,
+        "station_distance_m": 507.9,
+        "poi_count": 78,
+        "ped_count": 71,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 45,
+          "cafe": 10,
+          "restaurant": 22,
+          "park": 1
+        },
+        "nearby_names": [
+          "ジーンズメイト",
+          "アニメイト",
+          "K-BOOKS Chara Pavilion",
+          "K-BOOKS",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.712986,
+        "hidden_score": 0.917,
+        "poi_density": 0.95,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 202.7,
+        "poi_count": 64,
+        "ped_count": 31,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 25,
+          "cafe": 12,
+          "restaurant": 25,
+          "park": 2
+        },
+        "nearby_names": [
+          "ジュンク堂書店",
+          "ローソン",
+          "スターバックス",
+          "一風堂",
+          "カフェ・ド・クリエプラス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.711986,
+        "hidden_score": 0.915,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.937,
+        "station_distance_score": 0.7,
+        "station_distance_m": 86.3,
+        "poi_count": 83,
+        "ped_count": 46,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 37,
+          "cafe": 12,
+          "restaurant": 34
+        },
+        "nearby_names": [
+          "ジュンク堂書店",
+          "スターバックス",
+          "一風堂",
+          "池袋西武百貨店",
+          "東京メガネ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.708986,
+        "hidden_score": 0.913,
+        "poi_density": 0.932,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 116.1,
+        "poi_count": 59,
+        "ped_count": 88,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 22,
+          "cafe": 7,
+          "restaurant": 30
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "モリバコーヒー",
+          "マツモトキヨシ",
+          "ファミリーマート",
+          "Sanyodo"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.710986,
+        "hidden_score": 0.894,
+        "poi_density": 0.886,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 112.0,
+        "poi_count": 48,
+        "ped_count": 73,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 8,
+          "shop": 29,
+          "restaurant": 11
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "青山フラワーマーケット",
+          "青山フラワーマーケット",
+          "青山フラワーマーケット",
+          "池袋西武百貨店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.708986,
+        "hidden_score": 0.894,
+        "poi_density": 0.809,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 1.0,
+        "station_distance_m": 227.3,
+        "poi_count": 34,
+        "ped_count": 44,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 14,
+          "cafe": 2,
+          "restaurant": 18
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "モリバコーヒー",
+          "赤札堂",
+          "セブン-イレブン",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.706986,
+        "hidden_score": 0.89,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 211.4,
+        "poi_count": 47,
+        "ped_count": 31,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 28,
+          "cafe": 5,
+          "restaurant": 14
+        },
+        "nearby_names": [
+          "ドコモショップ",
+          "auショップ",
+          "エクセルシオール カフェ",
+          "ポニー",
+          "ミラネーゼ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.709986,
+        "hidden_score": 0.89,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 246.0,
+        "poi_count": 27,
+        "ped_count": 52,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 8,
+          "cafe": 3,
+          "restaurant": 16
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "モリバコーヒー",
+          "セブン-イレブン",
+          "セブン-イレブン",
+          "TSUTAYA"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.718986,
+        "hidden_score": 0.888,
+        "poi_density": 0.774,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 1.0,
+        "station_distance_m": 177.7,
+        "poi_count": 29,
+        "ped_count": 48,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "shop": 15,
+          "cafe": 2,
+          "restaurant": 10,
+          "park": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "カフェ・ベローチェ",
+          "割烹 御法",
+          "ファミリーマート",
+          "西友"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.707986,
+        "hidden_score": 0.884,
+        "poi_density": 0.861,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 86.6,
+        "poi_count": 43,
+        "ped_count": 75,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 20,
+          "cafe": 5,
+          "restaurant": 17,
+          "park": 1
+        },
+        "nearby_names": [
+          "ビックカメラ",
+          "ドコモショップ",
+          "エクセルシオール カフェ",
+          "ミラネーゼ",
+          "auショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.707986,
+        "hidden_score": 0.878,
+        "poi_density": 0.845,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 144.7,
+        "poi_count": 40,
+        "ped_count": 61,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 18,
+          "cafe": 6,
+          "restaurant": 16
+        },
+        "nearby_names": [
+          "ドコモショップ",
+          "auショップ",
+          "エクセルシオール カフェ",
+          "ミラネーゼ",
+          "auショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.710986,
+        "hidden_score": 0.874,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 1.0,
+        "station_distance_m": 292.7,
+        "poi_count": 27,
+        "ped_count": 44,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 1,
+          "restaurant": 15
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "モリバコーヒー",
+          "auショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.717986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.717986,
+        "hidden_score": 0.87,
+        "poi_density": 0.876,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.6,
+        "station_distance_m": 596.5,
+        "poi_count": 46,
+        "ped_count": 63,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 32,
+          "cafe": 7,
+          "restaurant": 5,
+          "park": 2
+        },
+        "nearby_names": [
+          "K-BOOKS Chara Pavilion",
+          "K-BOOKS",
+          "スターバックス",
+          "セブン-イレブン",
+          "WONDER PARLOR"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.708986,
+        "hidden_score": 0.868,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.988,
+        "station_distance_score": 1.0,
+        "station_distance_m": 173.8,
+        "poi_count": 19,
+        "ped_count": 57,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 8,
+          "cafe": 7,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "カフェ・ド・クリエ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.715986,
+        "hidden_score": 0.867,
+        "poi_density": 0.886,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 418.9,
+        "poi_count": 48,
+        "ped_count": 24,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "shop": 25,
+          "restaurant": 16,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "matushima",
+          "カフェ・ド・クリエ",
+          "Y'sロード 池袋店",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.716986,
+        "hidden_score": 0.861,
+        "poi_density": 0.796,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 358.1,
+        "poi_count": 32,
+        "ped_count": 33,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "shop": 20,
+          "cafe": 6,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "カフェ・ド・クリエ",
+          "Y'sロード 池袋店",
+          "ファミリーマート",
+          "カフェ・ベローチェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.717986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.717986,
+        "hidden_score": 0.859,
+        "poi_density": 0.75,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 215.0,
+        "poi_count": 26,
+        "ped_count": 39,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "shop": 14,
+          "cafe": 2,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "ココカラファイン",
+          "ファミリーマート",
+          "カフェ・ベローチェ",
+          "割烹 御法",
+          "西友"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.707986,
+        "hidden_score": 0.858,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.975,
+        "station_distance_score": 1.0,
+        "station_distance_m": 161.6,
+        "poi_count": 18,
+        "ped_count": 54,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 6,
+          "cafe": 6,
+          "restaurant": 4,
+          "park": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "ローソン",
+          "カフェ・ド・クリエ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.705986,
+        "hidden_score": 0.858,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 267.0,
+        "poi_count": 33,
+        "ped_count": 31,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 20,
+          "cafe": 5,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "ドコモショップ",
+          "auショップ",
+          "ポニー",
+          "arrows",
+          "Mixue"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.716986,
+        "hidden_score": 0.858,
+        "poi_density": 0.845,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.6,
+        "station_distance_m": 542.3,
+        "poi_count": 40,
+        "ped_count": 66,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 6,
+          "shop": 16,
+          "restaurant": 17,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ベローチェ",
+          "セブン-イレブン",
+          "ジョナサン",
+          "WONDER PARLOR",
+          "Feast Noodles Mamiana"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.713986,
+        "hidden_score": 0.857,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 399.0,
+        "poi_count": 35,
+        "ped_count": 29,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "restaurant": 15,
+          "shop": 16,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "一蘭",
+          "Y's Road 池袋チャーリー店",
+          "ファミリーマート",
+          "サンマルクカフェ",
+          "カフェ・ベローチェ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.706986,
+        "hidden_score": 0.855,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 206.2,
+        "poi_count": 17,
+        "ped_count": 55,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 5,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "中国家庭料理 楊 ２号店",
+          "Victoria",
+          "火星カレー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.711986,
+        "hidden_score": 0.848,
+        "poi_density": 0.912,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 0.7,
+        "station_distance_m": 132.2,
+        "poi_count": 54,
+        "ped_count": 33,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 21,
+          "cafe": 11,
+          "restaurant": 20,
+          "park": 2
+        },
+        "nearby_names": [
+          "ジュンク堂書店",
+          "スターバックス",
+          "カフェ・ド・クリエプラス",
+          "QBHouse",
+          "スィートポテト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.726986,
+        "hidden_score": 0.847,
+        "poi_density": 0.856,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 154.8,
+        "poi_count": 42,
+        "ped_count": 22,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "大塚",
+        "poi_breakdown": {
+          "shop": 21,
+          "cafe": 5,
+          "restaurant": 15,
+          "park": 1
+        },
+        "nearby_names": [
+          "ドコモショップ",
+          "スターバックス",
+          "京樽",
+          "ローソン",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.710986,
+        "hidden_score": 0.846,
+        "poi_density": 0.834,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 0.7,
+        "station_distance_m": 100.8,
+        "poi_count": 38,
+        "ped_count": 45,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 17,
+          "cafe": 8,
+          "restaurant": 11,
+          "park": 2
+        },
+        "nearby_names": [
+          "ジュンク堂書店",
+          "スターバックス",
+          "カフェ・ド・クリエプラス",
+          "QBHouse",
+          "スィートポテト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.704986,
+        "hidden_score": 0.846,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 357.2,
+        "poi_count": 27,
+        "ped_count": 33,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 17,
+          "cafe": 2,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "ポニー",
+          "arrows",
+          "Mixue",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.708986,
+        "hidden_score": 0.84,
+        "poi_density": 0.75,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 81.0,
+        "poi_count": 26,
+        "ped_count": 66,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 9,
+          "restaurant": 4,
+          "park": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "カフェ・ド・クリエ",
+          "青山フラワーマーケット",
+          "池袋東武百貨店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.715986,
+        "hidden_score": 0.838,
+        "poi_density": 0.796,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.6,
+        "station_distance_m": 522.8,
+        "poi_count": 32,
+        "ped_count": 65,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 11,
+          "restaurant": 17
+        },
+        "nearby_names": [
+          "カフェ・ベローチェ",
+          "カフェ・ベローチェ",
+          "Rock House",
+          "Brown Guitars Ikebe Ikebukuro",
+          "Feast Noodles Mamiana"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.718986,
+        "hidden_score": 0.836,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 0.6,
+        "station_distance_m": 600.6,
+        "poi_count": 37,
+        "ped_count": 51,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 27,
+          "cafe": 5,
+          "restaurant": 3,
+          "park": 2
+        },
+        "nearby_names": [
+          "マルエツプチ",
+          "K-BOOKS Chara Pavilion",
+          "セブン-イレブン",
+          "WONDER PARLOR",
+          "K-BOOKS Live Pavilion"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.707986,
+        "hidden_score": 0.833,
+        "poi_density": 0.732,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 137.0,
+        "poi_count": 24,
+        "ped_count": 67,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 4,
+          "restaurant": 9,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ビックカメラ",
+          "スターバックス",
+          "セブン-イレブン",
+          "ソフトバンクショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.707986,
+        "hidden_score": 0.831,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 243.2,
+        "poi_count": 25,
+        "ped_count": 30,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 5,
+          "shop": 12,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "モリバコーヒー",
+          "赤札堂",
+          "エクセルシオール カフェ",
+          "セブン-イレブン",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.719986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.719986,
+        "hidden_score": 0.83,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 1.0,
+        "station_distance_m": 182.3,
+        "poi_count": 16,
+        "ped_count": 45,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "restaurant": 3,
+          "shop": 11,
+          "park": 2
+        },
+        "nearby_names": [
+          "割烹 御法",
+          "ファミリーマート",
+          "西友",
+          "セブン-イレブン",
+          "BATON"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.709986,
+        "hidden_score": 0.829,
+        "poi_density": 0.723,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 95.4,
+        "poi_count": 23,
+        "ped_count": 65,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 8,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "カフェ・ド・クリエ",
+          "青山フラワーマーケット"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710986,
+          35.726186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.726186,
+        "lon": 139.710986,
+        "hidden_score": 0.827,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 211.9,
+        "poi_count": 23,
+        "ped_count": 31,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 10,
+          "cafe": 4,
+          "restaurant": 7,
+          "park": 2
+        },
+        "nearby_names": [
+          "ジュンク堂書店",
+          "カフェ・ド・クリエプラス",
+          "SOCCER SHOP KAMO",
+          "マツモトキヨシ",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711986,
+          35.726186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.726186,
+        "lon": 139.711986,
+        "hidden_score": 0.826,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 228.5,
+        "poi_count": 33,
+        "ped_count": 22,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 14,
+          "cafe": 7,
+          "restaurant": 10,
+          "park": 2
+        },
+        "nearby_names": [
+          "ジュンク堂書店",
+          "ローソン",
+          "カフェ・ド・クリエプラス",
+          "CoCo壱番屋",
+          "SOCCER SHOP KAMO"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.705986,
+        "hidden_score": 0.822,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 287.3,
+        "poi_count": 18,
+        "ped_count": 37,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 8,
+          "cafe": 3,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "ローソン",
+          "arrows",
+          "Mixue",
+          "池袋学生会",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.716986,
+        "hidden_score": 0.821,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 0.6,
+        "station_distance_m": 595.7,
+        "poi_count": 30,
+        "ped_count": 53,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 2,
+          "restaurant": 18,
+          "shop": 10
+        },
+        "nearby_names": [
+          "カフェ・ベローチェ",
+          "Feast Noodles Mamiana",
+          "ラクデン",
+          "miniピアゴ",
+          "LAPLACE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.707986,
+        "hidden_score": 0.82,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 223.1,
+        "poi_count": 12,
+        "ped_count": 52,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 6,
+          "cafe": 2,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "ファミリーマート",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.720986,
+        "hidden_score": 0.818,
+        "poi_density": 0.546,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 319.7,
+        "poi_count": 10,
+        "ped_count": 62,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 7,
+          "restaurant": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "ファミリーマート",
+          "ガシャポンのデパート池袋総本店",
+          "EAT GOOD PLACE",
+          "セリア"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.726986,
+        "hidden_score": 0.818,
+        "poi_density": 0.856,
+        "pedestrian_space": 0.689,
+        "station_distance_score": 1.0,
+        "station_distance_m": 213.2,
+        "poi_count": 42,
+        "ped_count": 16,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 19,
+          "cafe": 5,
+          "restaurant": 17,
+          "park": 1
+        },
+        "nearby_names": [
+          "ドコモショップ",
+          "ドトールコーヒーショップ",
+          "ワインカフェ　サン・ヴァンサン",
+          "京樽",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.711986,
+        "hidden_score": 0.817,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 325.1,
+        "poi_count": 20,
+        "ped_count": 32,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "Y's Road 池袋チャーリー店",
+          "Kmp",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.713986,
+        "hidden_score": 0.815,
+        "poi_density": 0.822,
+        "pedestrian_space": 0.716,
+        "station_distance_score": 1.0,
+        "station_distance_m": 284.6,
+        "poi_count": 36,
+        "ped_count": 18,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 21,
+          "cafe": 8,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "一風堂",
+          "赤鬼",
+          "サンマルクカフェ",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.704986,
+        "hidden_score": 0.81,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 1.0,
+        "station_distance_m": 372.7,
+        "poi_count": 12,
+        "ped_count": 47,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 6,
+          "cafe": 1,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "arrows",
+          "Mixue",
+          "池袋学生会",
+          "立教大學第一食堂",
+          "ラ・ファミーユ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.712986,
+        "hidden_score": 0.808,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 355.8,
+        "poi_count": 27,
+        "ped_count": 22,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "restaurant": 13,
+          "shop": 13,
+          "park": 1
+        },
+        "nearby_names": [
+          "一蘭",
+          "Y's Road 池袋チャーリー店",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "サンスイ 池袋店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.717986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.717986,
+        "hidden_score": 0.805,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 0.6,
+        "station_distance_m": 626.0,
+        "poi_count": 28,
+        "ped_count": 48,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 13,
+          "cafe": 3,
+          "restaurant": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "K-BOOKS Chara Pavilion",
+          "セブン-イレブン",
+          "WONDER PARLOR",
+          "ラクデン",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.709986,
+        "hidden_score": 0.804,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 351.3,
+        "poi_count": 15,
+        "ped_count": 36,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 9,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "モリバコーヒー",
+          "赤札堂",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "Kmp"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.716986,
+        "hidden_score": 0.802,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 277.8,
+        "poi_count": 18,
+        "ped_count": 30,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "shop": 9,
+          "cafe": 3,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ココカラファイン",
+          "ドトールコーヒーショップ",
+          "ファミリーマート",
+          "Honda Cars 東京中央"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.726986,
+        "hidden_score": 0.79,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.716,
+        "station_distance_score": 1.0,
+        "station_distance_m": 154.9,
+        "poi_count": 27,
+        "ped_count": 18,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "大塚",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 3,
+          "restaurant": 13
+        },
+        "nearby_names": [
+          "ドコモショップ",
+          "スターバックス",
+          "北海道らーめん ともや",
+          "ローソン",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.699986,
+        "hidden_score": 0.787,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 157.7,
+        "poi_count": 17,
+        "ped_count": 27,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "要町",
+        "poi_breakdown": {
+          "restaurant": 7,
+          "shop": 10
+        },
+        "nearby_names": [
+          "STEAK&CAFE KENNEDY",
+          "セブン-イレブン",
+          "焼肉 絆",
+          "ゲオ",
+          "香港屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.705986,
+        "hidden_score": 0.781,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 337.7,
+        "poi_count": 8,
+        "ped_count": 49,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "ローソン",
+          "東武ストア",
+          "中国家庭料理 楊 ２号店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.717986,
+          35.726186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.726186,
+        "lon": 139.717986,
+        "hidden_score": 0.78,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 0.7,
+        "station_distance_m": 141.1,
+        "poi_count": 25,
+        "ped_count": 33,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "shop": 11,
+          "cafe": 2,
+          "restaurant": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "E PRONTO",
+          "ココカラファイン",
+          "割烹 御法",
+          "エ―・ラージ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716986,
+          35.726186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.726186,
+        "lon": 139.716986,
+        "hidden_score": 0.779,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 225.5,
+        "poi_count": 16,
+        "ped_count": 26,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "shop": 7,
+          "cafe": 2,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "E PRONTO",
+          "ココカラファイン",
+          "セブン-イレブン",
+          "エ―・ラージ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.706986,
+        "hidden_score": 0.776,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 1.0,
+        "station_distance_m": 248.9,
+        "poi_count": 7,
+        "ped_count": 52,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 4,
+          "restaurant": 2,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "ローソン",
+          "中国家庭料理 楊 ２号店",
+          "ラ・ファミーユ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.709986,
+        "hidden_score": 0.774,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 0.7,
+        "station_distance_m": 138.3,
+        "poi_count": 18,
+        "ped_count": 42,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 6,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "青山フラワーマーケット",
+          "QBHouse",
+          "スィートポテト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.719986,
+          35.726186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.726186,
+        "lon": 139.719986,
+        "hidden_score": 0.773,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 0.7,
+        "station_distance_m": 83.0,
+        "poi_count": 17,
+        "ped_count": 44,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "エ―・ラージ",
+          "ひまわり亭",
+          "KAZAMIDORI",
+          "CoCo壱番屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.717986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.717986,
+        "hidden_score": 0.773,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 0.6,
+        "station_distance_m": 672.8,
+        "poi_count": 23,
+        "ped_count": 41,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 8,
+          "cafe": 2,
+          "restaurant": 12,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "WONDER PARLOR",
+          "ラクデン",
+          "miniピアゴ",
+          "LAPLACE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.725986,
+        "hidden_score": 0.766,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 241.3,
+        "poi_count": 15,
+        "ped_count": 24,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "大塚",
+        "poi_breakdown": {
+          "shop": 7,
+          "cafe": 1,
+          "restaurant": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "まいばすけっと",
+          "まいばすけっと",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.710986,
+        "hidden_score": 0.764,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 385.4,
+        "poi_count": 14,
+        "ped_count": 25,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "Kmp",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.720986,
+        "hidden_score": 0.763,
+        "poi_density": 0.408,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 225.1,
+        "poi_count": 5,
+        "ped_count": 75,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋四丁目",
+        "poi_breakdown": {
+          "shop": 3,
+          "restaurant": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "EAT GOOD PLACE",
+          "セブン-イレブン",
+          "うさちゃんクリーニング",
+          "としまみどりの防災公園"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.721986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.721986,
+        "hidden_score": 0.763,
+        "poi_density": 0.408,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 268.5,
+        "poi_count": 5,
+        "ped_count": 74,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋四丁目",
+        "poi_breakdown": {
+          "shop": 2,
+          "restaurant": 1,
+          "park": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "EAT GOOD PLACE",
+          "セブン-イレブン",
+          "としまみどりの防災公園"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.699986,
+        "hidden_score": 0.762,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 0.7,
+        "station_distance_m": 117.7,
+        "poi_count": 17,
+        "ped_count": 39,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "要町",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "shop": 9
+        },
+        "nearby_names": [
+          "STEAK&CAFE KENNEDY",
+          "セブン-イレブン",
+          "焼肉 絆",
+          "ゲオ",
+          "香港屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704986,
+          35.722186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.722186,
+        "lon": 139.704986,
+        "hidden_score": 0.76,
+        "poi_density": 0.895,
+        "pedestrian_space": 0.506,
+        "station_distance_score": 1.0,
+        "station_distance_m": 173.3,
+        "poi_count": 50,
+        "ped_count": 7,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "目白",
+        "poi_breakdown": {
+          "shop": 29,
+          "cafe": 7,
+          "restaurant": 13,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "サンマルクカフェ",
+          "Tanaka-ya",
+          "ソフトバンクショップ",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.708986,
+        "hidden_score": 0.757,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 338.5,
+        "poi_count": 11,
+        "ped_count": 29,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 8,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "モリバコーヒー",
+          "赤札堂",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.709986,
+        "hidden_score": 0.755,
+        "poi_density": 0.789,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 57.6,
+        "poi_count": 31,
+        "ped_count": 63,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 14,
+          "cafe": 9,
+          "restaurant": 6,
+          "park": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "カフェ・ド・クリエ",
+          "青山フラワーマーケット",
+          "青山フラワーマーケット",
+          "池袋東武百貨店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.710986,
+        "hidden_score": 0.754,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 0.2,
+        "station_distance_m": 11.5,
+        "poi_count": 35,
+        "ped_count": 53,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 7,
+          "shop": 18,
+          "restaurant": 10
+        },
+        "nearby_names": [
+          "スターバックス",
+          "青山フラワーマーケット",
+          "東京メガネ",
+          "QBHouse",
+          "スィートポテト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.725986,
+        "hidden_score": 0.753,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.689,
+        "station_distance_score": 1.0,
+        "station_distance_m": 150.8,
+        "poi_count": 20,
+        "ped_count": 16,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 6,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "まいばすけっと",
+          "まいばすけっと",
+          "ローソンストア100",
+          "もり山",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705986,
+          35.722186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.722186,
+        "lon": 139.705986,
+        "hidden_score": 0.751,
+        "poi_density": 0.903,
+        "pedestrian_space": 0.624,
+        "station_distance_score": 0.7,
+        "station_distance_m": 118.7,
+        "poi_count": 52,
+        "ped_count": 12,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "目白",
+        "poi_breakdown": {
+          "shop": 26,
+          "cafe": 10,
+          "restaurant": 15,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "サンマルクカフェ",
+          "Tanaka-ya",
+          "ファミリーマート",
+          "ソフトバンクショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.718986,
+        "hidden_score": 0.751,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 0.6,
+        "station_distance_m": 652.8,
+        "poi_count": 25,
+        "ped_count": 30,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 14,
+          "cafe": 3,
+          "restaurant": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "マルエツプチ",
+          "K-BOOKS Chara Pavilion",
+          "セブン-イレブン",
+          "WONDER PARLOR",
+          "ラクデン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.705986,
+        "hidden_score": 0.748,
+        "poi_density": 0.809,
+        "pedestrian_space": 0.56,
+        "station_distance_score": 1.0,
+        "station_distance_m": 291.1,
+        "poi_count": 34,
+        "ped_count": 9,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 23,
+          "cafe": 4,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "ドコモショップ",
+          "auショップ",
+          "デイリーヤマザキ",
+          "ポニー",
+          "arrows"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713986,
+          35.718186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.718186,
+        "lon": 139.713986,
+        "hidden_score": 0.746,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.819,
+        "station_distance_score": 1.0,
+        "station_distance_m": 238.6,
+        "poi_count": 10,
+        "ped_count": 28,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "鬼子母神前",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 2,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "TOKYO FENCING",
+          "Scala",
+          "ポニー",
+          "上海食堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715986,
+          35.718186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.718186,
+        "lon": 139.715986,
+        "hidden_score": 0.745,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 247.3,
+        "poi_count": 13,
+        "ped_count": 22,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "鬼子母神前",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 1,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "福本園",
+          "TOKYO FENCING",
+          "矢邊葬儀社",
+          "Maruetsu petit"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.715986,
+        "hidden_score": 0.743,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 352.8,
+        "poi_count": 12,
+        "ped_count": 23,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 6,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "ココカラファイン",
+          "ドトールコーヒーショップ",
+          "ファミリーマート",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712986,
+          35.726186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.726186,
+        "lon": 139.712986,
+        "hidden_score": 0.741,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.659,
+        "station_distance_score": 1.0,
+        "station_distance_m": 275.4,
+        "poi_count": 20,
+        "ped_count": 14,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 9,
+          "cafe": 5,
+          "restaurant": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "ジュンク堂書店",
+          "ローソン",
+          "カフェ・ド・クリエプラス",
+          "CoCo壱番屋",
+          "マツモトキヨシ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714986,
+          35.719186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.719186,
+        "lon": 139.714986,
+        "hidden_score": 0.739,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 0.7,
+        "station_distance_m": 114.7,
+        "poi_count": 10,
+        "ped_count": 49,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "鬼子母神前",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 1,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "TOKYO FENCING",
+          "Scala",
+          "ポニー",
+          "上海食堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714986,
+          35.718186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.718186,
+        "lon": 139.714986,
+        "hidden_score": 0.735,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 225.6,
+        "poi_count": 11,
+        "ped_count": 23,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "鬼子母神前",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 1,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "TOKYO FENCING",
+          "Scala",
+          "ポニー",
+          "上海食堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706986,
+          35.722186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.722186,
+        "lon": 139.706986,
+        "hidden_score": 0.735,
+        "poi_density": 0.845,
+        "pedestrian_space": 0.642,
+        "station_distance_score": 0.7,
+        "station_distance_m": 120.2,
+        "poi_count": 40,
+        "ped_count": 13,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "目白",
+        "poi_breakdown": {
+          "cafe": 10,
+          "shop": 18,
+          "restaurant": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "サンマルクカフェ",
+          "Tanaka-ya",
+          "ファミリーマート",
+          "ドトールコーヒーショップ",
+          "マックスキャロット"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.699986,
+        "hidden_score": 0.735,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 166.0,
+        "poi_count": 10,
+        "ped_count": 25,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "要町",
+        "poi_breakdown": {
+          "shop": 5,
+          "restaurant": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ゲオ",
+          "香港屋",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "アグニ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.721986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.721986,
+        "hidden_score": 0.732,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 308.0,
+        "poi_count": 13,
+        "ped_count": 19,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 10,
+          "park": 1,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "豊島区立 東池袋青空公園",
+          "Kei",
+          "ポニー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713986,
+          35.719186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.719186,
+        "lon": 139.713986,
+        "hidden_score": 0.729,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 0.7,
+        "station_distance_m": 137.8,
+        "poi_count": 10,
+        "ped_count": 44,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "雑司が谷",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "TOKYO FENCING",
+          "Scala",
+          "ポニー",
+          "上海食堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.714986,
+        "hidden_score": 0.729,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.642,
+        "station_distance_score": 1.0,
+        "station_distance_m": 370.4,
+        "poi_count": 19,
+        "ped_count": 13,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 6,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "一風堂",
+          "カフェ・ド・クリエ",
+          "ドトールコーヒーショップ",
+          "Brooklyn Mills"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.716986,
+        "hidden_score": 0.729,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 0.6,
+        "station_distance_m": 663.6,
+        "poi_count": 15,
+        "ped_count": 38,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "SP quick",
+          "miniピアゴ",
+          "LAPLACE",
+          "No. 18",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715986,
+          35.719186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.719186,
+        "lon": 139.715986,
+        "hidden_score": 0.727,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 153.0,
+        "poi_count": 7,
+        "ped_count": 31,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "鬼子母神前",
+        "poi_breakdown": {
+          "shop": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "矢邊葬儀社",
+          "Maruetsu petit",
+          "ファミリーマート",
+          "リコス",
+          "雑司が谷公園"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.721986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.721986,
+        "hidden_score": 0.726,
+        "poi_density": 0.315,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 296.1,
+        "poi_count": 3,
+        "ped_count": 77,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "restaurant": 1,
+          "shop": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "EAT GOOD PLACE",
+          "セブン-イレブン",
+          "としまみどりの防災公園"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.719986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.719986,
+        "hidden_score": 0.725,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 0.6,
+        "station_distance_m": 519.1,
+        "poi_count": 18,
+        "ped_count": 31,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 3,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "マルエツプチ",
+          "セブン-イレブン",
+          "K-BOOKS Chara Pavilion",
+          "K-BOOKS Ikebukuro Doujin-Kan",
+          "宜蘭"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.722986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.722986,
+        "hidden_score": 0.721,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 190.9,
+        "poi_count": 8,
+        "ped_count": 26,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "Kei",
+          "ポニー",
+          "オリーブ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.722986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.722986,
+        "hidden_score": 0.72,
+        "poi_density": 0.315,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 1.0,
+        "station_distance_m": 280.5,
+        "poi_count": 3,
+        "ped_count": 56,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "restaurant": 1,
+          "park": 2
+        },
+        "nearby_names": [
+          "EAT GOOD PLACE",
+          "としまみどりの防災公園"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720986,
+          35.726186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.726186,
+        "lon": 139.720986,
+        "hidden_score": 0.717,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 0.7,
+        "station_distance_m": 125.4,
+        "poi_count": 7,
+        "ped_count": 53,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋四丁目",
+        "poi_breakdown": {
+          "shop": 2,
+          "restaurant": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン",
+          "ひまわり亭",
+          "KAZAMIDORI",
+          "揚州商人"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.720986,
+        "hidden_score": 0.717,
+        "poi_density": 0.473,
+        "pedestrian_space": 0.819,
+        "station_distance_score": 1.0,
+        "station_distance_m": 371.1,
+        "poi_count": 7,
+        "ped_count": 28,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 6
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエ",
+          "ガシャポンのデパート池袋総本店",
+          "セリア",
+          "トイザらス",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.725986,
+        "hidden_score": 0.716,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.659,
+        "station_distance_score": 1.0,
+        "station_distance_m": 288.1,
+        "poi_count": 15,
+        "ped_count": 14,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "大塚",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 7,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "北海道らーめん ともや",
+          "ファミリーマート",
+          "手打ち蕎麦 にわ",
+          "sneaker shop Link"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.708986,
+        "hidden_score": 0.715,
+        "poi_density": 0.366,
+        "pedestrian_space": 0.921,
+        "station_distance_score": 1.0,
+        "station_distance_m": 210.7,
+        "poi_count": 4,
+        "ped_count": 43,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 3,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "ファミリーマート",
+          "中華そば 舎鈴"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.726986,
+        "hidden_score": 0.713,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.56,
+        "station_distance_score": 1.0,
+        "station_distance_m": 220.8,
+        "poi_count": 23,
+        "ped_count": 9,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "大塚",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 11,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ソフトバンクショップ",
+          "ソフトバンクショップ",
+          "北海道らーめん ともや",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712986,
+          35.719186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.719186,
+        "lon": 139.712986,
+        "hidden_score": 0.71,
+        "poi_density": 0.366,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 1.0,
+        "station_distance_m": 200.1,
+        "poi_count": 4,
+        "ped_count": 41,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "雑司が谷",
+        "poi_breakdown": {
+          "shop": 2,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "Scala",
+          "ポニー",
+          "上海食堂",
+          "happy"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704986,
+          35.723186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.723186,
+        "lon": 139.704986,
+        "hidden_score": 0.71,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.473,
+        "station_distance_score": 1.0,
+        "station_distance_m": 258.8,
+        "poi_count": 33,
+        "ped_count": 6,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "目白",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 10,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ソフトバンクショップ",
+          "マツモトキヨシ",
+          "ガスト",
+          "なるたけ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.720986,
+        "hidden_score": 0.71,
+        "poi_density": 0.524,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 1.0,
+        "station_distance_m": 392.0,
+        "poi_count": 9,
+        "ped_count": 21,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "スギ薬局",
+          "まいばすけっと",
+          "口福"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.723986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.723986,
+        "hidden_score": 0.709,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.642,
+        "station_distance_score": 1.0,
+        "station_distance_m": 161.9,
+        "poi_count": 15,
+        "ped_count": 13,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 12,
+          "park": 1,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "豊島区立 東池袋青空公園",
+          "Kei",
+          "まいばすけっと"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.711986,
+        "hidden_score": 0.707,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 431.2,
+        "poi_count": 11,
+        "ped_count": 17,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "Kmp",
+          "ローソン",
+          "ドン・キホーテ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709986,
+          35.735186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.735186,
+        "lon": 139.709986,
+        "hidden_score": 0.707,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 459.4,
+        "poi_count": 11,
+        "ped_count": 17,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "赤札堂 超市",
+          "フルル",
+          "ファミリーマート",
+          "まいばすけっと"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709986,
+          35.726186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.726186,
+        "lon": 139.709986,
+        "hidden_score": 0.705,
+        "poi_density": 0.443,
+        "pedestrian_space": 0.819,
+        "station_distance_score": 1.0,
+        "station_distance_m": 232.1,
+        "poi_count": 6,
+        "ped_count": 28,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 2,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ド・クリエプラス",
+          "角煮屋",
+          "Dontei sabu buffet",
+          "dontei sabu buffet",
+          "Sarutahiko Coffee Ikebukuro"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.721986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.721986,
+        "hidden_score": 0.705,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.716,
+        "station_distance_score": 1.0,
+        "station_distance_m": 368.2,
+        "poi_count": 10,
+        "ped_count": 18,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 8,
+          "park": 1,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "豊島区立 東池袋青空公園",
+          "スギ薬局",
+          "桑澤寝具店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.700986,
+        "hidden_score": 0.703,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.674,
+        "station_distance_score": 1.0,
+        "station_distance_m": 207.9,
+        "poi_count": 12,
+        "ped_count": 15,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "要町",
+        "poi_breakdown": {
+          "restaurant": 6,
+          "shop": 6
+        },
+        "nearby_names": [
+          "STEAK&CAFE KENNEDY",
+          "焼肉 絆",
+          "ゲオ",
+          "香港屋",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.715986,
+        "hidden_score": 0.702,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 0.6,
+        "station_distance_m": 599.0,
+        "poi_count": 10,
+        "ped_count": 41,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 3,
+          "restaurant": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "miniピアゴ",
+          "LAPLACE",
+          "No. 18",
+          "Urban grave cafe",
+          "味の助"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.705986,
+        "hidden_score": 0.7,
+        "poi_density": 0.408,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 371.1,
+        "poi_count": 5,
+        "ped_count": 31,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 4,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "東武ストア",
+          "ラ・ファミーユ",
+          "NEXT"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.708986,
+          35.735186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.735186,
+        "lon": 139.708986,
+        "hidden_score": 0.7,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 449.7,
+        "poi_count": 10,
+        "ped_count": 17,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "赤札堂",
+          "赤札堂 超市",
+          "フルル",
+          "ローソン",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.706986,
+        "hidden_score": 0.699,
+        "poi_density": 0.714,
+        "pedestrian_space": 0.534,
+        "station_distance_score": 1.0,
+        "station_distance_m": 287.9,
+        "poi_count": 22,
+        "ped_count": 8,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 2,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "auショップ",
+          "カフェ・ベローチェ",
+          "セブン-イレブン",
+          "肉之fc",
+          "美松"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718986,
+          35.726186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.726186,
+        "lon": 139.718986,
+        "hidden_score": 0.694,
+        "poi_density": 0.732,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 0.2,
+        "station_distance_m": 72.4,
+        "poi_count": 24,
+        "ped_count": 40,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "東池袋",
+        "poi_breakdown": {
+          "restaurant": 13,
+          "shop": 9,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "割烹 御法",
+          "エ―・ラージ",
+          "Honda Cars 東京中央",
+          "Jugar Cafe",
+          "マレーチャン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703986,
+          35.722186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.722186,
+        "lon": 139.703986,
+        "hidden_score": 0.693,
+        "poi_density": 0.796,
+        "pedestrian_space": 0.436,
+        "station_distance_score": 1.0,
+        "station_distance_m": 249.5,
+        "poi_count": 32,
+        "ped_count": 5,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "目白",
+        "poi_breakdown": {
+          "shop": 21,
+          "restaurant": 8,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ソフトバンクショップ",
+          "マツモトキヨシ",
+          "ガスト",
+          "なるたけ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706986,
+          35.728186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.728186,
+        "lon": 139.706986,
+        "hidden_score": 0.692,
+        "poi_density": 0.315,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 292.6,
+        "poi_count": 3,
+        "ped_count": 42,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716986,
+          35.718186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.718186,
+        "lon": 139.716986,
+        "hidden_score": 0.691,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 296.2,
+        "poi_count": 8,
+        "ped_count": 19,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "鬼子母神前",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "福本園",
+          "Maruetsu petit",
+          "ファミリーマート",
+          "華天園",
+          "QUICK BOY"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.707986,
+        "hidden_score": 0.691,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 349.3,
+        "poi_count": 8,
+        "ped_count": 19,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "赤札堂",
+          "セブン-イレブン",
+          "セブン-イレブン",
+          "肉之fc",
+          "フルル"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.704986,
+        "hidden_score": 0.69,
+        "poi_density": 0.366,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 418.2,
+        "poi_count": 4,
+        "ped_count": 33,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 3,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "東武ストア",
+          "立教大學第一食堂",
+          "ラ・ファミーユ",
+          "NEXT"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.724986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.724986,
+        "hidden_score": 0.689,
+        "poi_density": 0.645,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 0.7,
+        "station_distance_m": 127.8,
+        "poi_count": 16,
+        "ped_count": 19,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "Kei",
+          "まいばすけっと",
+          "まいばすけっと",
+          "ローソンストア100"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.719986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.719986,
+        "hidden_score": 0.689,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 0.6,
+        "station_distance_m": 578.7,
+        "poi_count": 18,
+        "ped_count": 21,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 4,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "マルエツプチ",
+          "宜蘭",
+          "Swallowtail",
+          "温州坊",
+          "三恵青果店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.726986,
+        "hidden_score": 0.689,
+        "poi_density": 0.75,
+        "pedestrian_space": 0.473,
+        "station_distance_score": 1.0,
+        "station_distance_m": 162.5,
+        "poi_count": 26,
+        "ped_count": 6,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "巣鴨新田",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "セブン-イレブン",
+          "ソフトバンクショップ",
+          "北海道らーめん ともや",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711986,
+          35.724186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.724186,
+        "lon": 139.711986,
+        "hidden_score": 0.685,
+        "poi_density": 0.524,
+        "pedestrian_space": 0.689,
+        "station_distance_score": 1.0,
+        "station_distance_m": 442.6,
+        "poi_count": 9,
+        "ped_count": 16,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ベローチェ",
+          "セブン-イレブン",
+          "ローソンストア100",
+          "古書 往来座",
+          "尾張屋豆腐店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.717986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.717986,
+        "hidden_score": 0.684,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 0.6,
+        "station_distance_m": 733.6,
+        "poi_count": 14,
+        "ped_count": 25,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 6,
+          "restaurant": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "SP quick",
+          "miniピアゴ",
+          "LAPLACE",
+          "No. 18"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.725986,
+        "hidden_score": 0.683,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 0.7,
+        "station_distance_m": 82.2,
+        "poi_count": 12,
+        "ped_count": 23,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 7,
+          "restaurant": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "まいばすけっと",
+          "ローソンストア100",
+          "すし本",
+          "Manila Spice",
+          "HANOK"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710986,
+          35.735186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.735186,
+        "lon": 139.710986,
+        "hidden_score": 0.683,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.642,
+        "station_distance_score": 1.0,
+        "station_distance_m": 486.0,
+        "poi_count": 11,
+        "ped_count": 13,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 8,
+          "park": 3
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "セブン-イレブン",
+          "赤札堂 超市",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.720986,
+        "hidden_score": 0.682,
+        "poi_density": 0.546,
+        "pedestrian_space": 0.659,
+        "station_distance_score": 1.0,
+        "station_distance_m": 440.8,
+        "poi_count": 10,
+        "ped_count": 14,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "マルエツプチ",
+          "セブン-イレブン",
+          "スギ薬局",
+          "まいばすけっと",
+          "口福"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.722986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.722986,
+        "hidden_score": 0.676,
+        "poi_density": 0.565,
+        "pedestrian_space": 0.624,
+        "station_distance_score": 1.0,
+        "station_distance_m": 305.1,
+        "poi_count": 11,
+        "ped_count": 12,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 9,
+          "park": 1,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "豊島区立 東池袋青空公園",
+          "ポニー",
+          "オリーブ",
+          "スギ薬局"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.724986,
+          35.731186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.731186,
+        "lon": 139.724986,
+        "hidden_score": 0.676,
+        "poi_density": 0.408,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 238.8,
+        "poi_count": 5,
+        "ped_count": 24,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 3,
+          "restaurant": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "まいばすけっと",
+          "浜作",
+          "Goodman",
+          "大塚台公園"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.700986,
+        "hidden_score": 0.675,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.604,
+        "station_distance_score": 1.0,
+        "station_distance_m": 232.9,
+        "poi_count": 12,
+        "ped_count": 11,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "要町",
+        "poi_breakdown": {
+          "restaurant": 4,
+          "shop": 8
+        },
+        "nearby_names": [
+          "STEAK&CAFE KENNEDY",
+          "セブン-イレブン",
+          "焼肉 絆",
+          "ゲオ",
+          "香港屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.722986,
+          35.730186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.730186,
+        "lon": 139.722986,
+        "hidden_score": 0.674,
+        "poi_density": 0.601,
+        "pedestrian_space": 0.583,
+        "station_distance_score": 1.0,
+        "station_distance_m": 228.9,
+        "poi_count": 13,
+        "ped_count": 10,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "shop": 10,
+          "park": 1,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "豊島区立 東池袋青空公園",
+          "Kei",
+          "ポニー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.725986,
+        "hidden_score": 0.673,
+        "poi_density": 0.443,
+        "pedestrian_space": 0.741,
+        "station_distance_score": 1.0,
+        "station_distance_m": 241.3,
+        "poi_count": 6,
+        "ped_count": 20,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "大塚",
+        "poi_breakdown": {
+          "shop": 3,
+          "restaurant": 3
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "まいばすけっと",
+          "長寿庵",
+          "樹癒え"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705986,
+          35.723186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.723186,
+        "lon": 139.705986,
+        "hidden_score": 0.672,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.392,
+        "station_distance_score": 1.0,
+        "station_distance_m": 225.9,
+        "poi_count": 31,
+        "ped_count": 4,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "目白",
+        "poi_breakdown": {
+          "shop": 16,
+          "cafe": 4,
+          "restaurant": 10,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ソフトバンクショップ",
+          "ドトールコーヒーショップ",
+          "マックスキャロット",
+          "マツモトキヨシ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726986,
+          35.729186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.729186,
+        "lon": 139.726986,
+        "hidden_score": 0.67,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.506,
+        "station_distance_score": 1.0,
+        "station_distance_m": 171.7,
+        "poi_count": 18,
+        "ped_count": 7,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "shop": 8,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ワインカフェ　サン・ヴァンサン",
+          "まいばすけっと",
+          "もり山",
+          "シマダヤ",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707986,
+          35.722186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.722186,
+        "lon": 139.707986,
+        "hidden_score": 0.667,
+        "poi_density": 0.584,
+        "pedestrian_space": 0.583,
+        "station_distance_score": 1.0,
+        "station_distance_m": 176.4,
+        "poi_count": 12,
+        "ped_count": 10,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "目白",
+        "poi_breakdown": {
+          "restaurant": 6,
+          "shop": 3,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "マックスキャロット",
+          "QUEEN'S ISETAN",
+          "PRONTO",
+          "Johan",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712986,
+          35.718186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.718186,
+        "lon": 139.712986,
+        "hidden_score": 0.664,
+        "poi_density": 0.408,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 1.0,
+        "station_distance_m": 280.4,
+        "poi_count": 5,
+        "ped_count": 21,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "雑司が谷",
+        "poi_breakdown": {
+          "shop": 3,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "Scala",
+          "ポニー",
+          "上海食堂",
+          "happy"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710986,
+          35.724186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.724186,
+        "lon": 139.710986,
+        "hidden_score": 0.664,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.659,
+        "station_distance_score": 1.0,
+        "station_distance_m": 434.3,
+        "poi_count": 8,
+        "ped_count": 14,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "cafe": 1,
+          "shop": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "カフェ・ベローチェ",
+          "セブン-イレブン",
+          "ローソンストア100",
+          "古書 往来座",
+          "肉のハナマサ 池袋店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707986,
+          35.727186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.727186,
+        "lon": 139.707986,
+        "hidden_score": 0.663,
+        "poi_density": 0.315,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 293.2,
+        "poi_count": 3,
+        "ped_count": 31,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 2,
+          "restaurant": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "中華そば 舎鈴"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704986,
+          35.732186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.732186,
+        "lon": 139.704986,
+        "hidden_score": 0.663,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.392,
+        "station_distance_score": 1.0,
+        "station_distance_m": 375.6,
+        "poi_count": 28,
+        "ped_count": 4,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "池袋",
+        "poi_breakdown": {
+          "shop": 19,
+          "cafe": 3,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "auショップ",
+          "デイリーヤマザキ",
+          "ポニー",
+          "arrows",
+          "Mixue"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718986,
+          35.733186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.733186,
+        "lon": 139.718986,
+        "hidden_score": 0.663,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.741,
+        "station_distance_score": 0.6,
+        "station_distance_m": 718.6,
+        "poi_count": 14,
+        "ped_count": 20,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "向原",
+        "poi_breakdown": {
+          "cafe": 2,
+          "shop": 5,
+          "restaurant": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "WONDER PARLOR",
+          "宜蘭",
+          "温州坊",
+          "三恵青果店",
+          "一番店揚げ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704986,
+          35.721186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.721186,
+        "lon": 139.704986,
+        "hidden_score": 0.658,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.506,
+        "station_distance_score": 0.7,
+        "station_distance_m": 133.4,
+        "poi_count": 31,
+        "ped_count": 7,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "目白",
+        "poi_breakdown": {
+          "cafe": 5,
+          "shop": 19,
+          "restaurant": 7
+        },
+        "nearby_names": [
+          "サンマルクカフェ",
+          "Tanaka-ya",
+          "ファミリーマート",
+          "ワイモバイル",
+          "ナチュラルローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711986,
+          35.723186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.723186,
+        "lon": 139.711986,
+        "hidden_score": 0.658,
+        "poi_density": 0.443,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 412.8,
+        "poi_count": 6,
+        "ped_count": 17,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "雑司が谷",
+        "poi_breakdown": {
+          "shop": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ローソンストア100",
+          "古書 往来座",
+          "尾張屋豆腐店",
+          "セブン-イレブン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725986,
+          35.734186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.734186,
+        "lon": 139.725986,
+        "hidden_score": 0.653,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.392,
+        "station_distance_score": 1.0,
+        "station_distance_m": 216.5,
+        "poi_count": 25,
+        "ped_count": 4,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "巣鴨新田",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 5,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "セブン-イレブン",
+          "北海道らーめん ともや",
+          "ファミリーマート",
+          "大塚質屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699986,
+          35.735186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.735186,
+        "lon": 139.699986,
+        "hidden_score": 0.651,
+        "poi_density": 0.524,
+        "pedestrian_space": 0.604,
+        "station_distance_score": 1.0,
+        "station_distance_m": 246.2,
+        "poi_count": 9,
+        "ped_count": 11,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "要町",
+        "poi_breakdown": {
+          "restaurant": 2,
+          "shop": 7
+        },
+        "nearby_names": [
+          "STEAK&CAFE KENNEDY",
+          "セブン-イレブン",
+          "けむり屋",
+          "ローソンストア100",
+          "優"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.715986,
+          35.726186
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ikebukuro))",
+        "lat": 35.726186,
+        "lon": 139.715986,
+        "hidden_score": 0.65,
+        "poi_density": 0.5,
+        "pedestrian_space": 0.624,
+        "station_distance_score": 1.0,
+        "station_distance_m": 282.2,
+        "poi_count": 8,
+        "ped_count": 12,
+        "city": "Tokyo (Ikebukuro)",
+        "nearest_station": "都電雑司ヶ谷",
+        "poi_breakdown": {
+          "shop": 5,
+          "cafe": 1,
+          "restaurant": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "E PRONTO",
+          "ココカラファイン",
+          "セブン-イレブン"
+        ]
+      }
+    }
+  ]
+}

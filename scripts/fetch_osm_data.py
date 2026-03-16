@@ -29,6 +29,30 @@ CITIES = {
         "lon": 136.9084,
         "radius": 2000,
     },
+    "tokyo_shinjuku": {
+        "name": "Tokyo (Shinjuku)",
+        "lat": 35.6916,
+        "lon": 139.6997,
+        "radius": 1500,
+    },
+    "tokyo_ikebukuro": {
+        "name": "Tokyo (Ikebukuro)",
+        "lat": 35.7302,
+        "lon": 139.7130,
+        "radius": 1500,
+    },
+    "tokyo_ueno": {
+        "name": "Tokyo (Ueno)",
+        "lat": 35.7140,
+        "lon": 139.7771,
+        "radius": 1500,
+    },
+    "yokohama": {
+        "name": "Yokohama",
+        "lat": 35.4660,
+        "lon": 139.6226,
+        "radius": 2000,
+    },
 }
 
 # POI・歩行者空間を取得するクエリ

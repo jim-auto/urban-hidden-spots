@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6231953,
+          35.4662066
+        ]
+      },
+      "properties": {
+        "osm_id": 263274999,
+        "osm_type": "node",
+        "name": "横浜",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.keikyu.co.jp/ride/kakueki/KK37.html",
+          "gauge": "1435",
+          "name": "横浜",
+          "name:en": "Yokohama",
+          "name:es": "Yokohama",
+          "name:ja": "横浜",
+          "name:ja-Hira": "よこはま",
+          "name:ja-Latn": "Yokohama",
+          "name:ko": "요코하마",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "京浜急行電鉄",
+          "operator:en": "Keikyu Corporation",
+          "operator:ja": "京浜急行電鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KK37",
+          "source": "Bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wheelchair": "yes",
+          "wikidata": "Q801658",
+          "wikipedia": "ja:横浜駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6275201,
+          35.4715259
+        ]
+      },
+      "properties": {
+        "osm_id": 263275159,
+        "osm_type": "node",
+        "name": "神奈川",
+        "category": "station",
+        "tags": {
+          "name": "神奈川",
+          "name:en": "Kanagawa",
+          "name:ja": "神奈川",
+          "name:ja-Hira": "かながわ",
+          "name:ja_rm": "Kanagawa",
+          "name:ko": "가나가와",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KK36",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wheelchair": "limited",
+          "wikidata": "Q5362069",
+          "wikipedia": "ja:神奈川駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6333271,
+          35.4779431
+        ]
+      },
+      "properties": {
+        "osm_id": 280476284,
+        "osm_type": "node",
+        "name": "東神奈川",
+        "category": "station",
+        "tags": {
+          "name": "東神奈川",
+          "name:en": "Higashi-Kanagawa",
+          "name:ja": "東神奈川",
+          "name:ja-Hira": "ひがしかながわ",
+          "name:ja-Latn": "Higashi-kanagawa",
+          "name:ko": "히가시카나가와",
+          "name:ru": "Хигаси-Канагава",
+          "operator": "東日本旅客鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JH13;JK13",
+          "source": "KSJ2",
+          "wheelchair": "yes",
+          "wikidata": "Q128205",
+          "wikimedia_commons": "File:JR Higashi-Kanagawa Station - 2023 March 14 various 20 01 39 301000.jpeg",
+          "wikipedia": "ja:東神奈川駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6084809,
+          35.4532879
+        ]
+      },
+      "properties": {
+        "osm_id": 823272743,
+        "osm_type": "node",
+        "name": "西横浜",
+        "category": "station",
+        "tags": {
+          "name": "西横浜",
+          "name:de": "Yokohama West",
+          "name:en": "Nishi-Yokohama",
+          "name:ja": "西横浜",
+          "name:ja-Hira": "にしよこはま",
+          "name:ko": "니시요코하마",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SO03",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wikidata": "Q11628832",
+          "wikipedia": "ja:西横浜駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6163426,
+          35.4596654
+        ]
+      },
+      "properties": {
+        "osm_id": 823273354,
+        "osm_type": "node",
+        "name": "平沼橋",
+        "category": "station",
+        "tags": {
+          "name": "平沼橋",
+          "name:de": "Hiranuma-bashi",
+          "name:en": "Hiranuma-bashi",
+          "name:ja": "平沼橋",
+          "name:ja-Hira": "ひらぬまばし",
+          "name:ja_rm": "Hiranuma Bashi",
+          "name:ko": "히라누마바시",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "相模鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SO02",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wikidata": "Q5769436",
+          "wikipedia": "ja:平沼橋駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6252491,
+          35.4746815
+        ]
+      },
+      "properties": {
+        "osm_id": 1218588914,
+        "osm_type": "node",
+        "name": "反町",
+        "category": "station",
+        "tags": {
+          "name": "反町",
+          "name:en": "Tammachi",
+          "name:ja": "反町",
+          "name:ja-Hira": "たんまち",
+          "name:ja_rm": "Tammachi",
+          "name:ko": "단마치",
+          "operator": "東京急行電鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "TY20",
+          "source": "Bing",
+          "wikidata": "Q7681523",
+          "wikipedia": "ja:反町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6310016,
+          35.4510054
+        ]
+      },
+      "properties": {
+        "osm_id": 2738954706,
+        "osm_type": "node",
+        "name": "桜木町",
+        "category": "station",
+        "tags": {
+          "name": "桜木町",
+          "name:en": "Sakuragicho",
+          "name:es": "Sakuragicho",
+          "name:fr": "Sakuragicho",
+          "name:ja": "桜木町",
+          "name:ja-Hira": "さくらぎちょう",
+          "name:ja_rm": "Sakuragicho",
+          "name:ko": "사쿠라기초",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wheelchair": "yes",
+          "wikidata": "Q801396",
+          "wikipedia": "ja:桜木町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6225042,
+          35.4656854
+        ]
+      },
+      "properties": {
+        "osm_id": 3995909017,
+        "osm_type": "node",
+        "name": "横浜",
+        "category": "station",
+        "tags": {
+          "name": "横浜",
+          "name:de": "Yokohama",
+          "name:en": "Yokohama",
+          "name:es": "Yokohama",
+          "name:it": "Yokohama",
+          "name:ja": "横浜 (東日本旅客鉄道)",
+          "name:ja-Hira": "よこはま",
+          "name:ja-Latn": "Yokohama",
+          "name:ko": "요코하마",
+          "name:ru": "Йокогама",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "YHM",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wheelchair": "yes",
+          "wikidata": "Q801658",
+          "wikipedia": "ja:横浜駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6238581,
+          35.4584508
+        ]
+      },
+      "properties": {
+        "osm_id": 7750338822,
+        "osm_type": "node",
+        "name": "高島町",
+        "category": "station",
+        "tags": {
+          "name": "高島町",
+          "name:en": "Takashimacho",
+          "name:ja": "高島町",
+          "name:ja-Hira": "たかしまちょう",
+          "name:ja_rm": "Takashimachō",
+          "name:ko": "다카시마초",
+          "network": "横浜市営地下鉄",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "横浜市交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "B19",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q850673",
+          "wikipedia": "ja:高島町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630787,
+          35.4496272
+        ]
+      },
+      "properties": {
+        "osm_id": 7750338823,
+        "osm_type": "node",
+        "name": "桜木町",
+        "category": "station",
+        "tags": {
+          "alt_name": "県民共済プラザ前",
+          "name": "桜木町",
+          "name:en": "Sakuragicho",
+          "name:es": "Sakuragicho",
+          "name:ja": "桜木町",
+          "name:ja-Hira": "さくらぎちょう",
+          "name:ja_rm": "Sakuragicho",
+          "name:ko": "사쿠라기초",
+          "network": "横浜市営地下鉄",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "横浜市交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "B18",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q801396",
+          "wikipedia": "ja:桜木町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6056459,
+          35.4764152
+        ]
+      },
+      "properties": {
+        "osm_id": 7750342740,
+        "osm_type": "node",
+        "name": "三ツ沢上町",
+        "category": "station",
+        "tags": {
+          "name": "三ツ沢上町",
+          "name:en": "Mitsuzawa-kamicho",
+          "name:ja": "三ツ沢上町",
+          "name:ja-Hira": "みつざわかみちょう",
+          "name:ja_rm": "Mitsuzawa kamichō",
+          "name:ko": "미쓰자와카미초",
+          "network": "横浜市営地下鉄",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "横浜市交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "B22",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "station": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q903553",
+          "wikipedia": "ja:三ツ沢上町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6160911,
+          35.4765085
+        ]
+      },
+      "properties": {
+        "osm_id": 7750342742,
+        "osm_type": "node",
+        "name": "三ツ沢下町",
+        "category": "station",
+        "tags": {
+          "name": "三ツ沢下町",
+          "name:en": "Mitsuzawa-shimocho",
+          "name:ja": "三ツ沢下町",
+          "name:ja-Hira": "みつざわしもちょう",
+          "name:ja_rm": "Mitsuzawa shimochō",
+          "name:ko": "미쓰자와시모초",
+          "network": "横浜市営地下鉄",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "横浜市交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "B21",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q589920",
+          "wikipedia": "ja:三ツ沢下町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6201667,
+          35.4653773
+        ]
+      },
+      "properties": {
+        "osm_id": 7750342743,
+        "osm_type": "node",
+        "name": "横浜",
+        "category": "station",
+        "tags": {
+          "alt_name": "相鉄ジョイナス前",
+          "name": "横浜",
+          "name:en": "Yokohama",
+          "name:ja": "横浜 (横浜市交通局)",
+          "name:ja-Hira": "よこはま",
+          "name:ja_rm": "Yokohama",
+          "name:ko": "요코하마",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "横浜市交通局",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "B20",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q801658",
+          "wikipedia": "ja:横浜駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6202973,
+          35.4642692
+        ]
+      },
+      "properties": {
+        "osm_id": 7804259443,
+        "osm_type": "node",
+        "name": "横浜",
+        "category": "station",
+        "tags": {
+          "name": "横浜",
+          "name:de": "Yokohama",
+          "name:en": "Yokohama",
+          "name:es": "Yokohama",
+          "name:ja": "横浜 (相模鉄道)",
+          "name:ja-Hira": "よこはま",
+          "name:ja_rm": "Yokohama",
+          "name:ko": "요코하마",
+          "name:ru": "Йокогама",
+          "operator": "相模鉄道",
+          "platforms": "3",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "SO01",
+          "train": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6328453,
+          35.4572327
+        ]
+      },
+      "properties": {
+        "osm_id": 7856115778,
+        "osm_type": "node",
+        "name": "みなとみらい",
+        "category": "station",
+        "tags": {
+          "name": "みなとみらい",
+          "name:en": "Minatomirai",
+          "name:ja": "みなとみらい",
+          "name:ja-Hira": "みなとみらい",
+          "name:ja_rm": "Minatomirai",
+          "name:ko": "미나토미라이",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "横浜高速鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MM03",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "wheelchair": "no",
+          "wikidata": "Q3299269",
+          "wikipedia": "ja:みなとみらい駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6266407,
+          35.4619389
+        ]
+      },
+      "properties": {
+        "osm_id": 7856115779,
+        "osm_type": "node",
+        "name": "新高島",
+        "category": "station",
+        "tags": {
+          "name": "新高島",
+          "name:en": "Shin-Takashima",
+          "name:ja": "新高島",
+          "name:ja-Hira": "しんたかしま",
+          "name:ja_rm": "Shin Takashima",
+          "name:ko": "신타카시마",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "横浜高速鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MM02",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "train": "yes",
+          "wikidata": "Q854231",
+          "wikipedia": "ja:新高島駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6195351,
+          35.4567461
+        ]
+      },
+      "properties": {
+        "osm_id": 7856861003,
+        "osm_type": "node",
+        "name": "戸部",
+        "category": "station",
+        "tags": {
+          "gauge": "1435",
+          "name": "戸部",
+          "name:en": "Tobe",
+          "name:ja": "戸部",
+          "name:ja-Hira": "とべ",
+          "name:ja_rm": "Tobe",
+          "name:ko": "도베",
+          "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+          "operator": "京浜急行電鉄",
+          "operator:en": "Keikyu Corporation",
+          "operator:ja": "京浜急行電鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KK38",
+          "source": "Bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+          "wikidata": "Q7811562",
+          "wikipedia": "ja:戸部駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6345454,
+          35.477267
+        ]
+      },
+      "properties": {
+        "osm_id": 7856861004,
+        "osm_type": "node",
+        "name": "京急東神奈川",
+        "category": "station",
+        "tags": {
+          "gauge": "1435",
+          "name": "京急東神奈川",
+          "name:en": "Keikyu Higashi-Kanagawa",
+          "name:ja": "京急東神奈川",
+          "name:ja-Hira": "けいきゅうひがしかながわ",
+          "name:ja-Latn": "Keikyū Higashi-Kanagawa",
+          "name:ko": "게이큐 히가시카나가와",
+          "old_name": "仲木戸",
+          "operator": "京浜急行電鉄",
+          "operator:en": "Keikyu Corporation",
+          "operator:ja": "京浜急行電鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KK35",
+          "source": "Bing",
+          "wikidata": "Q6960205",
+          "wikipedia": "ja:京急東神奈川駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6220811,
+          35.466292
+        ]
+      },
+      "properties": {
+        "osm_id": 7967959831,
+        "osm_type": "node",
+        "name": "横浜",
+        "category": "station",
+        "tags": {
+          "name": "横浜",
+          "name:en": "Yokohama",
+          "name:es": "Yokohama",
+          "name:ja": "横浜",
+          "name:ja-Hira": "よこはま",
+          "name:ja_rm": "Yokohama",
+          "name:ko": "요코하마혼모쿠",
+          "network": "みなとみらい線;東急電鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MM01;TY21",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+        }
+      }
+    }
+  ]
+}

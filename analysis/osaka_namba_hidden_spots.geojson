@@ -7,6 +7,42 @@
         "type": "Point",
         "coordinates": [
           135.505286,
+          34.658686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.658686,
+        "lon": 135.505286,
+        "hidden_score": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 345.1,
+        "poi_count": 83,
+        "ped_count": 83,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 54,
+          "restaurant": 20,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "Disc J.J.",
+          "Super Kids Land",
+          "PCワンズ",
+          "一真道"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
           34.659686
         ]
       },
@@ -78,6 +114,150 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.506286,
+          34.659686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.659686,
+        "lon": 135.506286,
+        "hidden_score": 0.999,
+        "poi_density": 0.997,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 458.1,
+        "poi_count": 79,
+        "ped_count": 67,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 53,
+          "cafe": 10,
+          "restaurant": 16
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "ソフトバンクショップ",
+          "Disc J.J.",
+          "Super Kids Land",
+          "PCワンズ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.666686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.666686,
+        "lon": 135.502286,
+        "hidden_score": 0.997,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.992,
+        "station_distance_score": 1.0,
+        "station_distance_m": 193.5,
+        "poi_count": 116,
+        "ped_count": 58,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "restaurant": 63,
+          "shop": 40,
+          "cafe": 13
+        },
+        "nearby_names": [
+          "正宗屋",
+          "三田製麺所",
+          "おたからや",
+          "鶴橋アジヨシ",
+          "餃子の王将"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.672686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.672686,
+        "lon": 135.500286,
+        "hidden_score": 0.995,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.988,
+        "station_distance_score": 1.0,
+        "station_distance_m": 203.7,
+        "poi_count": 84,
+        "ped_count": 57,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 59,
+          "restaurant": 16,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ABC-Mart",
+          "ドコモショップ",
+          "クエスチョンマーク",
+          "BABYDOLL"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.667686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.667686,
+        "lon": 135.504286,
+        "hidden_score": 0.993,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 1.0,
+        "station_distance_m": 155.6,
+        "poi_count": 90,
+        "ped_count": 56,
+        "city": "Osaka (Namba)",
+        "nearest_station": "近鉄日本橋",
+        "poi_breakdown": {
+          "restaurant": 76,
+          "shop": 9,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "鶴橋アジヨシ",
+          "サイゼリヤ",
+          "ファミリーマート",
+          "焼肉櫻",
+          "昭和ホルモン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.504286,
           34.668686
         ]
@@ -114,34 +294,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.505286,
-          34.658686
+          135.503286,
+          34.666686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.658686,
-        "lon": 135.505286,
-        "hidden_score": 0.984,
-        "poi_density": 0.96,
-        "pedestrian_space": 1.0,
+        "lat": 34.666686,
+        "lon": 135.503286,
+        "hidden_score": 0.99,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.975,
         "station_distance_score": 1.0,
-        "station_distance_m": 345.1,
+        "station_distance_m": 222.1,
         "poi_count": 83,
-        "ped_count": 83,
+        "ped_count": 54,
         "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
+        "nearest_station": "近鉄日本橋",
         "poi_breakdown": {
-          "shop": 54,
-          "restaurant": 20,
-          "cafe": 9
+          "shop": 13,
+          "restaurant": 62,
+          "cafe": 8
         },
         "nearby_names": [
-          "ソフトバンク",
-          "Disc J.J.",
-          "Super Kids Land",
-          "PCワンズ",
-          "一真道"
+          "ファミリーマート",
+          "正宗屋",
+          "三田製麺所",
+          "鶴橋アジヨシ",
+          "いちびり庵"
         ]
       }
     },
@@ -151,33 +331,34 @@
         "type": "Point",
         "coordinates": [
           135.506286,
-          34.659686
+          34.658686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.659686,
+        "lat": 34.658686,
         "lon": 135.506286,
-        "hidden_score": 0.98,
-        "poi_density": 0.949,
+        "hidden_score": 0.984,
+        "poi_density": 0.96,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 458.1,
-        "poi_count": 79,
-        "ped_count": 67,
+        "station_distance_m": 348.1,
+        "poi_count": 67,
+        "ped_count": 74,
         "city": "Osaka (Namba)",
         "nearest_station": "恵美須町",
         "poi_breakdown": {
-          "shop": 53,
-          "cafe": 10,
-          "restaurant": 16
+          "shop": 43,
+          "restaurant": 17,
+          "cafe": 6,
+          "park": 1
         },
         "nearby_names": [
           "ソフトバンク",
-          "ソフトバンクショップ",
           "Disc J.J.",
           "Super Kids Land",
-          "PCワンズ"
+          "PCワンズ",
+          "つるまるうどん"
         ]
       }
     },
@@ -186,34 +367,70 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.500286,
-          34.672686
+          135.502286,
+          34.665686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.672686,
-        "lon": 135.500286,
-        "hidden_score": 0.98,
-        "poi_density": 0.963,
-        "pedestrian_space": 0.988,
+        "lat": 34.665686,
+        "lon": 135.502286,
+        "hidden_score": 0.979,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.947,
         "station_distance_score": 1.0,
-        "station_distance_m": 203.7,
-        "poi_count": 84,
-        "ped_count": 57,
+        "station_distance_m": 191.6,
+        "poi_count": 97,
+        "ped_count": 48,
         "city": "Osaka (Namba)",
-        "nearest_station": "心斎橋",
+        "nearest_station": "なんば",
         "poi_breakdown": {
-          "shop": 59,
-          "restaurant": 16,
-          "cafe": 9
+          "shop": 44,
+          "cafe": 12,
+          "restaurant": 41
         },
         "nearby_names": [
-          "ファミリーマート",
-          "ABC-Mart",
-          "ドコモショップ",
-          "クエスチョンマーク",
-          "BABYDOLL"
+          "高島屋",
+          "スターバックス",
+          "正宗屋",
+          "三田製麺所",
+          "金龍ラーメン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.669686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.669686,
+        "lon": 135.499286,
+        "hidden_score": 0.979,
+        "poi_density": 0.946,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 273.9,
+        "poi_count": 63,
+        "ped_count": 71,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "shop": 22,
+          "restaurant": 37,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ローソン",
+          "ミニストップ",
+          "本陣",
+          "ローソン",
+          "おぼらだれん"
         ]
       }
     },
@@ -250,6 +467,78 @@
           "ABC-Mart",
           "ドコモショップ",
           "餃子の王将"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.674686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.674686,
+        "lon": 135.502286,
+        "hidden_score": 0.978,
+        "poi_density": 0.988,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 1.0,
+        "station_distance_m": 177.5,
+        "poi_count": 76,
+        "ped_count": 50,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 48,
+          "restaurant": 22,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "Under Armour",
+          "ファミリーマート",
+          "三木楽器",
+          "ファミリーマート",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.657686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.657686,
+        "lon": 135.505286,
+        "hidden_score": 0.976,
+        "poi_density": 0.939,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 234.8,
+        "poi_count": 61,
+        "ped_count": 87,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 38,
+          "restaurant": 17,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "カンプリ",
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "らーめん喜六",
+          "ゲーム探偵団"
         ]
       }
     },
@@ -295,34 +584,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.503286,
-          34.666686
+          135.506286,
+          34.657686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.666686,
-        "lon": 135.503286,
-        "hidden_score": 0.974,
-        "poi_density": 0.96,
-        "pedestrian_space": 0.975,
+        "lat": 34.657686,
+        "lon": 135.506286,
+        "hidden_score": 0.973,
+        "poi_density": 0.932,
+        "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 222.1,
-        "poi_count": 83,
-        "ped_count": 54,
+        "station_distance_m": 239.1,
+        "poi_count": 59,
+        "ped_count": 76,
         "city": "Osaka (Namba)",
-        "nearest_station": "近鉄日本橋",
+        "nearest_station": "恵美須町",
         "poi_breakdown": {
-          "shop": 13,
-          "restaurant": 62,
-          "cafe": 8
+          "restaurant": 11,
+          "shop": 43,
+          "cafe": 4,
+          "park": 1
         },
         "nearby_names": [
-          "ファミリーマート",
-          "正宗屋",
-          "三田製麺所",
-          "鶴橋アジヨシ",
-          "いちびり庵"
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "らーめん喜六",
+          "ゲーム探偵団",
+          "男靴"
         ]
       }
     },
@@ -367,35 +657,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.506286,
-          34.658686
+          135.504286,
+          34.659686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.658686,
-        "lon": 135.506286,
+        "lat": 34.659686,
+        "lon": 135.504286,
         "hidden_score": 0.966,
-        "poi_density": 0.914,
-        "pedestrian_space": 1.0,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.915,
         "station_distance_score": 1.0,
-        "station_distance_m": 348.1,
-        "poi_count": 67,
-        "ped_count": 74,
+        "station_distance_m": 471.7,
+        "poi_count": 83,
+        "ped_count": 42,
         "city": "Osaka (Namba)",
         "nearest_station": "恵美須町",
         "poi_breakdown": {
-          "shop": 43,
-          "restaurant": 17,
-          "cafe": 6,
-          "park": 1
+          "shop": 59,
+          "restaurant": 13,
+          "cafe": 11
         },
         "nearby_names": [
           "ソフトバンク",
-          "Disc J.J.",
+          "ソフトバンクショップ",
           "Super Kids Land",
           "PCワンズ",
-          "つるまるうどん"
+          "一真道"
         ]
       }
     },
@@ -405,33 +694,141 @@
         "type": "Point",
         "coordinates": [
           135.499286,
-          34.669686
+          34.668686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.669686,
+        "lat": 34.668686,
         "lon": 135.499286,
-        "hidden_score": 0.96,
-        "poi_density": 0.901,
+        "hidden_score": 0.966,
+        "poi_density": 0.916,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 273.9,
-        "poi_count": 63,
-        "ped_count": 71,
+        "station_distance_m": 164.7,
+        "poi_count": 55,
+        "ped_count": 78,
         "city": "Osaka (Namba)",
         "nearest_station": "なんば",
         "poi_breakdown": {
-          "shop": 22,
-          "restaurant": 37,
-          "cafe": 4
+          "shop": 18,
+          "restaurant": 36,
+          "cafe": 1
         },
         "nearby_names": [
+          "ファミリーマート",
           "ローソン",
-          "ミニストップ",
-          "本陣",
-          "ローソン",
-          "おぼらだれん"
+          "大阪王将",
+          "薬ヒグチ",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.675686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.675686,
+        "lon": 135.501286,
+        "hidden_score": 0.961,
+        "poi_density": 0.903,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 155.3,
+        "poi_count": 52,
+        "ped_count": 65,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 36,
+          "cafe": 6,
+          "restaurant": 10
+        },
+        "nearby_names": [
+          "Under Armour",
+          "ファミリーマート",
+          "三木楽器",
+          "タリーズコーヒー",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.658686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.658686,
+        "lon": 135.504286,
+        "hidden_score": 0.958,
+        "poi_density": 0.895,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 365.8,
+        "poi_count": 50,
+        "ped_count": 64,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 27,
+          "restaurant": 15,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "Super Kids Land",
+          "一真道",
+          "らーめん喜六",
+          "男靴"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.674686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.674686,
+        "lon": 135.503286,
+        "hidden_score": 0.952,
+        "poi_density": 0.881,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 268.6,
+        "poi_count": 47,
+        "ped_count": 60,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 18,
+          "cafe": 2,
+          "restaurant": 27
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "タリーズコーヒー",
+          "希望軒",
+          "ヒョンデカスタマーエクスペリエンスセンター 大阪",
+          "カワチ画材"
         ]
       }
     },
@@ -441,70 +838,33 @@
         "type": "Point",
         "coordinates": [
           135.505286,
-          34.657686
+          34.661686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.657686,
+        "lat": 34.661686,
         "lon": 135.505286,
-        "hidden_score": 0.958,
-        "poi_density": 0.894,
-        "pedestrian_space": 1.0,
+        "hidden_score": 0.951,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.878,
         "station_distance_score": 1.0,
-        "station_distance_m": 234.8,
-        "poi_count": 61,
-        "ped_count": 87,
+        "station_distance_m": 389.1,
+        "poi_count": 97,
+        "ped_count": 36,
         "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
+        "nearest_station": "難波",
         "poi_breakdown": {
-          "shop": 38,
-          "restaurant": 17,
-          "cafe": 6
+          "shop": 66,
+          "cafe": 20,
+          "restaurant": 11
         },
         "nearby_names": [
-          "カンプリ",
-          "CoCo壱番屋",
-          "つるまるうどん",
-          "らーめん喜六",
-          "ゲーム探偵団"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.506286,
-          34.657686
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.657686,
-        "lon": 135.506286,
-        "hidden_score": 0.955,
-        "poi_density": 0.887,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 239.1,
-        "poi_count": 59,
-        "ped_count": 76,
-        "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
-        "poi_breakdown": {
-          "restaurant": 11,
-          "shop": 43,
-          "cafe": 4,
-          "park": 1
-        },
-        "nearby_names": [
-          "CoCo壱番屋",
-          "つるまるうどん",
-          "らーめん喜六",
-          "ゲーム探偵団",
-          "男靴"
+          "ドスパラ",
+          "セブン-イレブン",
+          "ケイ・ブックス",
+          "KARAKUŞ",
+          "駿河屋"
         ]
       }
     },
@@ -549,34 +909,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.504286,
-          34.659686
+          135.499286,
+          34.672686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.659686,
-        "lon": 135.504286,
-        "hidden_score": 0.95,
-        "poi_density": 0.96,
-        "pedestrian_space": 0.915,
+        "lat": 34.672686,
+        "lon": 135.499286,
+        "hidden_score": 0.949,
+        "poi_density": 0.908,
+        "pedestrian_space": 0.966,
         "station_distance_score": 1.0,
-        "station_distance_m": 471.7,
-        "poi_count": 83,
-        "ped_count": 42,
+        "station_distance_m": 225.9,
+        "poi_count": 53,
+        "ped_count": 52,
         "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
+        "nearest_station": "心斎橋",
         "poi_breakdown": {
-          "shop": 59,
-          "restaurant": 13,
-          "cafe": 11
+          "shop": 29,
+          "restaurant": 16,
+          "cafe": 7,
+          "park": 1
         },
         "nearby_names": [
-          "ソフトバンク",
-          "ソフトバンクショップ",
-          "Super Kids Land",
-          "PCワンズ",
-          "一真道"
+          "ファミリーマート",
+          "小粋",
+          "ミンミン",
+          "セブン-イレブン",
+          "どやどや"
         ]
       }
     },
@@ -586,33 +947,33 @@
         "type": "Point",
         "coordinates": [
           135.505286,
-          34.661686
+          34.668686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.661686,
+        "lat": 34.668686,
         "lon": 135.505286,
-        "hidden_score": 0.949,
-        "poi_density": 0.993,
-        "pedestrian_space": 0.878,
+        "hidden_score": 0.947,
+        "poi_density": 0.916,
+        "pedestrian_space": 0.952,
         "station_distance_score": 1.0,
-        "station_distance_m": 389.1,
-        "poi_count": 97,
-        "ped_count": 36,
+        "station_distance_m": 201.1,
+        "poi_count": 55,
+        "ped_count": 49,
         "city": "Osaka (Namba)",
-        "nearest_station": "難波",
+        "nearest_station": "日本橋",
         "poi_breakdown": {
-          "shop": 66,
-          "cafe": 20,
-          "restaurant": 11
+          "restaurant": 42,
+          "shop": 8,
+          "cafe": 5
         },
         "nearby_names": [
-          "ドスパラ",
+          "炭火焼肉肉八",
+          "ふぐくじら",
+          "味宝楼",
           "セブン-イレブン",
-          "ケイ・ブックス",
-          "KARAKUŞ",
-          "駿河屋"
+          "PELTO"
         ]
       }
     },
@@ -658,34 +1019,324 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.504286,
-          34.658686
+          135.501286,
+          34.665686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
-        "lat": 34.658686,
-        "lon": 135.504286,
-        "hidden_score": 0.941,
-        "poi_density": 0.852,
+        "lat": 34.665686,
+        "lon": 135.501286,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
         "pedestrian_space": 1.0,
-        "station_distance_score": 1.0,
-        "station_distance_m": 365.8,
-        "poi_count": 50,
-        "ped_count": 64,
+        "station_distance_score": 0.7,
+        "station_distance_m": 106.6,
+        "poi_count": 90,
+        "ped_count": 61,
         "city": "Osaka (Namba)",
-        "nearest_station": "恵美須町",
+        "nearest_station": "なんば",
         "poi_breakdown": {
-          "shop": 27,
-          "restaurant": 15,
-          "cafe": 8
+          "shop": 48,
+          "cafe": 11,
+          "restaurant": 31
         },
         "nearby_names": [
-          "ソフトバンク",
-          "Super Kids Land",
-          "一真道",
-          "らーめん喜六",
-          "男靴"
+          "高島屋",
+          "スターバックス",
+          "おたからや",
+          "餃子の王将",
+          "がんこ寿司"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.666686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.666686,
+        "lon": 135.501286,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 110.0,
+        "poi_count": 117,
+        "ped_count": 73,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "shop": 63,
+          "restaurant": 40,
+          "cafe": 14
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "おたからや",
+          "回転すし日本一",
+          "どうとんぼり神座",
+          "焼肉一丁"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.673686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.673686,
+        "lon": 135.501286,
+        "hidden_score": 0.94,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 125.6,
+        "poi_count": 93,
+        "ped_count": 63,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 60,
+          "restaurant": 22,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "三木楽器",
+          "ファミリーマート",
+          "ドコモショップ",
+          "餃子の王将"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.675686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.675686,
+        "lon": 135.502286,
+        "hidden_score": 0.94,
+        "poi_density": 0.861,
+        "pedestrian_space": 0.988,
+        "station_distance_score": 1.0,
+        "station_distance_m": 219.2,
+        "poi_count": 43,
+        "ped_count": 57,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 28,
+          "cafe": 5,
+          "restaurant": 10
+        },
+        "nearby_names": [
+          "Under Armour",
+          "タリーズコーヒー",
+          "ヒョンデカスタマーエクスペリエンスセンター 大阪",
+          "ドトールコーヒーショップ",
+          "神座"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.673686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.673686,
+        "lon": 135.500286,
+        "hidden_score": 0.939,
+        "poi_density": 0.997,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 92.6,
+        "poi_count": 79,
+        "ped_count": 77,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 55,
+          "restaurant": 14,
+          "cafe": 10
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "三木楽器",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.674686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.674686,
+        "lon": 135.501286,
+        "hidden_score": 0.939,
+        "poi_density": 0.997,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 87.1,
+        "poi_count": 79,
+        "ped_count": 88,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 51,
+          "restaurant": 19,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "Under Armour",
+          "ファミリーマート",
+          "三木楽器",
+          "ファミリーマート",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.671686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.671686,
+        "lon": 135.499286,
+        "hidden_score": 0.938,
+        "poi_density": 0.935,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 1.0,
+        "station_distance_m": 329.6,
+        "poi_count": 60,
+        "ped_count": 41,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 42,
+          "restaurant": 13,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ミニストップ",
+          "にしかわや",
+          "Apple Store",
+          "スタンダードブックストア",
+          "びっくりドンキー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.661686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.661686,
+        "lon": 135.506286,
+        "hidden_score": 0.933,
+        "poi_density": 0.953,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 467.5,
+        "poi_count": 65,
+        "ped_count": 36,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 44,
+          "restaurant": 9,
+          "cafe": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "東京チカラめし",
+          "ケイ・ブックス",
+          "KARAKUŞ",
+          "駿河屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.669686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.669686,
+        "lon": 135.498286,
+        "hidden_score": 0.931,
+        "poi_density": 0.912,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 282.5,
+        "poi_count": 54,
+        "ped_count": 42,
+        "city": "Osaka (Namba)",
+        "nearest_station": "大阪難波",
+        "poi_breakdown": {
+          "cafe": 6,
+          "shop": 17,
+          "restaurant": 31
+        },
+        "nearby_names": [
+          "Umiya Cafe",
+          "ファミリーマート",
+          "ローソン",
+          "おぼらだれん",
+          "旬平"
         ]
       }
     },
@@ -695,33 +1346,4086 @@
         "type": "Point",
         "coordinates": [
           135.503286,
+          34.663686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.663686,
+        "lon": 135.503286,
+        "hidden_score": 0.924,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 0.7,
+        "station_distance_m": 138.3,
+        "poi_count": 111,
+        "ped_count": 51,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "restaurant": 41,
+          "shop": 58,
+          "cafe": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "釜たけうどん",
+          "やよい軒",
+          "リンガーハット",
+          "ダイソー",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.663686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.663686,
+        "lon": 135.505286,
+        "hidden_score": 0.924,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 321.2,
+        "poi_count": 83,
+        "ped_count": 27,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 39,
+          "restaurant": 31,
+          "cafe": 12,
+          "park": 1
+        },
+        "nearby_names": [
+          "ドスパラ",
+          "釜たけうどん",
+          "東京チカラめし",
+          "カフェ・ベローチェ",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.665686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.665686,
+        "lon": 135.507286,
+        "hidden_score": 0.918,
+        "poi_density": 0.96,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 154.9,
+        "poi_count": 67,
+        "ped_count": 30,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "shop": 37,
+          "cafe": 3,
+          "restaurant": 27
+        },
+        "nearby_names": [
+          "ローソン",
+          "上島珈琲店",
+          "フグ料理大政",
+          "宮本書店",
+          "ふぐ青柳"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.503286,
+        "hidden_score": 0.917,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 179.1,
+        "poi_count": 92,
+        "ped_count": 25,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 36,
+          "cafe": 9,
+          "restaurant": 47
+        },
+        "nearby_names": [
+          "高島屋",
+          "スターバックス",
+          "釜たけうどん",
+          "金龍ラーメン",
+          "餃子の王将"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.665686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.665686,
+        "lon": 135.503286,
+        "hidden_score": 0.917,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 259.2,
+        "poi_count": 82,
+        "ped_count": 25,
+        "city": "Osaka (Namba)",
+        "nearest_station": "近鉄日本橋",
+        "poi_breakdown": {
+          "cafe": 7,
+          "shop": 24,
+          "restaurant": 51
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ファミリーマート",
+          "正宗屋",
+          "三田製麺所",
+          "金龍ラーメン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.662686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.662686,
+        "lon": 135.500286,
+        "hidden_score": 0.915,
+        "poi_density": 0.789,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 174.1,
+        "poi_count": 31,
+        "ped_count": 69,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 18,
+          "restaurant": 10,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "無印良品",
+          "TSUTAYA",
+          "天下一品",
+          "龍目井"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.671686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.671686,
+        "lon": 135.497286,
+        "hidden_score": 0.914,
+        "poi_density": 0.95,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 266.0,
+        "poi_count": 64,
+        "ped_count": 30,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "shop": 43,
+          "restaurant": 15,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "CoCo壱番屋",
+          "一風堂",
+          "ファミリーマート",
+          "びっくりドンキー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
           34.674686
         ]
       },
       "properties": {
         "location_name": "Hidden Spot (Osaka (Namba))",
         "lat": 34.674686,
-        "lon": 135.503286,
-        "hidden_score": 0.936,
-        "poi_density": 0.839,
+        "lon": 135.504286,
+        "hidden_score": 0.913,
+        "poi_density": 0.781,
         "pedestrian_space": 1.0,
         "station_distance_score": 1.0,
-        "station_distance_m": 268.6,
-        "poi_count": 47,
-        "ped_count": 60,
+        "station_distance_m": 196.8,
+        "poi_count": 30,
+        "ped_count": 70,
         "city": "Osaka (Namba)",
-        "nearest_station": "心斎橋",
+        "nearest_station": "長堀橋",
         "poi_breakdown": {
-          "shop": 18,
-          "cafe": 2,
-          "restaurant": 27
+          "restaurant": 21,
+          "shop": 6,
+          "cafe": 3
         },
         "nearby_names": [
+          "希望軒",
+          "ヒョンデカスタマーエクスペリエンスセンター 大阪",
+          "牛のひげ",
+          "焼肉味希",
+          "雷音"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.502286,
+        "hidden_score": 0.912,
+        "poi_density": 0.982,
+        "pedestrian_space": 0.947,
+        "station_distance_score": 0.7,
+        "station_distance_m": 123.1,
+        "poi_count": 74,
+        "ped_count": 48,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 39,
+          "cafe": 6,
+          "restaurant": 29
+        },
+        "nearby_names": [
+          "高島屋",
+          "スターバックス",
+          "やよい軒",
+          "金龍ラーメン",
+          "餃子の王将"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.501286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.501286,
+        "hidden_score": 0.911,
+        "poi_density": 0.928,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 122.3,
+        "poi_count": 58,
+        "ped_count": 75,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 39,
+          "cafe": 9,
+          "restaurant": 10
+        },
+        "nearby_names": [
+          "高島屋",
+          "スターバックス",
+          "無印良品",
+          "餃子の王将",
+          "お菓子のデパート ほっきょく"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.669686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.669686,
+        "lon": 135.497286,
+        "hidden_score": 0.911,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.975,
+        "station_distance_score": 1.0,
+        "station_distance_m": 282.1,
+        "poi_count": 33,
+        "ped_count": 54,
+        "city": "Osaka (Namba)",
+        "nearest_station": "大阪難波",
+        "poi_breakdown": {
+          "cafe": 6,
+          "shop": 11,
+          "restaurant": 16
+        },
+        "nearby_names": [
+          "Umiya Cafe",
           "ファミリーマート",
+          "珈琲艇 CABIN",
+          "もつ彦",
+          "かに道楽"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.656686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.656686,
+        "lon": 135.504286,
+        "hidden_score": 0.91,
+        "poi_density": 0.774,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 174.7,
+        "poi_count": 29,
+        "ped_count": 60,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 17,
+          "restaurant": 9,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "カンプリ",
+          "ローソンストア100",
+          "CoCo壱番屋",
+          "ゲーム探偵団",
+          "どんどん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.657686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.657686,
+        "lon": 135.504286,
+        "hidden_score": 0.91,
+        "poi_density": 0.796,
+        "pedestrian_space": 0.979,
+        "station_distance_score": 1.0,
+        "station_distance_m": 264.2,
+        "poi_count": 32,
+        "ped_count": 55,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 18,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "らーめん喜六",
+          "男靴",
+          "どんどん",
+          "塚口勇商店",
+          "山中阿弥陀堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.500286,
+        "hidden_score": 0.909,
+        "poi_density": 0.876,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 163.5,
+        "poi_count": 46,
+        "ped_count": 39,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "shop": 32,
+          "restaurant": 8,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "高島屋",
+          "ファミリーマート",
+          "無印良品",
+          "洋服の青山",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.667686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.667686,
+        "lon": 135.505286,
+        "hidden_score": 0.907,
+        "poi_density": 0.943,
+        "pedestrian_space": 0.975,
+        "station_distance_score": 0.7,
+        "station_distance_m": 94.4,
+        "poi_count": 62,
+        "ped_count": 54,
+        "city": "Osaka (Namba)",
+        "nearest_station": "近鉄日本橋",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 40,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "コクミン",
+          "尾道ラーメン 月光仮面",
+          "やよい軒",
+          "ファミリーマート",
+          "サイゼリヤ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.672686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.672686,
+        "lon": 135.497286,
+        "hidden_score": 0.907,
+        "poi_density": 0.932,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 158.0,
+        "poi_count": 59,
+        "ped_count": 30,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "restaurant": 18,
+          "shop": 33,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "どやどや",
+          "CoCo壱番屋",
+          "一風堂",
+          "ファミリーマート",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.659686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.659686,
+        "lon": 135.503286,
+        "hidden_score": 0.905,
+        "poi_density": 0.866,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 463.2,
+        "poi_count": 44,
+        "ped_count": 39,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 33,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "一真道",
+          "きくや酒販",
+          "らしんばん",
+          "めいどりーみん",
+          "メロンブックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.660686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.660686,
+        "lon": 135.504286,
+        "hidden_score": 0.905,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 402.8,
+        "poi_count": 89,
+        "ped_count": 22,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 70,
+          "cafe": 11,
+          "restaurant": 8
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "ケイ・ブックス",
+          "KARAKUŞ",
+          "駿河屋",
+          "一真道"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.668686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.668686,
+        "lon": 135.498286,
+        "hidden_score": 0.904,
+        "poi_density": 0.789,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 1.0,
+        "station_distance_m": 173.8,
+        "poi_count": 31,
+        "ped_count": 53,
+        "city": "Osaka (Namba)",
+        "nearest_station": "大阪難波",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 7,
+          "restaurant": 20
+        },
+        "nearby_names": [
+          "Umiya Cafe",
+          "ファミリーマート",
+          "とみ多",
+          "チャコール",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.675686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.675686,
+        "lon": 135.503286,
+        "hidden_score": 0.903,
+        "poi_density": 0.758,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 278.3,
+        "poi_count": 27,
+        "ped_count": 63,
+        "city": "Osaka (Namba)",
+        "nearest_station": "長堀橋",
+        "poi_breakdown": {
+          "cafe": 3,
+          "restaurant": 9,
+          "shop": 15
+        },
+        "nearby_names": [
           "タリーズコーヒー",
           "希望軒",
           "ヒョンデカスタマーエクスペリエンスセンター 大阪",
-          "カワチ画材"
+          "anello",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.653686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.653686,
+        "lon": 135.505286,
+        "hidden_score": 0.902,
+        "poi_density": 0.834,
+        "pedestrian_space": 0.921,
+        "station_distance_score": 1.0,
+        "station_distance_m": 215.4,
+        "poi_count": 38,
+        "ped_count": 43,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 17,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "らーめん亀王",
+          "エビスサイクル",
+          "甲州麺",
+          "桜苑"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.669686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.669686,
+        "lon": 135.504286,
+        "hidden_score": 0.901,
+        "poi_density": 0.916,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 334.8,
+        "poi_count": 55,
+        "ped_count": 30,
+        "city": "Osaka (Namba)",
+        "nearest_station": "近鉄日本橋",
+        "poi_breakdown": {
+          "restaurant": 44,
+          "shop": 8,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "かに道楽",
+          "ファミリーマート",
+          "みつる",
+          "一休",
+          "昌慶苑"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.663686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.663686,
+        "lon": 135.506286,
+        "hidden_score": 0.898,
+        "poi_density": 0.935,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 337.3,
+        "poi_count": 60,
+        "ped_count": 27,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "shop": 22,
+          "restaurant": 29,
+          "cafe": 7,
+          "park": 2
+        },
+        "nearby_names": [
+          "ドスパラ",
+          "東京チカラめし",
+          "ドトールコーヒーショップ",
+          "TAKE OFF",
+          "麺ノ國＋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.673686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.673686,
+        "lon": 135.499286,
+        "hidden_score": 0.898,
+        "poi_density": 0.899,
+        "pedestrian_space": 0.996,
+        "station_distance_score": 0.7,
+        "station_distance_m": 134.6,
+        "poi_count": 51,
+        "ped_count": 59,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 29,
+          "restaurant": 15,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "小粋",
+          "ミンミン",
+          "セブン-イレブン",
+          "どやどや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.670686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.670686,
+        "lon": 135.499286,
+        "hidden_score": 0.897,
+        "poi_density": 0.932,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 384.3,
+        "poi_count": 59,
+        "ped_count": 27,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "shop": 29,
+          "restaurant": 25,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "ミニストップ",
+          "本陣",
+          "もつ彦",
+          "家族亭",
+          "佐賀昇"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.665686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.665686,
+        "lon": 135.506286,
+        "hidden_score": 0.896,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 0.7,
+        "station_distance_m": 115.4,
+        "poi_count": 81,
+        "ped_count": 38,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "shop": 39,
+          "cafe": 3,
+          "restaurant": 39
+        },
+        "nearby_names": [
+          "ローソン",
+          "上島珈琲店",
+          "コクミン",
+          "尾道ラーメン 月光仮面",
+          "フグ料理大政"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.666686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.666686,
+        "lon": 135.504286,
+        "hidden_score": 0.896,
+        "poi_density": 0.986,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 0.7,
+        "station_distance_m": 131.6,
+        "poi_count": 75,
+        "ped_count": 40,
+        "city": "Osaka (Namba)",
+        "nearest_station": "近鉄日本橋",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 54,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "コクミン",
+          "ファミリーマート",
+          "尾道ラーメン 月光仮面",
+          "正宗屋",
+          "三田製麺所"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.669686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.669686,
+        "lon": 135.505286,
+        "hidden_score": 0.894,
+        "poi_density": 0.851,
+        "pedestrian_space": 0.885,
+        "station_distance_score": 1.0,
+        "station_distance_m": 302.0,
+        "poi_count": 41,
+        "ped_count": 37,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "restaurant": 32,
+          "cafe": 4,
+          "shop": 5
+        },
+        "nearby_names": [
+          "けー坊",
+          "カレーハウス T&A",
+          "奴茶屋",
+          "すし翔",
+          "焼肉福家"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.662686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.662686,
+        "lon": 135.506286,
+        "hidden_score": 0.892,
+        "poi_density": 0.957,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 426.6,
+        "poi_count": 66,
+        "ped_count": 23,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 37,
+          "restaurant": 17,
+          "cafe": 11,
+          "park": 1
+        },
+        "nearby_names": [
+          "ドスパラ",
+          "セブン-イレブン",
+          "東京チカラめし",
+          "ドトールコーヒーショップ",
+          "TAKE OFF"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.661686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.661686,
+        "lon": 135.504286,
+        "hidden_score": 0.891,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 317.9,
+        "poi_count": 92,
+        "ped_count": 19,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 57,
+          "cafe": 20,
+          "restaurant": 15
+        },
+        "nearby_names": [
+          "ローソン",
+          "KARAKUŞ",
+          "駿河屋",
+          "イエローサブマリン",
+          "おおきにコーヒー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.651686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.651686,
+        "lon": 135.506286,
+        "hidden_score": 0.89,
+        "poi_density": 0.924,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 380.6,
+        "poi_count": 57,
+        "ped_count": 26,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 36,
+          "shop": 14,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "串カツ横綱",
+          "餃子の王将",
+          "鶴亀家",
+          "エビス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.506286,
+        "hidden_score": 0.89,
+        "poi_density": 0.964,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 226.2,
+        "poi_count": 68,
+        "ped_count": 22,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "shop": 28,
+          "restaurant": 36,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "フグ料理大政",
+          "宮本書店",
+          "福来亭",
+          "萬牛"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.653686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.653686,
+        "lon": 135.506286,
+        "hidden_score": 0.889,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 1.0,
+        "station_distance_m": 220.1,
+        "poi_count": 30,
+        "ped_count": 47,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 12,
+          "shop": 11,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "らーめん亀王",
+          "桜苑",
+          "ROKU鮮",
+          "車屋",
+          "大阪王将"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.656686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.656686,
+        "lon": 135.505286,
+        "hidden_score": 0.888,
+        "poi_density": 0.871,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 125.8,
+        "poi_count": 45,
+        "ped_count": 65,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 32,
+          "restaurant": 9,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "カンプリ",
+          "ローソンストア100",
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "ゲーム探偵団"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.656686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.656686,
+        "lon": 135.506286,
+        "hidden_score": 0.888,
+        "poi_density": 0.908,
+        "pedestrian_space": 0.961,
+        "station_distance_score": 0.7,
+        "station_distance_m": 133.7,
+        "poi_count": 53,
+        "ped_count": 51,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 40,
+          "restaurant": 8,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "カンプリ",
+          "ローソンストア100",
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "ゲーム探偵団"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.668686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.668686,
+        "lon": 135.497286,
+        "hidden_score": 0.885,
+        "poi_density": 0.714,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 173.2,
+        "poi_count": 22,
+        "ped_count": 67,
+        "city": "Osaka (Namba)",
+        "nearest_station": "大阪難波",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 7,
+          "restaurant": 11
+        },
+        "nearby_names": [
+          "Umiya Cafe",
+          "ファミリーマート",
+          "珈琲艇 CABIN",
+          "ローソン",
+          "旬平"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.652686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.652686,
+        "lon": 135.505286,
+        "hidden_score": 0.884,
+        "poi_density": 0.845,
+        "pedestrian_space": 0.865,
+        "station_distance_score": 1.0,
+        "station_distance_m": 325.6,
+        "poi_count": 40,
+        "ped_count": 34,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 18,
+          "shop": 14,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "鶴亀家",
+          "桜苑",
+          "ROKU鮮"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.671686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.671686,
+        "lon": 135.496286,
+        "hidden_score": 0.883,
+        "poi_density": 0.881,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 265.0,
+        "poi_count": 47,
+        "ped_count": 29,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "shop": 34,
+          "restaurant": 10,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "CoCo壱番屋",
+          "一風堂",
+          "ファミリーマート",
+          "ステップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.660686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.660686,
+        "lon": 135.506286,
+        "hidden_score": 0.882,
+        "poi_density": 0.979,
+        "pedestrian_space": 0.926,
+        "station_distance_score": 0.6,
+        "station_distance_m": 528.9,
+        "poi_count": 73,
+        "ped_count": 44,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 53,
+          "cafe": 9,
+          "restaurant": 11
+        },
+        "nearby_names": [
+          "ローソン",
+          "セブン-イレブン",
+          "ソフトバンクショップ",
+          "Disc J.J.",
+          "ケイ・ブックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.652686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.652686,
+        "lon": 135.506286,
+        "hidden_score": 0.881,
+        "poi_density": 0.845,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 328.7,
+        "poi_count": 40,
+        "ped_count": 33,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 19,
+          "shop": 13,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "鶴亀家",
+          "桜苑",
+          "ROKU鮮"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.669686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.669686,
+        "lon": 135.496286,
+        "hidden_score": 0.881,
+        "poi_density": 0.703,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 310.1,
+        "poi_count": 21,
+        "ped_count": 60,
+        "city": "Osaka (Namba)",
+        "nearest_station": "大阪難波",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 11,
+          "restaurant": 6
+        },
+        "nearby_names": [
+          "Umiya Cafe",
+          "ファミリーマート",
+          "珈琲艇 CABIN",
+          "ローソン",
+          "L&L restaurant bar"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.672686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.672686,
+        "lon": 135.498286,
+        "hidden_score": 0.879,
+        "poi_density": 0.957,
+        "pedestrian_space": 0.741,
+        "station_distance_score": 1.0,
+        "station_distance_m": 205.6,
+        "poi_count": 66,
+        "ped_count": 20,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "shop": 41,
+          "restaurant": 17,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "小粋",
+          "ミンミン",
+          "セブン-イレブン",
+          "どやどや"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.658686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.658686,
+        "lon": 135.503286,
+        "hidden_score": 0.877,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 406.5,
+        "poi_count": 25,
+        "ped_count": 49,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 6,
+          "shop": 13,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "一真道",
+          "いつき商店",
+          "かね一機械工具",
+          "ファンハウス",
+          "気楽屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.672686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.672686,
+        "lon": 135.496286,
+        "hidden_score": 0.877,
+        "poi_density": 0.866,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 156.3,
+        "poi_count": 44,
+        "ped_count": 29,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "restaurant": 12,
+          "shop": 27,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "CoCo壱番屋",
+          "一風堂",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ステップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.675686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.675686,
+        "lon": 135.504286,
+        "hidden_score": 0.877,
+        "poi_density": 0.693,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 188.3,
+        "poi_count": 20,
+        "ped_count": 79,
+        "city": "Osaka (Namba)",
+        "nearest_station": "長堀橋",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 8,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "希望軒",
+          "ヒョンデカスタマーエクスペリエンスセンター 大阪",
+          "近江屋",
+          "吉次",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.665686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.665686,
+        "lon": 135.505286,
+        "hidden_score": 0.876,
+        "poi_density": 0.982,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 0.7,
+        "station_distance_m": 139.2,
+        "poi_count": 74,
+        "ped_count": 33,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "shop": 24,
+          "cafe": 2,
+          "restaurant": 48
+        },
+        "nearby_names": [
+          "ローソン",
+          "上島珈琲店",
+          "コクミン",
+          "ファミリーマート",
+          "尾道ラーメン 月光仮面"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.665686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.665686,
+        "lon": 135.504286,
+        "hidden_score": 0.875,
+        "poi_density": 0.986,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 187.6,
+        "poi_count": 75,
+        "ped_count": 17,
+        "city": "Osaka (Namba)",
+        "nearest_station": "近鉄日本橋",
+        "poi_breakdown": {
+          "shop": 18,
+          "restaurant": 52,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "尾道ラーメン 月光仮面",
+          "正宗屋",
+          "三田製麺所"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.675686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.675686,
+        "lon": 135.500286,
+        "hidden_score": 0.873,
+        "poi_density": 0.834,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 105.9,
+        "poi_count": 38,
+        "ped_count": 82,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 26,
+          "restaurant": 9,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "Under Armour",
+          "神座",
+          "anello",
+          "step",
+          "中華九"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.651686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.651686,
+        "lon": 135.505286,
+        "hidden_score": 0.869,
+        "poi_density": 0.89,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 320.2,
+        "poi_count": 49,
+        "ped_count": 24,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 30,
+          "shop": 12,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "つけ鴨うどん",
+          "エビスサイクル",
+          "デイリーヤマザキ",
+          "串カツ横綱",
+          "餃子の王将"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.666686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.666686,
+        "lon": 135.507286,
+        "hidden_score": 0.869,
+        "poi_density": 0.908,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 0.7,
+        "station_distance_m": 94.1,
+        "poi_count": 53,
+        "ped_count": 42,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "cafe": 4,
+          "shop": 25,
+          "restaurant": 24
+        },
+        "nearby_names": [
+          "上島珈琲店",
+          "コクミン",
+          "やよい軒",
+          "フグ料理大政",
+          "宮本書店"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.665686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.665686,
+        "lon": 135.499286,
+        "hidden_score": 0.867,
+        "poi_density": 0.861,
+        "pedestrian_space": 0.956,
+        "station_distance_score": 0.7,
+        "station_distance_m": 104.1,
+        "poi_count": 43,
+        "ped_count": 50,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "shop": 19,
+          "cafe": 4,
+          "restaurant": 20
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "タリーズコーヒー",
+          "洋服の青山",
+          "ファミリーマート",
+          "山賊"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.671686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.671686,
+        "lon": 135.498286,
+        "hidden_score": 0.864,
+        "poi_density": 0.932,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 296.7,
+        "poi_count": 59,
+        "ped_count": 19,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "shop": 42,
+          "restaurant": 11,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "かに道楽",
+          "一風堂",
+          "びっくりドンキー",
+          "ステップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.673686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.673686,
+        "lon": 135.502286,
+        "hidden_score": 0.864,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.659,
+        "station_distance_score": 1.0,
+        "station_distance_m": 199.2,
+        "poi_count": 92,
+        "ped_count": 14,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 57,
+          "restaurant": 27,
+          "cafe": 8
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "三木楽器",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.505286,
+        "hidden_score": 0.863,
+        "poi_density": 0.953,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 239.3,
+        "poi_count": 65,
+        "ped_count": 17,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "restaurant": 43,
+          "shop": 18,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "釜たけうどん",
+          "ローソン",
+          "福来亭",
+          "萬牛",
+          "大阪王将"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.668686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.668686,
+        "lon": 135.506286,
+        "hidden_score": 0.862,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 173.2,
+        "poi_count": 37,
+        "ped_count": 29,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "restaurant": 28,
+          "shop": 6,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "やよい軒",
+          "セブン-イレブン",
+          "PELTO",
+          "しんぱち食堂",
+          "日本橋ブックセンター"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.507286,
+        "hidden_score": 0.861,
+        "poi_density": 0.912,
+        "pedestrian_space": 0.741,
+        "station_distance_score": 1.0,
+        "station_distance_m": 248.7,
+        "poi_count": 54,
+        "ped_count": 20,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "restaurant": 25,
+          "shop": 25,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "萬牛",
+          "浪速屋",
+          "鳥清",
+          "ニューダルニー",
+          "サンバード"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.651686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.651686,
+        "lon": 135.507286,
+        "hidden_score": 0.859,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.819,
+        "station_distance_score": 1.0,
+        "station_distance_m": 451.7,
+        "poi_count": 37,
+        "ped_count": 28,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 26,
+          "shop": 8,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "餃子の王将",
+          "鶴亀家",
+          "エビス",
+          "タワーナイブズ",
+          "串かつだるま"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.491286,
+          34.671686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.671686,
+        "lon": 135.491286,
+        "hidden_score": 0.855,
+        "poi_density": 0.796,
+        "pedestrian_space": 0.843,
+        "station_distance_score": 1.0,
+        "station_distance_m": 387.4,
+        "poi_count": 32,
+        "ped_count": 31,
+        "city": "Osaka (Namba)",
+        "nearest_station": "桜川",
+        "poi_breakdown": {
+          "shop": 25,
+          "cafe": 3,
+          "restaurant": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "スーパー玉出",
+          "Fa.Fa",
+          "手作りおべんとうと喫茶のお店 カカオ",
+          "ランドリーバスケット ",
+          "POLISH.custom-hair"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.492286,
+          34.671686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.671686,
+        "lon": 135.492286,
+        "hidden_score": 0.855,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 418.9,
+        "poi_count": 33,
+        "ped_count": 30,
+        "city": "Osaka (Namba)",
+        "nearest_station": "桜川",
+        "poi_breakdown": {
+          "shop": 30,
+          "restaurant": 1,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "スーパー玉出",
+          "手作りおべんとうと喫茶のお店 カカオ",
+          "ランドリーバスケット ",
+          "good spoon",
+          "POLISH.custom-hair"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.659686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.659686,
+        "lon": 135.507286,
+        "hidden_score": 0.854,
+        "poi_density": 0.732,
+        "pedestrian_space": 0.903,
+        "station_distance_score": 1.0,
+        "station_distance_m": 478.2,
+        "poi_count": 24,
+        "ped_count": 40,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 16,
+          "cafe": 3,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "ローソン",
+          "Disc J.J.",
+          "サンマルクカフェ",
+          "シマムセン",
+          "ヒロイン特撮研究所"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.657686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.657686,
+        "lon": 135.507286,
+        "hidden_score": 0.853,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.891,
+        "station_distance_score": 1.0,
+        "station_distance_m": 275.6,
+        "poi_count": 25,
+        "ped_count": 38,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 5,
+          "shop": 17,
+          "cafe": 2,
+          "park": 1
+        },
+        "nearby_names": [
+          "CoCo壱番屋",
+          "つるまるうどん",
+          "上田無線",
+          "伊豆美",
+          "eイヤホン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.658686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.658686,
+        "lon": 135.507286,
+        "hidden_score": 0.853,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 1.0,
+        "station_distance_m": 374.1,
+        "poi_count": 19,
+        "ped_count": 49,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 13,
+          "restaurant": 4,
+          "park": 2
+        },
+        "nearby_names": [
+          "ワールドモバイル",
+          "明電工業株式会社",
+          "株式会社小池",
+          "上田無線",
+          "こけし"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.663686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.663686,
+        "lon": 135.499286,
+        "hidden_score": 0.853,
+        "poi_density": 0.774,
+        "pedestrian_space": 0.858,
+        "station_distance_score": 1.0,
+        "station_distance_m": 227.6,
+        "poi_count": 29,
+        "ped_count": 33,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "restaurant": 9,
+          "shop": 16,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "無印良品",
+          "TSUTAYA",
+          "中華料理大福",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.671686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.671686,
+        "lon": 135.493286,
+        "hidden_score": 0.853,
+        "poi_density": 0.822,
+        "pedestrian_space": 0.811,
+        "station_distance_score": 1.0,
+        "station_distance_m": 411.0,
+        "poi_count": 36,
+        "ped_count": 27,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "shop": 30,
+          "restaurant": 1,
+          "cafe": 4,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "Asoko Minamihorie",
+          "ランドリーバスケット ",
+          "good spoon",
+          "POLISH.custom-hair"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.663686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.663686,
+        "lon": 135.500286,
+        "hidden_score": 0.847,
+        "poi_density": 0.766,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 136.2,
+        "poi_count": 28,
+        "ped_count": 76,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "restaurant": 7,
+          "shop": 17,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "無印良品",
+          "TSUTAYA",
+          "天下一品",
+          "龍目井"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.674686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.674686,
+        "lon": 135.505286,
+        "hidden_score": 0.847,
+        "poi_density": 0.766,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 116.1,
+        "poi_count": 28,
+        "ped_count": 73,
+        "city": "Osaka (Namba)",
+        "nearest_station": "長堀橋",
+        "poi_breakdown": {
+          "restaurant": 19,
+          "shop": 5,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "希望軒",
+          "ベジテジヤ",
+          "焼肉味希",
+          "雷音",
+          "近江屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.674686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.674686,
+        "lon": 135.498286,
+        "hidden_score": 0.844,
+        "poi_density": 0.809,
+        "pedestrian_space": 0.952,
+        "station_distance_score": 0.7,
+        "station_distance_m": 111.8,
+        "poi_count": 34,
+        "ped_count": 49,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "restaurant": 7,
+          "shop": 22,
+          "cafe": 5
+        },
+        "nearby_names": [
+          "小粋",
+          "セブン-イレブン",
+          "どやどや",
+          "ローソン",
+          "DECO CHOCO"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.670686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.670686,
+        "lon": 135.497286,
+        "hidden_score": 0.842,
+        "poi_density": 0.876,
+        "pedestrian_space": 0.729,
+        "station_distance_score": 1.0,
+        "station_distance_m": 375.9,
+        "poi_count": 46,
+        "ped_count": 19,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "cafe": 5,
+          "shop": 32,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "Umiya Cafe",
+          "ファミリーマート",
+          "ファミリーマート",
+          "かに道楽",
+          "一風堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.666686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.666686,
+        "lon": 135.500286,
+        "hidden_score": 0.84,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 58.9,
+        "poi_count": 90,
+        "ped_count": 64,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "shop": 48,
+          "restaurant": 31,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ソフトバンクショップ",
+          "おたからや",
+          "どうとんぼり神座",
+          "金龍ラーメン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.667686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.667686,
+        "lon": 135.500286,
+        "hidden_score": 0.84,
+        "poi_density": 1.0,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 71.0,
+        "poi_count": 89,
+        "ped_count": 74,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "cafe": 8,
+          "shop": 50,
+          "restaurant": 31
+        },
+        "nearby_names": [
+          "スターバックス",
+          "ファミリーマート",
+          "COSMETICS",
+          "ファミリーマート",
+          "アウトレットコスメ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.671686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.671686,
+        "lon": 135.495286,
+        "hidden_score": 0.84,
+        "poi_density": 0.828,
+        "pedestrian_space": 0.773,
+        "station_distance_score": 1.0,
+        "station_distance_m": 293.9,
+        "poi_count": 37,
+        "ped_count": 23,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "shop": 28,
+          "restaurant": 3,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "一風堂",
+          "ファミリーマート",
+          "Westwood Bakers",
+          "X-girl"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.499286,
+        "hidden_score": 0.838,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.872,
+        "station_distance_score": 1.0,
+        "station_distance_m": 186.6,
+        "poi_count": 23,
+        "ped_count": 35,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 11,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "洋服の青山",
+          "ファミリーマート",
+          "山賊",
+          "とり一番本舗"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.665686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.665686,
+        "lon": 135.500286,
+        "hidden_score": 0.836,
+        "poi_density": 0.994,
+        "pedestrian_space": 0.996,
+        "station_distance_score": 0.2,
+        "station_distance_m": 52.3,
+        "poi_count": 78,
+        "ped_count": 59,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "shop": 44,
+          "restaurant": 25,
+          "cafe": 9
+        },
+        "nearby_names": [
+          "ソフトバンクショップ",
+          "どうとんぼり神座",
+          "ドコモショップ",
+          "ジュエリーアリア",
+          "ガスト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.663686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.663686,
+        "lon": 135.502286,
+        "hidden_score": 0.834,
+        "poi_density": 0.986,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 46.8,
+        "poi_count": 75,
+        "ped_count": 104,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 46,
+          "restaurant": 22,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "高島屋",
+          "やよい軒",
+          "無印良品",
+          "リンガーハット",
+          "ダイソー"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.669686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.669686,
+        "lon": 135.506286,
+        "hidden_score": 0.834,
+        "poi_density": 0.766,
+        "pedestrian_space": 0.819,
+        "station_distance_score": 1.0,
+        "station_distance_m": 284.2,
+        "poi_count": 28,
+        "ped_count": 28,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "restaurant": 21,
+          "cafe": 3,
+          "shop": 4
+        },
+        "nearby_names": [
+          "奴茶屋",
+          "すし翔",
+          "刀削麺",
+          "年年歳歳",
+          "TONI ONE"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.674686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.674686,
+        "lon": 135.497286,
+        "hidden_score": 0.834,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.921,
+        "station_distance_score": 0.7,
+        "station_distance_m": 87.0,
+        "poi_count": 35,
+        "ped_count": 43,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "shop": 21,
+          "restaurant": 7,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ローソン",
+          "DECO CHOCO",
+          "メガネスーパー",
+          "やよい軒",
+          "スターバックス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.504286,
+        "hidden_score": 0.833,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.583,
+        "station_distance_score": 1.0,
+        "station_distance_m": 256.4,
+        "poi_count": 80,
+        "ped_count": 10,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "restaurant": 46,
+          "shop": 26,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "釜たけうどん",
+          "金龍ラーメン",
+          "いちびり庵",
+          "大阪王将",
+          "CoCo壱番屋"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.654686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.654686,
+        "lon": 135.505286,
+        "hidden_score": 0.831,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.97,
+        "station_distance_score": 0.7,
+        "station_distance_m": 107.1,
+        "poi_count": 27,
+        "ped_count": 53,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 13,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "ローソンストア100",
+          "ローソン",
+          "らーめん亀王"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.670686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.670686,
+        "lon": 135.496286,
+        "hidden_score": 0.83,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.793,
+        "station_distance_score": 1.0,
+        "station_distance_m": 375.2,
+        "poi_count": 30,
+        "ped_count": 25,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "shop": 22,
+          "restaurant": 5,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "一風堂",
+          "ファミリーマート",
+          "Westwood Bakers"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.650686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.650686,
+        "lon": 135.505286,
+        "hidden_score": 0.828,
+        "poi_density": 0.866,
+        "pedestrian_space": 0.703,
+        "station_distance_score": 1.0,
+        "station_distance_m": 238.5,
+        "poi_count": 44,
+        "ped_count": 17,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "shop": 12,
+          "restaurant": 31,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "デイリーヤマザキ",
+          "串カツ横綱",
+          "餃子の王将",
+          "鶴亀家",
+          "エビス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.654686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.654686,
+        "lon": 135.504286,
+        "hidden_score": 0.827,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 1.0,
+        "station_distance_m": 161.7,
+        "poi_count": 17,
+        "ped_count": 41,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 8,
+          "restaurant": 9
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "らーめん亀王",
+          "セブン-イレブン",
+          "甲州麺"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.655686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.655686,
+        "lon": 135.504286,
+        "hidden_score": 0.823,
+        "poi_density": 0.723,
+        "pedestrian_space": 0.984,
+        "station_distance_score": 0.7,
+        "station_distance_m": 126.4,
+        "poi_count": 23,
+        "ped_count": 56,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 16,
+          "restaurant": 6,
+          "park": 1
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "カンプリ",
+          "ローソンストア100",
+          "赤松金物"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.650686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.650686,
+        "lon": 135.506286,
+        "hidden_score": 0.822,
+        "poi_density": 0.839,
+        "pedestrian_space": 0.716,
+        "station_distance_score": 1.0,
+        "station_distance_m": 315.1,
+        "poi_count": 39,
+        "ped_count": 18,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 32,
+          "shop": 6,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "串カツ横綱",
+          "餃子の王将",
+          "鶴亀家",
+          "エビス",
+          "串かつだるま"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.504286,
+          34.653686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.653686,
+        "lon": 135.504286,
+        "hidden_score": 0.822,
+        "poi_density": 0.703,
+        "pedestrian_space": 0.851,
+        "station_distance_score": 1.0,
+        "station_distance_m": 247.1,
+        "poi_count": 21,
+        "ped_count": 32,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 10,
+          "restaurant": 7,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ローソン",
+          "らーめん亀王",
+          "エビスサイクル",
+          "スーパー玉出"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.669686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.669686,
+        "lon": 135.495286,
+        "hidden_score": 0.821,
+        "poi_density": 0.631,
+        "pedestrian_space": 0.921,
+        "station_distance_score": 1.0,
+        "station_distance_m": 356.0,
+        "poi_count": 15,
+        "ped_count": 43,
+        "city": "Osaka (Namba)",
+        "nearest_station": "JR難波",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 7,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "珈琲艇 CABIN",
+          "ローソン",
+          "LOGIC",
+          "Westwood Bakers",
+          "ムーラン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.492286,
+          34.670686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.670686,
+        "lon": 135.492286,
+        "hidden_score": 0.821,
+        "poi_density": 0.75,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 322.9,
+        "poi_count": 26,
+        "ped_count": 26,
+        "city": "Osaka (Namba)",
+        "nearest_station": "桜川",
+        "poi_breakdown": {
+          "shop": 19,
+          "restaurant": 3,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "スーパー玉出",
+          "ファミリーマート",
+          "Asoko Minamihorie",
+          "good spoon",
+          "CROWN"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.672686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.672686,
+        "lon": 135.495286,
+        "hidden_score": 0.82,
+        "poi_density": 0.809,
+        "pedestrian_space": 0.741,
+        "station_distance_score": 1.0,
+        "station_distance_m": 201.5,
+        "poi_count": 34,
+        "ped_count": 20,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "restaurant": 11,
+          "shop": 17,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "CoCo壱番屋",
+          "ファミリーマート",
+          "ファミリーマート",
+          "和風亭",
+          "菜食インドレストランShama"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.654686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.654686,
+        "lon": 135.506286,
+        "hidden_score": 0.819,
+        "poi_density": 0.732,
+        "pedestrian_space": 0.966,
+        "station_distance_score": 0.7,
+        "station_distance_m": 116.3,
+        "poi_count": 24,
+        "ped_count": 52,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 12,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "ローソン",
+          "ファミリーマート",
+          "らーめん亀王",
+          "セブン-イレブン",
+          "甲州麺"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500286,
+          34.674686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.674686,
+        "lon": 135.500286,
+        "hidden_score": 0.819,
+        "poi_density": 0.946,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.2,
+        "station_distance_m": 19.9,
+        "poi_count": 63,
+        "ped_count": 105,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 39,
+          "cafe": 8,
+          "restaurant": 16
+        },
+        "nearby_names": [
+          "Under Armour",
+          "ファミリーマート",
+          "三木楽器",
+          "ALOOK",
+          "ドトールコーヒーショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493286,
+          34.672686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.672686,
+        "lon": 135.493286,
+        "hidden_score": 0.817,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 350.9,
+        "poi_count": 27,
+        "ped_count": 24,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "cafe": 3,
+          "shop": 22,
+          "restaurant": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "ランドリーバスケット ",
+          "POLISH.custom-hair",
+          "ホットクロス",
+          "CROWN",
+          "BlueBlue Osaka"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.515286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.515286,
+        "hidden_score": 0.814,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.878,
+        "station_distance_score": 1.0,
+        "station_distance_m": 260.4,
+        "poi_count": 17,
+        "ped_count": 36,
+        "city": "Osaka (Namba)",
+        "nearest_station": "谷町九丁目",
+        "poi_breakdown": {
+          "shop": 5,
+          "restaurant": 8,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "マネリパヤン",
+          "オルガンジー",
+          "ドラム村",
+          "タレトメッサ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.672686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.672686,
+        "lon": 135.502286,
+        "hidden_score": 0.814,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.534,
+        "station_distance_score": 1.0,
+        "station_distance_m": 269.4,
+        "poi_count": 107,
+        "ped_count": 8,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 57,
+          "restaurant": 43,
+          "cafe": 7
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "ファミリーマート",
+          "ABC-Mart",
+          "ドコモショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.673686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.673686,
+        "lon": 135.505286,
+        "hidden_score": 0.813,
+        "poi_density": 0.781,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 1.0,
+        "station_distance_m": 203.6,
+        "poi_count": 30,
+        "ped_count": 21,
+        "city": "Osaka (Namba)",
+        "nearest_station": "長堀橋",
+        "poi_breakdown": {
+          "restaurant": 22,
+          "shop": 5,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "希望軒",
+          "船場カリー",
+          "ファミリーマート",
+          "利八",
+          "ひょうたん"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.653686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.653686,
+        "lon": 135.507286,
+        "hidden_score": 0.812,
+        "poi_density": 0.658,
+        "pedestrian_space": 0.872,
+        "station_distance_score": 1.0,
+        "station_distance_m": 259.2,
+        "poi_count": 17,
+        "ped_count": 35,
+        "city": "Osaka (Namba)",
+        "nearest_station": "恵美須町",
+        "poi_breakdown": {
+          "restaurant": 8,
+          "shop": 7,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "桜苑",
+          "ROKU鮮",
+          "富よし",
+          "タワーナイブズ",
+          "総本家 釣鐘屋本舖"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.663686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.663686,
+        "lon": 135.507286,
+        "hidden_score": 0.809,
+        "poi_density": 0.834,
+        "pedestrian_space": 0.689,
+        "station_distance_score": 1.0,
+        "station_distance_m": 352.8,
+        "poi_count": 38,
+        "ped_count": 16,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "restaurant": 17,
+          "shop": 15,
+          "cafe": 5,
+          "park": 1
+        },
+        "nearby_names": [
+          "東京チカラめし",
+          "福来亭",
+          "momo to nana",
+          "バビロン",
+          "マリアス"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.491286,
+          34.670686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.670686,
+        "lon": 135.491286,
+        "hidden_score": 0.808,
+        "poi_density": 0.693,
+        "pedestrian_space": 0.827,
+        "station_distance_score": 1.0,
+        "station_distance_m": 280.8,
+        "poi_count": 20,
+        "ped_count": 29,
+        "city": "Osaka (Namba)",
+        "nearest_station": "桜川",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 3,
+          "cafe": 1,
+          "park": 1
+        },
+        "nearby_names": [
+          "スーパー玉出",
+          "Fa.Fa",
+          "good spoon",
+          "Beauty Academy",
+          "203"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.515286,
+          34.665686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.665686,
+        "lon": 135.515286,
+        "hidden_score": 0.806,
+        "poi_density": 0.732,
+        "pedestrian_space": 0.783,
+        "station_distance_score": 1.0,
+        "station_distance_m": 163.5,
+        "poi_count": 24,
+        "ped_count": 24,
+        "city": "Osaka (Namba)",
+        "nearest_station": "谷町九丁目",
+        "poi_breakdown": {
+          "shop": 11,
+          "restaurant": 9,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "ファミリーマート",
+          "ファミリーマート",
+          "蘭亭",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503286,
+          34.673686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.673686,
+        "lon": 135.503286,
+        "hidden_score": 0.804,
+        "poi_density": 0.886,
+        "pedestrian_space": 0.624,
+        "station_distance_score": 1.0,
+        "station_distance_m": 283.4,
+        "poi_count": 48,
+        "ped_count": 12,
+        "city": "Osaka (Namba)",
+        "nearest_station": "心斎橋",
+        "poi_breakdown": {
+          "shop": 15,
+          "restaurant": 33
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "餃子の王将",
+          "カワチ画材",
+          "SONAMU"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.499286,
+          34.662686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.662686,
+        "lon": 135.499286,
+        "hidden_score": 0.802,
+        "poi_density": 0.741,
+        "pedestrian_space": 0.763,
+        "station_distance_score": 1.0,
+        "station_distance_m": 252.2,
+        "poi_count": 25,
+        "ped_count": 22,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "restaurant": 12,
+          "shop": 11,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "つるまる",
+          "セブン-イレブン",
+          "TSUTAYA",
+          "餃子の王将",
+          "お食事処おくむら"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.664686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.664686,
+        "lon": 135.498286,
+        "hidden_score": 0.802,
+        "poi_density": 0.67,
+        "pedestrian_space": 0.835,
+        "station_distance_score": 1.0,
+        "station_distance_m": 193.5,
+        "poi_count": 18,
+        "ped_count": 30,
+        "city": "Osaka (Namba)",
+        "nearest_station": "なんば",
+        "poi_breakdown": {
+          "restaurant": 10,
+          "shop": 6,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "山賊",
+          "とり一番本舗",
+          "吉鳥"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.666686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.666686,
+        "lon": 135.506286,
+        "hidden_score": 0.802,
+        "poi_density": 0.964,
+        "pedestrian_space": 0.942,
+        "station_distance_score": 0.2,
+        "station_distance_m": 13.1,
+        "poi_count": 68,
+        "ped_count": 47,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "shop": 30,
+          "cafe": 4,
+          "restaurant": 34
+        },
+        "nearby_names": [
+          "ローソン",
+          "上島珈琲店",
+          "コクミン",
+          "尾道ラーメン 月光仮面",
+          "やよい軒"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.507286,
+          34.650686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.650686,
+        "lon": 135.507286,
+        "hidden_score": 0.801,
+        "poi_density": 0.75,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 1.0,
+        "station_distance_m": 398.0,
+        "poi_count": 26,
+        "ped_count": 21,
+        "city": "Osaka (Namba)",
+        "nearest_station": "新今宮駅前",
+        "poi_breakdown": {
+          "restaurant": 21,
+          "cafe": 1,
+          "shop": 4
+        },
+        "nearby_names": [
+          "餃子の王将",
+          "串かつだるま",
+          "夕コ天閣 新世界本店",
+          "あぶらや",
+          "近江屋 本店(ふわふわ串カツ)"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.508286,
+          34.665686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.665686,
+        "lon": 135.508286,
+        "hidden_score": 0.801,
+        "poi_density": 0.861,
+        "pedestrian_space": 0.642,
+        "station_distance_score": 1.0,
+        "station_distance_m": 226.7,
+        "poi_count": 43,
+        "ped_count": 13,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "restaurant": 19,
+          "shop": 23,
+          "cafe": 1
+        },
+        "nearby_names": [
+          "焼肉神戸屋",
+          "黒門さぬき市場",
+          "つけもの処 伊勢屋",
+          "魚仁",
+          "マルチク"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.508286,
+          34.666686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.666686,
+        "lon": 135.508286,
+        "hidden_score": 0.8,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.741,
+        "station_distance_score": 1.0,
+        "station_distance_m": 178.5,
+        "poi_count": 27,
+        "ped_count": 20,
+        "city": "Osaka (Namba)",
+        "nearest_station": "日本橋",
+        "poi_breakdown": {
+          "shop": 12,
+          "cafe": 3,
+          "restaurant": 12
+        },
+        "nearby_names": [
+          "オーエスドラッグ",
+          "黒門三平",
+          "牛兆",
+          "なべじ",
+          "マルショー水産"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.495286,
+          34.668686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.668686,
+        "lon": 135.495286,
+        "hidden_score": 0.8,
+        "poi_density": 0.5,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 244.8,
+        "poi_count": 8,
+        "ped_count": 65,
+        "city": "Osaka (Namba)",
+        "nearest_station": "JR難波",
+        "poi_breakdown": {
+          "cafe": 2,
+          "restaurant": 4,
+          "shop": 2
+        },
+        "nearby_names": [
+          "珈琲艇 CABIN",
+          "LOGIC",
+          "ミカサデコ&カフェ",
+          "ムーラン",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.496286,
+          34.668686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.668686,
+        "lon": 135.496286,
+        "hidden_score": 0.8,
+        "poi_density": 0.5,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 1.0,
+        "station_distance_m": 215.8,
+        "poi_count": 8,
+        "ped_count": 85,
+        "city": "Osaka (Namba)",
+        "nearest_station": "大阪難波",
+        "poi_breakdown": {
+          "cafe": 2,
+          "restaurant": 5,
+          "shop": 1
+        },
+        "nearby_names": [
+          "Umiya Cafe",
+          "珈琲艇 CABIN",
+          "L&L restaurant bar",
+          "ムーラン",
+          "ニューライト"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.670686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.670686,
+        "lon": 135.498286,
+        "hidden_score": 0.797,
+        "poi_density": 0.932,
+        "pedestrian_space": 0.56,
+        "station_distance_score": 1.0,
+        "station_distance_m": 392.5,
+        "poi_count": 59,
+        "ped_count": 9,
+        "city": "Osaka (Namba)",
+        "nearest_station": "大阪難波",
+        "poi_breakdown": {
+          "shop": 34,
+          "restaurant": 19,
+          "cafe": 6
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "ファミリーマート",
+          "ミニストップ",
+          "もつ彦",
+          "ファミリーマート"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.494286,
+          34.671686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.671686,
+        "lon": 135.494286,
+        "hidden_score": 0.797,
+        "poi_density": 0.802,
+        "pedestrian_space": 0.689,
+        "station_distance_score": 1.0,
+        "station_distance_m": 345.4,
+        "poi_count": 33,
+        "ped_count": 16,
+        "city": "Osaka (Namba)",
+        "nearest_station": "四ツ橋",
+        "poi_breakdown": {
+          "shop": 24,
+          "restaurant": 1,
+          "cafe": 7,
+          "park": 1
+        },
+        "nearby_names": [
+          "ファミリーマート",
+          "Asoko Minamihorie",
+          "セブン-イレブン",
+          "BlueBlue Osaka",
+          "ヤマザキショップ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.502286,
+          34.659686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.659686,
+        "lon": 135.502286,
+        "hidden_score": 0.795,
+        "poi_density": 0.616,
+        "pedestrian_space": 0.872,
+        "station_distance_score": 1.0,
+        "station_distance_m": 444.6,
+        "poi_count": 14,
+        "ped_count": 35,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "shop": 9,
+          "restaurant": 3,
+          "cafe": 2
+        },
+        "nearby_names": [
+          "ソフトバンク",
+          "エルム",
+          "トイザラス・ベビーザらス",
+          "クラッシュゲート",
+          "ローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.498286,
+          34.662686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.662686,
+        "lon": 135.498286,
+        "hidden_score": 0.794,
+        "poi_density": 0.732,
+        "pedestrian_space": 0.752,
+        "station_distance_score": 1.0,
+        "station_distance_m": 337.0,
+        "poi_count": 24,
+        "ped_count": 21,
+        "city": "Osaka (Namba)",
+        "nearest_station": "難波",
+        "poi_breakdown": {
+          "restaurant": 11,
+          "shop": 9,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "つるまる",
+          "セブン-イレブン",
+          "中華料理大福",
+          "ファミリーマート",
+          "宮"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.497286,
+          34.658686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.658686,
+        "lon": 135.497286,
+        "hidden_score": 0.793,
+        "poi_density": 0.682,
+        "pedestrian_space": 0.802,
+        "station_distance_score": 1.0,
+        "station_distance_m": 277.0,
+        "poi_count": 19,
+        "ped_count": 26,
+        "city": "Osaka (Namba)",
+        "nearest_station": "大国町",
+        "poi_breakdown": {
+          "shop": 14,
+          "restaurant": 5
+        },
+        "nearby_names": [
+          "ダイコクドラッグ",
+          "ファミリーマート",
+          "肉のハナマサPLUS 大国町店",
+          "セブン-イレブン",
+          "食いしん坊"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505286,
+          34.666686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.666686,
+        "lon": 135.505286,
+        "hidden_score": 0.791,
+        "poi_density": 0.946,
+        "pedestrian_space": 0.931,
+        "station_distance_score": 0.2,
+        "station_distance_m": 45.2,
+        "poi_count": 63,
+        "ped_count": 45,
+        "city": "Osaka (Namba)",
+        "nearest_station": "近鉄日本橋",
+        "poi_breakdown": {
+          "shop": 23,
+          "cafe": 4,
+          "restaurant": 36
+        },
+        "nearby_names": [
+          "ローソン",
+          "上島珈琲店",
+          "コクミン",
+          "ファミリーマート",
+          "尾道ラーメン 月光仮面"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.506286,
+          34.673686
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Osaka (Namba))",
+        "lat": 34.673686,
+        "lon": 135.506286,
+        "hidden_score": 0.79,
+        "poi_density": 0.758,
+        "pedestrian_space": 0.716,
+        "station_distance_score": 1.0,
+        "station_distance_m": 181.4,
+        "poi_count": 27,
+        "ped_count": 18,
+        "city": "Osaka (Namba)",
+        "nearest_station": "長堀橋",
+        "poi_breakdown": {
+          "restaurant": 16,
+          "shop": 8,
+          "cafe": 3
+        },
+        "nearby_names": [
+          "船場カリー",
+          "ファミリーマート",
+          "利八",
+          "ひょうたん",
+          "かむろ"
         ]
       }
     }

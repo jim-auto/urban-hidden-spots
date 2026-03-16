@@ -39,6 +39,30 @@ CITIES = {
         "lon": 136.9084,
         "radius": 2000,
     },
+    "tokyo_shinjuku": {
+        "name": "Tokyo (Shinjuku)",
+        "lat": 35.6916,
+        "lon": 139.6997,
+        "radius": 1500,
+    },
+    "tokyo_ikebukuro": {
+        "name": "Tokyo (Ikebukuro)",
+        "lat": 35.7302,
+        "lon": 139.7130,
+        "radius": 1500,
+    },
+    "tokyo_ueno": {
+        "name": "Tokyo (Ueno)",
+        "lat": 35.7140,
+        "lon": 139.7771,
+        "radius": 1500,
+    },
+    "yokohama": {
+        "name": "Yokohama",
+        "lat": 35.4660,
+        "lon": 139.6226,
+        "radius": 2000,
+    },
 }
 
 # 有名観光地の座標リスト (name, lat, lon, city)
@@ -63,6 +87,27 @@ FAMOUS_SPOTS = [
     ("ラシック", 35.1675, 136.9077, "Nagoya (Sakae)"),
     ("三越 栄店", 35.1700, 136.9068, "Nagoya (Sakae)"),
     ("矢場町", 35.1647, 136.9082, "Nagoya (Sakae)"),
+    # Shinjuku
+    ("新宿駅南口", 35.6896, 139.6999, "Tokyo (Shinjuku)"),
+    ("歌舞伎町", 35.6946, 139.7031, "Tokyo (Shinjuku)"),
+    ("新宿御苑", 35.6852, 139.7100, "Tokyo (Shinjuku)"),
+    ("都庁", 35.6896, 139.6917, "Tokyo (Shinjuku)"),
+    ("新宿アルタ", 35.6931, 139.7010, "Tokyo (Shinjuku)"),
+    # Ikebukuro
+    ("池袋駅東口", 35.7296, 139.7144, "Tokyo (Ikebukuro)"),
+    ("サンシャイン60", 35.7293, 139.7188, "Tokyo (Ikebukuro)"),
+    ("池袋西口公園", 35.7310, 139.7104, "Tokyo (Ikebukuro)"),
+    # Ueno
+    ("上野公園", 35.7146, 139.7745, "Tokyo (Ueno)"),
+    ("アメ横", 35.7101, 139.7747, "Tokyo (Ueno)"),
+    ("上野動物園", 35.7164, 139.7713, "Tokyo (Ueno)"),
+    ("東京国立博物館", 35.7189, 139.7766, "Tokyo (Ueno)"),
+    # Yokohama
+    ("横浜駅", 35.4660, 139.6226, "Yokohama"),
+    ("みなとみらい", 35.4577, 139.6325, "Yokohama"),
+    ("中華街", 35.4426, 139.6454, "Yokohama"),
+    ("赤レンガ倉庫", 35.4531, 139.6428, "Yokohama"),
+    ("山下公園", 35.4440, 139.6500, "Yokohama"),
 ]
 FAMOUS_RADIUS_M = 180
 
@@ -84,11 +129,11 @@ def load_geojson(path):
 
 
 def station_distance_score(dist_m):
-    """駅からの距離に基づくスコア (0-1)。200m〜500mで最大。"""
-    if dist_m < 100:
-        return 0.1  # 駅前すぎる
-    elif dist_m < 200:
-        return 0.5
+    """駅からの距離に基づくスコア (0-1)。150m〜500mで最大。"""
+    if dist_m < 80:
+        return 0.2  # 駅前すぎる
+    elif dist_m < 150:
+        return 0.7
     elif dist_m <= 500:
         return 1.0  # 最適距離
     elif dist_m <= 800:
@@ -218,7 +263,7 @@ def compute_hidden_scores(city_key, city_info):
                 continue
 
             # 正規化 (0-1) — 対数スケールで差をつける
-            poi_density = min(math.log1p(poi_count) / math.log1p(100), 1.0)
+            poi_density = min(math.log1p(poi_count) / math.log1p(80), 1.0)
             ped_score = min(math.log1p(ped_count) / math.log1p(60), 1.0)
 
             # 最寄り駅
@@ -299,13 +344,14 @@ def main():
 
         if results:
             # 都市別に保存
-            city_geojson = results_to_geojson(results, top_n=20)
+            top_n = min(len(results), 150)
+            city_geojson = results_to_geojson(results, top_n=top_n)
             city_path = ANALYSIS_DIR / f"{city_key}_hidden_spots.geojson"
             with open(city_path, "w", encoding="utf-8") as f:
                 json.dump(city_geojson, f, ensure_ascii=False, indent=2)
-            print(f"  Saved top spots -> {city_path}")
+            print(f"  Saved top {top_n} spots -> {city_path}")
 
-            all_results.extend(results[:20])
+            all_results.extend(results[:top_n])
 
     # 全都市統合版を保存 (docs/に配置してGitHub Pagesで使う)
     combined_geojson = results_to_geojson(all_results, top_n=len(all_results))

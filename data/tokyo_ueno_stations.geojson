@@ -1,0 +1,745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7746303,
+          35.7069531
+        ]
+      },
+      "properties": {
+        "osm_id": 236578383,
+        "osm_type": "node",
+        "name": "御徒町",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=355",
+          "name": "御徒町",
+          "name:de": "Okachimachi",
+          "name:en": "Okachimachi",
+          "name:es": "Okachimachi",
+          "name:fr": "Okachimachi",
+          "name:it": "Okachimachi",
+          "name:ja": "御徒町",
+          "name:ja-Hira": "おかちまち",
+          "name:ja-Latn": "Okachimachi",
+          "name:ko": "오카치마치",
+          "name:ru": "Окатимати",
+          "name:th": "โอคาจิมาจิ",
+          "name:zh": "御徒町",
+          "name:zh-Hans": "御徒町",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JK29;JY04",
+          "train": "yes",
+          "wikidata": "Q801296",
+          "wikipedia": "ja:御徒町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7765418,
+          35.7134128
+        ]
+      },
+      "properties": {
+        "osm_id": 236578444,
+        "osm_type": "node",
+        "name": "上野",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=204",
+          "highspeed": "yes",
+          "name": "上野",
+          "name:de": "Ueno",
+          "name:en": "Ueno",
+          "name:es": "Ueno",
+          "name:fr": "Ueno",
+          "name:it": "Ueno",
+          "name:ja": "上野",
+          "name:ja-Hira": "うえの",
+          "name:ja-Latn": "Ueno",
+          "name:ko": "우에노",
+          "name:ru": "Уэно",
+          "name:th": "อุเอโนะ",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "UEN",
+          "source": "KSJ2",
+          "toilets:wheelchair": "yes",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q801551",
+          "wikipedia": "ja:上野駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7779166,
+          35.7217035
+        ]
+      },
+      "properties": {
+        "osm_id": 236578577,
+        "osm_type": "node",
+        "name": "鶯谷",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=209",
+          "name": "鶯谷",
+          "name:de": "Uguisudani",
+          "name:en": "Uguisudani",
+          "name:es": "Uguisudani",
+          "name:fr": "Uguisudani",
+          "name:it": "Uguisudani",
+          "name:ja": "鶯谷",
+          "name:ja-Hira": "うぐいすだに",
+          "name:ja-Latn": "Uguisudani",
+          "name:ko": "우구이스다니",
+          "name:ru": "Угуисудани",
+          "name:th": "อุกุยสึดานิ",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "JK31;JY06",
+          "toilets:wheelchair": "yes",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q801546",
+          "wikipedia": "ja:鶯谷駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7735044,
+          35.7109406
+        ]
+      },
+      "properties": {
+        "osm_id": 2407466991,
+        "osm_type": "node",
+        "name": "京成上野",
+        "category": "station",
+        "tags": {
+          "addr:block_number": "60",
+          "addr:country": "JP",
+          "addr:neighbourhood": "1丁目",
+          "addr:postcode": "110-0007",
+          "addr:province": "東京都",
+          "addr:quarter": "上野公園",
+          "addr:suburb": "台東区",
+          "name": "京成上野",
+          "name:en": "Keisei-Ueno",
+          "name:es": "Keisei-Ueno",
+          "name:it": "Keisei Ueno",
+          "name:ja": "京成上野",
+          "name:ja-Latn": "Keisei-Ueno",
+          "name:ko": "게이세이우에노",
+          "network": "京成",
+          "operator": "京成電鉄",
+          "operator:en": "Keisei Electric Railway",
+          "phone": "+81 3 3831 2528",
+          "platforms": "2",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "KS01",
+          "toilets:wheelchair": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q907059",
+          "wikipedia": "ja:京成上野駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7761952,
+          35.7064914
+        ]
+      },
+      "properties": {
+        "osm_id": 5411585752,
+        "osm_type": "node",
+        "name": "仲御徒町",
+        "category": "station",
+        "tags": {
+          "name": "仲御徒町",
+          "name:en": "Naka-okachimachi",
+          "name:es": "Naka-okachimachi",
+          "name:ja": "仲御徒町",
+          "name:ja-Hira": "なかおかちまち",
+          "name:ko": "나카오카치마치",
+          "name:zh": "仲御徒町",
+          "name:zh-Hans": "仲御徒町",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q1072993",
+          "wikipedia": "ja:仲御徒町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7700104,
+          35.7073329
+        ]
+      },
+      "properties": {
+        "osm_id": 6190974817,
+        "osm_type": "node",
+        "name": "湯島",
+        "category": "station",
+        "tags": {
+          "colour": "green",
+          "name": "湯島",
+          "name:en": "Yushima",
+          "name:es": "Yushima",
+          "name:ja": "湯島",
+          "name:ja-Hira": "ゆしま",
+          "name:ja_rm": "Yushima",
+          "name:ko": "유시마",
+          "name:ru": "Юсима",
+          "name:zh": "汤岛",
+          "name:zh-Hans": "汤岛",
+          "network": "東京メトロ千代田線",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "C13",
+          "station": "subway",
+          "subway": "yes",
+          "transport": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q390694",
+          "wikipedia": "ja:湯島駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7732996,
+          35.7079766
+        ]
+      },
+      "properties": {
+        "osm_id": 6199814789,
+        "osm_type": "node",
+        "name": "上野御徒町",
+        "category": "station",
+        "tags": {
+          "name": "上野御徒町",
+          "name:en": "Ueno-okachimachi",
+          "name:es": "Ueno-okachimachi",
+          "name:ja": "上野御徒町",
+          "name:ja-Hira": "うえのおかちまち",
+          "name:ja_rm": "Ueno Okachimachi",
+          "name:ko": "우에노오카치마치",
+          "name:zh": "上野御徒町",
+          "name:zh-Hans": "上野御徒町",
+          "network": "都営地下鉄",
+          "network:en": "Toei subway",
+          "operator": "東京都交通局",
+          "operator:en": "Toei",
+          "operator:wikidata": "Q1377135",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "E09",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q80555",
+          "wikipedia": "ja:上野御徒町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7818428,
+          35.7070597
+        ]
+      },
+      "properties": {
+        "osm_id": 6209017478,
+        "osm_type": "node",
+        "name": "新御徒町",
+        "category": "station",
+        "tags": {
+          "name": "新御徒町",
+          "name:en": "Shin-okachimachi",
+          "name:es": "Shin-Okachimachi",
+          "name:ja": "新御徒町",
+          "name:ja-Hira": "しんおかちまち",
+          "name:ja_rm": "Shin Okachimachi",
+          "name:ko": "신오카치마치",
+          "name:ru": "Син-Окатимати",
+          "name:zh": "新御徒町",
+          "name:zh-Hans": "新御徒町",
+          "network": "都営地下鉄",
+          "network:en": "Toei subway",
+          "operator": "東京都交通局",
+          "operator:en": "Toei",
+          "operator:wikidata": "Q1377135",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "E10",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q80540",
+          "wikipedia": "ja:新御徒町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7820289,
+          35.7070114
+        ]
+      },
+      "properties": {
+        "osm_id": 6209071059,
+        "osm_type": "node",
+        "name": "新御徒町",
+        "category": "station",
+        "tags": {
+          "name": "新御徒町",
+          "name:en": "Shin-Okachimachi",
+          "name:es": "Shin-Okachimachi",
+          "name:ja": "新御徒町",
+          "name:ja-Hira": "しんおかちまち",
+          "name:ja_rm": "Shin Okachimachi",
+          "name:ko": "신오카치마치",
+          "name:ru": "Син-Окатимати",
+          "name:zh": "新御徒町",
+          "name:zh-Hans": "新御徒町",
+          "operator": "首都圏新都市鉄道",
+          "platforms": "1",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "02",
+          "wikidata": "Q80540",
+          "wikipedia": "ja:新御徒町駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.792416,
+          35.7136174
+        ]
+      },
+      "properties": {
+        "osm_id": 7412555523,
+        "osm_type": "node",
+        "name": "浅草",
+        "category": "station",
+        "tags": {
+          "name": "浅草",
+          "name:en": "Asakusa",
+          "name:es": "Asakusa Tsukuba",
+          "name:ja": "浅草",
+          "name:ja-Hira": "あさくさ",
+          "name:ja_rm": "Asakusa",
+          "name:ko": "아사쿠사",
+          "name:ru": "Асакуса",
+          "operator": "首都圏新都市鉄道",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "03",
+          "wikidata": "Q4803450",
+          "wikipedia": "ja:浅草駅 (首都圏新都市鉄道)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7657175,
+          35.7173914
+        ]
+      },
+      "properties": {
+        "osm_id": 7777176885,
+        "osm_type": "node",
+        "name": "根津",
+        "category": "station",
+        "tags": {
+          "colour": "green",
+          "name": "根津",
+          "name:en": "Nezu",
+          "name:es": "Nezu",
+          "name:fr": "Nezu",
+          "name:ja-Hira": "ねづ",
+          "name:ja-Latn": "Nezu",
+          "name:ko": "네즈",
+          "name:ru": "Нэдзу",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "C14",
+          "station": "subway",
+          "subway": "yes",
+          "train": "yes",
+          "transport": "subway",
+          "wikidata": "Q390655",
+          "wikipedia": "ja:根津駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7716793,
+          35.7029361
+        ]
+      },
+      "properties": {
+        "osm_id": 7786715955,
+        "osm_type": "node",
+        "name": "末広町",
+        "category": "station",
+        "tags": {
+          "colour": "orange",
+          "name": "末広町",
+          "name:en": "Suehirocho",
+          "name:es": "Suehirocho",
+          "name:ja": "末広町",
+          "name:ja-Hira": "すえひろちょう",
+          "name:ja_rm": "Suehirochō",
+          "name:ko": "스에히로쵸",
+          "name:ru": "Суэхиротё",
+          "name:zh": "末廣町",
+          "name:zh-Hans": "末广町",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "G14",
+          "station": "subway",
+          "subway": "yes",
+          "train": "yes",
+          "transport": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q347988",
+          "wikipedia": "ja:末広町駅 (東京都)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7729909,
+          35.7078328
+        ]
+      },
+      "properties": {
+        "osm_id": 7786715956,
+        "osm_type": "node",
+        "name": "上野広小路",
+        "category": "station",
+        "tags": {
+          "colour": "orange",
+          "name": "上野広小路",
+          "name:en": "Ueno-hirokoji",
+          "name:es": "Ueno-hirokoji",
+          "name:ja": "上野広小路",
+          "name:ja-Hira": "うえのひろこうじ",
+          "name:ja_rm": "Ueno Hirokōji",
+          "name:ko": "우에노히로코지",
+          "name:ru": "Уэно Хирокодзи",
+          "name:zh": "上野廣小路",
+          "name:zh-Hans": "上野广小路",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "G15",
+          "station": "subway",
+          "subway": "yes",
+          "transport": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q1156446",
+          "wikipedia": "ja:上野広小路駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7761542,
+          35.7117081
+        ]
+      },
+      "properties": {
+        "osm_id": 7786715957,
+        "osm_type": "node",
+        "name": "上野",
+        "category": "station",
+        "tags": {
+          "colour": "orange",
+          "name": "上野",
+          "name:en": "Ueno",
+          "name:es": "Ueno",
+          "name:fr": "Ueno",
+          "name:it": "Ueno",
+          "name:ja": "上野",
+          "name:ja-Hira": "うえの",
+          "name:ja-Latn": "Ueno",
+          "name:ko": "우에노",
+          "name:ru": "Уэно",
+          "name:zh": "上野",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "G16 H18",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q801551",
+          "wikipedia": "ja:上野駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7826851,
+          35.7113867
+        ]
+      },
+      "properties": {
+        "osm_id": 7786715958,
+        "osm_type": "node",
+        "name": "稲荷町",
+        "category": "station",
+        "tags": {
+          "colour": "orange",
+          "name": "稲荷町",
+          "name:en": "Inaricho",
+          "name:es": "Inaricho",
+          "name:ja": "稲荷町",
+          "name:ja-Hira": "いなりちょう",
+          "name:ja_rm": "Inarichō",
+          "name:ko": "이나리초",
+          "name:ru": "Инаритё",
+          "name:zh": "稲荷町",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "G17",
+          "station": "subway",
+          "subway": "yes",
+          "transport": "subway",
+          "wikidata": "Q347996",
+          "wikipedia": "ja:稲荷町駅 (東京都)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7907549,
+          35.7098357
+        ]
+      },
+      "properties": {
+        "osm_id": 7786715959,
+        "osm_type": "node",
+        "name": "田原町",
+        "category": "station",
+        "tags": {
+          "colour": "orange",
+          "name": "田原町",
+          "name:en": "Tawaramachi",
+          "name:es": "Tawaramachi",
+          "name:ja": "田原町",
+          "name:ja-Hira": "たわらまち",
+          "name:ja_rm": "Tawaramachi",
+          "name:ko": "다와라마치 역 (도쿄 도)",
+          "name:ru": "Таварамати",
+          "name:zh": "田原町",
+          "network": "東京メトロ",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "G18",
+          "start_date": "1927",
+          "station": "subway",
+          "subway": "yes",
+          "transport": "subway",
+          "wheelchair": "yes",
+          "wikidata": "Q1196090",
+          "wikipedia": "ja:田原町駅 (東京都)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7775694,
+          35.7118212
+        ]
+      },
+      "properties": {
+        "osm_id": 7786715981,
+        "osm_type": "node",
+        "name": "上野",
+        "category": "station",
+        "tags": {
+          "name": "上野",
+          "name:en": "Ueno",
+          "name:es": "Ueno",
+          "name:fr": "Ueno",
+          "name:it": "Ueno",
+          "name:ja": "上野",
+          "name:ja-Hira": "うえの",
+          "name:ja-Latn": "Ueno",
+          "name:ko": "우에노",
+          "name:ru": "Уэно",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H18",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q801551",
+          "wikipedia": "ja:上野駅"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7845821,
+          35.720709
+        ]
+      },
+      "properties": {
+        "osm_id": 7786715982,
+        "osm_type": "node",
+        "name": "入谷",
+        "category": "station",
+        "tags": {
+          "colour": "gray",
+          "name": "入谷",
+          "name:en": "Iriya",
+          "name:ja": "入谷",
+          "name:ja-Hira": "いりや",
+          "name:ja_rm": "Iriya",
+          "name:ko": "이리야",
+          "name:ru": "Ирия",
+          "operator": "東京地下鉄",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "H19",
+          "station": "subway",
+          "subway": "yes",
+          "transport": "subway",
+          "wikidata": "Q1073228",
+          "wikipedia": "ja:入谷駅 (東京都)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7773343,
+          35.7130782
+        ]
+      },
+      "properties": {
+        "osm_id": 13207583283,
+        "osm_type": "node",
+        "name": "上野",
+        "category": "station",
+        "tags": {
+          "contact:website": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=204",
+          "highspeed": "yes",
+          "name": "上野",
+          "name:de": "Ueno",
+          "name:en": "Ueno",
+          "name:es": "Ueno",
+          "name:fr": "Ueno",
+          "name:it": "Ueno",
+          "name:ja": "上野",
+          "name:ja-Hira": "うえの",
+          "name:ja-Latn": "Ueno",
+          "name:ko": "우에노",
+          "name:ru": "Уэно",
+          "name:th": "อุเอโนะ",
+          "operator": "東日本旅客鉄道",
+          "operator:en": "East Japan Railway Company",
+          "operator:ja": "東日本旅客鉄道",
+          "operator:wikidata": "Q499071",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "KSJ2",
+          "toilets:wheelchair": "yes",
+          "train": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q801551",
+          "wikipedia": "ja:上野駅"
+        }
+      }
+    }
+  ]
+}

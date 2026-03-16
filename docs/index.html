@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Urban Hidden Spots - 都市の穴場マップ</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: 'Segoe UI', sans-serif; }
@@ -228,6 +230,48 @@
       border-radius: 50%;
       display: inline-block;
     }
+    /* Cluster icon - orange tones */
+    .marker-cluster-small,
+    .marker-cluster-medium,
+    .marker-cluster-large {
+      background-color: rgba(230, 81, 0, 0.25);
+    }
+    .marker-cluster-small div,
+    .marker-cluster-medium div,
+    .marker-cluster-large div {
+      background-color: rgba(230, 81, 0, 0.7);
+      color: #fff;
+      font-weight: 700;
+      font-size: 0.82rem;
+    }
+    /* Mobile responsive */
+    @media (max-width: 768px) {
+      #header {
+        padding: 10px 14px;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+      #header h1 {
+        font-size: 1.1rem;
+      }
+      #city-selector {
+        flex-wrap: wrap;
+        gap: 6px;
+        width: 100%;
+      }
+      .city-btn {
+        padding: 4px 10px;
+        font-size: 0.78rem;
+      }
+      .about-btn {
+        width: 28px;
+        height: 28px;
+        font-size: 0.9rem;
+      }
+      #map {
+        height: calc(100vh - 100px);
+      }
+    }
   </style>
 </head>
 <body>
@@ -306,6 +350,7 @@
   <div id="map"></div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
   <script>
     // モーダル開閉
     const overlay = document.getElementById('modal-overlay');
@@ -333,7 +378,22 @@
       maxZoom: 19,
     }).addTo(map);
 
-    let markers = [];
+    let clusterGroup = L.markerClusterGroup({
+      maxClusterRadius: 60,
+      iconCreateFunction: function (cluster) {
+        const count = cluster.getChildCount();
+        let size = 'small';
+        if (count >= 50) size = 'large';
+        else if (count >= 10) size = 'medium';
+        return L.divIcon({
+          html: '<div><span>' + count + '</span></div>',
+          className: 'marker-cluster marker-cluster-' + size,
+          iconSize: L.point(40, 40),
+        });
+      },
+    });
+    clusterGroup.addTo(map);
+
     let famousMarkers = [];
     let famousData = null;
 
@@ -440,9 +500,9 @@
     }
 
     function displaySpots(data, cityFilter) {
-      markers.forEach(m => map.removeLayer(m));
-      markers = [];
+      clusterGroup.clearLayers();
 
+      const layers = [];
       data.features.forEach(feature => {
         const props = feature.properties;
         if (cityFilter && cityFilter !== 'all' && props.city !== cityFilter) return;
@@ -458,11 +518,13 @@
           weight: 2,
           opacity: 0.9,
           fillOpacity: 0.75,
-        }).addTo(map);
+        });
 
         marker.bindPopup(createPopup(props));
-        markers.push(marker);
+        layers.push(marker);
       });
+
+      clusterGroup.addLayers(layers);
 
       displayFamous(cityFilter);
     }

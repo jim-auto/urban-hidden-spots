@@ -379,12 +379,19 @@
     }).addTo(map);
 
     let clusterGroup = L.markerClusterGroup({
-      maxClusterRadius: 60,
+      maxClusterRadius: function (zoom) {
+        // ズーム13以上では無効、広域時のみクラスタリング
+        if (zoom >= 13) return 1;
+        if (zoom >= 10) return 30;
+        return 50;
+      },
+      disableClusteringAtZoom: 14,
+      spiderfyOnMaxZoom: false,
       iconCreateFunction: function (cluster) {
         const count = cluster.getChildCount();
         let size = 'small';
-        if (count >= 50) size = 'large';
-        else if (count >= 10) size = 'medium';
+        if (count >= 100) size = 'large';
+        else if (count >= 30) size = 'medium';
         return L.divIcon({
           html: '<div><span>' + count + '</span></div>',
           className: 'marker-cluster marker-cluster-' + size,

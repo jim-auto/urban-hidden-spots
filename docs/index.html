@@ -393,9 +393,9 @@
         if (count >= 100) size = 'large';
         else if (count >= 30) size = 'medium';
         return L.divIcon({
-          html: '<div><span>' + count + '</span></div>',
+          html: '<div title="このエリアに穴場スポットが' + count + '件あります（クリックでズーム）"><span>' + count + '件</span></div>',
           className: 'marker-cluster marker-cluster-' + size,
-          iconSize: L.point(40, 40),
+          iconSize: L.point(46, 46),
         });
       },
     });
@@ -548,6 +548,7 @@
         <div class="legend-item"><span class="legend-circle" style="background:#8bc34a"></span> &lt; 0.3</div>
         <h4 style="margin-top:8px">Spots</h4>
         <div class="legend-item"><span style="font-size:16px">&#11088;</span> 定番スポット</div>
+        <div class="legend-item"><span class="legend-circle" style="background:rgba(230,81,0,0.7);font-size:9px;color:#fff;text-align:center;line-height:14px">N</span> N件の穴場（広域時）</div>
       `;
       return div;
     };

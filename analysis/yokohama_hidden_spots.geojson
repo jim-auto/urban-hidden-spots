@@ -944,6 +944,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.631082,
+          35.458482
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Yokohama)",
+        "lat": 35.458482,
+        "lon": 139.631082,
+        "hidden_score": 0.892,
+        "poi_density": 0.822,
+        "pedestrian_space": 0.909,
+        "station_distance_score": 1.0,
+        "station_distance_m": 211.7,
+        "poi_count": 36,
+        "ped_count": 41,
+        "city": "Yokohama",
+        "nearest_station": "みなとみらい",
+        "poi_breakdown": {
+          "shop": 18,
+          "cafe": 7,
+          "restaurant": 11
+        },
+        "nearby_names": [
+          "セブン-イレブン",
+          "PRONTO",
+          "阿里城",
+          "スターバックス",
+          "ナチュラルローソン"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.617082,
           35.466482
         ]
@@ -973,42 +1009,6 @@
           "上島珈琲店",
           "カフェ・ベローチェ",
           "ビッグヴィジョン21 横浜店"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.631082,
-          35.456482
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Yokohama)",
-        "lat": 35.456482,
-        "lon": 139.631082,
-        "hidden_score": 0.885,
-        "poi_density": 0.856,
-        "pedestrian_space": 0.858,
-        "station_distance_score": 1.0,
-        "station_distance_m": 180.2,
-        "poi_count": 42,
-        "ped_count": 33,
-        "city": "Yokohama",
-        "nearest_station": "みなとみらい",
-        "poi_breakdown": {
-          "shop": 17,
-          "cafe": 4,
-          "restaurant": 21
-        },
-        "nearby_names": [
-          "成城石井",
-          "H&M",
-          "ドトールコーヒーショップ",
-          "ダイソー",
-          "まいにちマルシェ"
         ]
       }
     },

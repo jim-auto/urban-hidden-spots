@@ -1351,42 +1351,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.772086,
-          35.709986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Ueno))",
-        "lat": 35.709986,
-        "lon": 139.772086,
-        "hidden_score": 0.97,
-        "poi_density": 1.0,
-        "pedestrian_space": 0.926,
-        "station_distance_score": 1.0,
-        "station_distance_m": 166.3,
-        "poi_count": 86,
-        "ped_count": 44,
-        "city": "Tokyo (Ueno)",
-        "nearest_station": "京成上野",
-        "poi_breakdown": {
-          "shop": 31,
-          "restaurant": 49,
-          "cafe": 6
-        },
-        "nearby_names": [
-          "ファミリーマート",
-          "UENO BODY CLINIC",
-          "蔦屋書店",
-          "すしざんまい",
-          "サイゼリヤ"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.781086,
           35.703986
         ]
@@ -1814,6 +1778,42 @@
           "WOOD WORK",
           "ベジキッチン",
           "いなかむら"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776086,
+          35.708986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.708986,
+        "lon": 139.776086,
+        "hidden_score": 0.959,
+        "poi_density": 1.0,
+        "pedestrian_space": 0.897,
+        "station_distance_score": 1.0,
+        "station_distance_m": 261.6,
+        "poi_count": 197,
+        "ped_count": 39,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "御徒町",
+        "poi_breakdown": {
+          "shop": 135,
+          "restaurant": 51,
+          "cafe": 11
+        },
+        "nearby_names": [
+          "丸大食品",
+          "ロンドンスポーツ",
+          "石山商店",
+          "中田商店",
+          "シルクロード化粧品"
         ]
       }
     },
@@ -3169,42 +3169,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.773086,
-          35.708986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Ueno))",
-        "lat": 35.708986,
-        "lon": 139.773086,
-        "hidden_score": 0.94,
-        "poi_density": 1.0,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 0.7,
-        "station_distance_m": 113.9,
-        "poi_count": 296,
-        "ped_count": 87,
-        "city": "Tokyo (Ueno)",
-        "nearest_station": "上野御徒町",
-        "poi_breakdown": {
-          "shop": 158,
-          "restaurant": 119,
-          "cafe": 19
-        },
-        "nearby_names": [
-          "シルクロード化粧品",
-          "ソフトバンクショップ",
-          "ファミリーマート",
-          "みんなのてもみ",
-          "しゅうる"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.775086,
           35.711986
         ]
@@ -3890,42 +3854,6 @@
           "ふくはら酒店",
           "梶田時計店",
           "安藤鰹節店"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.774086,
-          35.711986
-        ]
-      },
-      "properties": {
-        "location_name": "Hidden Spot (Tokyo (Ueno))",
-        "lat": 35.711986,
-        "lon": 139.774086,
-        "hidden_score": 0.927,
-        "poi_density": 0.967,
-        "pedestrian_space": 1.0,
-        "station_distance_score": 0.7,
-        "station_distance_m": 127.6,
-        "poi_count": 69,
-        "ped_count": 179,
-        "city": "Tokyo (Ueno)",
-        "nearest_station": "京成上野",
-        "poi_breakdown": {
-          "restaurant": 35,
-          "shop": 23,
-          "cafe": 11
-        },
-        "nearby_names": [
-          "じゅらく",
-          "上野松竹デパート",
-          "過門香",
-          "浜屋食品",
-          "亜麺坊"
         ]
       }
     },
@@ -5455,6 +5383,79 @@
           "シバタ",
           "紅楽",
           "ブックオフ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.782086,
+          35.711986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.711986,
+        "lon": 139.782086,
+        "hidden_score": 0.892,
+        "poi_density": 0.881,
+        "pedestrian_space": 1.0,
+        "station_distance_score": 0.7,
+        "station_distance_m": 85.8,
+        "poi_count": 47,
+        "ped_count": 79,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "稲荷町",
+        "poi_breakdown": {
+          "restaurant": 11,
+          "shop": 32,
+          "cafe": 3,
+          "park": 1
+        },
+        "nearby_names": [
+          "Grand Chapeau",
+          "ファミリーマート",
+          "カフェ・ベローチェ",
+          "ソフトバンクショップ",
+          "タルクジ"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.791086,
+          35.711986
+        ]
+      },
+      "properties": {
+        "location_name": "Hidden Spot (Tokyo (Ueno))",
+        "lat": 35.711986,
+        "lon": 139.791086,
+        "hidden_score": 0.892,
+        "poi_density": 0.815,
+        "pedestrian_space": 0.915,
+        "station_distance_score": 1.0,
+        "station_distance_m": 217.5,
+        "poi_count": 35,
+        "ped_count": 42,
+        "city": "Tokyo (Ueno)",
+        "nearest_station": "浅草",
+        "poi_breakdown": {
+          "restaurant": 20,
+          "shop": 11,
+          "cafe": 4
+        },
+        "nearby_names": [
+          "新月",
+          "Sanpei Store",
+          "PANAS",
+          "ファミリーマート",
+          "好味園"
         ]
       }
     }
